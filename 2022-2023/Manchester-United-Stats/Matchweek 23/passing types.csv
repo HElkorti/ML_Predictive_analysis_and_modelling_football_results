@@ -1,0 +1,18 @@
+,Unnamed: 0_level_0,Unnamed: 1_level_0,Unnamed: 2_level_0,Unnamed: 3_level_0,Unnamed: 4_level_0,Unnamed: 5_level_0,Unnamed: 6_level_0,Pass Types,Pass Types,Pass Types,Pass Types,Pass Types,Pass Types,Pass Types,Pass Types,Corner Kicks,Corner Kicks,Corner Kicks,Outcomes,Outcomes,Outcomes
+,Player,#,Nation,Pos,Age,Min,Att,Live,Dead,FK,TB,Sw,Crs,TI,CK,In,Out,Str,Cmp,Off,Blocks
+0,Wout Weghorst,27.0,nl NED,"FW,AM",30-189,90,28,28,0,0,0,0,0,0,0,0,0,0,22,0,0
+1,Marcus Rashford,10.0,eng ENG,"LW,FW",25-104,89,20,19,1,0,0,0,0,1,0,0,0,0,15,0,1
+2,Anthony Elanga,36.0,se SWE,FW,20-291,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+3,Jadon Sancho,25.0,eng ENG,RW,22-324,60,23,22,1,0,0,1,0,1,0,0,0,0,19,0,0
+4,Alejandro Garnacho,49.0,ar ARG,LW,18-226,30,8,8,0,0,0,0,0,0,0,0,0,0,6,0,1
+5,Bruno Fernandes,8.0,pt POR,"AM,RW",28-157,90,35,31,3,0,0,1,2,1,1,0,1,0,25,1,4
+6,Fred,17.0,br BRA,DM,29-344,90,39,38,1,1,0,0,0,0,0,0,0,0,33,0,0
+7,Marcel Sabitzer,15.0,at AUT,DM,28-332,90,50,48,1,1,0,1,0,0,0,0,0,0,41,1,1
+8,Tyrell Malacia,12.0,nl NED,LB,23-179,60,30,22,8,1,0,0,0,7,0,0,0,0,26,0,1
+9,Lisandro Martínez,6.0,ar ARG,CB,25-025,30,35,33,2,2,0,1,0,0,0,0,0,0,30,0,1
+10,Luke Shaw,23.0,eng ENG,"CB,LB",27-215,90,67,52,15,4,0,0,3,3,2,1,1,0,51,0,1
+11,Harry Maguire,5.0,eng ENG,CB,29-344,90,128,126,1,1,0,2,1,0,0,0,0,0,107,1,1
+12,Diogo Dalot,20.0,pt POR,RB,23-331,72,69,62,7,2,0,0,2,5,0,0,0,0,54,0,1
+13,Aaron Wan-Bissaka,29.0,eng ENG,RB,25-078,18,9,8,1,0,0,0,0,1,0,0,0,0,7,0,1
+14,David de Gea,1.0,es ESP,GK,32-097,90,37,31,6,1,0,0,0,0,0,0,0,0,30,0,0
+15,15 Players,,,,,990,578,528,47,13,0,6,8,19,3,1,2,0,466,3,13

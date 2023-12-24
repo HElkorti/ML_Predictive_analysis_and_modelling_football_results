@@ -1,0 +1,17 @@
+,Unnamed: 0_level_0,Unnamed: 1_level_0,Unnamed: 2_level_0,Unnamed: 3_level_0,Unnamed: 4_level_0,Unnamed: 5_level_0,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Aerial Duels,Aerial Duels,Aerial Duels
+,Player,#,Nation,Pos,Age,Min,CrdY,CrdR,2CrdY,Fls,Fld,Off,Crs,Int,TklW,PKwon,PKcon,OG,Recov,Won,Lost,Won%
+0,Olivier Giroud,18.0,fr FRA,FW,34-151,64,0,0,0,2,2,1,0,0,1,0,0,0,2,0,1,0.0
+1,Christian Pulisic,10.0,us USA,AM,22-163,26,0,0,0,1,1,0,1,0,0,0,0,0,0,0,0,
+2,Mason Mount,19.0,eng ENG,AM,22-049,90,0,0,0,3,4,0,3,1,1,0,0,0,5,0,1,0.0
+3,Hakim Ziyech,22.0,ma MAR,"AM,FW",27-346,77,0,0,0,1,1,0,0,1,1,0,0,0,6,1,1,50.0
+4,Timo Werner,11.0,de GER,FW,24-359,13,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0.0
+5,Mateo Kovačić,17.0,hr CRO,CM,26-298,90,0,0,0,1,1,0,0,0,2,0,0,0,10,0,0,
+6,N'Golo Kanté,7.0,fr FRA,CM,29-336,90,0,0,0,0,0,0,0,4,4,0,0,0,6,0,0,
+7,Ben Chilwell,21.0,eng ENG,WB,24-069,90,1,0,0,1,2,0,3,1,0,0,0,0,4,2,0,100.0
+8,Callum Hudson-Odoi,20.0,eng ENG,WB,20-113,45,0,0,0,0,0,0,2,1,1,0,0,0,2,0,0,
+9,Reece James,24.0,eng ENG,WB,21-082,45,0,0,0,0,1,0,6,0,2,0,0,0,1,0,1,0.0
+10,Antonio Rüdiger,2.0,de GER,CB,27-362,90,0,0,0,1,0,0,1,1,0,0,0,0,2,1,0,100.0
+11,Andreas Christensen,4.0,dk DEN,CB,24-324,90,0,0,0,0,0,0,0,3,0,0,0,0,9,0,0,
+12,César Azpilicueta,28.0,es ESP,CB,31-184,90,0,0,0,1,0,0,0,0,1,0,0,0,5,2,1,66.7
+13,Edouard Mendy,16.0,sn SEN,GK,28-364,90,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,
+14,14 Players,,,,,990,1,0,0,11,12,1,16,12,13,0,0,0,53,6,6,50.0

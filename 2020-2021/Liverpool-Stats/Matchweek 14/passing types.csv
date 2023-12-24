@@ -1,0 +1,17 @@
+,Unnamed: 0_level_0,Unnamed: 1_level_0,Unnamed: 2_level_0,Unnamed: 3_level_0,Unnamed: 4_level_0,Unnamed: 5_level_0,Unnamed: 6_level_0,Pass Types,Pass Types,Pass Types,Pass Types,Pass Types,Pass Types,Pass Types,Pass Types,Corner Kicks,Corner Kicks,Corner Kicks,Outcomes,Outcomes,Outcomes
+,Player,#,Nation,Pos,Age,Min,Att,Live,Dead,FK,TB,Sw,Crs,TI,CK,In,Out,Str,Cmp,Off,Blocks
+0,Roberto Firmino,9.0,br BRA,FW,29-078,74,30,29,1,0,0,0,1,1,0,0,0,0,18,0,1
+1,Alex Oxlade-Chamberlain,15.0,eng ENG,FW,27-126,16,10,10,0,0,0,1,0,0,0,0,0,0,10,0,0
+2,Takumi Minamino,18.0,jp JPN,LW,25-338,90,22,22,0,0,0,0,1,0,0,0,0,0,17,0,2
+3,Sadio Mané,10.0,sn SEN,RW,28-253,56,13,13,0,0,0,1,1,0,0,0,0,0,9,0,0
+4,Mohamed Salah,11.0,eg EGY,RW,28-187,34,29,29,0,0,0,0,0,0,0,0,0,0,29,0,0
+5,Georginio Wijnaldum,5.0,nl NED,LM,30-038,68,50,49,1,1,0,0,0,0,0,0,0,0,49,0,0
+6,Curtis Jones,17.0,eng ENG,LM,19-324,22,28,28,0,0,0,0,0,0,0,0,0,0,27,0,0
+7,Jordan Henderson,14.0,eng ENG,CM,30-185,90,121,120,1,0,1,1,1,0,0,0,0,0,104,0,0
+8,Naby Keïta,8.0,gn GUI,RM,25-313,90,73,72,1,1,1,0,0,0,0,0,0,0,63,0,1
+9,Andrew Robertson,26.0,sct SCO,LB,26-283,90,104,92,12,1,0,1,5,9,2,0,2,0,82,0,0
+10,Fabinho,3.0,br BRA,CB,27-057,90,90,89,1,1,0,1,0,0,0,0,0,0,86,0,0
+11,Joël Matip,32.0,cm CMR,CB,29-133,90,75,74,1,1,0,0,0,0,0,0,0,0,69,0,0
+12,Trent Alexander-Arnold,66.0,eng ENG,RB,22-073,90,100,91,9,1,0,3,2,6,2,0,1,0,83,0,3
+13,Alisson,1.0,br BRA,GK,28-078,90,30,22,8,5,0,0,0,0,0,0,0,0,26,0,0
+14,14 Players,,,,,990,775,740,35,11,2,8,11,16,4,0,3,0,672,0,7

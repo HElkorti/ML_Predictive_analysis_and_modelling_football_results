@@ -1,0 +1,17 @@
+,Unnamed: 0_level_0,Unnamed: 1_level_0,Unnamed: 2_level_0,Unnamed: 3_level_0,Unnamed: 4_level_0,Unnamed: 5_level_0,Unnamed: 6_level_0,Pass Types,Pass Types,Pass Types,Pass Types,Pass Types,Pass Types,Pass Types,Pass Types,Corner Kicks,Corner Kicks,Corner Kicks,Outcomes,Outcomes,Outcomes
+,Player,#,Nation,Pos,Age,Min,Att,Live,Dead,FK,TB,Sw,Crs,TI,CK,In,Out,Str,Cmp,Off,Blocks
+0,Tammy Abraham,9.0,eng ENG,FW,22-360,90,24,20,4,0,0,0,0,0,0,0,0,0,16,0,1
+1,Timo Werner,11.0,de GER,"LW,RW",24-204,90,42,42,0,0,0,0,2,0,0,0,0,0,36,0,2
+2,Mason Mount,19.0,eng ENG,"RW,DM,CM",21-260,90,63,56,7,2,0,0,8,1,4,2,2,0,51,0,3
+3,Kai Havertz,29.0,de GER,"AM,CM",21-107,90,56,56,0,0,0,0,1,0,0,0,0,0,51,0,3
+4,Mateo Kovačić,17.0,hr CRO,DM,26-143,45,58,58,0,0,0,0,0,0,0,0,0,0,54,0,0
+5,Callum Hudson-Odoi,20.0,eng ENG,"RW,LW",19-324,45,42,41,1,0,0,1,7,1,0,0,0,0,29,0,2
+6,N'Golo Kanté,7.0,fr FRA,DM,29-181,90,103,98,5,3,0,0,0,2,0,0,0,0,95,0,1
+7,Marcos Alonso,3.0,es ESP,LB,29-273,45,32,30,2,0,0,0,0,2,0,0,0,0,27,0,0
+8,César Azpilicueta,28.0,es ESP,"LB,CB",31-029,45,65,60,5,1,0,0,0,4,0,0,0,0,56,0,0
+9,Thiago Silva,6.0,br BRA,CB,36-004,72,87,86,1,1,0,0,0,0,0,0,0,0,80,0,0
+10,Olivier Giroud,18.0,fr FRA,FW,33-362,18,8,8,0,0,0,0,0,0,0,0,0,0,3,0,1
+11,Andreas Christensen,4.0,dk DEN,CB,24-169,90,117,117,0,0,0,0,0,0,0,0,0,0,105,0,0
+12,Reece James,24.0,eng ENG,"RB,CB",20-293,90,131,118,13,0,0,1,19,8,5,2,3,0,111,0,0
+13,Willy Caballero,13.0,ar ARG,GK,38-364,90,26,19,7,1,0,0,0,0,0,0,0,0,24,0,0
+14,14 Players,,,,,990,854,809,45,8,0,2,37,18,9,4,5,0,738,0,13

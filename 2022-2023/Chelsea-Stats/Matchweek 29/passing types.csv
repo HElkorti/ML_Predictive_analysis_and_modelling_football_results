@@ -1,0 +1,18 @@
+,Unnamed: 0_level_0,Unnamed: 1_level_0,Unnamed: 2_level_0,Unnamed: 3_level_0,Unnamed: 4_level_0,Unnamed: 5_level_0,Unnamed: 6_level_0,Pass Types,Pass Types,Pass Types,Pass Types,Pass Types,Pass Types,Pass Types,Pass Types,Corner Kicks,Corner Kicks,Corner Kicks,Outcomes,Outcomes,Outcomes
+,Player,#,Nation,Pos,Age,Min,Att,Live,Dead,FK,TB,Sw,Crs,TI,CK,In,Out,Str,Cmp,Off,Blocks
+0,João Félix,11.0,pt POR,"FW,AM",23-142,90,35,32,3,0,0,2,0,0,0,0,0,0,30,0,1
+1,Mykhailo Mudryk,15.0,ua UKR,AM,22-086,56,13,13,0,0,0,0,0,0,0,0,0,0,12,0,0
+2,Noni Madueke,31.0,eng ENG,WB,21-022,34,18,15,3,0,0,0,2,3,0,0,0,0,16,0,0
+3,Kai Havertz,29.0,de GER,"AM,FW",23-294,90,44,44,0,0,0,0,0,0,0,0,0,0,37,0,1
+4,Mateo Kovačić,8.0,hr CRO,CM,28-330,79,72,69,2,2,2,0,0,0,0,0,0,0,68,1,0
+5,Conor Gallagher,23.0,eng ENG,CM,23-054,11,3,2,1,1,0,0,0,0,0,0,0,0,2,0,0
+6,Enzo Fernández,5.0,ar ARG,CM,22-074,90,76,76,0,0,0,1,2,0,0,0,0,0,66,0,0
+7,Ben Chilwell,21.0,eng ENG,"WB,CB",26-101,90,59,41,18,3,0,0,16,2,13,3,9,0,41,0,1
+8,Ruben Loftus-Cheek,12.0,eng ENG,WB,27-068,56,54,51,3,0,0,0,7,3,0,0,0,0,44,0,2
+9,N'Golo Kanté,7.0,fr FRA,AM,32-003,34,25,24,0,0,0,0,3,0,0,0,0,0,15,1,1
+10,Marc Cucurella,32.0,es ESP,CB,24-253,79,77,64,13,4,0,1,1,9,0,0,0,0,72,0,0
+11,Christian Pulisic,10.0,us USA,WB,24-195,11,6,4,2,0,0,0,1,2,0,0,0,0,4,0,0
+12,Kalidou Koulibaly,26.0,sn SEN,CB,31-285,90,69,68,1,1,0,1,0,0,0,0,0,0,64,0,0
+13,Reece James,24.0,eng ENG,CB,23-114,90,99,94,5,4,0,1,7,1,0,0,0,0,88,0,1
+14,Kepa Arrizabalaga,1.0,es ESP,GK,28-180,90,16,12,4,1,0,0,0,0,0,0,0,0,14,0,1
+15,15 Players,,,,,990,666,609,55,16,2,6,39,20,13,3,9,0,573,2,8

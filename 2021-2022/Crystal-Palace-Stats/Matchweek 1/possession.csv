@@ -1,0 +1,17 @@
+,Unnamed: 0_level_0,Unnamed: 1_level_0,Unnamed: 2_level_0,Unnamed: 3_level_0,Unnamed: 4_level_0,Unnamed: 5_level_0,Touches,Touches,Touches,Touches,Touches,Touches,Touches,Take-Ons,Take-Ons,Take-Ons,Take-Ons,Take-Ons,Carries,Carries,Carries,Carries,Carries,Carries,Carries,Carries,Receiving,Receiving
+,Player,#,Nation,Pos,Age,Min,Touches,Def Pen,Def 3rd,Mid 3rd,Att 3rd,Att Pen,Live,Att,Succ,Succ%,Tkld,Tkld%,Carries,TotDist,PrgDist,PrgC,1/3,CPA,Mis,Dis,Rec,PrgR
+0,Jean-Philippe Mateta,14.0,fr FRA,FW,24-047,56,15,1,4,11,1,0,15,2,2,100.0,0,0.0,7,34,1,0,0,0,1,0,10,0
+1,Christian Benteke,20.0,be BEL,FW,30-254,34,4,0,0,2,2,1,4,0,0,,0,,3,14,0,0,0,0,0,0,5,2
+2,Wilfried Zaha,11.0,ci CIV,FW,28-277,90,29,1,4,13,12,3,29,1,1,100.0,0,0.0,26,142,60,2,0,2,3,3,24,3
+3,Jeffrey Schlupp,15.0,gh GHA,LM,28-234,56,24,1,9,11,6,1,24,2,2,100.0,0,0.0,13,74,10,0,1,0,4,3,16,1
+4,Joachim Andersen,16.0,dk DEN,CB,25-075,34,40,8,18,19,3,1,40,1,1,100.0,0,0.0,29,176,107,0,0,0,0,0,32,0
+5,James McArthur,18.0,sct SCO,CM,33-311,90,55,4,24,19,12,2,55,4,4,100.0,0,0.0,36,146,25,0,1,0,2,1,41,2
+6,Jaïro Riedewald,44.0,nl NED,CM,24-339,76,33,1,11,18,4,0,33,0,0,,0,,20,75,38,0,0,0,1,0,24,1
+7,Jesuran Rak Sakyi,49.0,eng ENG,CM,18-313,14,12,0,0,7,5,0,12,0,0,,0,,8,39,6,0,0,0,0,1,9,0
+8,Jordan Ayew,9.0,gh GHA,"RM,CM",29-337,90,49,1,17,23,10,2,49,6,2,33.3,4,66.7,27,219,81,3,4,0,1,5,27,2
+9,Tyrick Mitchell,3.0,eng ENG,"LB,WB",21-347,90,39,2,17,12,10,0,39,1,0,0.0,1,100.0,23,84,20,0,0,0,2,1,30,4
+10,Marc Guéhi,6.0,eng ENG,CB,21-032,90,80,13,42,36,5,1,80,0,0,,0,,60,411,260,3,2,0,0,0,66,1
+11,Cheikhou Kouyaté,8.0,sn SEN,CB,31-236,90,61,16,47,14,0,0,61,0,0,,0,,39,162,90,0,0,0,0,0,41,0
+12,Joel Ward,2.0,eng ENG,"RB,WB",31-289,90,61,10,34,19,8,0,61,3,1,33.3,2,66.7,31,160,52,0,1,0,3,0,36,3
+13,Vicente Guaita,13.0,es ESP,GK,34-216,90,45,42,45,0,0,0,45,0,0,,0,,29,144,86,0,0,0,0,0,24,0
+14,14 Players,,,,,990,547,100,272,204,78,11,547,20,13,65.0,7,35.0,351,1880,836,8,9,2,17,14,385,19

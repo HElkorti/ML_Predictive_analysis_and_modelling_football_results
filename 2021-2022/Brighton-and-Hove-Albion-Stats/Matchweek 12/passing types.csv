@@ -1,0 +1,17 @@
+,Unnamed: 0_level_0,Unnamed: 1_level_0,Unnamed: 2_level_0,Unnamed: 3_level_0,Unnamed: 4_level_0,Unnamed: 5_level_0,Unnamed: 6_level_0,Pass Types,Pass Types,Pass Types,Pass Types,Pass Types,Pass Types,Pass Types,Pass Types,Corner Kicks,Corner Kicks,Corner Kicks,Outcomes,Outcomes,Outcomes
+,Player,#,Nation,Pos,Age,Min,Att,Live,Dead,FK,TB,Sw,Crs,TI,CK,In,Out,Str,Cmp,Off,Blocks
+0,Adam Lallana,14.0,eng ENG,"FW,AM,CM",33-194,90,23,23,0,0,0,0,0,0,0,0,0,0,22,0,0
+1,Leandro Trossard,11.0,be BEL,FW,26-351,90,24,23,1,0,0,2,0,0,0,0,0,0,16,0,2
+2,Jakub Moder,15.0,pl POL,"CM,WB",22-227,90,36,35,1,1,0,0,3,0,0,0,0,0,27,0,3
+3,Yves Bissouma,8.0,ml MLI,CM,25-082,90,54,53,1,1,0,0,0,0,0,0,0,0,50,0,0
+4,Pascal Groß,13.0,de GER,"CM,WB",30-158,87,58,46,12,2,0,1,11,4,6,1,5,0,42,0,1
+5,Alexis Mac Allister,10.0,ar ARG,"AM,CM",22-331,3,4,4,0,0,0,0,0,0,0,0,0,0,4,0,0
+6,Marc Cucurella,3.0,es ESP,WB,23-121,63,51,44,7,0,0,0,3,7,0,0,0,0,43,0,1
+7,Solly March,20.0,eng ENG,WB,27-123,27,25,22,3,1,0,2,0,2,0,0,0,0,22,0,1
+8,Tariq Lamptey,2.0,gh GHA,WB,21-051,78,50,46,4,1,0,0,5,3,0,0,0,0,44,0,2
+9,Neal Maupay,9.0,fr FRA,"FW,WB",25-098,12,2,0,2,0,0,0,0,0,0,0,0,0,2,0,0
+10,Lewis Dunk,5.0,eng ENG,CB,29-364,90,92,90,2,1,0,4,0,1,0,0,0,0,89,0,0
+11,Shane Duffy,24.0,ie IRL,CB,29-323,90,88,88,0,0,0,0,0,0,0,0,0,0,84,0,0
+12,Adam Webster,4.0,eng ENG,CB,26-320,90,109,105,4,1,0,2,2,3,0,0,0,0,88,0,3
+13,Jason Steele,23.0,eng ENG,GK,31-094,90,38,32,6,0,0,0,0,0,0,0,0,0,34,0,0
+14,14 Players,,,,,990,654,611,43,8,0,11,24,20,6,1,5,0,567,0,13

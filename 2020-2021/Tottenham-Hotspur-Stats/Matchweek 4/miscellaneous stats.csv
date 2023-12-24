@@ -1,0 +1,17 @@
+,Unnamed: 0_level_0,Unnamed: 1_level_0,Unnamed: 2_level_0,Unnamed: 3_level_0,Unnamed: 4_level_0,Unnamed: 5_level_0,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Aerial Duels,Aerial Duels,Aerial Duels
+,Player,#,Nation,Pos,Age,Min,CrdY,CrdR,2CrdY,Fls,Fld,Off,Crs,Int,TklW,PKwon,PKcon,OG,Recov,Won,Lost,Won%
+0,Harry Kane,10.0,eng ENG,FW,27-068,90,0,0,0,1,2,0,2,1,0,0,0,0,1,0,2,0.0
+1,Son Heung-min,7.0,kr KOR,LW,28-088,72,0,0,0,0,1,0,2,0,0,0,0,0,3,1,1,50.0
+2,Ben Davies,33.0,wls WAL,LB,27-163,18,0,0,0,0,1,0,0,0,0,1,0,0,2,0,0,
+3,Érik Lamela,11.0,ar ARG,RW,28-214,45,1,0,0,2,0,0,1,1,0,0,0,0,2,0,1,0.0
+4,Lucas Moura,27.0,br BRA,RW,28-052,45,0,0,0,3,3,0,0,2,0,0,0,0,3,0,0,
+5,Tanguy Ndombele,28.0,fr FRA,LM,23-281,68,0,0,0,1,0,0,0,2,2,0,0,0,2,0,0,
+6,Dele Alli,20.0,eng ENG,LM,24-176,22,0,0,0,0,1,0,0,0,1,0,0,0,4,0,0,
+7,Pierre Højbjerg,5.0,dk DEN,CM,25-060,90,0,0,0,2,2,0,0,2,2,0,0,0,6,0,0,
+8,Moussa Sissoko,17.0,fr FRA,RM,31-049,90,0,0,0,1,1,0,0,2,1,0,0,0,6,0,1,0.0
+9,Sergio Reguilón,3.0,es ESP,"LB,LW",23-293,90,0,0,0,0,0,0,2,0,1,0,0,0,3,0,0,
+10,Eric Dier,15.0,eng ENG,CB,26-263,90,0,0,0,0,0,0,0,0,0,0,0,0,4,0,3,0.0
+11,Davinson Sánchez,6.0,co COL,CB,24-114,90,0,0,0,1,0,0,0,0,1,0,1,0,3,2,0,100.0
+12,Serge Aurier,24.0,ci CIV,RB,27-285,90,0,0,0,0,2,0,1,2,3,0,0,0,2,0,2,0.0
+13,Hugo Lloris,1.0,fr FRA,GK,33-283,90,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,
+14,14 Players,,,,,990,1,0,0,11,13,0,8,12,11,1,1,0,42,3,10,23.1

@@ -1,0 +1,17 @@
+,Unnamed: 0_level_0,Unnamed: 1_level_0,Unnamed: 2_level_0,Unnamed: 3_level_0,Unnamed: 4_level_0,Unnamed: 5_level_0,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Expected,Expected,Expected,SCA,SCA,Passes,Passes,Passes,Passes,Carries,Carries,Take-Ons,Take-Ons
+,Player,#,Nation,Pos,Age,Min,Gls,Ast,PK,PKatt,Sh,SoT,CrdY,CrdR,Touches,Tkl,Int,Blocks,xG,npxG,xAG,SCA,GCA,Cmp,Att,Cmp%,PrgP,Carries,PrgC,Att,Succ
+0,Jamie Vardy,9.0,eng ENG,FW,34-278,90,1,0,0,0,3,2,0,0,18,0,0,1,0.2,0.2,0.3,6,1,8,12,66.7,2,12,2,1,0
+1,Kelechi Iheanacho,14.0,ng NGA,FW,25-013,76,0,1,0,0,3,1,0,0,43,3,1,2,0.2,0.2,0.0,3,2,14,18,77.8,4,24,6,6,3
+2,Patson Daka,29.0,zm ZAM,FW,23-007,14,1,0,0,0,3,3,0,0,11,1,1,0,0.6,0.6,0.2,2,1,2,4,50.0,0,8,0,0,0
+3,James Maddison,10.0,eng ENG,AM,24-327,72,0,0,0,0,3,1,0,0,46,1,0,0,0.1,0.1,0.0,3,0,28,33,84.8,4,34,1,2,0
+4,Ayoze Pérez,17.0,es ESP,AM,28-079,18,0,2,0,0,1,1,0,0,14,0,0,0,0.2,0.2,0.9,3,1,8,9,88.9,1,6,1,0,0
+5,Boubakary Soumaré,42.0,fr FRA,CM,22-231,90,0,0,0,0,0,0,0,0,52,0,3,1,0.0,0.0,0.0,0,0,41,46,89.1,3,38,0,1,0
+6,Youri Tielemans,8.0,be BEL,CM,24-162,90,1,0,0,0,4,2,0,0,89,1,1,3,0.2,0.2,0.3,6,0,67,80,83.8,6,55,3,4,3
+7,Timothy Castagne,27.0,be BEL,WB,25-315,90,0,0,0,0,1,0,0,0,63,1,2,0,0.1,0.1,0.0,3,1,45,55,81.8,5,43,1,2,0
+8,Ricardo Pereira,21.0,pt POR,WB,28-010,90,0,0,0,0,2,0,0,0,61,3,1,2,0.2,0.2,0.0,3,0,31,44,70.5,1,29,1,1,0
+9,Çağlar Söyüncü,4.0,tr TUR,CB,25-146,90,1,0,0,0,2,1,0,0,62,1,0,1,0.7,0.7,0.0,0,0,51,57,89.5,4,40,0,0,0
+10,Jonny Evans,6.0,nir NIR,CB,33-286,87,0,0,0,0,0,0,0,0,60,1,0,2,0.0,0.0,0.0,0,0,51,57,89.5,5,42,0,0,0
+11,Jannik Vestergaard,23.0,dk DEN,CB,29-074,3,0,0,0,0,0,0,0,0,5,0,0,0,0.0,0.0,0.0,0,0,5,5,100.0,0,5,0,0,0
+12,Daniel Amartey,18.0,gh GHA,CB,26-299,90,0,0,0,0,0,0,0,0,61,0,0,0,0.0,0.0,0.0,0,0,51,54,94.4,1,48,1,0,0
+13,Kasper Schmeichel,1.0,dk DEN,GK,34-345,90,0,0,0,0,0,0,0,0,55,0,0,0,0.0,0.0,0.0,0,0,40,54,74.1,0,32,0,0,0
+14,14 Players,,,,,990,4,3,0,0,22,11,0,0,640,12,9,12,2.6,2.6,1.7,29,6,442,528,83.7,36,416,16,17,6

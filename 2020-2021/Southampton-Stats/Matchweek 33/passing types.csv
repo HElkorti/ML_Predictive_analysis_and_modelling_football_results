@@ -1,0 +1,17 @@
+,Unnamed: 0_level_0,Unnamed: 1_level_0,Unnamed: 2_level_0,Unnamed: 3_level_0,Unnamed: 4_level_0,Unnamed: 5_level_0,Unnamed: 6_level_0,Pass Types,Pass Types,Pass Types,Pass Types,Pass Types,Pass Types,Pass Types,Pass Types,Corner Kicks,Corner Kicks,Corner Kicks,Outcomes,Outcomes,Outcomes
+,Player,#,Nation,Pos,Age,Min,Att,Live,Dead,FK,TB,Sw,Crs,TI,CK,In,Out,Str,Cmp,Off,Blocks
+0,Che Adams,10.0,sct SCO,FW,24-240,90,20,18,1,0,0,0,0,1,0,0,0,0,13,1,0
+1,Nathan Redmond,11.0,eng ENG,"FW,LM",27-004,90,19,18,1,0,0,0,0,0,0,0,0,0,14,0,1
+2,Moussa Djenepo,12.0,ml MLI,LM,22-268,45,15,15,0,0,0,0,0,0,0,0,0,0,9,0,0
+3,Nathan Tella,23.0,ng NGA,"FW,RM",21-248,45,8,8,0,0,0,0,0,0,0,0,0,0,6,0,1
+4,Jack Stephens,5.0,eng ENG,CM,27-042,62,21,21,0,0,0,0,0,0,0,0,0,0,18,0,1
+5,Ibrahima Diallo,27.0,fr FRA,CM,22-002,28,31,31,0,0,0,0,0,0,0,0,0,0,30,0,0
+6,James Ward-Prowse,8.0,eng ENG,CM,26-129,90,77,69,7,2,0,0,5,0,5,0,5,0,67,1,0
+7,Stuart Armstrong,17.0,sct SCO,RM,28-345,71,31,24,6,0,0,0,1,1,0,0,0,0,24,1,2
+8,Caleb Watts,65.0,au AUS,LM,19-053,19,7,7,0,0,0,0,0,0,0,0,0,0,5,0,0
+9,Mohammed Salisu,22.0,gh GHA,LB,21-327,90,51,39,12,2,0,0,1,10,0,0,0,0,38,0,2
+10,Jannik Vestergaard,4.0,dk DEN,CB,28-219,90,66,66,0,0,0,0,0,0,0,0,0,0,59,0,0
+11,Jan Bednarek,35.0,pl POL,CB,24-332,90,73,73,0,0,0,0,0,0,0,0,0,0,64,0,0
+12,Ryan Bertrand,3.0,eng ENG,RB,31-217,90,47,41,6,0,0,0,0,6,0,0,0,0,39,0,1
+13,Alex McCarthy,1.0,eng ENG,GK,31-097,90,47,40,6,0,0,1,0,0,0,0,0,0,35,1,0
+14,14 Players,,,,,990,513,470,39,4,0,1,7,18,5,0,5,0,421,4,8

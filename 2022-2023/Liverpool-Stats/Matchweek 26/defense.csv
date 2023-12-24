@@ -1,0 +1,19 @@
+,Unnamed: 0_level_0,Unnamed: 1_level_0,Unnamed: 2_level_0,Unnamed: 3_level_0,Unnamed: 4_level_0,Unnamed: 5_level_0,Tackles,Tackles,Tackles,Tackles,Tackles,Challenges,Challenges,Challenges,Challenges,Blocks,Blocks,Blocks,Unnamed: 18_level_0,Unnamed: 19_level_0,Unnamed: 20_level_0,Unnamed: 21_level_0
+,Player,#,Nation,Pos,Age,Min,Tkl,TklW,Def 3rd,Mid 3rd,Att 3rd,Tkl,Att,Tkl%,Lost,Blocks,Sh,Pass,Int,Tkl+Int,Clr,Err
+0,Cody Gakpo,18.0,nl NED,FW,23-302,78,1,1,0,1,0,1,4,25.0,3,1,0,1,0,1,0,0
+1,Roberto Firmino,9.0,br BRA,FW,31-154,12,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,0
+2,Darwin Núñez,27.0,uy URU,LW,23-254,78,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,0
+3,Diogo Jota,20.0,pt POR,LW,26-091,12,0,0,0,0,0,0,1,0.0,1,0,0,0,0,0,0,0
+4,Mohamed Salah,11.0,eg EGY,RW,30-263,90,1,0,1,0,0,1,2,50.0,1,3,0,3,0,1,0,0
+5,Jordan Henderson,14.0,eng ENG,LM,32-261,77,2,2,1,1,0,1,1,100.0,0,2,0,2,1,3,1,0
+6,Stefan Bajcetic,43.0,es ESP,LM,18-134,13,0,0,0,0,0,0,0,,0,0,0,0,2,2,0,0
+7,Fabinho,3.0,br BRA,CM,29-133,78,0,0,0,0,0,0,0,,0,1,0,1,3,3,0,0
+8,James Milner,7.0,eng ENG,CM,37-060,12,0,0,0,0,0,0,0,,0,0,0,0,0,0,1,0
+9,Harvey Elliott,19.0,eng ENG,RM,19-335,84,4,3,0,4,0,1,2,50.0,1,2,0,2,1,5,1,0
+10,Curtis Jones,17.0,eng ENG,RM,22-034,6,0,0,0,0,0,0,0,,0,0,0,0,0,0,1,0
+11,Andrew Robertson,26.0,sct SCO,LB,28-359,90,4,3,1,2,1,4,5,80.0,1,1,0,1,1,5,1,0
+12,Virgil van Dijk,4.0,nl NED,CB,31-240,90,1,1,1,0,0,1,2,50.0,1,0,0,0,0,1,4,0
+13,Ibrahima Konaté,5.0,fr FRA,CB,23-284,90,0,0,0,0,0,0,1,0.0,1,1,1,0,0,0,3,0
+14,Trent Alexander-Arnold,66.0,eng ENG,RB,24-149,90,4,4,3,1,0,4,4,100.0,0,0,0,0,1,5,2,0
+15,Alisson,1.0,br BRA,GK,30-154,90,0,0,0,0,0,0,1,0.0,1,1,0,1,0,0,0,0
+16,16 Players,,,,,990,17,14,7,9,1,13,23,56.5,10,12,1,11,9,26,14,0

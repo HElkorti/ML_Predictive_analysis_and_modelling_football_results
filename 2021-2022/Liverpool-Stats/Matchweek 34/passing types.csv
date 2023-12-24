@@ -1,0 +1,17 @@
+,Unnamed: 0_level_0,Unnamed: 1_level_0,Unnamed: 2_level_0,Unnamed: 3_level_0,Unnamed: 4_level_0,Unnamed: 5_level_0,Unnamed: 6_level_0,Pass Types,Pass Types,Pass Types,Pass Types,Pass Types,Pass Types,Pass Types,Pass Types,Corner Kicks,Corner Kicks,Corner Kicks,Outcomes,Outcomes,Outcomes
+,Player,#,Nation,Pos,Age,Min,Att,Live,Dead,FK,TB,Sw,Crs,TI,CK,In,Out,Str,Cmp,Off,Blocks
+0,Sadio Mané,10.0,sn SEN,FW,30-014,59,34,34,0,0,0,0,1,0,0,0,0,0,23,0,3
+1,Luis Díaz,23.0,co COL,LW,25-101,31,14,14,0,0,0,0,1,0,0,0,0,0,14,0,0
+2,Diogo Jota,20.0,pt POR,"LW,AM",25-141,81,33,33,0,0,0,0,0,0,0,0,0,0,26,0,0
+3,Jordan Henderson,14.0,eng ENG,RM,31-311,9,8,8,0,0,0,0,2,0,0,0,0,0,5,0,0
+4,Mohamed Salah,11.0,eg EGY,RW,29-313,90,56,54,2,0,0,0,5,2,0,0,0,0,42,0,5
+5,Thiago Alcántara,6.0,es ESP,"LM,DM",31-013,90,123,122,0,0,0,0,1,0,0,0,0,0,119,1,0
+6,Fabinho,3.0,br BRA,"CM,DM",28-183,90,88,87,1,1,0,0,0,0,0,0,0,0,79,0,0
+7,Naby Keïta,8.0,gn GUI,RM,27-073,59,45,42,3,0,0,0,0,2,0,0,0,0,38,0,2
+8,Divock Origi,27.0,be BEL,FW,27-006,31,10,10,0,0,0,1,0,0,0,0,0,0,9,0,0
+9,Andrew Robertson,26.0,sct SCO,LB,28-044,90,104,90,14,1,0,1,12,8,5,0,5,0,87,0,2
+10,Virgil van Dijk,4.0,nl NED,CB,30-290,90,96,94,2,2,0,0,0,0,0,0,0,0,92,0,0
+11,Joël Matip,32.0,cm CMR,CB,30-259,90,102,101,1,1,0,0,1,0,0,0,0,0,90,0,0
+12,Trent Alexander-Arnold,66.0,eng ENG,RB,23-199,90,117,91,26,1,0,1,13,17,8,2,6,0,88,0,1
+13,Alisson,1.0,br BRA,GK,29-204,90,29,18,11,2,0,0,0,0,0,0,0,0,27,0,0
+14,14 Players,,,,,990,859,798,60,8,0,3,36,29,13,2,11,0,739,1,13

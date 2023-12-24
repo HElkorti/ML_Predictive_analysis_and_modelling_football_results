@@ -1,0 +1,17 @@
+,Unnamed: 0_level_0,Unnamed: 1_level_0,Unnamed: 2_level_0,Unnamed: 3_level_0,Unnamed: 4_level_0,Unnamed: 5_level_0,Unnamed: 6_level_0,Pass Types,Pass Types,Pass Types,Pass Types,Pass Types,Pass Types,Pass Types,Pass Types,Corner Kicks,Corner Kicks,Corner Kicks,Outcomes,Outcomes,Outcomes
+,Player,#,Nation,Pos,Age,Min,Att,Live,Dead,FK,TB,Sw,Crs,TI,CK,In,Out,Str,Cmp,Off,Blocks
+0,Pedro Neto,7.0,pt POR,FW,22-074,21,11,11,0,0,0,0,1,0,0,0,0,0,8,0,0
+1,Hwang Hee-chan,26.0,kr KOR,FW,26-116,69,19,19,0,0,2,0,1,0,0,0,0,0,9,0,2
+2,Raúl Jiménez,9.0,mx MEX,FW,31-017,90,24,22,2,0,0,1,0,0,0,0,0,0,19,0,2
+3,João Moutinho,28.0,pt POR,CM,35-256,90,46,41,5,0,0,1,4,0,3,0,3,0,38,0,2
+4,Rúben Neves,8.0,pt POR,CM,25-070,90,57,56,1,1,2,1,0,0,0,0,0,0,44,0,0
+5,Leander Dendoncker,32.0,be BEL,CM,27-037,89,28,27,1,0,0,1,0,1,0,0,0,0,26,0,0
+6,Francisco Trincão,11.0,pt POR,CM,22-144,1,2,2,0,0,0,0,0,0,0,0,0,0,2,0,0
+7,Rayan Aït Nouri,3.0,dz ALG,WB,20-350,90,51,41,10,1,0,0,3,9,0,0,0,0,38,0,2
+8,Jonny Castro,19.0,es ESP,WB,28-080,90,40,34,6,1,1,1,0,5,0,0,0,0,35,0,2
+9,Toti Gomes,24.0,pt POR,CB,23-126,90,37,36,1,1,0,0,0,0,0,0,0,0,27,0,0
+10,Conor Coady,16.0,eng ENG,CB,29-086,90,53,51,2,2,0,0,0,0,0,0,0,0,46,0,0
+11,Willy Boly,15.0,ci CIV,CB,31-108,90,35,34,0,0,0,0,0,0,0,0,0,0,33,1,0
+12,José Sá,1.0,pt POR,GK,29-125,45,15,9,6,1,0,0,0,0,0,0,0,0,12,0,0
+13,John Ruddy,21.0,eng ENG,GK,35-210,45,12,6,6,2,0,0,0,0,0,0,0,0,6,0,0
+14,14 Players,,,,,990,430,389,40,9,5,5,9,15,3,0,3,0,343,1,10

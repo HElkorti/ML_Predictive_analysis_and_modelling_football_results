@@ -1,0 +1,17 @@
+,Unnamed: 0_level_0,Unnamed: 1_level_0,Unnamed: 2_level_0,Unnamed: 3_level_0,Unnamed: 4_level_0,Unnamed: 5_level_0,Tackles,Tackles,Tackles,Tackles,Tackles,Challenges,Challenges,Challenges,Challenges,Blocks,Blocks,Blocks,Unnamed: 18_level_0,Unnamed: 19_level_0,Unnamed: 20_level_0,Unnamed: 21_level_0
+,Player,#,Nation,Pos,Age,Min,Tkl,TklW,Def 3rd,Mid 3rd,Att 3rd,Tkl,Att,Tkl%,Lost,Blocks,Sh,Pass,Int,Tkl+Int,Clr,Err
+0,Patrick Bamford,9.0,eng ENG,FW,27-167,90,1,1,0,1,0,0,0,,0,1,0,1,0,1,1,0
+1,Tyler Roberts,11.0,wls WAL,FW,22-038,90,0,0,0,0,0,0,1,0.0,1,1,0,1,0,0,0,0
+2,Jack Harrison,22.0,eng ENG,LM,24-091,80,0,0,0,0,0,0,0,,0,0,0,0,0,0,1,0
+3,Hélder Costa,17.0,ao ANG,LM,27-038,10,1,1,1,0,0,0,0,,0,0,0,0,0,1,0,0
+4,Mateusz Klich,43.0,pl POL,CM,30-251,80,1,0,1,0,0,0,2,0.0,2,0,0,0,0,1,1,0
+5,Ezgjan Alioski,10.0,mk MKD,LB,29-007,10,0,0,0,0,0,0,1,0.0,1,0,0,0,0,0,0,0
+6,Jamie Shackleton,46.0,eng ENG,CM,21-134,65,1,0,0,1,0,1,3,33.3,2,1,0,1,0,1,0,0
+7,Pablo Hernández,19.0,es ESP,CM,35-314,25,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,0
+8,Raphinha,18.0,br BRA,RM,24-067,90,3,1,2,0,1,0,0,,0,0,0,0,4,7,4,0
+9,Stuart Dallas,15.0,nir NIR,"LB,CM",29-306,90,0,0,0,0,0,0,0,,0,1,0,1,2,2,2,0
+10,Liam Cooper,6.0,sct SCO,CB,29-173,90,4,2,1,3,0,1,1,100.0,0,1,1,0,1,5,2,1
+11,Pascal Struijk,21.0,nl NED,CB,21-192,90,3,3,1,2,0,1,1,100.0,0,3,3,0,4,7,3,0
+12,Luke Ayling,2.0,eng ENG,RB,29-178,90,4,3,2,2,0,1,1,100.0,0,1,1,0,0,4,1,1
+13,Illan Meslier,1.0,fr FRA,GK,20-354,90,0,0,0,0,0,0,0,,0,0,0,0,0,0,1,0
+14,14 Players,,,,,990,18,11,8,9,1,4,10,40.0,6,9,5,4,11,29,16,2

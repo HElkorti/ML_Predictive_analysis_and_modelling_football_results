@@ -1,0 +1,17 @@
+,Unnamed: 0_level_0,Unnamed: 1_level_0,Unnamed: 2_level_0,Unnamed: 3_level_0,Unnamed: 4_level_0,Unnamed: 5_level_0,Unnamed: 6_level_0,Pass Types,Pass Types,Pass Types,Pass Types,Pass Types,Pass Types,Pass Types,Pass Types,Corner Kicks,Corner Kicks,Corner Kicks,Outcomes,Outcomes,Outcomes
+,Player,#,Nation,Pos,Age,Min,Att,Live,Dead,FK,TB,Sw,Crs,TI,CK,In,Out,Str,Cmp,Off,Blocks
+0,Kelechi Iheanacho,14.0,ng NGA,FW,24-015,70,13,12,0,0,0,0,0,0,0,0,0,0,12,1,0
+1,Islam Slimani,13.0,dz ALG,FW,32-122,20,9,9,0,0,0,0,0,0,0,0,0,0,6,0,0
+2,Harvey Barnes,15.0,eng ENG,LM,22-314,90,22,21,1,0,0,1,0,1,0,0,0,0,14,0,2
+3,Dennis Praet,26.0,be BEL,CM,26-157,67,21,20,1,0,0,0,1,0,0,0,0,0,16,0,0
+4,James Maddison,10.0,eng ENG,CM,23-330,23,13,11,2,1,0,0,2,0,0,0,0,0,10,0,0
+5,Youri Tielemans,8.0,be BEL,CM,23-164,90,55,50,5,3,0,0,3,0,2,1,0,0,39,0,1
+6,Ayoze Pérez,17.0,es ESP,RM,27-081,90,24,23,1,1,0,0,1,0,0,0,0,0,18,0,1
+7,Nampalys Mendy,24.0,sn SEN,DM,28-117,77,40,40,0,0,0,0,1,0,0,0,0,0,34,0,1
+8,Hamza Choudhury,20.0,eng ENG,DM,23-017,13,11,11,0,0,0,0,0,0,0,0,0,0,5,0,0
+9,James Justin,2.0,eng ENG,LB,22-238,90,42,32,9,1,0,0,1,8,0,0,0,0,26,1,1
+10,Jonny Evans,6.0,nir NIR,CB,32-289,90,57,52,5,5,0,0,0,0,0,0,0,0,47,0,0
+11,Wesley Fofana,3.0,fr FRA,CB,19-306,90,39,37,2,2,0,0,0,0,0,0,0,0,31,0,1
+12,Timothy Castagne,27.0,be BEL,RB,24-318,90,62,55,7,0,0,0,2,7,0,0,0,0,47,0,2
+13,Kasper Schmeichel,1.0,dk DEN,GK,33-348,90,44,34,10,6,0,1,0,0,0,0,0,0,28,0,0
+14,14 Players,,,,,990,452,407,43,19,0,2,11,16,2,1,0,0,333,2,9

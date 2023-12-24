@@ -1,0 +1,17 @@
+,Unnamed: 0_level_0,Unnamed: 1_level_0,Unnamed: 2_level_0,Unnamed: 3_level_0,Unnamed: 4_level_0,Unnamed: 5_level_0,Unnamed: 6_level_0,Pass Types,Pass Types,Pass Types,Pass Types,Pass Types,Pass Types,Pass Types,Pass Types,Corner Kicks,Corner Kicks,Corner Kicks,Outcomes,Outcomes,Outcomes
+,Player,#,Nation,Pos,Age,Min,Att,Live,Dead,FK,TB,Sw,Crs,TI,CK,In,Out,Str,Cmp,Off,Blocks
+0,Bruno Fernandes,18.0,pt POR,"FW,AM",27-206,90,65,59,6,2,0,3,2,2,1,0,1,0,52,0,3
+1,Jadon Sancho,25.0,eng ENG,LW,22-008,90,51,51,0,0,0,0,2,0,0,0,0,0,41,0,0
+2,Anthony Elanga,36.0,se SWE,RW,19-340,90,35,35,0,0,0,0,3,0,0,0,0,0,23,0,0
+3,Paul Pogba,6.0,fr FRA,"AM,DM",29-018,74,37,37,0,0,1,2,0,0,0,0,0,0,31,0,1
+4,Nemanja Matić,31.0,rs SRB,DM,33-244,16,19,19,0,0,0,0,0,0,0,0,0,0,17,0,0
+5,Fred,17.0,br BRA,DM,29-028,90,68,65,2,2,1,1,0,0,0,0,0,0,58,1,1
+6,Scott McTominay,39.0,sct SCO,DM,25-115,54,31,31,0,0,0,2,1,0,0,0,0,0,25,0,0
+7,Marcus Rashford,10.0,eng ENG,"FW,DM",24-153,36,11,9,1,0,0,0,0,0,0,0,0,0,9,1,0
+8,Luke Shaw,23.0,eng ENG,LB,26-264,45,38,31,7,0,0,0,4,4,3,1,1,0,34,0,1
+9,Alex Telles,27.0,br BRA,LB,29-108,45,40,34,6,0,0,0,3,4,2,1,1,0,29,0,3
+10,Raphaël Varane,19.0,fr FRA,CB,28-342,90,66,64,1,0,0,1,0,1,0,0,0,0,62,1,0
+11,Harry Maguire,5.0,eng ENG,CB,29-028,90,71,70,1,1,0,1,0,0,0,0,0,0,67,0,0
+12,Diogo Dalot,20.0,pt POR,RB,23-015,90,64,53,11,1,1,0,4,10,0,0,0,0,56,0,0
+13,David de Gea,1.0,es ESP,GK,31-146,90,31,19,11,1,0,0,0,0,0,0,0,0,24,1,0
+14,14 Players,,,,,990,627,577,46,7,3,10,19,21,6,2,3,0,528,4,9

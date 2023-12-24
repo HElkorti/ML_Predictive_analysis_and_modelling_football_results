@@ -1,0 +1,16 @@
+,Unnamed: 0_level_0,Unnamed: 1_level_0,Unnamed: 2_level_0,Unnamed: 3_level_0,Unnamed: 4_level_0,Unnamed: 5_level_0,Touches,Touches,Touches,Touches,Touches,Touches,Touches,Take-Ons,Take-Ons,Take-Ons,Take-Ons,Take-Ons,Carries,Carries,Carries,Carries,Carries,Carries,Carries,Carries,Receiving,Receiving
+,Player,#,Nation,Pos,Age,Min,Touches,Def Pen,Def 3rd,Mid 3rd,Att 3rd,Att Pen,Live,Att,Succ,Succ%,Tkld,Tkld%,Carries,TotDist,PrgDist,PrgC,1/3,CPA,Mis,Dis,Rec,PrgR
+0,João Pedro,10.0,br BRA,FW,20-227,90,54,0,2,24,29,2,54,11,6,54.5,5,45.5,33,157,75,4,3,1,5,4,44,9
+1,Ken Sema,12.0,se SWE,LW,28-223,90,31,1,7,16,8,2,31,2,2,100.0,0,0.0,19,96,45,2,0,0,2,2,23,4
+2,Samuel Kalu,28.0,ng NGA,RW,24-258,85,53,4,9,17,27,2,53,7,3,42.9,4,57.1,35,143,37,1,1,0,5,3,39,9
+3,Craig Cathcart,15.0,nir NIR,RB,33-094,5,2,0,2,0,0,0,2,0,0,,0,,0,0,0,0,0,0,0,0,0,0
+4,Dan Gosling,16.0,eng ENG,LM,32-099,90,50,5,18,24,10,1,50,1,1,100.0,0,0.0,27,179,70,1,1,0,1,1,29,3
+5,Edo Kayembe,39.0,cd COD,CM,23-342,88,90,3,27,57,6,0,90,3,2,66.7,1,33.3,52,266,111,2,2,0,0,2,60,0
+6,Oghenekaro Etebo,4.0,ng NGA,CM,26-183,2,2,0,2,0,0,0,2,0,0,,0,,1,2,0,0,0,0,0,0,1,0
+7,Moussa Sissoko,19.0,fr FRA,RM,32-268,90,58,6,20,28,11,1,58,2,2,100.0,0,0.0,28,158,120,3,2,0,1,1,35,2
+8,Adam Masina,11.0,ma MAR,LB,28-129,90,74,7,34,35,7,0,74,2,1,50.0,1,50.0,34,151,72,0,2,0,2,0,39,0
+9,Samir Santos,22.0,br BRA,CB,27-157,90,50,6,24,25,1,0,50,0,0,,0,,22,104,61,0,0,0,0,0,28,0
+10,Christian Kabasele,27.0,be BEL,CB,31-076,90,64,9,38,25,1,1,64,0,0,,0,,37,199,110,1,0,0,0,0,35,0
+11,Jeremy Ngakia,2.0,eng ENG,"RB,RW",21-246,90,69,4,33,26,10,0,69,0,0,,0,,40,207,121,2,1,0,2,1,47,2
+12,Ben Foster,1.0,eng ENG,GK,39-038,90,32,30,32,0,0,0,32,0,0,,0,,22,120,91,0,0,0,0,0,16,0
+13,13 Players,,,,,990,629,75,248,277,110,9,629,28,17,60.7,11,39.3,350,1782,913,16,12,1,18,14,396,29

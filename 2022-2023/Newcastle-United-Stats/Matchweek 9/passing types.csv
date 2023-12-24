@@ -1,0 +1,19 @@
+,Unnamed: 0_level_0,Unnamed: 1_level_0,Unnamed: 2_level_0,Unnamed: 3_level_0,Unnamed: 4_level_0,Unnamed: 5_level_0,Unnamed: 6_level_0,Pass Types,Pass Types,Pass Types,Pass Types,Pass Types,Pass Types,Pass Types,Pass Types,Corner Kicks,Corner Kicks,Corner Kicks,Outcomes,Outcomes,Outcomes
+,Player,#,Nation,Pos,Age,Min,Att,Live,Dead,FK,TB,Sw,Crs,TI,CK,In,Out,Str,Cmp,Off,Blocks
+0,Callum Wilson,9.0,eng ENG,FW,30-216,65,5,5,0,0,0,0,1,0,0,0,0,0,3,0,0
+1,Ryan Fraser,21.0,sct SCO,LW,28-219,25,22,21,1,1,0,0,0,0,0,0,0,0,20,0,0
+2,Jacob Murphy,23.0,eng ENG,"LW,FW",27-219,90,48,44,3,0,3,0,4,1,1,0,0,0,28,1,6
+3,Miguel Almirón,24.0,py PAR,RW,28-233,90,45,44,0,0,0,1,1,0,0,0,0,0,40,1,0
+4,Joe Willock,28.0,eng ENG,"LM,RM",23-042,90,53,51,2,0,0,0,2,1,0,0,0,0,48,0,2
+5,Bruno Guimarães,39.0,br BRA,CM,24-319,58,60,57,2,2,1,2,0,0,0,0,0,0,52,1,1
+6,Elliot Anderson,32.0,sct SCO,"CM,LM",19-329,32,22,20,1,0,0,0,0,0,1,0,0,0,19,1,1
+7,Sean Longstaff,36.0,eng ENG,"RM,CM",24-336,90,50,49,1,0,1,1,0,0,1,0,0,0,44,0,0
+8,Dan Burn,33.0,eng ENG,LB,30-145,82,66,62,4,0,0,1,0,4,0,0,0,0,61,0,0
+9,Matt Targett,13.0,eng ENG,"RB,LB",27-013,8,6,6,0,0,0,0,1,0,0,0,0,0,5,0,0
+10,Sven Botman,4.0,nl NED,CB,22-262,90,70,66,2,2,0,2,0,0,0,0,0,0,64,2,0
+11,Fabian Schär,5.0,ch SUI,CB,30-285,82,73,70,3,3,1,0,0,0,0,0,0,0,65,0,0
+12,Jamaal Lascelles,6.0,eng ENG,CB,28-324,8,9,9,0,0,0,0,0,0,0,0,0,0,8,0,0
+13,Kieran Trippier,2.0,eng ENG,RB,32-012,82,86,70,15,3,4,1,8,7,5,2,1,0,68,1,0
+14,Jamal Lewis,12.0,nir NIR,LB,24-249,8,12,12,0,0,0,0,0,0,0,0,0,0,10,0,1
+15,Nick Pope,22.0,eng ENG,GK,30-165,90,23,19,4,2,0,0,0,0,0,0,0,0,20,0,0
+16,16 Players,,,,,990,650,605,38,13,10,8,17,13,8,2,1,0,555,7,11

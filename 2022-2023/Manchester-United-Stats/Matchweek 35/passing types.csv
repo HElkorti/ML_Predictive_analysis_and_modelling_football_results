@@ -1,0 +1,19 @@
+,Unnamed: 0_level_0,Unnamed: 1_level_0,Unnamed: 2_level_0,Unnamed: 3_level_0,Unnamed: 4_level_0,Unnamed: 5_level_0,Unnamed: 6_level_0,Pass Types,Pass Types,Pass Types,Pass Types,Pass Types,Pass Types,Pass Types,Pass Types,Corner Kicks,Corner Kicks,Corner Kicks,Outcomes,Outcomes,Outcomes
+,Player,#,Nation,Pos,Age,Min,Att,Live,Dead,FK,TB,Sw,Crs,TI,CK,In,Out,Str,Cmp,Off,Blocks
+0,Marcus Rashford,10.0,eng ENG,"FW,LW",25-188,90,41,38,3,0,0,0,1,1,0,0,0,0,35,0,0
+1,Bruno Fernandes,8.0,pt POR,"LW,AM",28-241,90,56,49,7,0,0,1,4,1,6,0,2,1,41,0,0
+2,Antony,21.0,br BRA,RW,23-072,73,34,34,0,0,0,0,1,0,0,0,0,0,29,0,2
+3,Jadon Sancho,25.0,eng ENG,RW,23-043,17,12,12,0,0,0,0,0,0,0,0,0,0,10,0,0
+4,Wout Weghorst,27.0,nl NED,AM,30-273,56,21,21,0,0,0,0,0,0,0,0,0,0,16,0,0
+5,Anthony Martial,9.0,fr FRA,FW,27-153,34,22,22,0,0,0,0,0,0,0,0,0,0,18,0,0
+6,Christian Eriksen,14.0,dk DEN,DM,31-082,73,66,65,1,1,0,1,0,0,0,0,0,0,60,0,2
+7,Marcel Sabitzer,15.0,at AUT,DM,29-051,17,13,13,0,0,0,0,0,0,0,0,0,0,11,0,1
+8,Casemiro,18.0,br BRA,"DM,CB",31-073,90,72,71,1,1,0,0,0,0,0,0,0,0,59,0,2
+9,Tyrell Malacia,12.0,nl NED,LB,23-263,87,69,60,9,1,0,1,0,8,0,0,0,0,65,0,0
+10,Fred,17.0,br BRA,DM,30-063,3,5,5,0,0,0,0,0,0,0,0,0,0,5,0,0
+11,Luke Shaw,23.0,eng ENG,"CB,LB",27-299,90,107,99,7,0,0,0,1,1,1,0,0,0,96,1,1
+12,Victor Lindelöf,2.0,se SWE,CB,28-294,90,86,86,0,0,0,0,0,0,0,0,0,0,77,0,0
+13,Aaron Wan-Bissaka,29.0,eng ENG,RB,25-162,86,60,55,5,0,0,0,1,5,0,0,0,0,53,0,2
+14,Diogo Dalot,20.0,pt POR,RB,24-050,4,9,8,1,0,0,0,1,1,0,0,0,0,7,0,0
+15,David de Gea,1.0,es ESP,GK,32-181,90,40,33,7,2,0,0,0,0,0,0,0,0,32,0,0
+16,16 Players,,,,,990,713,671,41,5,0,3,9,17,7,0,2,1,614,1,10

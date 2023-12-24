@@ -1,0 +1,17 @@
+,Unnamed: 0_level_0,Unnamed: 1_level_0,Unnamed: 2_level_0,Unnamed: 3_level_0,Unnamed: 4_level_0,Unnamed: 5_level_0,Unnamed: 6_level_0,Pass Types,Pass Types,Pass Types,Pass Types,Pass Types,Pass Types,Pass Types,Pass Types,Corner Kicks,Corner Kicks,Corner Kicks,Outcomes,Outcomes,Outcomes
+,Player,#,Nation,Pos,Age,Min,Att,Live,Dead,FK,TB,Sw,Crs,TI,CK,In,Out,Str,Cmp,Off,Blocks
+0,Roberto Firmino,9.0,br BRA,FW,29-229,80,53,53,0,0,1,0,0,0,0,0,0,0,41,0,1
+1,Alex Oxlade-Chamberlain,15.0,eng ENG,FW,27-277,10,1,1,0,0,0,0,0,0,0,0,0,0,1,0,0
+2,Sadio Mané,10.0,sn SEN,LW,29-039,89,35,34,1,0,0,0,2,1,0,0,0,0,29,0,2
+3,Kostas Tsimikas,21.0,gr GRE,LW,25-007,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+4,Mohamed Salah,11.0,eg EGY,RW,28-338,90,28,28,0,0,1,0,0,0,0,0,0,0,22,0,1
+5,Georginio Wijnaldum,5.0,nl NED,LM,30-189,86,54,54,0,0,0,0,0,0,0,0,0,0,54,0,0
+6,James Milner,7.0,eng ENG,LM,35-135,4,3,3,0,0,0,0,0,0,0,0,0,0,3,0,0
+7,Fabinho,3.0,br BRA,CM,27-208,90,59,59,0,0,0,0,0,0,0,0,0,0,55,0,0
+8,Thiago Alcántara,6.0,es ESP,RM,30-038,90,94,90,3,2,0,2,0,0,0,0,0,0,82,1,0
+9,Andrew Robertson,26.0,sct SCO,LB,27-069,90,81,68,13,2,1,0,10,7,4,0,2,0,56,0,3
+10,Rhys Williams,46.0,eng ENG,CB,20-105,90,61,59,2,2,0,1,0,0,0,0,0,0,45,0,0
+11,Nathaniel Phillips,47.0,eng ENG,CB,24-059,90,48,46,2,1,0,0,0,1,0,0,0,0,38,0,1
+12,Trent Alexander-Arnold,66.0,eng ENG,RB,22-224,90,67,56,11,2,0,1,4,6,3,0,1,0,61,0,0
+13,Alisson,1.0,br BRA,GK,28-229,90,38,28,10,1,0,0,0,0,0,0,0,0,29,0,0
+14,14 Players,,,,,990,622,579,42,10,3,4,16,15,7,0,3,0,516,1,8

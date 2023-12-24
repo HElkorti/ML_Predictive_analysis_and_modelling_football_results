@@ -1,0 +1,19 @@
+,Unnamed: 0_level_0,Unnamed: 1_level_0,Unnamed: 2_level_0,Unnamed: 3_level_0,Unnamed: 4_level_0,Unnamed: 5_level_0,Touches,Touches,Touches,Touches,Touches,Touches,Touches,Take-Ons,Take-Ons,Take-Ons,Take-Ons,Take-Ons,Carries,Carries,Carries,Carries,Carries,Carries,Carries,Carries,Receiving,Receiving
+,Player,#,Nation,Pos,Age,Min,Touches,Def Pen,Def 3rd,Mid 3rd,Att 3rd,Att Pen,Live,Att,Succ,Succ%,Tkld,Tkld%,Carries,TotDist,PrgDist,PrgC,1/3,CPA,Mis,Dis,Rec,PrgR
+0,Harry Kane,10.0,eng ENG,FW,29-157,90,30,1,1,15,14,3,30,1,0,0.0,1,100.0,19,66,29,2,1,0,0,1,19,2
+1,Son Heung-min,7.0,kr KOR,LW,30-177,90,51,0,6,13,34,1,51,1,0,0.0,0,0.0,34,184,72,1,2,0,4,2,38,7
+2,Bryan Gil,11.0,es ESP,RW,21-324,62,29,0,6,11,12,0,29,3,1,33.3,2,66.7,20,105,39,1,1,0,2,1,22,2
+3,Ryan Sessegnon,19.0,eng ENG,LM,22-228,28,13,2,5,4,4,0,13,0,0,,0,,8,46,4,0,0,0,0,1,8,4
+4,Ivan Perišić,14.0,hr CRO,"LM,RW",33-333,87,57,1,7,18,33,4,57,0,0,,0,,33,194,118,6,4,2,3,0,37,14
+5,Djed Spence,24.0,eng ENG,RW,22-145,3,4,0,0,1,3,0,4,0,0,,0,,4,51,33,1,1,0,0,2,5,2
+6,Pierre Højbjerg,5.0,dk DEN,CM,27-149,87,88,1,9,64,15,1,88,0,0,,0,,66,336,155,4,2,0,1,2,72,4
+7,Oliver Skipp,4.0,eng ENG,CM,22-107,3,11,0,2,9,0,0,11,0,0,,0,,7,36,17,1,0,0,0,0,8,0
+8,Yves Bissouma,38.0,ml MLI,CM,26-124,79,81,0,9,57,15,0,81,1,1,100.0,0,0.0,62,268,157,2,2,0,0,0,65,1
+9,Pape Matar Sarr,29.0,sn SEN,CM,20-109,11,15,2,7,8,0,0,15,0,0,,0,,11,64,27,0,0,0,0,0,10,0
+10,Matt Doherty,2.0,ie IRL,RM,30-350,79,57,0,11,24,22,1,57,2,2,100.0,0,0.0,38,145,75,2,0,1,1,1,40,8
+11,Emerson,12.0,br BRA,RM,23-352,11,15,0,6,5,4,0,15,0,0,,0,,9,24,11,0,0,0,0,0,11,0
+12,Ben Davies,33.0,wls WAL,CB,29-252,90,76,0,21,43,12,0,76,1,0,0.0,1,100.0,50,370,246,2,5,0,1,1,54,1
+13,Clément Lenglet,34.0,fr FRA,CB,27-198,90,82,9,36,42,4,0,82,0,0,,0,,61,232,116,0,2,0,2,1,58,0
+14,Cristian Romero,17.0,ar ARG,CB,24-249,90,91,3,25,59,8,0,91,1,1,100.0,0,0.0,73,346,194,2,4,0,2,2,67,0
+15,Hugo Lloris,1.0,fr FRA,GK,36-006,90,15,13,15,0,0,0,15,0,0,,0,,8,61,22,0,0,0,0,0,6,0
+16,16 Players,,,,,990,715,32,166,373,180,10,715,10,5,50.0,4,40.0,503,2528,1315,24,24,3,16,14,520,45

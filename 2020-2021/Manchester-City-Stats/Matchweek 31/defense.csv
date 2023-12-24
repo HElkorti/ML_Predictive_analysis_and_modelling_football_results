@@ -1,0 +1,16 @@
+,Unnamed: 0_level_0,Unnamed: 1_level_0,Unnamed: 2_level_0,Unnamed: 3_level_0,Unnamed: 4_level_0,Unnamed: 5_level_0,Tackles,Tackles,Tackles,Tackles,Tackles,Challenges,Challenges,Challenges,Challenges,Blocks,Blocks,Blocks,Unnamed: 18_level_0,Unnamed: 19_level_0,Unnamed: 20_level_0,Unnamed: 21_level_0
+,Player,#,Nation,Pos,Age,Min,Tkl,TklW,Def 3rd,Mid 3rd,Att 3rd,Tkl,Att,Tkl%,Lost,Blocks,Sh,Pass,Int,Tkl+Int,Clr,Err
+0,Gabriel Jesus,9.0,br BRA,FW,24-007,90,0,0,0,0,0,0,0,,0,1,0,1,1,1,0,0
+1,Raheem Sterling,7.0,eng ENG,"LW,RM",26-123,90,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,0
+2,Ferrán Torres,21.0,es ESP,"RW,FW",21-040,90,0,0,0,0,0,0,0,,0,1,0,1,0,0,2,0
+3,Oleksandr Zinchenko,11.0,ua UKR,"LM,LB",24-116,90,0,0,0,0,0,0,1,0.0,1,0,0,0,1,1,1,0
+4,Fernandinho,25.0,br BRA,"CM,CB",35-341,90,0,0,0,0,0,0,1,0.0,1,0,0,0,0,0,1,0
+5,Bernardo Silva,20.0,pt POR,"RM,CM",26-243,90,1,1,0,1,0,1,3,33.3,2,3,0,3,1,2,0,0
+6,Benjamin Mendy,22.0,fr FRA,LB,26-267,73,2,1,0,1,1,1,3,33.3,2,0,0,0,1,3,1,0
+7,Phil Foden,47.0,eng ENG,LM,20-317,17,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,0
+8,Nathan Aké,6.0,nl NED,CB,26-051,57,0,0,0,0,0,0,0,,0,0,0,0,0,0,1,0
+9,İlkay Gündoğan,8.0,de GER,"CM,CB",30-168,33,0,0,0,0,0,0,2,0.0,2,0,0,0,0,0,0,0
+10,John Stones,5.0,eng ENG,CB,26-317,90,0,0,0,0,0,0,0,,0,0,0,0,1,1,1,0
+11,João Cancelo,27.0,pt POR,RB,26-318,90,4,3,2,2,0,4,4,100.0,0,0,0,0,1,5,0,0
+12,Ederson,31.0,br BRA,GK,27-236,90,1,1,1,0,0,1,1,100.0,0,0,0,0,0,1,0,0
+13,13 Players,,,,,990,8,6,3,4,1,7,15,46.7,8,5,0,5,6,14,7,0

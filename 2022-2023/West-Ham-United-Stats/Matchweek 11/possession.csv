@@ -1,0 +1,17 @@
+,Unnamed: 0_level_0,Unnamed: 1_level_0,Unnamed: 2_level_0,Unnamed: 3_level_0,Unnamed: 4_level_0,Unnamed: 5_level_0,Touches,Touches,Touches,Touches,Touches,Touches,Touches,Take-Ons,Take-Ons,Take-Ons,Take-Ons,Take-Ons,Carries,Carries,Carries,Carries,Carries,Carries,Carries,Carries,Receiving,Receiving
+,Player,#,Nation,Pos,Age,Min,Touches,Def Pen,Def 3rd,Mid 3rd,Att 3rd,Att Pen,Live,Att,Succ,Succ%,Tkld,Tkld%,Carries,TotDist,PrgDist,PrgC,1/3,CPA,Mis,Dis,Rec,PrgR
+0,Gianluca Scamacca,7.0,it ITA,FW,23-288,86,30,1,1,10,19,8,30,0,0,,0,,15,73,24,2,1,0,0,4,22,7
+1,Manuel Lanzini,10.0,ar ARG,"AM,FW",29-243,4,10,0,0,5,5,0,10,0,0,,0,,7,30,4,0,0,0,0,1,8,0
+2,Lucas Paquetá,11.0,br BRA,LW,25-050,86,62,2,9,24,29,6,62,0,0,,0,,25,97,52,2,1,2,3,2,46,6
+3,Michail Antonio,9.0,jm JAM,FW,32-202,4,2,0,0,1,1,0,2,0,0,,0,,0,0,0,0,0,0,0,0,2,0
+4,Jarrod Bowen,20.0,eng ENG,"RW,AM",25-300,90,47,0,4,12,32,3,47,4,0,0.0,3,75.0,18,131,57,2,2,0,2,1,23,9
+5,Emerson Palmieri,33.0,it ITA,LM,28-074,58,37,0,7,16,15,2,37,1,0,0.0,0,0.0,18,143,98,3,2,0,1,1,26,7
+6,Saïd Benrahma,22.0,dz ALG,"LM,WB",27-067,32,26,0,3,8,16,1,26,3,1,33.3,1,33.3,12,131,55,2,2,0,2,0,16,6
+7,Declan Rice,41.0,eng ENG,CM,23-275,90,82,4,20,48,16,0,82,1,1,100.0,0,0.0,48,309,166,1,2,0,2,0,61,2
+8,Tomáš Souček,28.0,cz CZE,CM,27-231,90,56,7,22,25,9,3,56,0,0,,0,,21,101,41,1,1,0,1,0,29,2
+9,Vladimír Coufal,5.0,cz CZE,"RM,WB",30-055,90,68,4,14,21,33,1,68,3,0,0.0,0,0.0,26,218,122,6,3,0,3,0,38,8
+10,Aaron Cresswell,3.0,eng ENG,CB,32-305,90,90,5,24,36,30,1,90,1,1,100.0,0,0.0,41,186,102,3,2,1,1,0,49,7
+11,Thilo Kehrer,24.0,de GER,CB,26-025,90,60,5,30,27,4,0,60,1,1,100.0,0,0.0,33,209,74,0,1,1,0,0,40,0
+12,Ben Johnson,2.0,eng ENG,CB,22-265,90,75,4,30,36,10,0,75,0,0,,0,,36,182,76,0,0,0,0,1,44,0
+13,Łukasz Fabiański,1.0,pl POL,GK,37-181,90,28,27,28,0,0,0,28,0,0,,0,,17,90,58,0,0,0,0,0,13,0
+14,14 Players,,,,,990,673,59,192,269,219,25,673,14,4,28.6,4,28.6,317,1900,929,22,17,4,15,10,417,54

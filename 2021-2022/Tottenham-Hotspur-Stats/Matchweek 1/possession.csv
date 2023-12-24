@@ -1,0 +1,17 @@
+,Unnamed: 0_level_0,Unnamed: 1_level_0,Unnamed: 2_level_0,Unnamed: 3_level_0,Unnamed: 4_level_0,Unnamed: 5_level_0,Touches,Touches,Touches,Touches,Touches,Touches,Touches,Take-Ons,Take-Ons,Take-Ons,Take-Ons,Take-Ons,Carries,Carries,Carries,Carries,Carries,Carries,Carries,Carries,Receiving,Receiving
+,Player,#,Nation,Pos,Age,Min,Touches,Def Pen,Def 3rd,Mid 3rd,Att 3rd,Att Pen,Live,Att,Succ,Succ%,Tkld,Tkld%,Carries,TotDist,PrgDist,PrgC,1/3,CPA,Mis,Dis,Rec,PrgR
+0,Son Heung-min,7.0,kr KOR,FW,29-038,90,44,0,1,18,25,4,44,1,1,100.0,0,0.0,31,189,95,1,1,0,2,1,34,13
+1,Steven Bergwijn,23.0,nl NED,LW,23-311,76,24,1,5,8,13,3,24,1,1,100.0,0,0.0,18,211,147,3,3,0,2,1,17,6
+2,Giovani Lo Celso,18.0,ar ARG,LW,25-128,14,16,0,1,6,10,1,16,1,1,100.0,0,0.0,9,43,27,1,0,1,3,1,10,1
+3,Lucas Moura,27.0,br BRA,RW,29-002,90,57,3,7,34,19,5,57,10,6,60.0,4,40.0,35,234,125,4,3,0,2,3,33,3
+4,Dele Alli,20.0,eng ENG,LM,25-126,90,32,2,9,16,9,0,32,1,1,100.0,0,0.0,19,108,53,1,2,0,1,2,17,1
+5,Oliver Skipp,29.0,eng ENG,CM,20-333,90,36,5,14,22,0,0,36,0,0,,0,,18,52,2,0,0,0,0,1,20,0
+6,Pierre Højbjerg,5.0,dk DEN,RM,26-010,89,50,1,12,31,9,2,50,3,3,100.0,0,0.0,31,191,65,1,1,0,1,1,28,2
+7,Cristian Romero,4.0,ar ARG,LM,23-110,1,2,0,0,2,0,0,2,0,0,,0,,0,0,0,0,0,0,0,0,1,0
+8,Sergio Reguilón,3.0,es ESP,LB,24-242,90,30,2,6,14,10,1,30,0,0,,0,,12,61,10,0,1,1,1,1,13,1
+9,Eric Dier,15.0,eng ENG,CB,27-212,90,32,6,24,8,0,0,32,0,0,,0,,18,69,12,0,0,0,0,0,17,0
+10,Davinson Sánchez,6.0,co COL,CB,25-064,90,43,11,27,14,2,2,43,0,0,,0,,27,111,25,0,0,0,0,0,25,0
+11,Japhet Tanganga,25.0,eng ENG,RB,22-137,82,48,6,20,17,11,1,48,1,0,0.0,1,100.0,20,77,25,0,1,0,3,0,18,3
+12,Matt Doherty,2.0,ie IRL,RB,29-211,8,6,1,2,3,1,0,6,1,1,100.0,0,0.0,2,7,1,0,0,0,0,0,1,0
+13,Hugo Lloris,1.0,fr FRA,GK,34-232,90,30,29,30,0,0,0,30,0,0,,0,,17,170,52,0,0,0,0,0,8,0
+14,14 Players,,,,,990,450,67,158,193,109,19,450,19,14,73.7,5,26.3,257,1523,639,11,12,2,15,11,242,30

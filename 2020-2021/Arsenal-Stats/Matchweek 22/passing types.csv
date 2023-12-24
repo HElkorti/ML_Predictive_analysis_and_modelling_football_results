@@ -1,0 +1,17 @@
+,Unnamed: 0_level_0,Unnamed: 1_level_0,Unnamed: 2_level_0,Unnamed: 3_level_0,Unnamed: 4_level_0,Unnamed: 5_level_0,Unnamed: 6_level_0,Pass Types,Pass Types,Pass Types,Pass Types,Pass Types,Pass Types,Pass Types,Pass Types,Corner Kicks,Corner Kicks,Corner Kicks,Outcomes,Outcomes,Outcomes
+,Player,#,Nation,Pos,Age,Min,Att,Live,Dead,FK,TB,Sw,Crs,TI,CK,In,Out,Str,Cmp,Off,Blocks
+0,Alexandre Lacazette,9.0,fr FRA,FW,29-250,45,9,9,0,0,0,0,0,0,0,0,0,0,9,0,0
+1,Gabriel Dos Santos,6.0,br BRA,CB,23-045,45,37,36,1,1,0,0,0,0,0,0,0,0,33,0,0
+2,Nicolas Pépé,19.0,ci CIV,LW,25-249,60,20,19,1,0,0,0,0,1,0,0,0,0,17,0,0
+3,Pierre-Emerick Aubameyang,14.0,ga GAB,LW,31-229,30,8,8,0,0,0,0,0,0,0,0,0,0,8,0,0
+4,Bukayo Saka,7.0,eng ENG,RW,19-150,90,31,25,6,0,0,0,6,0,6,4,1,0,21,0,0
+5,Emile Smith Rowe,32.0,eng ENG,"AM,DM",20-189,90,47,44,2,0,0,0,1,0,0,0,0,0,43,1,0
+6,Granit Xhaka,34.0,ch SUI,DM,28-128,90,79,72,7,7,0,1,0,0,0,0,0,0,73,0,0
+7,Thomas Partey,18.0,gh GHA,DM,27-234,74,60,59,0,0,1,1,1,0,0,0,0,0,50,1,1
+8,Rúnar Alex Rúnarsson,13.0,is ISL,"GK,DM",25-350,16,11,8,3,2,0,0,0,0,0,0,0,0,7,0,0
+9,Cédric Soares,17.0,pt POR,LB,29-155,90,26,24,2,1,0,0,2,1,0,0,0,0,18,0,0
+10,David Luiz,23.0,br BRA,CB,33-286,44,34,34,0,0,0,0,0,0,0,0,0,0,30,0,0
+11,Rob Holding,16.0,eng ENG,CB,25-135,90,68,67,0,0,0,0,0,0,0,0,0,0,62,1,0
+12,Héctor Bellerín,2.0,es ESP,RB,25-320,90,64,58,6,0,0,0,2,6,0,0,0,0,58,0,1
+13,Bernd Leno,1.0,de GER,GK,28-335,71,23,18,5,1,0,0,0,0,0,0,0,0,22,0,0
+14,14 Players,,,,,925,517,481,33,12,1,2,12,8,6,4,1,0,451,3,2

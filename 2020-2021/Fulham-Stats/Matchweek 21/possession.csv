@@ -1,0 +1,17 @@
+,Unnamed: 0_level_0,Unnamed: 1_level_0,Unnamed: 2_level_0,Unnamed: 3_level_0,Unnamed: 4_level_0,Unnamed: 5_level_0,Touches,Touches,Touches,Touches,Touches,Touches,Touches,Take-Ons,Take-Ons,Take-Ons,Take-Ons,Take-Ons,Carries,Carries,Carries,Carries,Carries,Carries,Carries,Carries,Receiving,Receiving
+,Player,#,Nation,Pos,Age,Min,Touches,Def Pen,Def 3rd,Mid 3rd,Att 3rd,Att Pen,Live,Att,Succ,Succ%,Tkld,Tkld%,Carries,TotDist,PrgDist,PrgC,1/3,CPA,Mis,Dis,Rec,PrgR
+0,Aleksandar Mitrović,9.0,rs SRB,FW,26-136,90,42,3,4,17,21,3,42,0,0,,0,,9,33,2,0,0,0,2,0,31,8
+1,Ademola Lookman,19.0,ng NGA,"LW,RM",23-102,90,54,0,3,26,25,2,54,2,2,100.0,0,0.0,24,149,94,4,2,1,4,1,37,6
+2,Ruben Loftus-Cheek,15.0,eng ENG,RW,25-007,90,53,2,8,29,17,2,53,3,2,66.7,1,33.3,27,213,130,2,3,0,4,3,39,4
+3,Antonee Robinson,33.0,us USA,LM,23-175,90,59,2,17,26,17,1,59,1,0,0.0,1,100.0,24,191,121,4,2,1,1,1,29,4
+4,Andre-Frank Zambo Anguissa,29.0,cm CMR,CM,25-075,90,72,2,15,48,10,0,72,2,2,100.0,0,0.0,35,239,133,4,2,0,2,2,52,0
+5,Mario Lemina,18.0,ga GAB,CM,27-151,71,56,0,11,40,5,0,56,2,2,100.0,0,0.0,32,151,71,1,1,0,1,1,43,0
+6,Harrison Reed,21.0,eng ENG,CM,26-003,19,19,3,4,7,8,0,19,0,0,,0,,9,59,31,0,2,0,0,0,12,1
+7,Bobby Reid,14.0,jm JAM,RM,27-363,71,36,0,5,14,17,6,36,3,0,0.0,3,100.0,13,84,55,4,0,2,1,0,26,3
+8,Ivan Cavaleiro,17.0,pt POR,"LW,RM",27-104,19,12,0,0,2,10,2,12,0,0,,0,,6,37,25,1,0,1,0,0,12,1
+9,Tosin Adarabioyo,16.0,eng ENG,CB,23-128,90,85,4,53,30,2,1,85,1,1,100.0,0,0.0,29,163,97,1,0,0,1,0,50,0
+10,Joachim Andersen,5.0,dk DEN,CB,24-244,90,106,11,70,34,3,0,106,1,1,100.0,0,0.0,56,481,315,3,2,0,0,0,76,0
+11,Ola Aina,34.0,ng NGA,CB,24-114,80,79,5,41,31,9,0,79,0,0,,0,,36,223,146,2,3,0,0,0,53,1
+12,Kenny Tete,2.0,nl NED,CB,25-113,10,14,1,5,2,7,1,14,0,0,,0,,4,7,0,0,0,0,0,0,6,2
+13,Alphonse Areola,1.0,fr FRA,GK,27-338,90,26,23,26,0,0,0,26,0,0,,0,,13,83,32,0,0,0,0,0,14,0
+14,14 Players,,,,,990,713,56,262,306,151,18,713,15,10,66.7,5,33.3,317,2113,1252,26,17,5,16,8,480,30

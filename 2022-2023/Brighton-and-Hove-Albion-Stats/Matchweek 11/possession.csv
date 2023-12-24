@@ -1,0 +1,17 @@
+,Unnamed: 0_level_0,Unnamed: 1_level_0,Unnamed: 2_level_0,Unnamed: 3_level_0,Unnamed: 4_level_0,Unnamed: 5_level_0,Touches,Touches,Touches,Touches,Touches,Touches,Touches,Take-Ons,Take-Ons,Take-Ons,Take-Ons,Take-Ons,Carries,Carries,Carries,Carries,Carries,Carries,Carries,Carries,Receiving,Receiving
+,Player,#,Nation,Pos,Age,Min,Touches,Def Pen,Def 3rd,Mid 3rd,Att 3rd,Att Pen,Live,Att,Succ,Succ%,Tkld,Tkld%,Carries,TotDist,PrgDist,PrgC,1/3,CPA,Mis,Dis,Rec,PrgR
+0,Pascal Groß,13.0,de GER,FW,31-121,67,39,0,0,10,29,4,39,2,0,0.0,2,100.0,19,75,40,1,3,0,1,1,21,5
+1,Adam Lallana,14.0,eng ENG,AM,34-157,23,19,0,1,3,15,5,19,0,0,,0,,9,22,8,0,0,0,1,1,16,6
+2,Danny Welbeck,18.0,eng ENG,FW,31-322,90,38,1,5,15,19,7,38,2,0,0.0,2,100.0,27,92,20,1,0,0,4,0,33,9
+3,Leandro Trossard,11.0,be BEL,LM,27-314,68,36,0,2,11,23,7,36,1,0,0.0,1,100.0,25,109,51,1,2,1,1,1,29,7
+4,Deniz Undav,21.0,de GER,FW,26-087,22,12,0,0,1,11,3,12,0,0,,0,,4,14,6,0,0,0,0,0,10,5
+5,Moisés Caicedo,25.0,ec ECU,CM,20-346,90,104,1,19,67,19,0,104,0,0,,0,,70,379,223,2,2,0,1,0,80,1
+6,Alexis Mac Allister,10.0,ar ARG,CM,23-294,90,104,2,18,54,32,0,104,0,0,,0,,63,274,94,2,1,0,0,0,77,1
+7,Solly March,7.0,eng ENG,"RM,WB,LB",28-086,90,70,2,12,22,36,6,70,1,1,100.0,0,0.0,44,269,102,3,2,3,2,1,48,13
+8,Pervis Estupiñán,30.0,ec ECU,LB,24-266,45,36,3,12,11,13,1,36,0,0,,0,,19,102,81,3,2,0,1,1,23,9
+9,Kaoru Mitoma,22.0,jp JPN,"WB,RM",25-147,45,36,0,1,5,30,3,36,1,0,0.0,1,100.0,28,228,97,3,0,3,2,0,29,9
+10,Lewis Dunk,5.0,eng ENG,CB,30-327,90,92,18,48,40,4,2,92,0,0,,0,,53,243,117,0,1,0,0,0,60,0
+11,Adam Webster,4.0,eng ENG,CB,27-283,90,79,8,33,38,8,0,79,2,1,50.0,1,50.0,46,273,129,1,2,0,1,0,51,1
+12,Joël Veltman,34.0,nl NED,"RB,CB",30-272,90,83,2,23,36,24,2,83,0,0,,0,,43,198,143,3,5,0,0,0,50,2
+13,Robert Sánchez,1.0,es ESP,GK,24-330,90,29,25,29,0,0,0,29,0,0,,0,,21,90,66,0,0,0,0,0,21,0
+14,14 Players,,,,,990,777,62,203,313,263,40,777,9,2,22.2,7,77.8,471,2368,1177,20,20,7,14,5,548,68

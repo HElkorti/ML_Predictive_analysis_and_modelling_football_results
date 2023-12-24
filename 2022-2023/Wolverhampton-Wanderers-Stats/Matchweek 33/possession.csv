@@ -1,0 +1,19 @@
+,Unnamed: 0_level_0,Unnamed: 1_level_0,Unnamed: 2_level_0,Unnamed: 3_level_0,Unnamed: 4_level_0,Unnamed: 5_level_0,Touches,Touches,Touches,Touches,Touches,Touches,Touches,Take-Ons,Take-Ons,Take-Ons,Take-Ons,Take-Ons,Carries,Carries,Carries,Carries,Carries,Carries,Carries,Carries,Receiving,Receiving
+,Player,#,Nation,Pos,Age,Min,Touches,Def Pen,Def 3rd,Mid 3rd,Att 3rd,Att Pen,Live,Att,Succ,Succ%,Tkld,Tkld%,Carries,TotDist,PrgDist,PrgC,1/3,CPA,Mis,Dis,Rec,PrgR
+0,Diego Costa,29.0,es ESP,FW,34-200,88,25,3,5,8,13,4,25,3,2,66.7,1,33.3,10,92,25,1,2,1,3,2,17,4
+1,Nathan Collins,4.0,ie IRL,CB,21-360,2,1,0,1,0,0,0,1,0,0,,0,,0,0,0,0,0,0,0,0,1,0
+2,Matheus Cunha,12.0,br BRA,FW,23-333,67,11,0,3,3,5,1,11,2,1,50.0,0,0.0,4,15,7,0,0,0,1,1,4,0
+3,João Gomes,35.0,br BRA,"FW,CM",22-072,23,11,1,6,5,0,0,11,0,0,,0,,2,4,0,0,0,0,1,0,3,0
+4,Matheus Nunes,27.0,pt POR,LM,24-241,88,30,2,11,9,10,1,30,2,1,50.0,1,50.0,13,67,29,1,0,1,0,0,19,3
+5,Pedro Neto,7.0,pt POR,FW,23-047,2,4,0,0,0,4,1,4,1,0,0.0,0,0.0,2,16,0,0,0,0,2,0,1,1
+6,Mario Lemina,5.0,ga GAB,CM,29-236,90,30,3,9,13,8,0,30,0,0,,0,,9,36,12,0,0,0,1,0,12,1
+7,Rúben Neves,8.0,pt POR,CM,26-043,90,72,8,24,35,14,1,71,2,2,100.0,0,0.0,30,139,66,0,0,0,2,0,32,2
+8,Hwang Hee-chan,11.0,kr KOR,RM,27-089,78,27,4,6,12,9,2,27,2,1,50.0,1,50.0,12,85,49,1,1,0,0,1,13,3
+9,Adama Traoré,37.0,es ESP,"RM,FW",27-090,12,5,0,2,1,2,2,5,1,1,100.0,0,0.0,2,34,21,1,0,1,0,1,3,1
+10,Hugo Bueno,64.0,es ESP,LB,20-219,78,50,3,15,21,15,0,50,3,1,33.3,1,33.3,20,168,84,4,2,0,0,0,28,2
+11,Toti Gomes,24.0,pt POR,LB,24-099,12,6,1,4,2,0,0,6,0,0,,0,,0,0,0,0,0,0,0,0,0,0
+12,Max Kilman,23.0,eng ENG,CB,25-337,90,62,11,38,23,1,1,62,0,0,,0,,31,160,87,0,0,0,0,0,45,0
+13,Craig Dawson,15.0,eng ENG,CB,32-354,90,55,9,31,22,2,1,55,0,0,,0,,28,129,91,0,0,0,0,0,39,0
+14,Nélson Semedo,22.0,pt POR,RB,29-160,90,57,6,22,21,14,1,57,2,0,0.0,2,100.0,22,98,53,0,0,0,1,0,22,5
+15,José Sá,1.0,pt POR,GK,30-098,90,32,28,31,1,0,0,32,0,0,,0,,17,119,55,0,0,0,0,0,14,0
+16,16 Players,,,,,990,478,79,208,176,97,15,477,18,9,50.0,6,33.3,202,1162,579,8,5,3,11,5,253,22

@@ -1,0 +1,17 @@
+,Unnamed: 0_level_0,Unnamed: 1_level_0,Unnamed: 2_level_0,Unnamed: 3_level_0,Unnamed: 4_level_0,Unnamed: 5_level_0,Touches,Touches,Touches,Touches,Touches,Touches,Touches,Take-Ons,Take-Ons,Take-Ons,Take-Ons,Take-Ons,Carries,Carries,Carries,Carries,Carries,Carries,Carries,Carries,Receiving,Receiving
+,Player,#,Nation,Pos,Age,Min,Touches,Def Pen,Def 3rd,Mid 3rd,Att 3rd,Att Pen,Live,Att,Succ,Succ%,Tkld,Tkld%,Carries,TotDist,PrgDist,PrgC,1/3,CPA,Mis,Dis,Rec,PrgR
+0,Kai Havertz,29.0,de GER,FW,22-148,90,50,0,3,17,31,9,50,0,0,,0,,17,155,110,3,0,2,4,0,41,13
+1,Callum Hudson-Odoi,20.0,eng ENG,FW,20-364,84,35,0,0,7,28,8,35,1,1,100.0,0,0.0,16,85,53,4,0,3,3,1,27,7
+2,Christian Pulisic,10.0,us USA,FW,23-049,6,8,0,0,1,7,2,8,0,0,,0,,6,59,26,0,0,0,0,0,9,3
+3,Ross Barkley,18.0,eng ENG,AM,27-336,72,57,0,5,16,36,3,57,4,4,100.0,0,0.0,30,241,128,3,2,0,1,4,43,6
+4,Ruben Loftus-Cheek,12.0,eng ENG,AM,25-287,18,12,0,0,8,5,1,12,2,1,50.0,1,50.0,9,65,39,2,1,0,0,2,12,4
+5,Jorginho,5.0,it ITA,CM,29-321,90,87,2,21,49,18,1,87,1,0,0.0,1,100.0,36,227,139,2,1,0,1,1,66,0
+6,N'Golo Kanté,7.0,fr FRA,CM,30-222,84,58,0,18,24,17,0,58,3,3,100.0,0,0.0,27,202,101,3,2,0,2,1,43,2
+7,Mason Mount,19.0,eng ENG,CM,22-300,6,7,0,1,2,4,0,7,0,0,,0,,0,0,0,0,0,0,0,0,2,0
+8,Ben Chilwell,21.0,eng ENG,WB,24-320,90,77,2,12,23,43,9,77,1,0,0.0,1,100.0,35,160,78,4,1,1,4,0,60,18
+9,Reece James,24.0,eng ENG,WB,21-333,90,100,1,24,33,44,6,100,3,2,66.7,1,33.3,46,351,189,4,7,2,3,2,72,16
+10,Antonio Rüdiger,2.0,de GER,CB,28-248,90,93,2,30,47,16,6,93,0,0,,0,,44,291,176,3,3,1,2,2,75,2
+11,Thiago Silva,6.0,br BRA,CB,37-045,90,93,14,50,37,6,5,93,0,0,,0,,43,220,163,0,0,0,0,0,72,0
+12,Andreas Christensen,4.0,dk DEN,CB,25-210,90,90,0,46,38,6,3,90,0,0,,0,,28,162,107,0,1,0,1,0,61,0
+13,Edouard Mendy,16.0,sn SEN,GK,29-250,90,29,25,28,1,0,0,29,0,0,,0,,13,66,36,0,0,0,0,0,17,0
+14,14 Players,,,,,990,796,46,238,303,261,53,796,15,11,73.3,4,26.7,350,2284,1345,28,18,9,21,13,600,71

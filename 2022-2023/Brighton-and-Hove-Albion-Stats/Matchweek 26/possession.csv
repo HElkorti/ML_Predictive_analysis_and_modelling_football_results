@@ -1,0 +1,19 @@
+,Unnamed: 0_level_0,Unnamed: 1_level_0,Unnamed: 2_level_0,Unnamed: 3_level_0,Unnamed: 4_level_0,Unnamed: 5_level_0,Touches,Touches,Touches,Touches,Touches,Touches,Touches,Take-Ons,Take-Ons,Take-Ons,Take-Ons,Take-Ons,Carries,Carries,Carries,Carries,Carries,Carries,Carries,Carries,Receiving,Receiving
+,Player,#,Nation,Pos,Age,Min,Touches,Def Pen,Def 3rd,Mid 3rd,Att 3rd,Att Pen,Live,Att,Succ,Succ%,Tkld,Tkld%,Carries,TotDist,PrgDist,PrgC,1/3,CPA,Mis,Dis,Rec,PrgR
+0,Evan Ferguson,28.0,ie IRL,FW,18-136,82,40,1,3,22,15,2,40,1,1,100.0,0,0.0,31,130,35,2,0,1,3,1,34,9
+1,Jeremy Sarmiento,19.0,ec ECU,FW,20-261,8,12,0,0,4,8,0,12,1,0,0.0,1,100.0,8,63,26,0,0,0,2,0,8,2
+2,Kaoru Mitoma,22.0,jp JPN,LW,25-288,82,54,0,6,18,32,4,54,6,3,50.0,3,50.0,44,294,171,7,4,2,2,1,42,10
+3,Julio César Enciso,20.0,py PAR,LW,19-040,8,5,0,0,2,3,1,5,0,0,,0,,4,10,5,0,0,0,0,1,3,1
+4,Solly March,7.0,eng ENG,RW,28-227,74,49,2,4,15,30,10,49,5,3,60.0,2,40.0,37,208,90,4,1,2,1,0,34,14
+5,Facundo Buonanotte,40.0,ar ARG,RW,18-071,16,11,0,0,3,8,3,11,0,0,,0,,10,50,22,0,0,0,0,0,9,1
+6,Alexis Mac Allister,10.0,ar ARG,AM,24-070,90,73,1,5,48,23,7,72,1,1,100.0,0,0.0,48,316,174,5,3,2,2,1,59,5
+7,Moisés Caicedo,25.0,ec ECU,DM,21-122,90,118,4,26,76,16,0,118,1,1,100.0,0,0.0,86,348,155,1,0,0,1,0,97,0
+8,Pascal Groß,13.0,de GER,DM,31-262,90,91,4,17,49,25,4,91,1,1,100.0,0,0.0,63,295,156,7,3,2,1,0,71,7
+9,Pervis Estupiñán,30.0,ec ECU,LB,25-042,75,69,0,7,45,19,1,69,3,2,66.7,1,33.3,43,306,142,3,2,0,2,0,48,5
+10,Danny Welbeck,18.0,eng ENG,LB,32-098,15,7,0,0,2,5,0,7,0,0,,0,,7,47,39,1,1,0,0,0,7,2
+11,Lewis Dunk,5.0,eng ENG,CB,31-103,90,106,13,46,59,1,1,106,0,0,,0,,81,312,139,0,0,0,0,0,92,0
+12,Adam Webster,4.0,eng ENG,CB,28-059,90,93,6,34,59,0,0,93,0,0,,0,,67,422,229,0,0,0,1,0,74,0
+13,Tariq Lamptey,2.0,gh GHA,RB,22-155,15,14,0,2,8,4,0,14,0,0,,0,,10,89,59,1,1,0,0,0,10,1
+14,Joël Veltman,34.0,nl NED,RB,31-048,75,65,3,14,35,16,2,65,0,0,,0,,45,200,55,1,2,0,1,0,47,5
+15,Jason Steele,23.0,eng ENG,GK,32-198,90,35,30,35,0,0,0,35,0,0,,0,,28,107,29,0,0,0,0,0,23,0
+16,16 Players,,,,,990,842,64,199,445,205,35,841,19,12,63.2,7,36.8,612,3197,1526,32,17,9,16,4,658,62

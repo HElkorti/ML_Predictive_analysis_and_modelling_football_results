@@ -1,0 +1,18 @@
+,Unnamed: 0_level_0,Unnamed: 1_level_0,Unnamed: 2_level_0,Unnamed: 3_level_0,Unnamed: 4_level_0,Unnamed: 5_level_0,Unnamed: 6_level_0,Pass Types,Pass Types,Pass Types,Pass Types,Pass Types,Pass Types,Pass Types,Pass Types,Corner Kicks,Corner Kicks,Corner Kicks,Outcomes,Outcomes,Outcomes
+,Player,#,Nation,Pos,Age,Min,Att,Live,Dead,FK,TB,Sw,Crs,TI,CK,In,Out,Str,Cmp,Off,Blocks
+0,Odsonne Édouard,22.0,fr FRA,FW,24-201,57,6,6,0,0,0,0,0,0,0,0,0,0,3,0,0
+1,Jean-Philippe Mateta,14.0,fr FRA,FW,25-038,33,10,10,0,0,0,0,0,0,0,0,0,0,8,0,1
+2,Wilfried Zaha,11.0,ci CIV,LW,29-268,90,39,39,0,0,1,0,4,0,0,0,0,0,30,0,2
+3,Jordan Ayew,9.0,gh GHA,"RW,AM",30-328,90,34,34,0,0,0,0,4,0,0,0,0,0,27,0,0
+4,Eberechi Eze,10.0,eng ENG,AM,24-037,85,41,30,10,5,0,0,5,0,3,1,2,0,32,1,2
+5,Malcolm Ebiowei,23.0,eng ENG,RW,18-335,5,3,3,0,0,0,0,0,0,0,0,0,0,2,0,1
+6,Jeffrey Schlupp,15.0,gh GHA,DM,29-225,85,35,35,0,0,1,0,0,0,0,0,0,0,30,0,0
+7,Will Hughes,19.0,eng ENG,DM,27-110,5,5,4,1,0,0,0,1,0,0,0,0,0,3,0,1
+8,Cheick Doucouré,28.0,ml MLI,DM,22-209,74,34,34,0,0,0,0,0,0,0,0,0,0,32,0,0
+9,Luka Milivojević,4.0,rs SRB,DM,31-120,16,17,17,0,0,0,0,1,0,0,0,0,0,15,0,0
+10,Tyrick Mitchell,3.0,eng ENG,LB,22-338,90,66,53,13,0,0,0,1,13,0,0,0,0,50,0,3
+11,Marc Guéhi,6.0,eng ENG,CB,22-023,90,105,104,1,1,0,0,0,0,0,0,0,0,93,0,1
+12,Joachim Andersen,16.0,dk DEN,CB,26-066,90,107,102,5,3,0,4,1,2,0,0,0,0,93,0,0
+13,Nathaniel Clyne,17.0,eng ENG,RB,31-122,90,68,58,10,0,0,0,2,10,0,0,0,0,59,0,0
+14,Vicente Guaita,13.0,es ESP,GK,35-207,90,39,31,8,4,0,1,0,0,0,0,0,0,37,0,0
+15,15 Players,,,,,990,609,560,48,13,2,5,19,25,3,1,2,0,514,1,11

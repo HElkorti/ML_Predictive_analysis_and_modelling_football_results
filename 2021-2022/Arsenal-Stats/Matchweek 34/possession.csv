@@ -1,0 +1,17 @@
+,Unnamed: 0_level_0,Unnamed: 1_level_0,Unnamed: 2_level_0,Unnamed: 3_level_0,Unnamed: 4_level_0,Unnamed: 5_level_0,Touches,Touches,Touches,Touches,Touches,Touches,Touches,Take-Ons,Take-Ons,Take-Ons,Take-Ons,Take-Ons,Carries,Carries,Carries,Carries,Carries,Carries,Carries,Carries,Receiving,Receiving
+,Player,#,Nation,Pos,Age,Min,Touches,Def Pen,Def 3rd,Mid 3rd,Att 3rd,Att Pen,Live,Att,Succ,Succ%,Tkld,Tkld%,Carries,TotDist,PrgDist,PrgC,1/3,CPA,Mis,Dis,Rec,PrgR
+0,Eddie Nketiah,30.0,eng ENG,FW,22-328,90,29,0,1,13,15,5,29,2,0,0.0,2,100.0,20,115,53,2,2,0,2,1,29,9
+1,Emile Smith Rowe,10.0,eng ENG,LW,21-269,63,27,0,3,12,12,0,27,1,0,0.0,1,100.0,15,83,53,2,3,0,1,1,16,5
+2,Gabriel Martinelli,35.0,br BRA,"AM,LW",20-309,27,6,0,2,3,1,0,6,0,0,,0,,5,29,10,1,0,0,0,1,7,2
+3,Bukayo Saka,7.0,eng ENG,RW,20-230,73,39,0,3,12,24,7,38,0,0,,0,,26,137,56,2,0,1,0,1,29,9
+4,Rob Holding,16.0,eng ENG,CB,26-215,17,7,4,7,0,0,0,7,0,0,,0,,1,8,1,0,0,0,0,0,2,0
+5,Martin Ødegaard,8.0,no NOR,AM,23-127,90,59,1,7,26,26,0,59,3,1,33.3,2,66.7,39,157,38,1,1,0,1,2,46,8
+6,Granit Xhaka,34.0,ch SUI,"DM,CM",29-208,90,78,3,15,52,11,0,78,0,0,,0,,55,227,98,0,0,0,0,2,66,0
+7,Mohamed Elneny,25.0,eg EGY,"DM,CM",29-286,90,80,2,17,47,16,0,80,0,0,,0,,48,216,84,0,0,0,0,0,58,1
+8,Nuno Tavares,20.0,pt POR,"LB,WB",22-087,90,47,5,10,20,17,5,47,1,1,100.0,0,0.0,28,138,92,1,0,0,3,0,28,8
+9,Gabriel Dos Santos,6.0,br BRA,CB,24-125,90,55,4,21,31,3,1,55,0,0,,0,,40,241,108,1,1,0,1,0,36,0
+10,Ben White,4.0,eng ENG,CB,24-197,90,72,7,37,33,2,0,72,0,0,,0,,41,172,101,0,0,0,2,0,52,0
+11,Cédric Soares,17.0,pt POR,"RB,WB",30-235,89,76,5,18,43,15,0,76,2,2,100.0,0,0.0,42,119,43,0,0,0,1,0,51,4
+12,Takehiro Tomiyasu,18.0,jp JPN,WB,23-169,1,4,0,1,2,1,0,4,0,0,,0,,5,33,13,1,0,0,0,0,5,0
+13,Aaron Ramsdale,32.0,eng ENG,GK,23-344,90,54,41,54,0,0,0,54,0,0,,0,,30,145,66,0,0,0,0,0,25,0
+14,14 Players,,,,,990,633,72,196,294,143,18,632,9,4,44.4,5,55.6,395,1820,816,11,7,1,11,8,450,46

@@ -1,0 +1,17 @@
+,Unnamed: 0_level_0,Unnamed: 1_level_0,Unnamed: 2_level_0,Unnamed: 3_level_0,Unnamed: 4_level_0,Unnamed: 5_level_0,Unnamed: 6_level_0,Pass Types,Pass Types,Pass Types,Pass Types,Pass Types,Pass Types,Pass Types,Pass Types,Corner Kicks,Corner Kicks,Corner Kicks,Outcomes,Outcomes,Outcomes
+,Player,#,Nation,Pos,Age,Min,Att,Live,Dead,FK,TB,Sw,Crs,TI,CK,In,Out,Str,Cmp,Off,Blocks
+0,Kai Havertz,29.0,de GER,FW,22-267,90,26,25,1,0,0,0,0,0,0,0,0,0,20,0,1
+1,Christian Pulisic,10.0,us USA,AM,23-168,90,39,39,0,0,0,0,1,0,0,0,0,0,35,0,1
+2,Mason Mount,19.0,eng ENG,AM,23-054,77,59,56,3,1,0,0,4,0,2,1,1,0,51,0,3
+3,Timo Werner,11.0,de GER,AM,25-364,13,3,3,0,0,0,0,0,0,0,0,0,0,3,0,0
+4,Jorginho,5.0,it ITA,CM,30-075,90,93,90,3,3,0,0,0,0,0,0,0,0,85,0,0
+5,N'Golo Kanté,7.0,fr FRA,CM,30-341,69,39,39,0,0,0,0,0,0,0,0,0,0,35,0,0
+6,Ruben Loftus-Cheek,12.0,eng ENG,WB,26-041,21,20,19,1,0,0,0,0,1,0,0,0,0,19,0,0
+7,Saúl Ñíguez,17.0,es ESP,WB,27-104,90,78,70,8,0,0,0,6,8,0,0,0,0,64,0,1
+8,Reece James,24.0,eng ENG,WB,22-087,69,67,59,8,0,0,1,4,8,0,0,0,0,56,0,2
+9,Mateo Kovačić,8.0,hr CRO,CM,27-303,21,22,22,0,0,0,0,0,0,0,0,0,0,21,0,0
+10,Antonio Rüdiger,2.0,de GER,CB,29-002,90,130,125,4,4,0,3,0,0,0,0,0,0,114,1,1
+11,Thiago Silva,6.0,br BRA,CB,37-164,90,112,111,1,1,0,0,0,0,0,0,0,0,107,0,0
+12,Trevoh Chalobah,14.0,eng ENG,CB,22-243,90,106,104,2,2,0,2,0,0,0,0,0,0,98,0,0
+13,Edouard Mendy,16.0,sn SEN,GK,30-004,90,35,28,7,2,0,0,0,0,0,0,0,0,27,0,0
+14,14 Players,,,,,990,829,790,38,13,0,6,15,17,2,1,1,0,735,1,9

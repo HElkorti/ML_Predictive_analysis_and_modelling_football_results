@@ -1,0 +1,17 @@
+,Unnamed: 0_level_0,Unnamed: 1_level_0,Unnamed: 2_level_0,Unnamed: 3_level_0,Unnamed: 4_level_0,Unnamed: 5_level_0,Touches,Touches,Touches,Touches,Touches,Touches,Touches,Take-Ons,Take-Ons,Take-Ons,Take-Ons,Take-Ons,Carries,Carries,Carries,Carries,Carries,Carries,Carries,Carries,Receiving,Receiving
+,Player,#,Nation,Pos,Age,Min,Touches,Def Pen,Def 3rd,Mid 3rd,Att 3rd,Att Pen,Live,Att,Succ,Succ%,Tkld,Tkld%,Carries,TotDist,PrgDist,PrgC,1/3,CPA,Mis,Dis,Rec,PrgR
+0,Wilfried Zaha,11.0,ci CIV,"FW,LM",28-146,90,64,0,6,17,42,6,64,5,3,60.0,2,40.0,41,444,278,10,5,4,6,1,49,13
+1,Christian Benteke,20.0,be BEL,FW,30-123,76,36,0,2,16,18,5,36,1,0,0.0,1,100.0,15,59,13,0,0,0,4,1,31,11
+2,Jean-Philippe Mateta,14.0,fr FRA,FW,23-281,14,9,0,1,6,2,1,9,1,1,100.0,0,0.0,4,11,5,0,0,0,2,0,7,2
+3,Eberechi Eze,25.0,eng ENG,"LM,CM",22-280,90,69,1,13,35,23,2,69,4,2,50.0,2,50.0,42,373,192,6,4,1,1,2,55,8
+4,Jaïro Riedewald,44.0,nl NED,CM,24-208,67,32,0,6,21,5,0,32,1,1,100.0,0,0.0,14,80,45,0,0,0,1,0,22,0
+5,Jeffrey Schlupp,15.0,gh GHA,"CM,RM",28-103,23,14,1,7,2,5,2,14,0,0,,0,,5,52,17,2,0,1,0,0,8,2
+6,Luka Milivojević,4.0,rs SRB,CM,29-363,90,78,1,23,47,8,0,78,1,0,0.0,1,100.0,35,197,100,0,0,0,1,1,51,0
+7,Jordan Ayew,9.0,gh GHA,RM,29-206,83,52,0,8,26,19,3,52,1,0,0.0,1,100.0,30,230,125,5,3,2,2,1,42,3
+8,Michy Batshuayi,23.0,be BEL,FW,27-185,7,7,0,1,2,4,2,7,1,0,0.0,1,100.0,6,33,13,0,0,1,1,0,6,3
+9,Patrick van Aanholt,3.0,nl NED,LB,30-219,90,83,3,31,32,20,4,83,0,0,,0,,42,210,102,2,1,1,3,2,58,6
+10,Gary Cahill,24.0,eng ENG,CB,35-107,90,44,5,24,18,2,1,44,0,0,,0,,16,98,35,0,0,0,0,0,24,0
+11,Cheikhou Kouyaté,8.0,sn SEN,CB,31-105,90,61,2,39,21,1,0,61,0,0,,0,,25,97,51,0,0,0,0,0,38,0
+12,Joel Ward,2.0,eng ENG,RB,31-158,90,67,0,25,29,15,0,67,1,1,100.0,0,0.0,29,119,92,2,2,0,1,0,41,2
+13,Vicente Guaita,31.0,es ESP,GK,34-085,90,38,33,38,0,0,0,38,0,0,,0,,16,80,54,0,0,0,0,0,14,0
+14,14 Players,,,,,990,654,46,224,272,164,26,654,16,8,50.0,8,50.0,320,2083,1122,27,15,10,22,8,446,50

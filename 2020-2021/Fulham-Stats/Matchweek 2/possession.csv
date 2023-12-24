@@ -1,0 +1,17 @@
+,Unnamed: 0_level_0,Unnamed: 1_level_0,Unnamed: 2_level_0,Unnamed: 3_level_0,Unnamed: 4_level_0,Unnamed: 5_level_0,Touches,Touches,Touches,Touches,Touches,Touches,Touches,Take-Ons,Take-Ons,Take-Ons,Take-Ons,Take-Ons,Carries,Carries,Carries,Carries,Carries,Carries,Carries,Carries,Receiving,Receiving
+,Player,#,Nation,Pos,Age,Min,Touches,Def Pen,Def 3rd,Mid 3rd,Att 3rd,Att Pen,Live,Att,Succ,Succ%,Tkld,Tkld%,Carries,TotDist,PrgDist,PrgC,1/3,CPA,Mis,Dis,Rec,PrgR
+0,Aleksandar Mitrović,9.0,rs SRB,FW,26-003,90,54,2,4,27,23,7,53,1,0,0.0,1,100.0,32,108,37,0,0,1,8,1,41,7
+1,Ivan Cavaleiro,17.0,pt POR,LW,26-337,90,53,0,7,20,26,0,53,3,2,66.7,1,33.3,30,207,65,1,2,0,6,4,31,5
+2,Aboubakar Kamara,47.0,mr MTN,RW,25-196,57,25,0,3,11,11,1,25,1,1,100.0,0,0.0,24,107,40,2,0,0,0,2,23,7
+3,Neeskens Kebano,7.0,cd COD,RW,28-193,33,17,0,4,4,10,1,17,3,1,33.3,2,66.7,9,64,33,1,1,0,3,0,9,4
+4,Josh Onomah,25.0,eng ENG,AM,23-145,57,27,1,3,13,12,1,27,0,0,,0,,20,130,58,1,2,0,2,2,19,2
+5,Bobby Reid,14.0,jm JAM,AM,27-230,33,13,1,1,4,8,1,13,3,2,66.7,1,33.3,11,59,32,1,0,1,1,0,9,1
+6,Harrison Reed,21.0,eng ENG,DM,25-236,69,60,2,10,42,9,0,60,1,1,100.0,0,0.0,43,244,114,3,0,0,1,0,43,1
+7,Mario Lemina,18.0,ga GAB,DM,27-018,21,10,0,3,6,1,0,10,0,0,,0,,7,49,31,1,0,0,0,0,6,0
+8,Andre-Frank Zambo Anguissa,29.0,cm CMR,DM,24-308,90,75,2,16,49,15,0,75,11,8,72.7,3,27.3,45,270,145,3,5,0,2,3,37,4
+9,Joe Bryan,23.0,eng ENG,LB,27-002,90,59,4,22,28,12,0,59,3,3,100.0,0,0.0,32,151,70,1,2,1,3,1,26,1
+10,Denis Odoi,4.0,gh GHA,CB,32-115,90,61,5,30,27,4,0,61,0,0,,0,,44,322,254,5,2,0,0,0,41,0
+11,Michael Hector,3.0,jm JAM,CB,28-062,90,69,5,35,32,3,1,69,2,2,100.0,0,0.0,43,271,212,0,1,0,1,0,47,0
+12,Kenny Tete,2.0,nl NED,RB,24-346,90,52,4,17,19,17,1,52,1,0,0.0,1,100.0,23,181,32,1,1,0,2,0,22,2
+13,Alphonse Areola,1.0,fr FRA,GK,27-205,90,40,29,40,0,0,0,40,0,0,,0,,31,141,108,0,0,0,0,0,21,0
+14,14 Players,,,,,990,615,55,195,282,151,13,614,29,20,69.0,9,31.0,394,2304,1231,20,16,3,29,13,375,34

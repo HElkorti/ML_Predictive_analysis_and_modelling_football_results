@@ -1,0 +1,17 @@
+,Unnamed: 0_level_0,Unnamed: 1_level_0,Unnamed: 2_level_0,Unnamed: 3_level_0,Unnamed: 4_level_0,Unnamed: 5_level_0,Unnamed: 6_level_0,Pass Types,Pass Types,Pass Types,Pass Types,Pass Types,Pass Types,Pass Types,Pass Types,Corner Kicks,Corner Kicks,Corner Kicks,Outcomes,Outcomes,Outcomes
+,Player,#,Nation,Pos,Age,Min,Att,Live,Dead,FK,TB,Sw,Crs,TI,CK,In,Out,Str,Cmp,Off,Blocks
+0,Timo Werner,11.0,de GER,"FW,AM",25-056,90,18,17,0,0,1,0,0,0,0,0,0,0,10,1,0
+1,Kai Havertz,29.0,de GER,FW,21-324,90,33,32,1,0,0,0,0,0,0,0,0,0,28,0,1
+2,Mason Mount,19.0,eng ENG,"CM,AM",22-111,75,42,38,2,1,0,3,1,0,1,0,1,0,34,2,0
+3,Tammy Abraham,9.0,eng ENG,AM,23-211,15,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+4,Billy Gilmour,23.0,sct SCO,CM,19-324,90,56,54,1,1,0,0,0,0,0,0,0,0,47,1,2
+5,Hakim Ziyech,22.0,ma MAR,CM,28-043,65,40,38,2,1,2,1,0,1,0,0,0,0,33,0,0
+6,N'Golo Kanté,7.0,fr FRA,CM,30-033,25,8,8,0,0,0,0,0,0,0,0,0,0,5,0,1
+7,Ben Chilwell,21.0,eng ENG,WB,24-131,80,38,29,7,1,0,0,2,6,0,0,0,0,29,2,2
+8,Marcos Alonso,3.0,es ESP,WB,30-124,10,2,2,0,0,0,0,0,0,0,0,0,0,1,0,0
+9,Reece James,24.0,eng ENG,WB,21-144,90,60,50,10,1,0,1,0,9,0,0,0,0,49,0,3
+10,Kurt Zouma,15.0,fr FRA,CB,26-186,90,61,61,0,0,0,0,0,0,0,0,0,0,57,0,1
+11,Thiago Silva,6.0,br BRA,CB,36-221,90,92,90,1,1,0,0,0,0,0,0,0,0,84,1,0
+12,Andreas Christensen,4.0,dk DEN,CB,25-021,90,57,57,0,0,0,1,0,0,0,0,0,0,51,0,1
+13,Edouard Mendy,16.0,sn SEN,GK,29-061,90,34,24,10,2,0,0,0,0,0,0,0,0,26,0,0
+14,14 Players,,,,,990,542,501,34,8,3,6,3,16,1,0,1,0,454,7,11

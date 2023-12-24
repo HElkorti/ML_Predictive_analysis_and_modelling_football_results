@@ -1,0 +1,17 @@
+,Unnamed: 0_level_0,Unnamed: 1_level_0,Unnamed: 2_level_0,Unnamed: 3_level_0,Unnamed: 4_level_0,Unnamed: 5_level_0,Touches,Touches,Touches,Touches,Touches,Touches,Touches,Take-Ons,Take-Ons,Take-Ons,Take-Ons,Take-Ons,Carries,Carries,Carries,Carries,Carries,Carries,Carries,Carries,Receiving,Receiving
+,Player,#,Nation,Pos,Age,Min,Touches,Def Pen,Def 3rd,Mid 3rd,Att 3rd,Att Pen,Live,Att,Succ,Succ%,Tkld,Tkld%,Carries,TotDist,PrgDist,PrgC,1/3,CPA,Mis,Dis,Rec,PrgR
+0,Kelechi Iheanacho,14.0,ng NGA,FW,25-161,73,29,1,1,16,12,2,29,1,0,0.0,1,100.0,17,116,42,1,0,0,2,1,21,2
+1,Patson Daka,29.0,zm ZAM,FW,23-155,17,3,0,0,1,2,2,3,0,0,,0,,4,19,7,0,0,0,2,1,4,1
+2,Harvey Barnes,7.0,eng ENG,LW,24-094,90,41,1,2,17,22,4,41,2,0,0.0,2,100.0,32,208,100,4,3,1,3,2,36,10
+3,Marc Albrighton,11.0,eng ENG,RW,32-115,90,54,2,9,21,25,0,54,0,0,,0,,34,208,48,2,0,0,0,0,32,8
+4,James Maddison,10.0,eng ENG,AM,25-110,90,63,1,9,39,15,1,63,1,0,0.0,1,100.0,46,353,113,1,3,0,1,1,51,2
+5,Kiernan Dewsbury-Hall,22.0,eng ENG,DM,23-188,90,69,3,12,43,14,3,69,0,0,,0,,41,184,82,2,0,0,4,3,50,4
+6,Nampalys Mendy,24.0,sn SEN,DM,29-263,60,35,2,12,21,2,0,35,0,0,,0,,27,173,50,0,1,0,0,0,30,0
+7,Wilfred Ndidi,25.0,ng NGA,DM,25-087,30,37,3,8,24,5,1,37,0,0,,0,,23,106,35,0,0,0,2,2,22,1
+8,Luke Thomas,33.0,eng ENG,LB,20-276,90,96,6,28,55,13,1,96,0,0,,0,,60,190,77,1,2,0,1,1,64,2
+9,Çağlar Söyüncü,4.0,tr TUR,CB,25-294,90,92,12,46,44,2,1,92,0,0,,0,,79,353,127,0,0,0,0,0,77,0
+10,Daniel Amartey,18.0,gh GHA,CB,27-082,90,71,10,36,31,5,0,71,0,0,,0,,55,219,91,1,1,0,0,0,56,0
+11,Ricardo Pereira,21.0,pt POR,RB,28-158,60,51,1,23,20,8,1,51,0,0,,0,,34,129,55,0,0,0,1,0,39,1
+12,James Justin,2.0,eng ENG,RB,24-018,30,22,0,4,12,6,0,22,0,0,,0,,18,63,24,0,1,0,0,0,18,3
+13,Kasper Schmeichel,1.0,dk DEN,GK,35-128,90,38,37,38,0,0,0,38,0,0,,0,,20,114,68,0,0,0,1,0,17,0
+14,14 Players,,,,,990,701,79,228,344,131,16,701,4,0,0.0,4,100.0,490,2435,919,12,11,1,17,11,517,34

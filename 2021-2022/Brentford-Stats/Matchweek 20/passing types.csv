@@ -1,0 +1,17 @@
+,Unnamed: 0_level_0,Unnamed: 1_level_0,Unnamed: 2_level_0,Unnamed: 3_level_0,Unnamed: 4_level_0,Unnamed: 5_level_0,Unnamed: 6_level_0,Pass Types,Pass Types,Pass Types,Pass Types,Pass Types,Pass Types,Pass Types,Pass Types,Corner Kicks,Corner Kicks,Corner Kicks,Outcomes,Outcomes,Outcomes
+,Player,#,Nation,Pos,Age,Min,Att,Live,Dead,FK,TB,Sw,Crs,TI,CK,In,Out,Str,Cmp,Off,Blocks
+0,Ivan Toney,17.0,eng ENG,FW,25-288,90,15,15,0,0,0,0,1,0,0,0,0,0,9,0,0
+1,Yoane Wissa,11.0,cd COD,FW,25-117,68,7,7,0,0,0,0,0,0,0,0,0,0,6,0,0
+2,Sergi Canós,7.0,es ESP,FW,24-330,22,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+3,Frank Onyeka,15.0,ng NGA,CM,23-362,74,16,16,0,0,0,0,0,0,0,0,0,0,12,0,0
+4,Mads Bidstrup,28.0,dk DEN,CM,20-307,16,2,2,0,0,0,0,0,0,0,0,0,0,1,0,0
+5,Mathias Jensen,8.0,dk DEN,CM,25-362,90,27,16,11,6,0,2,5,0,3,0,0,2,16,0,0
+6,Shandon Baptiste,26.0,gd GRN,CM,23-265,90,7,7,0,0,0,0,0,0,0,0,0,0,7,0,0
+7,Dominic Thompson,2.0,eng ENG,WB,21-156,81,16,16,0,0,0,0,0,0,0,0,0,0,6,0,1
+8,Saman Ghoddos,14.0,ir IRN,WB,28-114,9,2,2,0,0,0,0,0,0,0,0,0,0,1,0,0
+9,Mads Roerslev,30.0,dk DEN,WB,22-188,90,12,11,1,0,0,0,1,1,0,0,0,0,8,0,0
+10,Mads Bech Sørensen,29.0,dk DEN,CB,22-356,90,48,41,7,0,0,0,0,7,0,0,0,0,26,0,4
+11,Pontus Jansson,18.0,se SWE,CB,30-319,90,17,17,0,0,0,0,0,0,0,0,0,0,13,0,0
+12,Ethan Pinnock,5.0,jm JAM,CB,28-214,90,28,26,2,0,0,0,3,2,0,0,0,0,17,0,1
+13,Álvaro Fernández,40.0,es ESP,GK,23-260,90,43,25,18,7,0,0,0,0,0,0,0,0,22,0,0
+14,14 Players,,,,,990,240,201,39,13,0,2,10,10,3,0,0,2,144,0,6

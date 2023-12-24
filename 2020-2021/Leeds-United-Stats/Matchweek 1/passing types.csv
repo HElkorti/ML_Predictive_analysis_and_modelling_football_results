@@ -1,0 +1,17 @@
+,Unnamed: 0_level_0,Unnamed: 1_level_0,Unnamed: 2_level_0,Unnamed: 3_level_0,Unnamed: 4_level_0,Unnamed: 5_level_0,Unnamed: 6_level_0,Pass Types,Pass Types,Pass Types,Pass Types,Pass Types,Pass Types,Pass Types,Pass Types,Corner Kicks,Corner Kicks,Corner Kicks,Outcomes,Outcomes,Outcomes
+,Player,#,Nation,Pos,Age,Min,Att,Live,Dead,FK,TB,Sw,Crs,TI,CK,In,Out,Str,Cmp,Off,Blocks
+0,Patrick Bamford,9.0,eng ENG,FW,27-007,61,10,6,4,0,0,0,0,0,0,0,0,0,6,0,0
+1,Rodrigo,20.0,es ESP,FW,29-190,29,3,2,1,0,0,0,0,0,0,0,0,0,2,0,0
+2,Jack Harrison,22.0,eng ENG,LM,23-297,90,29,28,0,0,0,0,2,0,0,0,0,0,21,1,0
+3,Mateusz Klich,43.0,pl POL,CM,30-091,80,32,31,0,0,0,0,1,0,0,0,0,0,26,1,0
+4,Jamie Shackleton,46.0,eng ENG,CM,20-340,10,3,3,0,0,0,0,0,0,0,0,0,0,3,0,0
+5,Pablo Hernández,19.0,es ESP,CM,35-154,61,42,39,3,1,0,0,2,2,0,0,0,0,25,0,2
+6,Tyler Roberts,11.0,wls WAL,CM,21-244,29,11,11,0,0,0,0,1,0,0,0,0,0,3,0,1
+7,Hélder Costa,17.0,ao ANG,RM,26-244,90,15,15,0,0,0,0,2,0,0,0,0,0,10,0,1
+8,Kalvin Phillips,23.0,eng ENG,DM,24-285,90,54,50,2,2,0,3,1,0,0,0,0,0,42,2,0
+9,Stuart Dallas,15.0,nir NIR,LB,29-146,90,63,55,8,0,0,0,0,8,0,0,0,0,46,0,2
+10,Pascal Struijk,21.0,nl NED,CB,21-032,90,59,56,3,3,0,1,0,0,0,0,0,0,52,0,0
+11,Robin Koch,5.0,de GER,CB,24-057,90,61,59,1,1,0,0,0,0,0,0,0,0,50,1,0
+12,Luke Ayling,2.0,eng ENG,RB,29-018,90,69,53,16,1,1,1,0,15,0,0,0,0,51,0,0
+13,Illan Meslier,1.0,fr FRA,GK,20-194,90,58,44,14,2,0,0,0,0,0,0,0,0,45,0,0
+14,14 Players,,,,,990,509,452,52,10,1,5,9,25,0,0,0,0,382,5,6

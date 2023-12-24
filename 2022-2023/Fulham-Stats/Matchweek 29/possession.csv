@@ -1,0 +1,19 @@
+,Unnamed: 0_level_0,Unnamed: 1_level_0,Unnamed: 2_level_0,Unnamed: 3_level_0,Unnamed: 4_level_0,Unnamed: 5_level_0,Touches,Touches,Touches,Touches,Touches,Touches,Touches,Take-Ons,Take-Ons,Take-Ons,Take-Ons,Take-Ons,Carries,Carries,Carries,Carries,Carries,Carries,Carries,Carries,Receiving,Receiving
+,Player,#,Nation,Pos,Age,Min,Touches,Def Pen,Def 3rd,Mid 3rd,Att 3rd,Att Pen,Live,Att,Succ,Succ%,Tkld,Tkld%,Carries,TotDist,PrgDist,PrgC,1/3,CPA,Mis,Dis,Rec,PrgR
+0,Carlos Vinícius,30.0,br BRA,FW,28-007,90,21,0,0,10,11,4,21,0,0,,0,,5,17,1,0,0,0,2,0,17,3
+1,Manor Solomon,11.0,il ISR,LW,23-251,90,44,2,10,9,25,2,44,3,2,66.7,0,0.0,26,248,101,2,3,0,1,0,28,10
+2,Bobby Reid,14.0,jm JAM,RW,30-058,68,28,2,3,11,14,4,28,1,1,100.0,0,0.0,20,68,19,0,1,0,0,3,22,11
+3,Daniel James,21.0,wls WAL,RW,25-142,22,13,0,3,6,4,2,13,1,0,0.0,0,0.0,7,24,10,0,0,0,0,1,8,2
+4,Andreas Pereira,18.0,br BRA,AM,27-090,81,39,0,3,19,17,4,39,0,0,,0,,21,155,50,2,2,0,2,5,28,4
+5,Saša Lukić,28.0,rs SRB,AM,26-231,9,9,0,0,7,2,0,9,0,0,,0,,7,53,31,1,1,0,0,0,8,1
+6,João Palhinha,26.0,pt POR,DM,27-266,87,42,1,16,19,7,0,42,2,1,50.0,0,0.0,20,68,37,1,0,0,0,1,33,2
+7,Harry Wilson,8.0,wls WAL,DM,26-010,3,4,0,0,1,3,0,4,0,0,,0,,3,28,5,0,0,0,0,0,4,2
+8,Harrison Reed,6.0,eng ENG,DM,28-064,68,43,1,8,17,18,2,43,3,2,66.7,0,0.0,20,101,19,0,0,0,1,1,30,3
+9,Tom Cairney,10.0,sct SCO,DM,32-071,22,20,0,3,8,9,0,20,1,0,0.0,1,100.0,16,125,41,1,1,0,1,2,16,1
+10,Antonee Robinson,33.0,us USA,LB,25-236,90,78,3,31,26,22,0,78,2,1,50.0,1,50.0,40,341,175,4,5,0,1,1,52,10
+11,Tim Ream,13.0,us USA,CB,35-178,90,80,16,45,36,0,0,80,1,1,100.0,0,0.0,47,320,217,1,0,0,0,0,52,0
+12,Issa Diop,31.0,fr FRA,CB,26-082,90,93,7,54,37,2,0,93,1,0,0.0,0,0.0,51,349,249,2,1,0,0,0,67,0
+13,Kenny Tete,2.0,nl NED,RB,27-174,81,56,3,24,14,18,1,56,1,0,0.0,1,100.0,23,148,21,1,2,0,2,0,31,2
+14,Cédric Soares,12.0,pt POR,RB,31-213,9,11,0,2,7,2,0,11,0,0,,0,,4,35,25,0,0,0,0,0,8,0
+15,Bernd Leno,17.0,de GER,GK,31-028,90,57,44,57,0,0,0,57,0,0,,0,,29,81,37,0,0,0,0,0,39,0
+16,16 Players,,,,,990,638,79,259,227,154,19,638,16,8,50.0,3,18.8,339,2161,1038,15,16,0,10,14,443,51

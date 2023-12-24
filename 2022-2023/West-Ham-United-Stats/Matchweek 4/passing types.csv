@@ -1,0 +1,17 @@
+,Unnamed: 0_level_0,Unnamed: 1_level_0,Unnamed: 2_level_0,Unnamed: 3_level_0,Unnamed: 4_level_0,Unnamed: 5_level_0,Unnamed: 6_level_0,Pass Types,Pass Types,Pass Types,Pass Types,Pass Types,Pass Types,Pass Types,Pass Types,Corner Kicks,Corner Kicks,Corner Kicks,Outcomes,Outcomes,Outcomes
+,Player,#,Nation,Pos,Age,Min,Att,Live,Dead,FK,TB,Sw,Crs,TI,CK,In,Out,Str,Cmp,Off,Blocks
+0,Gianluca Scamacca,7.0,it ITA,FW,23-239,64,13,13,0,0,0,0,0,0,0,0,0,0,9,0,0
+1,Michail Antonio,9.0,jm JAM,FW,32-153,26,9,9,0,0,0,0,1,0,0,0,0,0,6,0,0
+2,Jarrod Bowen,20.0,eng ENG,"FW,RW",25-251,90,20,19,1,0,0,0,2,0,1,1,0,0,12,0,2
+3,Pablo Fornals,8.0,es ESP,"CM,LM",26-187,90,44,43,1,0,1,2,6,0,1,1,0,0,28,0,0
+4,Declan Rice,41.0,eng ENG,CM,23-226,90,55,50,4,4,0,0,0,0,0,0,0,0,47,1,0
+5,Tomáš Souček,28.0,cz CZE,"CM,RM",27-182,90,38,38,0,0,0,0,0,0,0,0,0,0,33,0,1
+6,Emerson Palmieri,33.0,it ITA,WB,28-025,45,23,23,0,0,0,0,1,0,0,0,0,0,18,0,0
+7,Saïd Benrahma,22.0,dz ALG,"LW,WB",27-018,45,22,21,1,0,0,0,2,0,0,0,0,0,17,0,0
+8,Ben Johnson,2.0,eng ENG,WB,22-216,22,11,9,2,0,0,0,0,2,0,0,0,0,8,0,1
+9,Vladimír Coufal,5.0,cz CZE,"WB,RB",30-006,68,47,37,10,1,0,0,3,9,0,0,0,0,25,0,5
+10,Aaron Cresswell,3.0,eng ENG,"CB,LB",32-256,90,67,57,10,2,0,0,4,8,0,0,0,0,55,0,3
+11,Kurt Zouma,4.0,fr FRA,CB,27-305,90,46,43,3,2,0,1,0,1,0,0,0,0,39,0,0
+12,Thilo Kehrer,24.0,de GER,CB,25-341,90,47,43,4,1,0,2,0,3,0,0,0,0,40,0,0
+13,Łukasz Fabiański,1.0,pl POL,GK,37-132,90,28,18,10,1,0,0,0,0,0,0,0,0,23,0,0
+14,14 Players,,,,,990,470,423,46,11,1,5,19,23,2,2,0,0,360,1,12

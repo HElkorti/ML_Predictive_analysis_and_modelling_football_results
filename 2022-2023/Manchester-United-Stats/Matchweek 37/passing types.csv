@@ -1,0 +1,18 @@
+,Unnamed: 0_level_0,Unnamed: 1_level_0,Unnamed: 2_level_0,Unnamed: 3_level_0,Unnamed: 4_level_0,Unnamed: 5_level_0,Unnamed: 6_level_0,Pass Types,Pass Types,Pass Types,Pass Types,Pass Types,Pass Types,Pass Types,Pass Types,Corner Kicks,Corner Kicks,Corner Kicks,Outcomes,Outcomes,Outcomes
+,Player,#,Nation,Pos,Age,Min,Att,Live,Dead,FK,TB,Sw,Crs,TI,CK,In,Out,Str,Cmp,Off,Blocks
+0,Anthony Martial,9.0,fr FRA,FW,27-166,56,32,32,0,0,0,0,0,0,0,0,0,0,24,0,2
+1,Wout Weghorst,27.0,nl NED,FW,30-286,34,14,14,0,0,1,0,0,0,0,0,0,0,11,0,0
+2,Jadon Sancho,25.0,eng ENG,LW,23-056,71,51,51,0,0,0,0,0,0,0,0,0,0,44,0,0
+3,Alejandro Garnacho,49.0,ar ARG,LW,18-323,19,11,11,0,0,0,1,1,0,0,0,0,0,7,0,1
+4,Antony,21.0,br BRA,RW,23-085,85,58,56,2,0,0,0,0,2,0,0,0,0,50,0,1
+5,Fred,17.0,br BRA,"DM,RW",30-076,5,4,4,0,0,0,0,0,0,0,0,0,0,4,0,0
+6,Bruno Fernandes,8.0,pt POR,"AM,RW",28-254,90,64,60,4,2,2,0,4,1,0,0,0,0,50,0,1
+7,Christian Eriksen,14.0,dk DEN,DM,31-095,85,78,72,6,1,1,0,6,0,5,3,0,1,67,0,2
+8,Scott McTominay,39.0,sct SCO,"AM,DM",26-163,5,3,3,0,0,0,0,0,0,0,0,0,0,3,0,0
+9,Casemiro,18.0,br BRA,DM,31-086,90,73,73,0,0,0,1,0,0,0,0,0,0,59,0,1
+10,Luke Shaw,23.0,eng ENG,LB,27-312,90,99,88,11,0,0,0,2,10,1,1,0,0,91,0,1
+11,Victor Lindelöf,2.0,se SWE,CB,28-307,90,71,67,4,1,0,0,0,0,0,0,0,0,64,0,1
+12,Raphaël Varane,19.0,fr FRA,CB,30-025,90,68,66,2,1,1,0,0,1,0,0,0,0,61,0,1
+13,Aaron Wan-Bissaka,29.0,eng ENG,RB,25-175,90,46,36,10,0,0,0,0,10,0,0,0,0,36,0,1
+14,David de Gea,1.0,es ESP,GK,32-194,90,25,20,3,1,0,0,0,0,0,0,0,0,16,2,0
+15,15 Players,,,,,990,697,653,42,6,5,2,13,24,6,4,0,1,587,2,12

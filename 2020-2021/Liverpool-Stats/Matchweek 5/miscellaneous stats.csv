@@ -1,0 +1,17 @@
+,Unnamed: 0_level_0,Unnamed: 1_level_0,Unnamed: 2_level_0,Unnamed: 3_level_0,Unnamed: 4_level_0,Unnamed: 5_level_0,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Aerial Duels,Aerial Duels,Aerial Duels
+,Player,#,Nation,Pos,Age,Min,CrdY,CrdR,2CrdY,Fls,Fld,Off,Crs,Int,TklW,PKwon,PKcon,OG,Recov,Won,Lost,Won%
+0,Roberto Firmino,9.0,br BRA,FW,29-015,77,0,0,0,1,0,0,0,0,1,0,0,0,2,0,4,0.0
+1,Diogo Jota,20.0,pt POR,LW,23-318,13,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
+2,Sadio Mané,10.0,sn SEN,"LW,FW",28-190,90,1,0,0,2,6,2,2,0,1,0,0,0,7,2,2,50.0
+3,Mohamed Salah,11.0,eg EGY,RW,28-124,90,0,0,0,0,0,0,0,0,0,0,0,0,1,1,5,16.7
+4,Thiago Alcántara,6.0,es ESP,"LM,CM",29-189,90,0,0,0,1,2,0,0,2,1,0,0,0,7,0,2,0.0
+5,Fabinho,3.0,br BRA,CM,26-360,89,1,0,0,0,3,0,0,0,3,0,0,0,11,0,2,0.0
+6,Georginio Wijnaldum,5.0,nl NED,LM,29-341,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0.0
+7,Jordan Henderson,14.0,eng ENG,RM,30-122,90,0,0,0,0,1,0,3,0,1,0,0,0,9,0,0,
+8,Andrew Robertson,26.0,sct SCO,LB,26-220,90,0,0,0,2,0,0,8,1,0,0,0,0,8,0,1,0.0
+9,Virgil van Dijk,4.0,nl NED,CB,29-101,10,0,0,0,2,0,1,0,0,0,0,0,0,0,0,0,
+10,Joe Gomez,12.0,eng ENG,CB,23-147,80,0,0,0,0,0,0,0,0,0,0,0,0,0,4,1,80.0
+11,Joël Matip,32.0,cm CMR,CB,29-070,90,0,0,0,0,1,0,0,0,0,0,0,0,5,3,1,75.0
+12,Trent Alexander-Arnold,66.0,eng ENG,RB,22-010,90,0,0,0,1,0,0,7,0,1,0,0,0,9,0,0,
+13,Adrián,13.0,es ESP,GK,33-288,90,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
+14,14 Players,,,,,990,2,0,0,9,13,3,20,3,8,0,0,0,60,10,19,34.5

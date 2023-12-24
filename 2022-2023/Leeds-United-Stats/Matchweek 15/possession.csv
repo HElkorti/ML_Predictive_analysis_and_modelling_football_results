@@ -1,0 +1,18 @@
+,Unnamed: 0_level_0,Unnamed: 1_level_0,Unnamed: 2_level_0,Unnamed: 3_level_0,Unnamed: 4_level_0,Unnamed: 5_level_0,Touches,Touches,Touches,Touches,Touches,Touches,Touches,Take-Ons,Take-Ons,Take-Ons,Take-Ons,Take-Ons,Carries,Carries,Carries,Carries,Carries,Carries,Carries,Carries,Receiving,Receiving
+,Player,#,Nation,Pos,Age,Min,Touches,Def Pen,Def 3rd,Mid 3rd,Att 3rd,Att Pen,Live,Att,Succ,Succ%,Tkld,Tkld%,Carries,TotDist,PrgDist,PrgC,1/3,CPA,Mis,Dis,Rec,PrgR
+0,Rodrigo,19.0,es ESP,FW,31-244,80,34,0,1,22,11,5,33,2,1,50.0,1,50.0,20,94,37,2,0,1,3,1,25,10
+1,Joe Gelhardt,30.0,eng ENG,FW,20-185,10,5,0,0,0,5,2,5,0,0,,0,,4,8,2,0,0,0,2,0,4,1
+2,Crysencio Summerville,10.0,nl NED,"LW,LM",21-006,90,51,0,7,15,30,2,51,3,1,33.3,2,66.7,42,220,129,3,2,0,4,3,40,13
+3,Jack Harrison,11.0,eng ENG,RW,25-350,45,37,0,2,11,24,0,37,1,1,100.0,0,0.0,23,128,55,1,2,0,1,0,25,3
+4,Degnand Gnonto,29.0,it ITA,"RW,RM",19-000,45,17,1,4,5,10,1,17,1,0,0.0,1,100.0,10,127,112,1,1,0,3,1,11,1
+5,Brenden Aaronson,7.0,us USA,AM,22-014,85,50,0,1,19,33,4,50,1,0,0.0,1,100.0,36,181,88,3,3,2,2,2,37,7
+6,Luke Ayling,2.0,eng ENG,CB,31-072,5,3,0,1,2,0,0,3,0,0,,0,,0,0,0,0,0,0,0,0,0,0
+7,Marc Roca,8.0,es ESP,DM,25-344,53,34,1,6,21,7,1,34,0,0,,0,,22,96,36,1,1,0,1,0,22,1
+8,Sam Greenwood,42.0,eng ENG,"DM,CM",20-283,37,34,0,6,13,17,1,34,1,0,0.0,1,100.0,18,102,70,2,1,1,0,1,13,1
+9,Tyler Adams,12.0,us USA,"DM,CM",23-264,90,52,0,8,33,11,0,52,0,0,,0,,34,110,41,0,2,0,1,0,33,1
+10,Pascal Struijk,21.0,nl NED,LB,23-086,90,81,5,20,37,24,3,81,0,0,,0,,40,159,88,0,1,0,2,0,42,2
+11,Liam Cooper,6.0,sct SCO,CB,31-067,90,69,5,25,39,6,4,69,0,0,,0,,38,195,90,0,0,0,1,0,42,0
+12,Robin Koch,5.0,de GER,CB,26-111,90,66,5,19,42,6,3,66,0,0,,0,,50,173,63,0,0,0,0,0,47,1
+13,Rasmus Nissen,25.0,dk DEN,RB,25-117,90,74,3,15,23,36,3,74,3,2,66.7,1,33.3,36,145,85,2,3,1,0,0,44,15
+14,Illan Meslier,1.0,fr FRA,GK,22-248,90,16,11,16,0,0,0,16,0,0,,0,,10,56,29,0,0,0,0,0,3,0
+15,15 Players,,,,,990,623,31,131,282,220,29,622,12,5,41.7,7,58.3,383,1794,925,15,16,5,20,8,388,56

@@ -1,0 +1,16 @@
+,Unnamed: 0_level_0,Unnamed: 1_level_0,Unnamed: 2_level_0,Unnamed: 3_level_0,Unnamed: 4_level_0,Unnamed: 5_level_0,Touches,Touches,Touches,Touches,Touches,Touches,Touches,Take-Ons,Take-Ons,Take-Ons,Take-Ons,Take-Ons,Carries,Carries,Carries,Carries,Carries,Carries,Carries,Carries,Receiving,Receiving
+,Player,#,Nation,Pos,Age,Min,Touches,Def Pen,Def 3rd,Mid 3rd,Att 3rd,Att Pen,Live,Att,Succ,Succ%,Tkld,Tkld%,Carries,TotDist,PrgDist,PrgC,1/3,CPA,Mis,Dis,Rec,PrgR
+0,Gabriel Jesus,9.0,br BRA,"FW,LW",23-256,90,24,0,4,8,12,5,24,0,0,,0,,8,25,7,0,0,1,5,0,17,5
+1,Phil Foden,47.0,eng ENG,LW,20-201,75,64,1,2,27,37,4,64,3,1,33.3,2,66.7,32,175,114,4,3,1,1,0,49,7
+2,Sergio Agüero,10.0,ar ARG,FW,32-196,15,5,0,0,0,5,4,5,0,0,,0,,1,1,1,0,0,0,0,0,3,1
+3,Raheem Sterling,7.0,eng ENG,RW,26-007,90,65,0,0,15,50,11,65,2,2,100.0,0,0.0,44,330,216,10,4,5,1,2,63,22
+4,Kevin De Bruyne,17.0,be BEL,AM,29-170,90,74,0,0,15,60,5,74,1,1,100.0,0,0.0,39,257,174,6,5,2,2,1,58,6
+5,İlkay Gündoğan,8.0,de GER,DM,30-052,90,117,0,6,69,42,3,117,4,3,75.0,1,25.0,66,323,169,3,6,0,1,0,96,6
+6,Rodri,16.0,es ESP,DM,24-176,90,119,4,11,67,42,3,119,0,0,,0,,66,373,276,5,2,1,1,2,91,2
+7,Benjamin Mendy,22.0,fr FRA,LB,26-151,74,71,1,11,33,27,2,71,1,1,100.0,0,0.0,27,103,39,0,0,0,2,0,43,11
+8,Kyle Walker,2.0,eng ENG,RB,30-201,16,18,0,0,6,12,2,18,0,0,,0,,9,71,55,2,2,1,1,0,17,3
+9,Nathan Aké,6.0,nl NED,CB,25-301,90,108,4,21,82,5,1,108,0,0,,0,,67,398,282,5,3,0,0,1,87,0
+10,Rúben Dias,3.0,pt POR,CB,23-215,90,100,3,18,75,7,2,100,0,0,,0,,62,336,226,1,0,0,0,0,82,1
+11,João Cancelo,27.0,pt POR,"RB,LB",26-202,90,114,1,12,49,54,4,114,4,1,25.0,3,75.0,67,456,248,7,4,1,3,1,89,6
+12,Ederson,31.0,br BRA,GK,27-120,90,23,12,23,0,0,0,23,0,0,,0,,14,148,98,0,0,0,0,0,9,0
+13,13 Players,,,,,990,902,26,108,446,353,46,902,15,9,60.0,6,40.0,502,2996,1905,43,29,12,17,7,704,70

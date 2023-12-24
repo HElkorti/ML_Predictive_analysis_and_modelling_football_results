@@ -1,0 +1,19 @@
+,Unnamed: 0_level_0,Unnamed: 1_level_0,Unnamed: 2_level_0,Unnamed: 3_level_0,Unnamed: 4_level_0,Unnamed: 5_level_0,Touches,Touches,Touches,Touches,Touches,Touches,Touches,Take-Ons,Take-Ons,Take-Ons,Take-Ons,Take-Ons,Carries,Carries,Carries,Carries,Carries,Carries,Carries,Carries,Receiving,Receiving
+,Player,#,Nation,Pos,Age,Min,Touches,Def Pen,Def 3rd,Mid 3rd,Att 3rd,Att Pen,Live,Att,Succ,Succ%,Tkld,Tkld%,Carries,TotDist,PrgDist,PrgC,1/3,CPA,Mis,Dis,Rec,PrgR
+0,Aleksandar Mitrović,9.0,rs SRB,FW,27-352,90,22,1,2,7,13,4,22,2,2,100.0,0,0.0,11,75,31,1,0,1,2,3,17,5
+1,Neeskens Kebano,7.0,cd COD,LW,30-177,59,22,1,2,2,18,1,22,1,0,0.0,1,100.0,13,39,17,1,0,0,1,1,16,7
+2,Willian,20.0,br BRA,"LW,LM",34-025,31,14,0,1,3,10,0,14,1,0,0.0,1,100.0,10,51,21,0,0,0,0,2,12,1
+3,Bobby Reid,14.0,jm JAM,RW,29-213,59,21,1,3,10,8,0,21,2,1,50.0,0,0.0,15,76,15,0,1,1,1,3,16,7
+4,Daniel James,21.0,wls WAL,"RW,RM",24-297,31,11,0,0,4,8,0,11,0,0,,0,,7,71,41,2,1,0,0,0,9,4
+5,Andreas Pereira,18.0,br BRA,AM,26-245,60,35,0,1,20,14,0,35,1,0,0.0,1,100.0,27,107,46,0,2,0,2,0,27,2
+6,Tom Cairney,10.0,sct SCO,"AM,CM",31-226,30,28,0,3,12,13,1,28,2,1,50.0,0,0.0,24,128,68,1,1,0,1,2,24,2
+7,João Palhinha,26.0,pt POR,DM,27-056,84,47,2,8,33,8,0,47,2,2,100.0,0,0.0,35,125,41,0,2,0,0,1,35,2
+8,Carlos Vinícius,30.0,br BRA,FW,27-162,6,1,0,0,1,0,0,1,0,0,,0,,0,0,0,0,0,0,0,0,0,0
+9,Harrison Reed,6.0,eng ENG,"DM,CM",27-219,90,39,0,7,21,11,0,39,1,1,100.0,0,0.0,26,104,25,0,0,0,1,1,28,2
+10,Antonee Robinson,33.0,us USA,LB,25-026,28,20,1,4,5,11,0,20,0,0,,0,,13,91,59,2,1,0,0,0,13,2
+11,Kevin Mbabu,27.0,ch SUI,LB,27-137,62,67,0,16,25,26,0,67,2,1,50.0,1,50.0,34,103,63,1,1,0,1,1,38,8
+12,Tim Ream,13.0,us USA,CB,34-333,90,81,12,33,44,4,1,81,0,0,,0,,49,242,171,1,2,0,0,0,55,0
+13,Tosin Adarabioyo,4.0,eng ENG,CB,24-344,90,84,9,32,49,3,0,84,0,0,,0,,53,305,176,0,1,0,0,0,60,0
+14,Kenny Tete,2.0,nl NED,RB,26-329,90,65,2,17,39,10,1,65,0,0,,0,,36,126,74,2,2,0,1,1,37,5
+15,Bernd Leno,17.0,de GER,GK,30-183,90,33,26,32,1,0,0,33,0,0,,0,,19,104,89,0,0,0,0,0,10,0
+16,16 Players,,,,,990,590,55,161,276,157,8,590,14,8,57.1,4,28.6,372,1747,937,11,14,2,10,15,397,47

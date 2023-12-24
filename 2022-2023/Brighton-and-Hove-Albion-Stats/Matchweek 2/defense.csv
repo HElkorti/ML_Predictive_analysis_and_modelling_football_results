@@ -1,0 +1,17 @@
+,Unnamed: 0_level_0,Unnamed: 1_level_0,Unnamed: 2_level_0,Unnamed: 3_level_0,Unnamed: 4_level_0,Unnamed: 5_level_0,Tackles,Tackles,Tackles,Tackles,Tackles,Challenges,Challenges,Challenges,Challenges,Blocks,Blocks,Blocks,Unnamed: 18_level_0,Unnamed: 19_level_0,Unnamed: 20_level_0,Unnamed: 21_level_0
+,Player,#,Nation,Pos,Age,Min,Tkl,TklW,Def 3rd,Mid 3rd,Att 3rd,Tkl,Att,Tkl%,Lost,Blocks,Sh,Pass,Int,Tkl+Int,Clr,Err
+0,Danny Welbeck,18.0,eng ENG,FW,31-260,90,1,1,0,1,0,0,0,,0,0,0,0,0,1,0,0
+1,Pascal Groß,13.0,de GER,"FW,AM",31-059,90,0,0,0,0,0,0,1,0.0,1,0,0,0,0,0,1,0
+2,Adam Lallana,14.0,eng ENG,AM,34-095,64,1,1,0,1,0,0,2,0.0,2,1,0,1,1,2,0,0
+3,Enock Mwepu,8.0,zm ZAM,"AM,FW",24-224,26,1,0,1,0,0,0,0,,0,0,0,0,0,1,0,0
+4,Moisés Caicedo,25.0,ec ECU,CM,20-284,90,4,3,1,3,0,3,6,50.0,3,0,0,0,2,6,1,1
+5,Alexis Mac Allister,10.0,ar ARG,CM,23-232,90,7,5,3,4,0,4,7,57.1,3,0,0,0,0,7,0,0
+6,Leandro Trossard,11.0,be BEL,WB,27-252,74,0,0,0,0,0,0,0,,0,1,0,1,0,0,0,0
+7,Tariq Lamptey,2.0,gh GHA,WB,21-317,16,0,0,0,0,0,0,0,,0,1,0,1,0,0,0,0
+8,Solly March,7.0,eng ENG,WB,28-024,73,0,0,0,0,0,0,1,0.0,1,0,0,0,2,2,2,0
+9,Kaoru Mitoma,22.0,jp JPN,WB,25-085,17,1,1,0,1,0,0,0,,0,0,0,0,0,1,0,0
+10,Adam Webster,4.0,eng ENG,CB,27-221,90,1,1,0,0,1,1,2,50.0,1,1,0,1,0,1,3,0
+11,Lewis Dunk,5.0,eng ENG,CB,30-265,90,0,0,0,0,0,0,0,,0,0,0,0,2,2,7,0
+12,Joël Veltman,34.0,nl NED,CB,30-210,90,2,2,2,0,0,0,1,0.0,1,3,1,2,1,3,5,0
+13,Robert Sánchez,1.0,es ESP,GK,24-268,90,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,0
+14,14 Players,,,,,990,18,14,7,10,1,8,20,40.0,12,7,1,6,8,26,19,1

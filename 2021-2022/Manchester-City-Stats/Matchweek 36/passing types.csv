@@ -1,0 +1,17 @@
+,Unnamed: 0_level_0,Unnamed: 1_level_0,Unnamed: 2_level_0,Unnamed: 3_level_0,Unnamed: 4_level_0,Unnamed: 5_level_0,Unnamed: 6_level_0,Pass Types,Pass Types,Pass Types,Pass Types,Pass Types,Pass Types,Pass Types,Pass Types,Corner Kicks,Corner Kicks,Corner Kicks,Outcomes,Outcomes,Outcomes
+,Player,#,Nation,Pos,Age,Min,Att,Live,Dead,FK,TB,Sw,Crs,TI,CK,In,Out,Str,Cmp,Off,Blocks
+0,Gabriel Jesus,9.0,br BRA,FW,25-035,62,26,25,1,0,0,0,0,0,0,0,0,0,22,0,0
+1,Phil Foden,47.0,eng ENG,FW,21-345,28,13,13,0,0,0,0,0,0,0,0,0,0,13,0,0
+2,Jack Grealish,10.0,eng ENG,LW,26-240,90,45,44,1,0,0,0,1,1,0,0,0,0,41,0,0
+3,Raheem Sterling,7.0,eng ENG,RW,27-151,90,39,38,0,0,1,0,1,0,0,0,0,0,32,1,2
+4,Kevin De Bruyne,17.0,be BEL,"AM,RM",30-314,90,66,59,7,0,2,1,11,0,7,3,2,1,54,0,0
+5,İlkay Gündoğan,8.0,de GER,"DM,LM,CM",31-196,90,103,102,1,1,0,0,1,0,0,0,0,0,95,0,1
+6,Rodri,16.0,es ESP,"DM,CM,LM",25-320,90,107,104,3,3,0,0,0,0,0,0,0,0,99,0,0
+7,Oleksandr Zinchenko,11.0,ua UKR,LB,25-144,90,90,85,5,1,0,1,2,3,1,0,0,0,81,0,1
+8,Aymeric Laporte,14.0,es ESP,CB,27-346,86,75,75,0,0,0,0,0,0,0,0,0,0,72,0,0
+9,CJ Egan-Riley,56.0,eng ENG,CB,19-126,4,1,1,0,0,0,0,0,0,0,0,0,0,1,0,0
+10,Rúben Dias,3.0,pt POR,CB,24-359,45,32,30,2,2,0,1,0,0,0,0,0,0,25,0,0
+11,Fernandinho,25.0,br BRA,CB,37-004,45,55,55,0,0,0,0,0,0,0,0,0,0,51,0,0
+12,João Cancelo,27.0,pt POR,RB,27-346,90,73,59,14,6,0,0,3,8,0,0,0,0,59,0,1
+13,Ederson,31.0,br BRA,GK,28-264,90,21,15,6,1,0,0,0,0,0,0,0,0,18,0,0
+14,14 Players,,,,,990,746,705,40,14,3,3,19,12,8,3,2,1,663,1,5

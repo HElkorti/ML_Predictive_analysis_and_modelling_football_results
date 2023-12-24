@@ -1,0 +1,17 @@
+,Unnamed: 0_level_0,Unnamed: 1_level_0,Unnamed: 2_level_0,Unnamed: 3_level_0,Unnamed: 4_level_0,Unnamed: 5_level_0,Unnamed: 6_level_0,Pass Types,Pass Types,Pass Types,Pass Types,Pass Types,Pass Types,Pass Types,Pass Types,Corner Kicks,Corner Kicks,Corner Kicks,Outcomes,Outcomes,Outcomes
+,Player,#,Nation,Pos,Age,Min,Att,Live,Dead,FK,TB,Sw,Crs,TI,CK,In,Out,Str,Cmp,Off,Blocks
+0,Edinson Cavani,7.0,uy URU,FW,34-049,81,16,15,1,0,0,1,0,0,0,0,0,0,12,0,1
+1,Donny van de Beek,34.0,nl NED,FW,23-351,9,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2,Marcus Rashford,10.0,eng ENG,LW,23-155,71,42,41,1,0,0,1,1,1,0,0,0,0,37,0,1
+3,Daniel James,21.0,wls WAL,LW,23-145,19,4,4,0,0,0,0,0,0,0,0,0,0,3,0,0
+4,Mason Greenwood,11.0,eng ENG,RW,19-185,90,41,41,0,0,0,0,2,0,0,0,0,0,31,0,1
+5,Bruno Fernandes,18.0,pt POR,AM,26-208,90,70,67,3,1,0,0,3,0,1,1,0,0,55,0,1
+6,Fred,17.0,br BRA,DM,28-030,90,84,80,4,4,0,0,0,0,0,0,0,0,77,0,2
+7,Paul Pogba,6.0,fr FRA,DM,28-020,83,80,80,0,0,0,0,2,0,0,0,0,0,58,0,2
+8,Scott McTominay,39.0,sct SCO,DM,24-117,7,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+9,Luke Shaw,23.0,eng ENG,LB,25-266,90,71,59,12,1,0,0,7,7,4,2,2,0,59,0,1
+10,Harry Maguire,5.0,eng ENG,CB,28-030,90,68,66,2,0,0,1,1,2,0,0,0,0,58,0,1
+11,Victor Lindelöf,2.0,se SWE,CB,26-261,90,80,79,1,1,0,0,0,0,0,0,0,0,72,0,1
+12,Aaron Wan-Bissaka,29.0,eng ENG,RB,23-129,90,74,67,7,0,0,0,5,7,0,0,0,0,61,0,1
+13,Dean Henderson,26.0,eng ENG,GK,24-023,90,16,9,7,2,0,0,0,0,0,0,0,0,11,0,0
+14,14 Players,,,,,990,646,608,38,9,0,3,21,17,5,3,2,0,534,0,12

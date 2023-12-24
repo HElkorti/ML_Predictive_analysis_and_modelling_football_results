@@ -1,0 +1,19 @@
+,Unnamed: 0_level_0,Unnamed: 1_level_0,Unnamed: 2_level_0,Unnamed: 3_level_0,Unnamed: 4_level_0,Unnamed: 5_level_0,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Aerial Duels,Aerial Duels,Aerial Duels
+,Player,#,Nation,Pos,Age,Min,CrdY,CrdR,2CrdY,Fls,Fld,Off,Crs,Int,TklW,PKwon,PKcon,OG,Recov,Won,Lost,Won%
+0,Patrick Bamford,9.0,eng ENG,FW,29-258,33,0,0,0,1,1,0,1,0,0,0,0,0,1,0,0,
+1,Degnand Gnonto,29.0,it ITA,"LW,FW",19-197,57,0,0,0,3,2,0,3,0,2,0,0,0,5,0,2,0.0
+2,Jack Harrison,11.0,eng ENG,"LW,RW",26-182,61,0,0,0,0,0,0,4,0,0,0,0,0,2,0,0,
+3,Crysencio Summerville,10.0,nl NED,RW,21-203,29,1,0,0,1,2,0,0,1,0,0,0,0,1,0,0,
+4,Rodrigo,19.0,es ESP,"FW,RW",32-076,90,1,0,0,2,0,1,1,0,1,0,0,0,6,0,12,0.0
+5,Adam Forshaw,4.0,eng ENG,LM,31-225,61,0,0,0,1,0,0,2,0,1,0,0,0,4,0,1,0.0
+6,Brenden Aaronson,7.0,us USA,"DM,LM",22-211,29,0,0,0,0,0,0,1,0,1,0,0,0,1,0,0,
+7,Robin Koch,5.0,de GER,"CM,DM,CB",26-308,90,1,0,0,2,0,0,0,1,0,0,0,0,3,4,8,33.3
+8,Weston McKennie,28.0,us USA,"RM,AM",24-266,83,0,0,0,0,0,0,0,0,0,0,0,0,3,1,0,100.0
+9,Marc Roca,8.0,es ESP,CM,26-176,7,0,0,0,0,0,0,1,0,0,0,0,0,1,0,0,
+10,Pascal Struijk,21.0,nl NED,LB,23-283,83,0,0,0,1,0,0,3,1,4,0,0,0,9,2,3,40.0
+11,Sam Greenwood,42.0,eng ENG,CM,21-115,7,0,0,0,0,1,0,5,0,0,0,0,0,0,0,0,
+12,Maximilian Wöber,39.0,at AUT,CB,25-106,90,0,0,0,0,0,0,0,0,1,0,0,0,5,2,2,50.0
+13,Rasmus Nissen,25.0,dk DEN,CB,25-314,90,0,0,0,0,0,0,0,2,3,0,0,0,15,2,1,66.7
+14,Luke Ayling,2.0,eng ENG,"RB,RM",31-269,90,0,0,0,0,0,0,8,1,1,0,0,0,5,0,5,0.0
+15,Joel Robles,22.0,es ESP,GK,32-338,90,0,0,0,0,0,0,0,0,0,0,0,0,2,1,0,100.0
+16,16 Players,,,,,990,3,0,0,11,6,1,29,6,14,0,0,0,63,12,34,26.1

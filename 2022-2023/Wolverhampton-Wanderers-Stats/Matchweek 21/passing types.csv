@@ -1,0 +1,19 @@
+,Unnamed: 0_level_0,Unnamed: 1_level_0,Unnamed: 2_level_0,Unnamed: 3_level_0,Unnamed: 4_level_0,Unnamed: 5_level_0,Unnamed: 6_level_0,Pass Types,Pass Types,Pass Types,Pass Types,Pass Types,Pass Types,Pass Types,Pass Types,Corner Kicks,Corner Kicks,Corner Kicks,Outcomes,Outcomes,Outcomes
+,Player,#,Nation,Pos,Age,Min,Att,Live,Dead,FK,TB,Sw,Crs,TI,CK,In,Out,Str,Cmp,Off,Blocks
+0,Raúl Jiménez,9.0,mx MEX,FW,31-262,45,8,7,1,0,0,0,0,0,0,0,0,0,4,0,1
+1,Matheus Cunha,12.0,br BRA,FW,23-240,45,13,9,4,1,0,0,0,0,0,0,0,0,10,0,1
+2,Hwang Hee-chan,11.0,kr KOR,LW,26-361,45,13,13,0,0,0,0,0,0,0,0,0,0,11,0,0
+3,João Moutinho,28.0,pt POR,AM,36-136,45,30,28,2,0,0,0,5,0,2,0,1,0,25,0,2
+4,Adama Traoré,37.0,es ESP,RW,26-362,45,8,8,0,0,0,0,0,0,0,0,0,0,7,0,0
+5,Pablo Sarabia,21.0,es ESP,"FW,RW",30-256,45,22,17,5,0,0,0,6,0,5,3,1,0,14,0,0
+6,Matheus Nunes,27.0,pt POR,"LM,DM",24-148,90,45,44,1,1,0,4,2,0,0,0,0,0,38,0,1
+7,Rúben Neves,8.0,pt POR,"CM,DM",25-315,90,50,46,4,4,0,0,0,0,0,0,0,0,44,0,1
+8,Mario Lemina,5.0,ga GAB,RM,29-143,66,31,30,1,1,0,0,1,0,0,0,0,0,28,0,1
+9,Daniel Podence,10.0,pt POR,"RM,LW",27-093,24,14,14,0,0,0,0,0,0,0,0,0,0,9,0,0
+10,Hugo Bueno,64.0,es ESP,LB,20-126,80,48,40,8,0,0,0,3,8,0,0,0,0,43,0,1
+11,Rayan Aït Nouri,3.0,dz ALG,LB,21-230,10,7,7,0,0,0,0,0,0,0,0,0,0,7,0,0
+12,Max Kilman,23.0,eng ENG,CB,25-244,90,68,67,1,1,0,2,0,0,0,0,0,0,58,0,1
+13,Nathan Collins,4.0,ie IRL,CB,21-267,90,66,64,2,2,0,0,0,0,0,0,0,0,60,0,0
+14,Nélson Semedo,22.0,pt POR,RB,29-067,90,44,39,5,0,1,0,0,5,0,0,0,0,36,0,2
+15,José Sá,1.0,pt POR,GK,30-005,90,45,33,12,1,0,1,0,0,0,0,0,0,36,0,0
+16,16 Players,,,,,990,512,466,46,11,1,7,17,13,7,3,2,0,430,0,11

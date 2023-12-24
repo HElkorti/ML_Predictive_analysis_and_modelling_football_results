@@ -1,0 +1,17 @@
+,Unnamed: 0_level_0,Unnamed: 1_level_0,Unnamed: 2_level_0,Unnamed: 3_level_0,Unnamed: 4_level_0,Unnamed: 5_level_0,Touches,Touches,Touches,Touches,Touches,Touches,Touches,Take-Ons,Take-Ons,Take-Ons,Take-Ons,Take-Ons,Carries,Carries,Carries,Carries,Carries,Carries,Carries,Carries,Receiving,Receiving
+,Player,#,Nation,Pos,Age,Min,Touches,Def Pen,Def 3rd,Mid 3rd,Att 3rd,Att Pen,Live,Att,Succ,Succ%,Tkld,Tkld%,Carries,TotDist,PrgDist,PrgC,1/3,CPA,Mis,Dis,Rec,PrgR
+0,Harry Kane,10.0,eng ENG,FW,29-282,90,35,1,2,16,17,2,35,3,0,0.0,2,66.7,26,89,27,0,0,1,1,1,32,5
+1,Richarlison,9.0,br BRA,LW,25-361,78,20,0,3,9,8,1,20,1,1,100.0,0,0.0,9,32,16,0,0,0,3,1,14,1
+2,Dejan Kulusevski,21.0,se SWE,RW,23-011,12,0,0,0,0,0,0,0,0,0,,0,,0,0,0,0,0,0,0,0,0,0
+3,Son Heung-min,7.0,kr KOR,RW,30-302,88,33,0,2,16,15,1,33,1,0,0.0,1,100.0,19,133,47,2,2,1,1,1,22,7
+4,Arnaut Danjuma,16.0,nl NED,LW,26-095,2,0,0,0,0,0,0,0,0,0,,0,,1,4,0,0,0,0,0,1,1,1
+5,Ben Davies,33.0,wls WAL,LM,30-012,90,66,2,13,31,22,2,66,2,1,50.0,0,0.0,35,202,124,5,1,1,0,0,42,11
+6,Pierre Højbjerg,5.0,dk DEN,CM,27-274,90,63,1,19,35,10,2,63,5,3,60.0,2,40.0,29,110,64,1,1,1,0,0,47,2
+7,Oliver Skipp,4.0,eng ENG,CM,22-232,90,56,1,12,39,5,0,56,0,0,,0,,29,110,53,1,0,0,1,2,43,0
+8,Pedro Porro,23.0,es ESP,RM,23-235,90,72,3,12,32,29,1,72,1,1,100.0,0,0.0,37,188,106,4,2,1,0,1,43,8
+9,Clément Lenglet,34.0,fr FRA,CB,27-323,87,97,5,46,49,2,1,97,1,1,100.0,0,0.0,76,406,307,2,0,0,0,0,85,0
+10,Eric Dier,15.0,eng ENG,CB,29-111,3,1,1,1,0,0,0,1,0,0,,0,,0,0,0,0,0,0,0,0,0,0
+11,Cristian Romero,17.0,ar ARG,CB,25-009,90,104,11,64,38,2,2,104,0,0,,0,,57,275,163,0,1,0,0,0,60,0
+12,Emerson,12.0,br BRA,CB,24-112,90,73,4,31,37,6,0,73,3,2,66.7,1,33.3,48,240,122,0,0,0,0,2,48,0
+13,Fraser Forster,20.0,eng ENG,GK,35-050,90,27,20,27,0,0,0,27,0,0,,0,,14,72,50,0,0,0,0,0,10,0
+14,14 Players,,,,,990,647,49,232,302,116,12,647,17,9,52.9,6,35.3,380,1861,1079,15,7,5,6,9,447,35

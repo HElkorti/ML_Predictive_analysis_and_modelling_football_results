@@ -1,0 +1,16 @@
+,Unnamed: 0_level_0,Unnamed: 1_level_0,Unnamed: 2_level_0,Unnamed: 3_level_0,Unnamed: 4_level_0,Unnamed: 5_level_0,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Aerial Duels,Aerial Duels,Aerial Duels
+,Player,#,Nation,Pos,Age,Min,CrdY,CrdR,2CrdY,Fls,Fld,Off,Crs,Int,TklW,PKwon,PKcon,OG,Recov,Won,Lost,Won%
+0,Anthony Martial,9.0,fr FRA,FW,27-132,71,0,0,0,1,1,2,0,0,1,0,0,0,3,1,0,100.0
+1,Wout Weghorst,27.0,nl NED,FW,30-252,19,1,0,0,2,0,0,0,0,0,0,0,0,2,0,0,
+2,Jadon Sancho,25.0,eng ENG,LW,23-022,90,0,0,0,1,2,1,0,0,0,0,0,0,7,0,0,
+3,Antony,21.0,br BRA,RW,23-051,90,0,0,0,2,2,0,2,1,1,0,0,0,2,0,2,0.0
+4,Bruno Fernandes,8.0,pt POR,AM,28-220,90,0,0,0,0,1,0,9,0,1,0,0,0,9,1,0,100.0
+5,Christian Eriksen,14.0,dk DEN,DM,31-061,78,0,0,0,0,0,0,5,2,1,0,0,0,3,1,1,50.0
+6,Fred,17.0,br BRA,DM,30-042,12,0,0,0,0,0,0,1,0,1,0,0,0,1,0,0,
+7,Casemiro,18.0,br BRA,DM,31-052,90,0,0,0,1,0,0,1,2,1,0,0,0,7,4,2,66.7
+8,Diogo Dalot,20.0,pt POR,LB,24-029,90,0,0,0,0,0,0,1,1,2,0,0,0,6,2,2,50.0
+9,Victor Lindelöf,2.0,se SWE,CB,28-273,90,0,0,0,0,1,0,0,1,0,0,0,0,9,1,1,50.0
+10,Harry Maguire,5.0,eng ENG,CB,30-042,90,1,0,0,2,1,0,0,3,1,0,0,0,10,3,5,37.5
+11,Aaron Wan-Bissaka,29.0,eng ENG,RB,25-141,90,0,0,0,0,0,0,0,2,1,0,0,0,4,1,0,100.0
+12,David de Gea,1.0,es ESP,GK,32-160,90,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,100.0
+13,13 Players,,,,,990,2,0,0,9,8,3,19,12,10,0,0,0,63,15,13,53.6

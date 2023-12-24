@@ -1,0 +1,17 @@
+,Unnamed: 0_level_0,Unnamed: 1_level_0,Unnamed: 2_level_0,Unnamed: 3_level_0,Unnamed: 4_level_0,Unnamed: 5_level_0,Unnamed: 6_level_0,Pass Types,Pass Types,Pass Types,Pass Types,Pass Types,Pass Types,Pass Types,Pass Types,Corner Kicks,Corner Kicks,Corner Kicks,Outcomes,Outcomes,Outcomes
+,Player,#,Nation,Pos,Age,Min,Att,Live,Dead,FK,TB,Sw,Crs,TI,CK,In,Out,Str,Cmp,Off,Blocks
+0,Danny Welbeck,18.0,eng ENG,FW,30-145,85,18,18,0,0,0,0,0,0,0,0,0,0,12,0,0
+1,Jakub Moder,15.0,pl POL,FW,22-013,5,8,8,0,0,0,0,0,0,0,0,0,0,8,0,0
+2,Leandro Trossard,11.0,be BEL,FW,26-137,59,20,19,1,0,0,0,0,0,0,0,0,0,16,0,0
+3,Adam Lallana,14.0,eng ENG,AM,32-345,31,15,15,0,0,0,0,0,0,0,0,0,0,13,0,0
+4,Dan Burn,33.0,eng ENG,"LW,WB",28-346,90,44,35,9,0,0,0,3,9,0,0,0,0,25,0,3
+5,Joël Veltman,34.0,nl NED,"RW,WB",29-095,90,35,22,13,0,0,0,0,13,0,0,0,0,27,0,0
+6,Alexis Mac Allister,10.0,ar ARG,"CM,AM",22-117,73,32,32,0,0,0,1,0,0,0,0,0,0,23,0,2
+7,Neal Maupay,9.0,fr FRA,AM,24-249,17,3,3,0,0,0,0,0,0,0,0,0,0,3,0,0
+8,Pascal Groß,13.0,de GER,CM,29-309,90,46,41,5,2,0,0,5,0,3,2,1,0,35,0,0
+9,Yves Bissouma,8.0,ml MLI,"DM,CM",24-233,90,37,37,0,0,0,0,0,0,0,0,0,0,33,0,0
+10,Adam Webster,4.0,eng ENG,CB,26-106,90,59,57,2,2,0,0,0,0,0,0,0,0,40,0,0
+11,Lewis Dunk,5.0,eng ENG,CB,29-150,90,47,46,1,1,0,0,0,0,0,0,0,0,42,0,0
+12,Ben White,3.0,eng ENG,CB,23-194,89,37,35,2,1,0,0,1,1,0,0,0,0,28,0,2
+13,Robert Sánchez,26.0,es ESP,GK,23-153,90,43,32,11,4,0,4,0,0,0,0,0,0,29,0,0
+14,14 Players,,,,,989,444,400,44,10,0,5,9,23,3,2,1,0,334,0,7

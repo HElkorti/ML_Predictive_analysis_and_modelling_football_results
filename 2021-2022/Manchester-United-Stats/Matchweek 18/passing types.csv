@@ -1,0 +1,17 @@
+,Unnamed: 0_level_0,Unnamed: 1_level_0,Unnamed: 2_level_0,Unnamed: 3_level_0,Unnamed: 4_level_0,Unnamed: 5_level_0,Unnamed: 6_level_0,Pass Types,Pass Types,Pass Types,Pass Types,Pass Types,Pass Types,Pass Types,Pass Types,Corner Kicks,Corner Kicks,Corner Kicks,Outcomes,Outcomes,Outcomes
+,Player,#,Nation,Pos,Age,Min,Att,Live,Dead,FK,TB,Sw,Crs,TI,CK,In,Out,Str,Cmp,Off,Blocks
+0,Cristiano Ronaldo,7.0,pt POR,FW,37-010,90,26,26,0,0,0,0,1,0,0,0,0,0,21,0,0
+1,Jadon Sancho,25.0,eng ENG,LW,21-327,79,28,27,1,0,0,0,1,0,1,0,0,0,17,0,4
+2,Alex Telles,27.0,br BRA,LW,29-062,11,11,7,4,0,0,0,2,2,2,0,1,0,7,0,0
+3,Anthony Elanga,36.0,se SWE,RW,19-294,78,24,24,0,0,0,0,0,0,0,0,0,0,21,0,1
+4,Marcus Rashford,10.0,eng ENG,RW,24-107,12,14,14,0,0,0,0,1,0,0,0,0,0,10,0,0
+5,Bruno Fernandes,18.0,pt POR,AM,27-160,90,66,60,6,0,1,0,9,0,5,0,4,0,46,0,3
+6,Fred,17.0,br BRA,DM,28-347,72,42,41,1,1,1,0,0,0,0,0,0,0,34,0,2
+7,Paul Pogba,6.0,fr FRA,DM,28-337,18,28,26,2,2,1,0,0,0,0,0,0,0,26,0,0
+8,Scott McTominay,39.0,sct SCO,DM,25-069,90,52,51,1,1,0,1,1,0,0,0,0,0,46,0,0
+9,Luke Shaw,23.0,eng ENG,LB,26-218,90,62,53,9,0,0,2,4,7,2,1,0,0,48,0,2
+10,Harry Maguire,5.0,eng ENG,CB,28-347,90,42,41,1,1,0,0,0,0,0,0,0,0,38,0,0
+11,Victor Lindelöf,2.0,se SWE,CB,27-213,90,50,47,2,2,0,1,0,0,0,0,0,0,43,1,1
+12,Diogo Dalot,20.0,pt POR,RB,22-334,90,78,72,6,2,0,1,2,4,0,0,0,0,58,0,2
+13,David de Gea,1.0,es ESP,GK,31-100,90,28,18,10,0,0,0,0,0,0,0,0,0,21,0,0
+14,14 Players,,,,,990,551,507,43,9,3,5,21,13,10,1,5,0,436,1,15

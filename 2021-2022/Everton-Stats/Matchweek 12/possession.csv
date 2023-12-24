@@ -1,0 +1,17 @@
+,Unnamed: 0_level_0,Unnamed: 1_level_0,Unnamed: 2_level_0,Unnamed: 3_level_0,Unnamed: 4_level_0,Unnamed: 5_level_0,Touches,Touches,Touches,Touches,Touches,Touches,Touches,Take-Ons,Take-Ons,Take-Ons,Take-Ons,Take-Ons,Carries,Carries,Carries,Carries,Carries,Carries,Carries,Carries,Receiving,Receiving
+,Player,#,Nation,Pos,Age,Min,Touches,Def Pen,Def 3rd,Mid 3rd,Att 3rd,Att Pen,Live,Att,Succ,Succ%,Tkld,Tkld%,Carries,TotDist,PrgDist,PrgC,1/3,CPA,Mis,Dis,Rec,PrgR
+0,Richarlison,7.0,br BRA,FW,24-195,90,23,0,3,10,10,2,23,0,0,,0,,13,59,27,1,1,0,2,0,16,2
+1,Andros Townsend,14.0,eng ENG,"FW,CM",30-128,90,34,1,9,10,15,0,34,7,4,57.1,3,42.9,18,167,101,2,3,0,1,0,20,1
+2,Demarai Gray,11.0,jm JAM,LM,25-146,16,7,0,1,1,5,1,7,1,0,0.0,1,100.0,2,7,0,0,0,0,1,0,3,0
+3,Alex Iwobi,17.0,ng NGA,"LM,RM",25-202,74,33,3,13,9,11,2,33,5,3,60.0,2,40.0,24,158,51,2,1,2,1,1,23,5
+4,Fabian Delph,8.0,eng ENG,CM,32-000,62,25,4,15,5,5,0,25,0,0,,0,,17,51,8,0,0,0,2,0,15,0
+5,Salomón Rondón,33.0,ve VEN,FW,32-066,28,7,0,0,2,5,0,7,0,0,,0,,4,12,1,0,0,0,0,0,4,2
+6,Allan,6.0,br BRA,CM,30-317,89,34,6,15,15,6,0,34,1,1,100.0,0,0.0,13,82,58,1,0,0,2,0,13,0
+7,Tyler Onyango,62.0,eng ENG,CM,18-262,1,0,0,0,0,0,0,0,0,0,,0,,0,0,0,0,0,0,0,0,0,0
+8,Anthony Gordon,24.0,eng ENG,"RM,LM",20-270,90,33,5,13,12,9,2,33,2,1,50.0,1,50.0,18,84,23,1,1,0,4,3,18,2
+9,Lucas Digne,12.0,fr FRA,LB,28-124,90,36,6,19,12,5,0,36,0,0,,0,,16,36,8,0,0,0,0,1,15,0
+10,Michael Keane,5.0,eng ENG,CB,28-314,90,38,14,28,10,0,0,38,0,0,,0,,14,55,15,0,0,0,0,0,14,0
+11,Ben Godfrey,22.0,eng ENG,CB,23-310,90,29,7,23,6,0,0,29,0,0,,0,,11,36,11,0,0,0,0,0,13,0
+12,Séamus Coleman,23.0,ie IRL,RB,33-041,90,37,4,19,10,10,3,37,2,1,50.0,1,50.0,15,64,26,0,1,0,2,2,12,1
+13,Jordan Pickford,1.0,eng ENG,GK,27-259,90,40,36,40,0,0,0,40,0,0,,0,,15,104,46,0,0,0,0,0,16,0
+14,14 Players,,,,,990,376,86,198,102,81,10,376,18,10,55.6,8,44.4,180,915,375,7,7,2,15,7,182,13

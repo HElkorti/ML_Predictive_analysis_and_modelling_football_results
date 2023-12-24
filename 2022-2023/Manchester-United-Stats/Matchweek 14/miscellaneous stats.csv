@@ -1,0 +1,16 @@
+,Unnamed: 0_level_0,Unnamed: 1_level_0,Unnamed: 2_level_0,Unnamed: 3_level_0,Unnamed: 4_level_0,Unnamed: 5_level_0,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Aerial Duels,Aerial Duels,Aerial Duels
+,Player,#,Nation,Pos,Age,Min,CrdY,CrdR,2CrdY,Fls,Fld,Off,Crs,Int,TklW,PKwon,PKcon,OG,Recov,Won,Lost,Won%
+0,Cristiano Ronaldo,7.0,pt POR,FW,37-267,90,0,0,0,0,1,0,1,0,0,0,0,0,2,1,2,33.3
+1,Marcus Rashford,10.0,eng ENG,LW,24-364,90,0,0,0,1,2,0,0,1,0,0,0,0,4,0,2,0.0
+2,Anthony Elanga,36.0,se SWE,RW,20-186,60,0,0,0,0,0,0,0,0,0,0,0,0,2,0,2,0.0
+3,Scott McTominay,39.0,sct SCO,RW,25-326,30,0,0,0,0,0,0,0,0,0,0,0,0,4,3,0,100.0
+4,Bruno Fernandes,8.0,pt POR,AM,28-052,90,1,0,0,3,4,0,2,0,5,0,0,0,7,0,2,0.0
+5,Christian Eriksen,14.0,dk DEN,DM,30-258,78,0,0,0,0,0,1,5,1,1,0,0,0,11,0,1,0.0
+6,Fred,17.0,br BRA,DM,29-239,12,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,
+7,Casemiro,18.0,br BRA,DM,30-249,90,0,0,0,4,1,0,1,1,2,0,0,0,9,4,1,80.0
+8,Luke Shaw,23.0,eng ENG,LB,27-110,90,0,0,0,3,1,0,5,0,2,0,0,0,5,3,1,75.0
+9,Lisandro Martínez,6.0,ar ARG,CB,24-285,90,0,0,0,0,1,0,0,1,1,0,0,0,3,1,2,33.3
+10,Harry Maguire,5.0,eng ENG,CB,29-239,90,0,0,0,0,0,0,0,0,0,0,0,0,0,2,1,66.7
+11,Diogo Dalot,20.0,pt POR,RB,23-226,90,0,0,0,1,0,0,4,3,4,0,0,0,5,2,0,100.0
+12,David de Gea,1.0,es ESP,GK,31-357,90,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,
+13,13 Players,,,,,990,1,0,0,12,10,1,18,7,15,0,0,0,55,16,14,53.3

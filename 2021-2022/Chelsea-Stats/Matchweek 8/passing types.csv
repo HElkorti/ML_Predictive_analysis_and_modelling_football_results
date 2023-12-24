@@ -1,0 +1,17 @@
+,Unnamed: 0_level_0,Unnamed: 1_level_0,Unnamed: 2_level_0,Unnamed: 3_level_0,Unnamed: 4_level_0,Unnamed: 5_level_0,Unnamed: 6_level_0,Pass Types,Pass Types,Pass Types,Pass Types,Pass Types,Pass Types,Pass Types,Pass Types,Corner Kicks,Corner Kicks,Corner Kicks,Outcomes,Outcomes,Outcomes
+,Player,#,Nation,Pos,Age,Min,Att,Live,Dead,FK,TB,Sw,Crs,TI,CK,In,Out,Str,Cmp,Off,Blocks
+0,Romelu Lukaku,9.0,be BEL,FW,28-156,75,12,12,0,0,0,0,1,0,0,0,0,0,8,0,0
+1,Kai Havertz,29.0,de GER,FW,22-127,15,3,3,0,0,0,0,0,0,0,0,0,0,2,0,0
+2,Timo Werner,11.0,de GER,FW,25-224,90,37,35,1,0,0,0,2,0,0,0,0,0,26,1,4
+3,Mateo Kovačić,8.0,hr CRO,CM,27-163,64,45,43,2,2,2,0,1,0,0,0,0,0,35,0,0
+4,Mason Mount,19.0,eng ENG,CM,22-279,26,13,13,0,0,0,0,0,0,0,0,0,0,10,0,1
+5,Ruben Loftus-Cheek,12.0,eng ENG,CM,25-266,90,68,68,0,0,1,0,0,0,0,0,0,0,61,0,0
+6,N'Golo Kanté,7.0,fr FRA,CM,30-201,90,64,63,0,0,1,0,0,0,0,0,0,0,56,1,1
+7,Ben Chilwell,21.0,eng ENG,WB,24-299,90,58,45,12,1,0,0,9,6,5,5,0,0,36,1,0
+8,César Azpilicueta,28.0,es ESP,WB,32-049,88,49,44,4,1,0,0,3,3,0,0,0,0,44,1,0
+9,Reece James,24.0,eng ENG,WB,21-312,2,4,2,2,0,0,0,0,2,0,0,0,0,3,0,0
+10,Malang Sarr,31.0,fr FRA,CB,22-266,90,66,62,4,4,0,0,0,0,0,0,0,0,57,0,0
+11,Andreas Christensen,4.0,dk DEN,CB,25-189,90,78,77,1,1,0,0,0,0,0,0,0,0,71,0,0
+12,Trevoh Chalobah,14.0,eng ENG,CB,22-103,90,54,53,1,1,1,0,0,0,0,0,0,0,46,0,0
+13,Edouard Mendy,16.0,sn SEN,GK,29-229,90,25,22,3,2,0,0,0,0,0,0,0,0,16,0,0
+14,14 Players,,,,,990,576,542,30,12,5,0,16,11,5,5,0,0,471,4,6

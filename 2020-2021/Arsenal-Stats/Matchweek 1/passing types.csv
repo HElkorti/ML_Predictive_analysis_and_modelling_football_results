@@ -1,0 +1,17 @@
+,Unnamed: 0_level_0,Unnamed: 1_level_0,Unnamed: 2_level_0,Unnamed: 3_level_0,Unnamed: 4_level_0,Unnamed: 5_level_0,Unnamed: 6_level_0,Pass Types,Pass Types,Pass Types,Pass Types,Pass Types,Pass Types,Pass Types,Pass Types,Corner Kicks,Corner Kicks,Corner Kicks,Outcomes,Outcomes,Outcomes
+,Player,#,Nation,Pos,Age,Min,Att,Live,Dead,FK,TB,Sw,Crs,TI,CK,In,Out,Str,Cmp,Off,Blocks
+0,Alexandre Lacazette,9.0,fr FRA,FW,29-107,86,17,16,1,0,0,1,0,0,0,0,0,0,14,0,1
+1,Eddie Nketiah,30.0,eng ENG,FW,21-105,4,1,1,0,0,0,0,0,0,0,0,0,0,1,0,0
+2,Pierre-Emerick Aubameyang,14.0,ga GAB,LW,31-086,90,30,29,0,0,0,0,2,0,0,0,0,0,20,1,2
+3,Willian,12.0,br BRA,RW,32-034,75,30,27,3,2,0,1,4,0,1,0,1,0,26,0,2
+4,Nicolas Pépé,19.0,ci CIV,RW,25-106,15,10,8,2,0,0,0,1,0,2,1,0,0,8,0,0
+5,Ainsley Maitland-Niles,15.0,eng ENG,LM,23-014,90,39,37,2,0,0,1,1,2,0,0,0,0,29,0,0
+6,Granit Xhaka,34.0,ch SUI,CM,27-351,78,60,59,1,1,1,0,1,0,0,0,0,0,55,0,1
+7,Dani Ceballos,8.0,es ESP,CM,24-036,12,19,17,2,1,0,1,0,1,0,0,0,0,15,0,0
+8,Mohamed Elneny,25.0,eg EGY,CM,28-063,90,63,63,0,0,0,0,0,0,0,0,0,0,60,0,0
+9,Héctor Bellerín,2.0,es ESP,RM,25-177,90,68,60,8,1,1,0,6,7,0,0,0,0,59,0,1
+10,Kieran Tierney,3.0,sct SCO,CB,23-099,90,91,79,11,0,0,0,1,11,0,0,0,0,77,1,1
+11,Gabriel Dos Santos,6.0,br BRA,CB,22-268,90,114,112,2,2,0,0,0,0,0,0,0,0,108,0,0
+12,Rob Holding,16.0,eng ENG,CB,24-358,90,93,91,2,2,0,2,0,0,0,0,0,0,84,0,1
+13,Bernd Leno,1.0,de GER,GK,28-192,90,33,26,7,3,0,0,0,0,0,0,0,0,33,0,0
+14,14 Players,,,,,990,668,625,41,12,2,6,16,21,3,1,1,0,589,2,9

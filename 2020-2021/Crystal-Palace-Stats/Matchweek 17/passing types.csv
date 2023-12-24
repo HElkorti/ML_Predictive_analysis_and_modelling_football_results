@@ -1,0 +1,17 @@
+,Unnamed: 0_level_0,Unnamed: 1_level_0,Unnamed: 2_level_0,Unnamed: 3_level_0,Unnamed: 4_level_0,Unnamed: 5_level_0,Unnamed: 6_level_0,Pass Types,Pass Types,Pass Types,Pass Types,Pass Types,Pass Types,Pass Types,Pass Types,Corner Kicks,Corner Kicks,Corner Kicks,Outcomes,Outcomes,Outcomes
+,Player,#,Nation,Pos,Age,Min,Att,Live,Dead,FK,TB,Sw,Crs,TI,CK,In,Out,Str,Cmp,Off,Blocks
+0,Wilfried Zaha,11.0,ci CIV,FW,28-053,90,35,35,0,0,0,0,0,0,0,0,0,0,30,0,2
+1,Christian Benteke,20.0,be BEL,FW,30-030,47,19,19,0,0,0,0,0,0,0,0,0,0,11,0,0
+2,Jordan Ayew,9.0,gh GHA,FW,29-113,43,12,12,0,0,0,0,0,0,0,0,0,0,11,0,0
+3,Jeffrey Schlupp,15.0,gh GHA,LM,28-010,39,8,8,0,0,0,0,0,0,0,0,0,0,7,0,0
+4,Eberechi Eze,25.0,eng ENG,LM,22-187,51,21,21,0,0,0,0,0,0,0,0,0,0,17,0,1
+5,Luka Milivojević,4.0,rs SRB,CM,29-270,89,42,40,2,2,0,0,1,0,0,0,0,0,32,0,0
+6,Jaïro Riedewald,44.0,nl NED,CM,24-115,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+7,James McArthur,18.0,sct SCO,CM,33-087,90,58,54,4,3,0,1,0,1,0,0,0,0,46,0,2
+8,Andros Townsend,10.0,eng ENG,RM,29-170,90,43,36,7,3,0,0,8,0,3,3,0,0,31,0,1
+9,Tyrick Mitchell,27.0,eng ENG,LB,21-123,90,73,52,21,1,0,0,2,20,0,0,0,0,51,0,4
+10,Cheikhou Kouyaté,8.0,sn SEN,CB,31-012,90,33,27,6,6,0,0,0,0,0,0,0,0,23,0,1
+11,James Tomkins,5.0,eng ENG,CB,31-279,90,32,31,1,1,0,0,0,0,0,0,0,0,23,0,0
+12,Joel Ward,2.0,eng ENG,RB,31-065,90,62,48,14,0,0,0,0,14,0,0,0,0,38,0,3
+13,Vicente Guaita,31.0,es ESP,GK,33-358,90,24,12,12,5,0,0,0,0,0,0,0,0,12,0,0
+14,14 Players,,,,,990,462,395,67,21,0,1,11,35,3,3,0,0,332,0,14

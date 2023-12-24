@@ -1,0 +1,19 @@
+,Unnamed: 0_level_0,Unnamed: 1_level_0,Unnamed: 2_level_0,Unnamed: 3_level_0,Unnamed: 4_level_0,Unnamed: 5_level_0,Unnamed: 6_level_0,Pass Types,Pass Types,Pass Types,Pass Types,Pass Types,Pass Types,Pass Types,Pass Types,Corner Kicks,Corner Kicks,Corner Kicks,Outcomes,Outcomes,Outcomes
+,Player,#,Nation,Pos,Age,Min,Att,Live,Dead,FK,TB,Sw,Crs,TI,CK,In,Out,Str,Cmp,Off,Blocks
+0,Brenden Aaronson,7.0,us USA,FW,22-067,82,14,14,0,0,0,0,0,0,0,0,0,0,12,0,0
+1,Darko Gyabi,18.0,eng ENG,FW,18-313,8,4,4,0,0,0,0,0,0,0,0,0,0,4,0,0
+2,Degnand Gnonto,29.0,it ITA,LW,19-053,90,28,28,0,0,0,0,1,0,0,0,0,0,20,0,2
+3,Rodrigo,19.0,es ESP,RW,31-297,71,21,17,4,0,0,0,0,0,0,0,0,0,18,0,0
+4,Joe Gelhardt,30.0,eng ENG,RW,20-238,19,2,2,0,0,0,0,0,0,0,0,0,0,2,0,0
+5,Adam Forshaw,4.0,eng ENG,LM,31-081,64,20,20,0,0,0,0,0,0,0,0,0,0,17,0,1
+6,Mateusz Klich,43.0,pl POL,"RM,LM",32-198,26,9,9,0,0,0,0,0,0,0,0,0,0,9,0,0
+7,Marc Roca,8.0,es ESP,CM,26-032,90,38,32,6,5,0,0,3,0,1,1,0,0,26,0,1
+8,Sam Greenwood,42.0,eng ENG,"RM,LM",20-336,90,20,17,3,0,0,0,2,1,2,2,0,0,12,0,0
+9,Pascal Struijk,21.0,nl NED,LB,23-139,90,55,44,11,1,0,0,0,10,0,0,0,0,42,0,3
+10,Liam Cooper,6.0,sct SCO,CB,31-120,71,28,25,3,3,0,1,0,0,0,0,0,0,23,0,0
+11,Diego Llorente,14.0,es ESP,CB,29-134,19,10,9,1,1,0,0,0,0,0,0,0,0,8,0,0
+12,Robin Koch,5.0,de GER,CB,26-164,90,29,28,1,1,0,0,0,0,0,0,0,0,18,0,0
+13,Rasmus Nissen,25.0,dk DEN,RB,25-170,64,19,15,4,0,0,0,1,4,0,0,0,0,13,0,3
+14,Luke Ayling,2.0,eng ENG,RB,31-125,26,10,8,2,0,0,0,1,2,0,0,0,0,7,0,1
+15,Illan Meslier,1.0,fr FRA,GK,22-301,90,31,20,11,2,0,0,0,0,0,0,0,0,15,0,0
+16,16 Players,,,,,990,338,292,46,13,0,1,8,17,3,3,0,0,246,0,11

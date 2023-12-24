@@ -1,0 +1,17 @@
+,Unnamed: 0_level_0,Unnamed: 1_level_0,Unnamed: 2_level_0,Unnamed: 3_level_0,Unnamed: 4_level_0,Unnamed: 5_level_0,Total,Total,Total,Total,Total,Short,Short,Short,Medium,Medium,Medium,Long,Long,Long,Unnamed: 20_level_0,Unnamed: 21_level_0,Unnamed: 22_level_0,Unnamed: 23_level_0,Unnamed: 24_level_0,Unnamed: 25_level_0,Unnamed: 26_level_0,Unnamed: 27_level_0
+,Player,#,Nation,Pos,Age,Min,Cmp,Att,Cmp%,TotDist,PrgDist,Cmp,Att,Cmp%,Cmp,Att,Cmp%,Cmp,Att,Cmp%,Ast,xAG,xA,KP,1/3,PPA,CrsPA,PrgP
+0,Eddie Nketiah,30.0,eng ENG,FW,22-347,72,8,9,88.9,81,9,7,7,100.0,1,1,100.0,0,0,,0,0.0,0.0,0,1,0,0,1
+1,Alexandre Lacazette,9.0,fr FRA,FW,30-349,18,2,4,50.0,21,0,2,3,66.7,0,1,0.0,0,0,,0,0.0,0.0,0,0,0,0,0
+2,Gabriel Martinelli,35.0,br BRA,LW,20-328,63,17,23,73.9,236,43,12,14,85.7,5,7,71.4,0,1,0.0,0,0.2,0.1,2,1,0,0,1
+3,Emile Smith Rowe,10.0,eng ENG,"LM,CM,LW",21-288,27,10,10,100.0,155,8,2,2,100.0,6,6,100.0,0,0,,0,0.0,0.0,1,0,0,0,1
+4,Bukayo Saka,7.0,eng ENG,"RW,RM,LB",20-249,90,17,26,65.4,234,46,10,12,83.3,7,12,58.3,0,1,0.0,0,0.0,0.0,1,1,1,0,4
+5,Granit Xhaka,34.0,ch SUI,"LM,LB,CB",29-227,90,49,61,80.3,846,182,24,31,77.4,21,24,87.5,4,5,80.0,0,0.0,0.0,0,5,1,0,6
+6,Mohamed Elneny,25.0,eg EGY,"CM,DM",29-305,90,48,52,92.3,677,167,24,26,92.3,22,23,95.7,0,1,0.0,0,0.0,0.0,0,3,0,0,0
+7,Martin Ødegaard,8.0,no NOR,"RM,DM,CM",23-146,90,51,54,94.4,878,147,22,22,100.0,24,26,92.3,4,4,100.0,0,0.0,0.1,2,3,0,0,3
+8,Takehiro Tomiyasu,18.0,jp JPN,"CB,LB",23-188,90,40,43,93.0,646,136,20,20,100.0,20,20,100.0,0,2,0.0,0,0.0,0.0,0,4,0,0,2
+9,Gabriel Dos Santos,6.0,br BRA,CB,24-144,75,39,44,88.6,676,215,18,18,100.0,19,20,95.0,2,5,40.0,0,0.0,0.0,0,2,0,0,1
+10,Nuno Tavares,20.0,pt POR,LB,22-106,15,8,8,100.0,124,8,5,5,100.0,3,3,100.0,0,0,,0,0.2,0.1,1,0,0,0,0
+11,Rob Holding,16.0,eng ENG,CB,26-234,32,19,22,86.4,314,60,8,8,100.0,10,12,83.3,1,1,100.0,0,0.0,0.0,0,1,0,0,1
+12,Cédric Soares,17.0,pt POR,RB,30-254,90,38,47,80.9,525,142,20,23,87.0,17,20,85.0,0,2,0.0,0,0.0,0.0,2,1,0,0,0
+13,Aaron Ramsdale,32.0,eng ENG,GK,23-363,90,22,40,55.0,663,397,2,2,100.0,13,13,100.0,7,25,28.0,0,0.0,0.0,0,1,0,0,0
+14,14 Players,,,,,932,368,443,83.1,6076,1560,176,193,91.2,168,188,89.4,18,47,38.3,0,0.5,0.3,9,23,2,0,20

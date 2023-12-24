@@ -1,0 +1,18 @@
+,Unnamed: 0_level_0,Unnamed: 1_level_0,Unnamed: 2_level_0,Unnamed: 3_level_0,Unnamed: 4_level_0,Unnamed: 5_level_0,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Aerial Duels,Aerial Duels,Aerial Duels
+,Player,#,Nation,Pos,Age,Min,CrdY,CrdR,2CrdY,Fls,Fld,Off,Crs,Int,TklW,PKwon,PKcon,OG,Recov,Won,Lost,Won%
+0,Erling Haaland,9.0,no NOR,FW,22-297,77,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,
+1,Jack Grealish,10.0,eng ENG,LW,27-246,13,0,0,0,0,2,0,0,0,0,0,0,0,1,0,0,
+2,Phil Foden,47.0,eng ENG,"LW,AM",22-351,90,0,0,0,0,2,0,3,0,0,0,0,0,5,1,1,50.0
+3,Riyad Mahrez,26.0,dz ALG,RW,32-082,90,0,0,0,2,3,0,5,1,1,0,0,0,4,1,1,50.0
+4,Julián Álvarez,19.0,ar ARG,"AM,FW",23-103,90,0,0,0,0,0,0,3,0,1,0,0,0,1,0,0,
+5,İlkay Gündoğan,8.0,de GER,DM,32-202,77,0,0,0,2,0,0,3,0,0,0,0,0,2,0,0,
+6,Bernardo Silva,20.0,pt POR,DM,28-277,13,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,
+7,Rodri,16.0,es ESP,DM,26-326,87,0,0,0,0,1,0,0,1,0,0,0,0,7,3,1,75.0
+8,Kalvin Phillips,4.0,eng ENG,DM,27-163,3,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,
+9,Manuel Akanji,25.0,ch SUI,"LB,CB",27-299,90,0,0,0,0,1,0,1,2,1,0,0,0,5,0,2,0.0
+10,Aymeric Laporte,14.0,es ESP,CB,28-352,90,0,0,0,0,0,0,1,0,1,0,0,0,5,1,0,100.0
+11,Rúben Dias,3.0,pt POR,CB,26-000,89,0,0,0,0,0,0,0,0,0,0,0,0,3,0,2,0.0
+12,Sergio Gómez,21.0,es ESP,LB,22-252,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
+13,Kyle Walker,2.0,eng ENG,RB,32-351,90,0,0,0,0,0,0,1,1,1,0,0,0,2,1,0,100.0
+14,Ederson,31.0,br BRA,GK,29-270,90,0,0,0,0,0,0,0,0,0,0,0,0,1,1,1,50.0
+15,15 Players,,,,,990,0,0,0,4,10,0,17,5,5,0,0,0,40,8,8,50.0

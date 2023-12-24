@@ -1,0 +1,18 @@
+,Unnamed: 0_level_0,Unnamed: 1_level_0,Unnamed: 2_level_0,Unnamed: 3_level_0,Unnamed: 4_level_0,Unnamed: 5_level_0,Unnamed: 6_level_0,Pass Types,Pass Types,Pass Types,Pass Types,Pass Types,Pass Types,Pass Types,Pass Types,Corner Kicks,Corner Kicks,Corner Kicks,Outcomes,Outcomes,Outcomes
+,Player,#,Nation,Pos,Age,Min,Att,Live,Dead,FK,TB,Sw,Crs,TI,CK,In,Out,Str,Cmp,Off,Blocks
+0,Roberto Firmino,9.0,br BRA,FW,31-238,56,21,19,2,0,1,0,0,0,0,0,0,0,14,0,0
+1,Luis Díaz,23.0,co COL,"LM,FW",26-135,34,25,25,0,0,0,0,0,0,0,0,0,0,18,0,0
+2,Diogo Jota,20.0,pt POR,"LW,FW",26-175,90,21,20,1,0,0,0,0,0,0,0,0,0,19,0,0
+3,Mohamed Salah,11.0,eg EGY,"RW,RM",30-347,90,38,36,2,0,1,0,2,2,0,0,0,0,27,0,1
+4,Curtis Jones,17.0,eng ENG,LM,22-118,56,37,37,0,0,0,1,0,0,0,0,0,0,37,0,0
+5,Cody Gakpo,18.0,nl NED,"CM,LM",24-021,34,15,14,1,0,0,0,0,0,1,0,0,0,11,0,1
+6,Fabinho,3.0,br BRA,CM,29-217,56,46,46,0,0,0,0,0,0,0,0,0,0,42,0,1
+7,Jordan Henderson,14.0,eng ENG,"DM,CM",32-345,34,32,31,1,0,1,0,1,1,0,0,0,0,28,0,1
+8,James Milner,7.0,eng ENG,"RM,LB",37-144,90,71,62,9,1,0,0,1,6,0,0,0,0,60,0,3
+9,Kostas Tsimikas,21.0,gr GRE,LB,27-016,56,54,44,10,0,0,0,6,8,2,0,2,0,47,0,0
+10,Harvey Elliott,19.0,eng ENG,"CM,LB",20-054,34,29,27,2,0,0,0,3,1,1,1,0,0,23,0,1
+11,Joe Gomez,2.0,eng ENG,CB,26-005,90,86,83,3,0,0,1,0,0,0,0,0,0,80,0,0
+12,Joël Matip,32.0,cm CMR,CB,31-293,90,69,69,0,0,0,0,0,0,0,0,0,0,61,0,0
+13,Trent Alexander-Arnold,66.0,eng ENG,RB,24-233,90,94,80,14,3,0,2,14,6,5,0,5,0,73,0,2
+14,Caoimhín Kelleher,62.0,ie IRL,GK,24-186,90,24,22,2,0,0,0,0,0,0,0,0,0,23,0,0
+15,15 Players,,,,,990,662,615,47,4,3,4,27,24,9,1,7,0,563,0,10

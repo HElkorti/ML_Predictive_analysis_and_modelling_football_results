@@ -1,0 +1,17 @@
+,Unnamed: 0_level_0,Unnamed: 1_level_0,Unnamed: 2_level_0,Unnamed: 3_level_0,Unnamed: 4_level_0,Unnamed: 5_level_0,Unnamed: 6_level_0,Pass Types,Pass Types,Pass Types,Pass Types,Pass Types,Pass Types,Pass Types,Pass Types,Corner Kicks,Corner Kicks,Corner Kicks,Outcomes,Outcomes,Outcomes
+,Player,#,Nation,Pos,Age,Min,Att,Live,Dead,FK,TB,Sw,Crs,TI,CK,In,Out,Str,Cmp,Off,Blocks
+0,Callum Robinson,7.0,ie IRL,FW,25-245,59,11,10,1,0,0,0,0,0,0,0,0,0,5,0,0
+1,Hal Robson-Kanu,4.0,wls WAL,FW,31-136,31,1,0,1,0,0,0,0,0,0,0,0,0,1,0,0
+2,Grady Diangana,11.0,cd COD,LW,22-168,90,19,18,1,1,0,1,1,0,0,0,0,0,13,0,0
+3,Kyle Edwards,21.0,eng ENG,RW,22-230,45,10,10,0,0,0,0,0,0,0,0,0,0,9,0,0
+4,Sam Field,28.0,eng ENG,DM,22-149,45,22,22,0,0,0,0,0,0,0,0,0,0,13,0,0
+5,Matheus Pereira,12.0,pt POR,"RW,AM",24-152,90,37,28,9,8,1,0,5,0,1,0,0,0,22,0,2
+6,Romaine Sawyers,19.0,kn SKN,DM,28-337,63,28,24,4,3,0,0,0,0,0,0,0,0,25,0,0
+7,Filip Krovinović,17.0,hr CRO,"AM,DM",25-036,27,8,8,0,0,0,0,0,0,0,0,0,0,8,0,0
+8,Jake Livermore,8.0,eng ENG,"DM,AM",30-325,90,23,22,1,1,0,0,1,0,0,0,0,0,18,0,0
+9,Conor Townsend,14.0,eng ENG,LB,27-214,90,52,42,9,0,0,0,2,9,0,0,0,0,37,1,2
+10,Kyle Bartley,5.0,eng ENG,CB,29-135,90,30,29,1,1,0,0,0,0,0,0,0,0,19,0,0
+11,Semi Ajayi,6.0,ng NGA,CB,26-330,90,37,34,3,3,0,0,0,0,0,0,0,0,26,0,1
+12,Dara O'Shea,27.0,ie IRL,RB,21-214,90,48,36,12,0,0,0,0,12,0,0,0,0,27,0,0
+13,Sam Johnstone,1.0,eng ENG,GK,27-193,90,34,22,12,3,0,0,0,0,0,0,0,0,21,0,1
+14,14 Players,,,,,990,360,305,54,20,1,1,9,21,1,0,0,0,244,1,6

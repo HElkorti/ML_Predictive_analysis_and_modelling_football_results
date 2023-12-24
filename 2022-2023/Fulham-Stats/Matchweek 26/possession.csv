@@ -1,0 +1,18 @@
+,Unnamed: 0_level_0,Unnamed: 1_level_0,Unnamed: 2_level_0,Unnamed: 3_level_0,Unnamed: 4_level_0,Unnamed: 5_level_0,Touches,Touches,Touches,Touches,Touches,Touches,Touches,Take-Ons,Take-Ons,Take-Ons,Take-Ons,Take-Ons,Carries,Carries,Carries,Carries,Carries,Carries,Carries,Carries,Receiving,Receiving
+,Player,#,Nation,Pos,Age,Min,Touches,Def Pen,Def 3rd,Mid 3rd,Att 3rd,Att Pen,Live,Att,Succ,Succ%,Tkld,Tkld%,Carries,TotDist,PrgDist,PrgC,1/3,CPA,Mis,Dis,Rec,PrgR
+0,Aleksandar Mitrović,9.0,rs SRB,FW,28-171,90,44,1,4,18,22,6,44,4,2,50.0,1,25.0,22,66,10,0,0,1,1,2,37,7
+1,Manor Solomon,11.0,il ISR,LW,23-225,74,39,2,7,17,16,1,39,3,2,66.7,1,33.3,23,193,83,2,2,0,2,2,24,7
+2,Harry Wilson,8.0,wls WAL,LW,25-349,16,11,0,3,5,3,0,11,2,1,50.0,1,50.0,8,44,3,0,0,0,2,2,9,1
+3,Willian,20.0,br BRA,RW,34-209,82,34,1,5,9,20,0,34,2,2,100.0,0,0.0,19,185,87,5,2,0,1,1,27,5
+4,Carlos Vinícius,30.0,br BRA,RW,27-346,8,8,0,1,4,3,1,8,1,0,0.0,1,100.0,6,26,11,1,0,0,1,0,5,2
+5,Andreas Pereira,18.0,br BRA,AM,27-064,90,47,1,6,21,21,3,47,1,0,0.0,1,100.0,24,190,79,3,3,0,0,2,31,4
+6,Saša Lukić,28.0,rs SRB,DM,26-205,74,47,0,9,31,7,0,47,0,0,,0,,32,225,123,0,1,0,1,0,34,0
+7,Bobby Reid,14.0,jm JAM,DM,30-032,16,8,0,4,2,2,0,8,1,0,0.0,1,100.0,3,9,4,0,0,0,0,0,4,0
+8,Harrison Reed,6.0,eng ENG,DM,28-038,90,68,2,15,34,19,2,68,1,1,100.0,0,0.0,38,202,62,3,0,0,2,2,42,5
+9,Antonee Robinson,33.0,us USA,LB,25-210,90,72,2,24,27,23,0,72,7,5,71.4,2,28.6,45,425,127,4,1,0,0,2,52,8
+10,Tim Ream,13.0,us USA,CB,35-152,90,75,17,40,35,0,0,75,0,0,,0,,52,237,138,1,0,0,1,0,55,0
+11,Issa Diop,31.0,fr FRA,CB,26-056,90,63,10,35,25,3,0,63,0,0,,0,,33,196,116,1,1,0,0,0,37,0
+12,Kenny Tete,2.0,nl NED,RB,27-148,82,79,4,28,28,25,0,79,2,2,100.0,0,0.0,34,220,161,3,3,0,0,1,46,4
+13,Cédric Soares,12.0,pt POR,RB,31-187,8,14,0,3,6,5,0,14,0,0,,0,,7,20,12,0,0,0,1,0,7,0
+14,Bernd Leno,17.0,de GER,GK,31-002,90,41,39,41,0,0,0,41,0,0,,0,,23,116,74,0,0,0,0,0,18,0
+15,15 Players,,,,,990,650,79,225,262,169,13,650,24,15,62.5,8,33.3,369,2354,1090,23,13,1,12,14,428,43

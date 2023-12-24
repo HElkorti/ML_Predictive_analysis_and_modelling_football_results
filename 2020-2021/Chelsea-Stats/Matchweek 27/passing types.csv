@@ -1,0 +1,17 @@
+,Unnamed: 0_level_0,Unnamed: 1_level_0,Unnamed: 2_level_0,Unnamed: 3_level_0,Unnamed: 4_level_0,Unnamed: 5_level_0,Unnamed: 6_level_0,Pass Types,Pass Types,Pass Types,Pass Types,Pass Types,Pass Types,Pass Types,Pass Types,Corner Kicks,Corner Kicks,Corner Kicks,Outcomes,Outcomes,Outcomes
+,Player,#,Nation,Pos,Age,Min,Att,Live,Dead,FK,TB,Sw,Crs,TI,CK,In,Out,Str,Cmp,Off,Blocks
+0,Kai Havertz,29.0,de GER,FW,21-270,90,42,41,1,0,0,0,1,0,0,0,0,0,39,0,0
+1,Callum Hudson-Odoi,20.0,eng ENG,AM,20-121,65,26,26,0,0,1,0,0,0,0,0,0,0,20,0,1
+2,Mason Mount,19.0,eng ENG,AM,22-057,25,15,11,4,2,0,0,2,0,2,0,2,0,14,0,0
+3,Timo Werner,11.0,de GER,AM,25-002,89,23,22,1,0,0,0,1,1,0,0,0,0,19,0,1
+4,Christian Pulisic,10.0,us USA,AM,22-171,1,2,2,0,0,0,0,0,0,0,0,0,0,2,0,0
+5,Mateo Kovačić,17.0,hr CRO,CM,26-306,79,107,107,0,0,1,1,0,0,0,0,0,0,95,0,2
+6,N'Golo Kanté,7.0,fr FRA,CM,29-344,11,5,5,0,0,0,0,0,0,0,0,0,0,5,0,0
+7,Jorginho,5.0,it ITA,CM,29-078,90,86,86,0,0,0,0,0,0,0,0,0,0,73,0,0
+8,Marcos Alonso,3.0,es ESP,WB,30-070,90,56,45,11,1,0,0,5,8,2,0,2,0,46,0,2
+9,Reece James,24.0,eng ENG,WB,21-090,90,92,79,13,0,0,0,2,10,3,0,1,0,77,0,2
+10,Kurt Zouma,15.0,fr FRA,CB,26-132,90,64,62,2,2,0,0,0,0,0,0,0,0,59,0,0
+11,Andreas Christensen,4.0,dk DEN,CB,24-332,90,99,99,0,0,1,0,0,0,0,0,0,0,94,0,0
+12,César Azpilicueta,28.0,es ESP,CB,31-192,90,96,91,4,3,1,0,0,1,0,0,0,0,88,1,2
+13,Edouard Mendy,16.0,sn SEN,GK,29-007,90,38,30,8,2,0,0,0,0,0,0,0,0,33,0,0
+14,14 Players,,,,,990,751,706,44,10,4,1,11,20,7,0,5,0,664,1,10

@@ -1,0 +1,19 @@
+,Unnamed: 0_level_0,Unnamed: 1_level_0,Unnamed: 2_level_0,Unnamed: 3_level_0,Unnamed: 4_level_0,Unnamed: 5_level_0,Unnamed: 6_level_0,Pass Types,Pass Types,Pass Types,Pass Types,Pass Types,Pass Types,Pass Types,Pass Types,Corner Kicks,Corner Kicks,Corner Kicks,Outcomes,Outcomes,Outcomes
+,Player,#,Nation,Pos,Age,Min,Att,Live,Dead,FK,TB,Sw,Crs,TI,CK,In,Out,Str,Cmp,Off,Blocks
+0,Ollie Watkins,11.0,eng ENG,FW,26-226,90,24,23,1,0,0,0,0,1,0,0,0,0,20,0,0
+1,Danny Ings,9.0,eng ENG,FW,30-021,77,19,19,0,0,2,0,0,0,0,0,0,0,14,0,1
+2,Leon Bailey,31.0,jm JAM,"FW,LM",25-004,13,3,2,1,0,0,0,0,0,0,0,0,0,3,0,0
+3,Philippe Coutinho,23.0,br BRA,AM,30-062,59,37,36,1,1,0,0,0,0,0,0,0,0,30,0,0
+4,Emi Buendía,10.0,ar ARG,"AM,CM",25-231,31,26,24,2,0,1,0,1,0,2,1,0,0,21,0,1
+5,Jacob Ramsey,41.0,eng ENG,LM,21-077,89,62,62,0,0,0,0,0,0,0,0,0,0,59,0,0
+6,Ashley Young,18.0,eng ENG,"RB,LM",37-035,1,1,0,1,0,0,0,0,1,0,0,0,0,1,0,0
+7,John McGinn,7.0,sct SCO,RM,27-299,90,54,47,6,1,0,0,5,1,3,3,0,0,44,1,0
+8,Boubacar Kamara,44.0,fr FRA,"DM,CM",22-263,90,76,75,1,1,0,1,0,0,0,0,0,0,62,0,1
+9,Lucas Digne,27.0,fr FRA,LB,29-024,90,80,69,11,1,0,0,7,10,0,0,0,0,62,0,2
+10,Tyrone Mings,5.0,eng ENG,CB,29-153,90,60,57,3,2,0,0,0,1,0,0,0,0,53,0,1
+11,Diego Carlos,3.0,br BRA,CB,29-151,89,53,53,0,0,0,0,0,0,0,0,0,0,44,0,0
+12,Calum Chambers,16.0,eng ENG,CB,27-205,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+13,Matty Cash,2.0,pl POL,RB,25-006,89,43,36,6,0,1,0,1,6,0,0,0,0,34,1,0
+14,Ezri Konsa,4.0,eng ENG,"CB,RB",24-294,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+15,Emiliano Martínez,1.0,ar ARG,GK,29-345,90,17,12,5,4,0,0,0,0,0,0,0,0,12,0,0
+16,16 Players,,,,,990,556,516,38,10,4,1,14,20,5,4,0,0,459,2,6

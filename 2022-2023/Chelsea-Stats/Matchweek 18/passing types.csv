@@ -1,0 +1,19 @@
+,Unnamed: 0_level_0,Unnamed: 1_level_0,Unnamed: 2_level_0,Unnamed: 3_level_0,Unnamed: 4_level_0,Unnamed: 5_level_0,Unnamed: 6_level_0,Pass Types,Pass Types,Pass Types,Pass Types,Pass Types,Pass Types,Pass Types,Pass Types,Corner Kicks,Corner Kicks,Corner Kicks,Outcomes,Outcomes,Outcomes
+,Player,#,Nation,Pos,Age,Min,Att,Live,Dead,FK,TB,Sw,Crs,TI,CK,In,Out,Str,Cmp,Off,Blocks
+0,Kai Havertz,29.0,de GER,"FW,AM",23-204,90,36,34,2,0,0,0,0,0,0,0,0,0,32,0,1
+1,Christian Pulisic,10.0,us USA,LW,24-105,86,34,34,0,0,0,0,1,0,0,0,0,0,29,0,1
+2,Carney Chukwuemeka,30.0,eng ENG,LW,19-073,4,1,1,0,0,0,0,0,0,0,0,0,0,1,0,0
+3,Raheem Sterling,17.0,eng ENG,RW,28-024,72,27,26,1,0,0,0,3,0,1,1,0,0,21,0,0
+4,Conor Gallagher,23.0,eng ENG,DM,22-329,18,32,32,0,0,0,0,0,0,0,0,0,0,30,0,0
+5,Mason Mount,19.0,eng ENG,LM,23-356,72,44,40,4,3,0,0,2,0,1,0,1,0,35,0,1
+6,Pierre-Emerick Aubameyang,9.0,ga GAB,FW,33-197,18,6,6,0,0,0,0,0,0,0,0,0,0,4,0,0
+7,Jorginho,5.0,it ITA,CM,31-012,71,41,38,3,3,0,0,1,0,0,0,0,0,34,0,1
+8,Hakim Ziyech,22.0,ma MAR,RW,29-288,19,11,10,1,1,2,0,2,0,0,0,0,0,7,0,0
+9,Denis Zakaria,20.0,ch SUI,RM,26-042,60,28,28,0,0,0,0,0,0,0,0,0,0,25,0,0
+10,Mateo Kovačić,8.0,hr CRO,"DM,RM",28-240,30,33,33,0,0,0,0,0,0,0,0,0,0,29,0,0
+11,Marc Cucurella,32.0,es ESP,LB,24-163,90,69,61,8,1,0,0,0,7,0,0,0,0,67,0,0
+12,Thiago Silva,6.0,br BRA,CB,38-101,90,127,124,3,2,0,2,0,0,0,0,0,0,118,0,0
+13,Kalidou Koulibaly,26.0,sn SEN,CB,31-195,90,108,106,2,2,0,0,0,0,0,0,0,0,97,0,1
+14,César Azpilicueta,28.0,es ESP,RB,33-126,90,104,86,16,3,0,0,1,13,0,0,0,0,90,2,2
+15,Kepa Arrizabalaga,1.0,es ESP,GK,28-090,90,35,27,8,3,0,0,0,0,0,0,0,0,33,0,0
+16,16 Players,,,,,990,736,686,48,18,2,2,10,20,2,1,1,0,652,2,7

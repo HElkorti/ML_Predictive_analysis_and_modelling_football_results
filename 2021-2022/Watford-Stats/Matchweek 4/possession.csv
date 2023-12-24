@@ -1,0 +1,16 @@
+,Unnamed: 0_level_0,Unnamed: 1_level_0,Unnamed: 2_level_0,Unnamed: 3_level_0,Unnamed: 4_level_0,Unnamed: 5_level_0,Touches,Touches,Touches,Touches,Touches,Touches,Touches,Take-Ons,Take-Ons,Take-Ons,Take-Ons,Take-Ons,Carries,Carries,Carries,Carries,Carries,Carries,Carries,Carries,Receiving,Receiving
+,Player,#,Nation,Pos,Age,Min,Touches,Def Pen,Def 3rd,Mid 3rd,Att 3rd,Att Pen,Live,Att,Succ,Succ%,Tkld,Tkld%,Carries,TotDist,PrgDist,PrgC,1/3,CPA,Mis,Dis,Rec,PrgR
+0,Joshua King,7.0,no NOR,FW,29-239,52,15,1,2,8,5,2,15,1,0,0.0,1,100.0,8,42,4,0,0,0,1,0,12,2
+1,Cucho,29.0,co COL,"LM,FW",22-144,38,21,0,3,11,7,3,21,4,2,50.0,2,50.0,16,51,28,2,0,1,3,0,15,2
+2,Emmanuel Dennis,25.0,ng NGA,"LM,FW,CM",23-300,90,38,0,5,14,19,2,38,3,2,66.7,1,33.3,18,134,85,3,3,0,5,1,22,3
+3,Juraj Kucka,33.0,sk SVK,CM,34-197,90,32,1,7,16,9,1,32,1,0,0.0,1,100.0,17,98,21,1,1,0,2,2,20,1
+4,Moussa Sissoko,19.0,fr FRA,"CM,DM",32-026,90,39,1,6,22,11,1,39,4,3,75.0,1,25.0,22,127,80,2,0,1,0,2,28,4
+5,Ismaila Sarr,23.0,sn SEN,RM,23-198,90,37,0,7,8,23,5,37,2,2,100.0,0,0.0,34,216,119,6,1,3,2,3,30,11
+6,Oghenekaro Etebo,4.0,ng NGA,DM,25-306,76,42,3,12,28,3,0,42,1,1,100.0,0,0.0,22,112,23,0,0,0,1,0,26,0
+7,Ken Sema,12.0,se SWE,LM,27-346,14,9,0,3,4,2,0,9,1,1,100.0,0,0.0,6,19,8,0,0,0,0,1,6,1
+8,Danny Rose,3.0,eng ENG,LB,31-071,90,64,4,25,31,8,0,64,1,0,0.0,1,100.0,33,133,96,2,0,0,0,0,34,3
+9,Francisco Sierralta,31.0,cl CHI,CB,24-128,90,65,13,51,14,0,0,65,0,0,,0,,46,241,116,0,0,0,0,0,48,0
+10,William Troost-Ekong,5.0,ng NGA,CB,28-010,90,68,15,47,20,1,0,68,0,0,,0,,53,342,252,0,0,0,0,0,52,0
+11,Jeremy Ngakia,2.0,eng ENG,RB,21-004,90,47,4,17,22,9,1,47,6,3,50.0,3,50.0,25,159,88,3,1,0,0,0,23,2
+12,Daniel Bachmann,26.0,at AUT,GK,27-064,90,39,36,39,0,0,0,39,0,0,,0,,22,95,68,0,0,0,0,0,16,0
+13,13 Players,,,,,990,516,78,224,198,97,15,516,24,14,58.3,10,41.7,322,1769,988,19,6,5,14,9,332,29

@@ -1,0 +1,18 @@
+,Unnamed: 0_level_0,Unnamed: 1_level_0,Unnamed: 2_level_0,Unnamed: 3_level_0,Unnamed: 4_level_0,Unnamed: 5_level_0,Unnamed: 6_level_0,Pass Types,Pass Types,Pass Types,Pass Types,Pass Types,Pass Types,Pass Types,Pass Types,Corner Kicks,Corner Kicks,Corner Kicks,Outcomes,Outcomes,Outcomes
+,Player,#,Nation,Pos,Age,Min,Att,Live,Dead,FK,TB,Sw,Crs,TI,CK,In,Out,Str,Cmp,Off,Blocks
+0,Cody Gakpo,18.0,nl NED,FW,23-287,58,11,11,0,0,0,0,1,0,0,0,0,0,8,0,1
+1,Diogo Jota,20.0,pt POR,LW,26-076,32,15,15,0,0,0,0,1,0,0,0,0,0,12,0,2
+2,Darwin Núñez,27.0,uy URU,LW,23-239,58,12,12,0,0,0,1,0,0,0,0,0,0,9,0,0
+3,Roberto Firmino,9.0,br BRA,FW,31-139,32,22,22,0,0,1,0,0,0,0,0,0,0,18,0,0
+4,Mohamed Salah,11.0,eg EGY,RW,30-248,90,24,23,1,0,1,0,0,1,0,0,0,0,19,0,0
+5,Stefan Bajcetic,43.0,es ESP,LM,18-119,58,22,22,0,0,0,0,0,0,0,0,0,0,18,0,0
+6,James Milner,7.0,eng ENG,LM,37-045,32,31,31,0,0,0,1,0,0,0,0,0,0,29,0,0
+7,Fabinho,3.0,br BRA,CM,29-118,90,48,48,0,0,0,0,0,0,0,0,0,0,45,0,0
+8,Jordan Henderson,14.0,eng ENG,RM,32-246,58,30,27,3,1,0,0,1,1,0,0,0,0,24,0,1
+9,Harvey Elliott,19.0,eng ENG,RM,19-320,32,20,20,0,0,1,0,2,0,0,0,0,0,17,0,1
+10,Andrew Robertson,26.0,sct SCO,LB,28-344,90,95,84,11,1,0,1,5,5,5,0,2,0,85,0,1
+11,Virgil van Dijk,4.0,nl NED,CB,31-225,90,93,90,3,2,0,2,0,0,0,0,0,0,89,0,0
+12,Joe Gomez,2.0,eng ENG,CB,25-271,90,88,88,0,0,2,0,0,0,0,0,0,0,80,0,0
+13,Trent Alexander-Arnold,66.0,eng ENG,RB,24-134,90,95,84,11,1,1,1,9,8,2,0,1,0,75,0,4
+14,Alisson,1.0,br BRA,GK,30-139,90,39,31,8,1,0,0,0,0,0,0,0,0,31,0,0
+15,15 Players,,,,,990,645,608,37,6,6,6,19,15,7,0,3,0,559,0,10

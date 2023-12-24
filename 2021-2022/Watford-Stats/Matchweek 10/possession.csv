@@ -1,0 +1,17 @@
+,Unnamed: 0_level_0,Unnamed: 1_level_0,Unnamed: 2_level_0,Unnamed: 3_level_0,Unnamed: 4_level_0,Unnamed: 5_level_0,Touches,Touches,Touches,Touches,Touches,Touches,Touches,Take-Ons,Take-Ons,Take-Ons,Take-Ons,Take-Ons,Carries,Carries,Carries,Carries,Carries,Carries,Carries,Carries,Receiving,Receiving
+,Player,#,Nation,Pos,Age,Min,Touches,Def Pen,Def 3rd,Mid 3rd,Att 3rd,Att Pen,Live,Att,Succ,Succ%,Tkld,Tkld%,Carries,TotDist,PrgDist,PrgC,1/3,CPA,Mis,Dis,Rec,PrgR
+0,Joshua King,7.0,no NOR,FW,29-288,90,26,1,2,9,15,4,26,2,1,50.0,1,50.0,19,102,16,0,2,0,4,4,19,5
+1,João Pedro,10.0,br BRA,"AM,FW",20-034,45,23,0,4,12,8,0,23,0,0,,0,,10,72,23,1,0,0,1,1,13,2
+2,Tom Cleverley,8.0,eng ENG,AM,32-079,45,23,1,3,10,10,0,23,0,0,,0,,6,18,4,0,0,0,1,0,9,4
+3,Cucho,29.0,co COL,"LW,LM",22-193,45,20,1,3,6,11,0,20,1,0,0.0,1,100.0,9,51,13,0,1,0,0,0,9,3
+4,Ken Sema,12.0,se SWE,"LW,LM",28-030,45,16,0,4,8,4,0,16,1,0,0.0,1,100.0,7,52,15,1,1,0,1,3,7,1
+5,Juraj Kucka,33.0,sk SVK,"DM,CM,RB",34-246,90,49,2,13,23,13,1,49,2,2,100.0,0,0.0,22,96,53,1,3,0,1,0,27,1
+6,Moussa Sissoko,19.0,fr FRA,"DM,CM",32-075,90,45,4,11,31,4,0,45,4,4,100.0,0,0.0,21,155,84,2,0,0,0,0,21,1
+7,Ismaila Sarr,23.0,sn SEN,"RW,RM",23-247,90,44,1,5,12,27,3,44,2,0,0.0,2,100.0,28,228,87,4,2,1,8,1,31,14
+8,Adam Masina,11.0,ma MAR,LB,27-301,90,56,7,16,26,14,0,56,2,2,100.0,0,0.0,20,57,31,0,0,0,1,0,21,2
+9,Craig Cathcart,15.0,nir NIR,CB,32-266,90,45,12,26,18,1,0,45,0,0,,0,,15,43,4,0,0,0,0,0,15,0
+10,William Troost-Ekong,5.0,ng NGA,CB,28-059,90,36,8,18,18,0,0,36,0,0,,0,,16,47,27,0,0,0,0,0,16,0
+11,Jeremy Ngakia,2.0,eng ENG,RB,21-053,81,43,3,13,22,8,0,43,2,1,50.0,1,50.0,15,80,52,1,0,0,0,0,13,0
+12,Ashley Fletcher,17.0,eng ENG,FW,26-028,9,2,0,0,1,1,1,2,0,0,,0,,1,0,0,0,0,0,0,0,2,0
+13,Ben Foster,1.0,eng ENG,GK,38-210,90,40,20,40,1,0,0,40,0,0,,0,,24,145,91,0,0,0,0,0,15,0
+14,14 Players,,,,,990,468,60,158,197,116,9,468,16,10,62.5,6,37.5,213,1146,500,10,9,1,17,9,218,33

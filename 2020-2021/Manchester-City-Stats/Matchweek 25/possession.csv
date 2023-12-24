@@ -1,0 +1,15 @@
+,Unnamed: 0_level_0,Unnamed: 1_level_0,Unnamed: 2_level_0,Unnamed: 3_level_0,Unnamed: 4_level_0,Unnamed: 5_level_0,Touches,Touches,Touches,Touches,Touches,Touches,Touches,Take-Ons,Take-Ons,Take-Ons,Take-Ons,Take-Ons,Carries,Carries,Carries,Carries,Carries,Carries,Carries,Carries,Receiving,Receiving
+,Player,#,Nation,Pos,Age,Min,Touches,Def Pen,Def 3rd,Mid 3rd,Att 3rd,Att Pen,Live,Att,Succ,Succ%,Tkld,Tkld%,Carries,TotDist,PrgDist,PrgC,1/3,CPA,Mis,Dis,Rec,PrgR
+0,Bernardo Silva,20.0,pt POR,"FW,RM",26-195,90,45,0,3,26,16,1,45,2,1,50.0,1,50.0,29,208,136,3,1,1,2,0,38,6
+1,Raheem Sterling,7.0,eng ENG,LW,26-075,90,48,0,2,10,36,8,48,8,5,62.5,3,37.5,33,210,109,3,2,3,2,0,44,12
+2,Riyad Mahrez,26.0,dz ALG,RW,30-000,90,46,2,4,17,25,7,46,3,3,100.0,0,0.0,34,226,123,7,1,5,1,0,38,11
+3,İlkay Gündoğan,8.0,de GER,LM,30-120,90,56,1,4,35,17,5,56,0,0,,0,,34,118,52,3,0,1,2,2,44,6
+4,Fernandinho,25.0,br BRA,CM,35-293,90,61,5,13,45,5,1,61,2,2,100.0,0,0.0,33,152,105,1,2,1,0,0,35,0
+5,Kevin De Bruyne,17.0,be BEL,RM,29-238,62,58,0,4,27,27,2,58,1,1,100.0,0,0.0,37,137,95,2,3,0,0,1,49,2
+6,Gabriel Jesus,9.0,br BRA,FW,23-324,28,15,0,0,3,13,1,15,2,2,100.0,0,0.0,10,80,62,2,1,1,0,1,13,1
+7,Oleksandr Zinchenko,11.0,ua UKR,LB,24-068,90,93,6,17,60,16,3,93,0,0,,0,,68,330,187,3,3,1,0,0,72,3
+8,Rúben Dias,3.0,pt POR,CB,23-283,90,91,6,26,62,4,0,91,3,3,100.0,0,0.0,65,501,358,2,3,0,1,0,77,0
+9,John Stones,5.0,eng ENG,CB,26-269,90,73,6,25,40,8,0,73,0,0,,0,,52,331,180,4,4,0,0,0,57,0
+10,João Cancelo,27.0,pt POR,RB,26-270,90,73,1,18,34,23,5,73,2,2,100.0,0,0.0,43,185,89,2,4,1,0,0,50,3
+11,Ederson,31.0,br BRA,GK,27-188,90,44,30,44,0,0,0,44,0,0,,0,,23,73,49,0,0,0,0,0,23,0
+12,12 Players,,,,,990,703,57,160,359,190,33,703,23,19,82.6,4,17.4,461,2551,1545,32,24,14,8,4,540,44

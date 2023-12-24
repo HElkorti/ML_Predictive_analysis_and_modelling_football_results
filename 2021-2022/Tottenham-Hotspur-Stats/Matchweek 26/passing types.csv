@@ -1,0 +1,17 @@
+,Unnamed: 0_level_0,Unnamed: 1_level_0,Unnamed: 2_level_0,Unnamed: 3_level_0,Unnamed: 4_level_0,Unnamed: 5_level_0,Unnamed: 6_level_0,Pass Types,Pass Types,Pass Types,Pass Types,Pass Types,Pass Types,Pass Types,Pass Types,Corner Kicks,Corner Kicks,Corner Kicks,Outcomes,Outcomes,Outcomes
+,Player,#,Nation,Pos,Age,Min,Att,Live,Dead,FK,TB,Sw,Crs,TI,CK,In,Out,Str,Cmp,Off,Blocks
+0,Harry Kane,10.0,eng ENG,FW,28-206,90,28,28,0,0,3,2,0,0,0,0,0,0,19,0,0
+1,Son Heung-min,7.0,kr KOR,AM,29-226,79,17,17,0,0,0,1,1,0,0,0,0,0,16,0,0
+2,Lucas Moura,27.0,br BRA,AM,29-190,11,3,3,0,0,0,0,0,0,0,0,0,0,1,0,0
+3,Dejan Kulusevski,21.0,se SWE,AM,21-300,90,23,20,3,0,0,0,1,0,0,0,0,0,20,0,1
+4,Pierre Højbjerg,5.0,dk DEN,CM,26-198,90,34,32,2,2,0,1,0,0,0,0,0,0,27,0,0
+5,Rodrigo Bentancur,30.0,uy URU,CM,24-239,90,26,26,0,0,0,0,0,0,0,0,0,0,21,0,2
+6,Ryan Sessegnon,19.0,eng ENG,WB,21-277,89,20,19,0,0,0,0,0,0,0,0,0,0,14,1,0
+7,Davinson Sánchez,6.0,co COL,CB,25-252,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+8,Emerson,12.0,br BRA,WB,23-036,82,38,28,10,1,0,0,2,9,0,0,0,0,29,0,0
+9,Matt Doherty,2.0,ie IRL,WB,30-034,8,2,1,1,0,0,0,0,1,0,0,0,0,1,0,0
+10,Ben Davies,33.0,wls WAL,"CB,WB",28-301,90,32,31,0,0,0,0,0,0,0,0,0,0,26,1,0
+11,Eric Dier,15.0,eng ENG,CB,28-035,90,38,36,1,0,0,0,0,0,0,0,0,0,28,1,0
+12,Cristian Romero,4.0,ar ARG,CB,23-298,90,41,41,0,0,0,1,0,0,0,0,0,0,37,0,1
+13,Hugo Lloris,1.0,fr FRA,GK,35-055,90,34,18,16,3,0,0,0,0,0,0,0,0,26,0,0
+14,14 Players,,,,,990,336,300,33,6,3,5,4,10,0,0,0,0,265,3,4

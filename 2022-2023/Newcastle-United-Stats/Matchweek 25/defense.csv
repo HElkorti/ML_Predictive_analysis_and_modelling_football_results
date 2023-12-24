@@ -1,0 +1,19 @@
+,Unnamed: 0_level_0,Unnamed: 1_level_0,Unnamed: 2_level_0,Unnamed: 3_level_0,Unnamed: 4_level_0,Unnamed: 5_level_0,Tackles,Tackles,Tackles,Tackles,Tackles,Challenges,Challenges,Challenges,Challenges,Blocks,Blocks,Blocks,Unnamed: 18_level_0,Unnamed: 19_level_0,Unnamed: 20_level_0,Unnamed: 21_level_0
+,Player,#,Nation,Pos,Age,Min,Tkl,TklW,Def 3rd,Mid 3rd,Att 3rd,Tkl,Att,Tkl%,Lost,Blocks,Sh,Pass,Int,Tkl+Int,Clr,Err
+0,Callum Wilson,9.0,eng ENG,FW,31-080,90,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,0
+1,Alexander Isak,14.0,se SWE,LW,23-239,89,1,1,1,0,0,1,2,50.0,1,2,1,1,0,1,0,0
+2,Anthony Gordon,8.0,eng ENG,RW,22-083,1,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,0
+3,Miguel Almirón,24.0,py PAR,RW,29-097,89,2,2,1,1,0,2,6,33.3,4,1,0,1,2,4,0,0
+4,Allan Saint-Maximin,10.0,fr FRA,LW,26-067,1,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,0
+5,Joelinton,7.0,br BRA,LM,26-277,89,0,0,0,0,0,0,2,0.0,2,2,1,1,2,2,1,0
+6,Matt Targett,13.0,eng ENG,LM,27-242,1,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,0
+7,Bruno Guimarães,39.0,br BRA,CM,25-183,90,4,4,0,4,0,3,4,75.0,1,0,0,0,4,8,1,0
+8,Joe Willock,28.0,eng ENG,RM,23-271,60,0,0,0,0,0,0,2,0.0,2,1,0,1,0,0,0,0
+9,Elliot Anderson,32.0,sct SCO,RM,20-193,30,0,0,0,0,0,0,1,0.0,1,1,0,1,0,0,0,0
+10,Dan Burn,33.0,eng ENG,LB,31-009,90,3,2,1,2,0,2,5,40.0,3,0,0,0,0,3,0,0
+11,Sven Botman,4.0,nl NED,CB,23-126,90,0,0,0,0,0,0,0,,0,1,1,0,0,0,1,0
+12,Fabian Schär,5.0,ch SUI,CB,31-149,90,0,0,0,0,0,0,0,,0,0,0,0,0,0,3,0
+13,Kieran Trippier,2.0,eng ENG,RB,32-241,89,1,1,0,1,0,1,2,50.0,1,1,0,1,1,2,1,0
+14,Javier Manquillo,19.0,es ESP,RB,29-013,1,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,0
+15,Nick Pope,22.0,eng ENG,GK,31-029,90,0,0,0,0,0,0,0,,0,0,0,0,0,0,2,0
+16,16 Players,,,,,990,11,10,3,8,0,9,24,37.5,15,9,3,6,9,20,9,0

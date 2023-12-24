@@ -1,0 +1,17 @@
+,Unnamed: 0_level_0,Unnamed: 1_level_0,Unnamed: 2_level_0,Unnamed: 3_level_0,Unnamed: 4_level_0,Unnamed: 5_level_0,Unnamed: 6_level_0,Pass Types,Pass Types,Pass Types,Pass Types,Pass Types,Pass Types,Pass Types,Pass Types,Corner Kicks,Corner Kicks,Corner Kicks,Outcomes,Outcomes,Outcomes
+,Player,#,Nation,Pos,Age,Min,Att,Live,Dead,FK,TB,Sw,Crs,TI,CK,In,Out,Str,Cmp,Off,Blocks
+0,Harry Kane,10.0,eng ENG,FW,27-200,90,23,21,2,0,0,1,1,0,0,0,0,0,20,0,0
+1,Son Heung-min,7.0,kr KOR,LW,28-220,90,37,34,3,1,0,0,5,0,2,0,2,0,25,0,1
+2,Érik Lamela,11.0,ar ARG,RW,28-346,71,35,33,2,1,0,0,0,0,0,0,0,0,31,0,0
+3,Gareth Bale,9.0,wls WAL,RW,31-212,19,8,8,0,0,0,0,0,0,0,0,0,0,3,0,0
+4,Lucas Moura,27.0,br BRA,AM,28-184,45,12,12,0,0,0,0,1,0,0,0,0,0,7,0,0
+5,Moussa Sissoko,17.0,fr FRA,DM,31-181,45,25,25,0,0,0,0,0,0,0,0,0,0,24,0,0
+6,Pierre Højbjerg,5.0,dk DEN,DM,25-192,90,72,68,4,4,0,0,0,0,0,0,0,0,68,0,0
+7,Tanguy Ndombele,28.0,fr FRA,"DM,AM",24-047,63,19,18,1,1,0,0,0,0,0,0,0,0,16,0,1
+8,Dele Alli,20.0,eng ENG,AM,24-308,27,18,16,2,1,0,0,0,0,0,0,0,0,14,0,2
+9,Ben Davies,33.0,wls WAL,LB,27-295,90,40,35,5,1,0,0,0,4,0,0,0,0,33,0,0
+10,Eric Dier,15.0,eng ENG,CB,27-029,90,69,69,0,0,0,2,0,0,0,0,0,0,60,0,1
+11,Davinson Sánchez,6.0,co COL,CB,24-246,90,53,52,1,1,0,0,0,0,0,0,0,0,47,0,1
+12,Japhet Tanganga,25.0,eng ENG,RB,21-319,90,43,39,4,0,0,0,1,4,0,0,0,0,37,0,0
+13,Hugo Lloris,1.0,fr FRA,GK,34-049,90,22,14,8,2,0,1,0,0,0,0,0,0,19,0,0
+14,14 Players,,,,,990,476,444,32,12,0,4,8,8,2,0,2,0,404,0,6

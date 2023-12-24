@@ -1,0 +1,17 @@
+,Unnamed: 0_level_0,Unnamed: 1_level_0,Unnamed: 2_level_0,Unnamed: 3_level_0,Unnamed: 4_level_0,Unnamed: 5_level_0,Tackles,Tackles,Tackles,Tackles,Tackles,Challenges,Challenges,Challenges,Challenges,Blocks,Blocks,Blocks,Unnamed: 18_level_0,Unnamed: 19_level_0,Unnamed: 20_level_0,Unnamed: 21_level_0
+,Player,#,Nation,Pos,Age,Min,Tkl,TklW,Def 3rd,Mid 3rd,Att 3rd,Tkl,Att,Tkl%,Lost,Blocks,Sh,Pass,Int,Tkl+Int,Clr,Err
+0,Harry Kane,10.0,eng ENG,FW,28-175,90,1,0,0,1,0,0,0,,0,0,0,0,0,1,1,0
+1,Lucas Moura,27.0,br BRA,"FW,LW",29-159,90,0,0,0,0,0,0,2,0.0,2,0,0,0,2,2,1,0
+2,Pierre Højbjerg,5.0,dk DEN,"CM,DM",26-167,90,1,1,0,0,1,0,0,,0,4,1,3,4,5,0,0
+3,Harry Winks,8.0,eng ENG,CM,25-351,73,0,0,0,0,0,0,1,0.0,1,0,0,0,1,1,0,0
+4,Giovani Lo Celso,18.0,ar ARG,"RW,CM",25-285,17,0,0,0,0,0,0,1,0.0,1,1,1,0,1,1,0,1
+5,Oliver Skipp,29.0,eng ENG,"CM,DM",21-125,90,2,1,0,2,0,1,3,33.3,2,0,0,0,1,3,1,0
+6,Sergio Reguilón,3.0,es ESP,WB,25-034,78,4,2,1,1,2,3,4,75.0,1,1,0,1,0,4,1,0
+7,Steven Bergwijn,23.0,nl NED,AM,24-103,12,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,0
+8,Emerson,12.0,br BRA,WB,23-005,45,1,1,0,1,0,0,0,,0,0,0,0,0,1,0,0
+9,Matt Doherty,2.0,ie IRL,"WB,RB",30-003,45,0,0,0,0,0,0,0,,0,2,0,2,1,1,0,0
+10,Ben Davies,33.0,wls WAL,"CB,LB",28-270,90,4,1,4,0,0,2,2,100.0,0,1,0,1,1,5,2,0
+11,Davinson Sánchez,6.0,co COL,CB,25-221,90,3,3,1,1,1,1,2,50.0,1,2,2,0,2,5,5,0
+12,Japhet Tanganga,25.0,eng ENG,CB,22-294,90,4,2,1,3,0,1,1,100.0,0,1,1,0,1,5,3,0
+13,Hugo Lloris,1.0,fr FRA,GK,35-024,90,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,0
+14,14 Players,,,,,990,20,11,7,9,4,8,16,50.0,8,12,5,7,14,34,14,1

@@ -1,0 +1,19 @@
+,Unnamed: 0_level_0,Unnamed: 1_level_0,Unnamed: 2_level_0,Unnamed: 3_level_0,Unnamed: 4_level_0,Unnamed: 5_level_0,Touches,Touches,Touches,Touches,Touches,Touches,Touches,Take-Ons,Take-Ons,Take-Ons,Take-Ons,Take-Ons,Carries,Carries,Carries,Carries,Carries,Carries,Carries,Carries,Receiving,Receiving
+,Player,#,Nation,Pos,Age,Min,Touches,Def Pen,Def 3rd,Mid 3rd,Att 3rd,Att Pen,Live,Att,Succ,Succ%,Tkld,Tkld%,Carries,TotDist,PrgDist,PrgC,1/3,CPA,Mis,Dis,Rec,PrgR
+0,Kelechi Iheanacho,14.0,ng NGA,FW,26-145,61,23,0,0,11,12,3,23,3,2,66.7,1,33.3,15,105,35,1,2,2,4,4,17,3
+1,Jamie Vardy,9.0,eng ENG,FW,36-045,29,8,1,1,3,4,2,8,0,0,,0,,1,1,1,0,0,0,1,0,5,2
+2,Harvey Barnes,7.0,eng ENG,LW,25-078,90,34,1,4,20,11,4,34,3,2,66.7,1,33.3,18,138,78,4,1,4,1,2,26,5
+3,Tetê,37.0,br BRA,RW,23-010,61,19,1,3,8,8,3,19,1,0,0.0,1,100.0,9,39,3,0,0,1,2,0,10,2
+4,Youri Tielemans,8.0,be BEL,"CM,DM",25-294,29,18,1,5,10,4,0,18,1,1,100.0,0,0.0,12,54,16,1,1,0,1,1,15,0
+5,Kiernan Dewsbury-Hall,22.0,eng ENG,"LM,CM,AM",24-172,90,40,3,14,17,12,2,40,3,3,100.0,0,0.0,23,284,201,6,2,2,1,0,22,4
+6,Wilfred Ndidi,25.0,ng NGA,"CM,DM",26-071,76,26,5,13,11,2,0,26,1,1,100.0,0,0.0,10,42,11,0,0,0,0,0,9,0
+7,Boubakary Soumaré,42.0,fr FRA,DM,23-363,14,9,0,3,3,3,0,9,0,0,,0,,3,15,7,0,0,0,0,0,4,0
+8,Dennis Praet,26.0,be BEL,"RM,RW",28-287,76,36,2,9,22,7,0,36,1,1,100.0,0,0.0,15,100,49,1,0,0,0,0,17,0
+9,Patson Daka,20.0,zm ZAM,FW,24-139,14,6,0,1,3,2,0,6,0,0,,0,,3,9,2,0,0,0,0,0,4,0
+10,Victor Bernth Kristiansen,16.0,dk DEN,"LB,CB",20-071,90,64,6,32,25,8,0,64,2,1,50.0,0,0.0,20,75,32,1,0,0,3,1,21,0
+11,Wout Faes,3.0,be BEL,CB,24-328,90,59,10,35,24,0,0,59,0,0,,0,,30,107,10,0,0,0,0,0,32,0
+12,Harry Souttar,15.0,au AUS,CB,24-126,90,47,9,26,23,0,0,47,0,0,,0,,30,194,84,1,0,0,0,0,28,0
+13,Timothy Castagne,27.0,be BEL,"RB,RW",27-082,84,36,6,15,12,10,0,36,1,1,100.0,0,0.0,11,30,11,0,0,0,1,0,14,1
+14,Ricardo Pereira,21.0,pt POR,RW,29-142,6,5,0,2,2,1,0,5,0,0,,0,,3,18,0,0,1,0,0,0,2,1
+15,Danny Ward,1.0,wls WAL,GK,29-248,90,29,23,29,0,0,0,29,0,0,,0,,12,63,37,0,0,0,0,0,8,0
+16,16 Players,,,,,990,459,68,192,194,84,14,459,16,12,75.0,3,18.8,215,1274,577,15,7,9,14,8,234,18

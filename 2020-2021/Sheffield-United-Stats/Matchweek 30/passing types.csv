@@ -1,0 +1,18 @@
+,Unnamed: 0_level_0,Unnamed: 1_level_0,Unnamed: 2_level_0,Unnamed: 3_level_0,Unnamed: 4_level_0,Unnamed: 5_level_0,Unnamed: 6_level_0,Pass Types,Pass Types,Pass Types,Pass Types,Pass Types,Pass Types,Pass Types,Pass Types,Corner Kicks,Corner Kicks,Corner Kicks,Outcomes,Outcomes,Outcomes
+,Player,#,Nation,Pos,Age,Min,Att,Live,Dead,FK,TB,Sw,Crs,TI,CK,In,Out,Str,Cmp,Off,Blocks
+0,Oliver McBurnie,9.0,sct SCO,FW,24-303,76,31,31,0,0,0,0,0,0,0,0,0,0,16,0,0
+1,John Egan,12.0,ie IRL,CB,28-165,14,10,9,1,1,0,0,0,0,0,0,0,0,7,0,0
+2,David McGoldrick,17.0,ie IRL,"FW,AM",33-125,90,37,36,1,0,0,0,1,1,0,0,0,0,27,0,0
+3,John Fleck,4.0,sct SCO,CM,29-222,90,37,31,6,3,0,0,6,0,3,3,0,0,25,0,2
+4,Oliver Norwood,16.0,nir NIR,CM,29-356,64,30,27,3,0,0,0,3,0,3,3,0,0,24,0,1
+5,Oliver Burke,14.0,sct SCO,"FW,CM,WB",23-361,26,14,14,0,0,0,0,1,0,0,0,0,0,10,0,1
+6,John Lundstram,7.0,eng ENG,CM,27-044,90,45,38,7,2,0,0,3,1,1,1,0,0,34,0,2
+7,Ben Osborn,23.0,eng ENG,WB,26-241,90,53,45,8,0,0,0,1,8,0,0,0,0,43,0,2
+8,Jayden Bogle,20.0,eng ENG,WB,20-250,72,24,22,2,0,0,0,2,2,0,0,0,0,20,0,1
+9,Rhian Brewster,24.0,eng ENG,FW,21-002,18,7,7,0,0,0,0,0,0,0,0,0,0,5,0,1
+10,Enda Stevens,3.0,ie IRL,CB,30-268,90,46,41,4,0,0,1,1,4,0,0,0,0,34,1,2
+11,Phil Jagielka,15.0,eng ENG,CB,38-229,90,46,42,4,4,0,0,0,0,0,0,0,0,35,0,1
+12,George Baldock,2.0,gr GRE,CB,28-025,44,11,11,0,0,0,0,0,0,0,0,0,0,10,0,0
+13,Ethan Ampadu,22.0,wls WAL,"CB,WB",20-201,46,34,26,8,1,0,0,0,7,0,0,0,0,23,0,2
+14,Aaron Ramsdale,1.0,eng ENG,GK,22-324,90,33,22,11,2,0,0,0,0,0,0,0,0,21,0,0
+15,15 Players,,,,,990,458,402,55,13,0,1,18,23,7,7,0,0,334,1,15

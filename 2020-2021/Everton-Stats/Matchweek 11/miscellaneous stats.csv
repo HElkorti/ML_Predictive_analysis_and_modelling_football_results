@@ -1,0 +1,17 @@
+,Unnamed: 0_level_0,Unnamed: 1_level_0,Unnamed: 2_level_0,Unnamed: 3_level_0,Unnamed: 4_level_0,Unnamed: 5_level_0,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Aerial Duels,Aerial Duels,Aerial Duels
+,Player,#,Nation,Pos,Age,Min,CrdY,CrdR,2CrdY,Fls,Fld,Off,Crs,Int,TklW,PKwon,PKcon,OG,Recov,Won,Lost,Won%
+0,Dominic Calvert-Lewin,9.0,eng ENG,FW,23-264,90,0,0,0,2,0,1,0,0,0,0,0,0,1,2,3,40.0
+1,Richarlison,7.0,br BRA,"LW,AM",23-209,90,0,0,0,0,1,1,4,0,0,0,0,0,3,0,2,0.0
+2,James Rodríguez,19.0,co COL,"RW,AM",29-146,90,0,0,0,1,0,0,3,1,2,0,0,0,8,1,0,100.0
+3,Fabian Delph,8.0,eng ENG,LM,31-014,28,0,0,0,1,1,0,0,0,0,0,0,0,1,0,0,
+4,André Gomes,21.0,pt POR,"LM,DM",27-128,62,0,0,0,1,0,1,0,0,0,0,0,0,5,0,1,0.0
+5,Allan,6.0,br BRA,CM,29-332,88,0,0,0,0,0,0,0,1,1,0,0,0,9,0,1,0.0
+6,Cenk Tosun,14.0,tr TUR,FW,29-181,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0.0
+7,Abdoulaye Doucouré,16.0,ml MLI,"RM,CM",27-339,80,0,0,0,1,0,0,1,0,1,0,0,0,9,3,2,60.0
+8,Gylfi Sigurðsson,10.0,is ISL,"RM,DM",31-088,10,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,
+9,Alex Iwobi,17.0,ng NGA,"RB,RM",24-216,90,0,0,0,1,1,0,10,1,2,0,0,0,6,0,0,
+10,Michael Keane,5.0,eng ENG,CB,27-329,90,0,0,0,0,1,0,0,2,0,0,0,0,9,4,2,66.7
+11,Yerry Mina,13.0,co COL,CB,26-073,90,0,0,0,2,0,0,0,4,4,0,0,0,10,5,4,55.6
+12,Ben Godfrey,22.0,eng ENG,"LB,CB",22-325,90,0,0,0,0,1,0,0,3,5,0,0,0,4,5,2,71.4
+13,Jordan Pickford,1.0,eng ENG,GK,26-273,90,0,0,0,0,1,0,0,0,0,0,0,0,1,1,0,100.0
+14,14 Players,,,,,990,0,0,0,9,6,3,18,12,15,0,0,0,67,21,18,53.8

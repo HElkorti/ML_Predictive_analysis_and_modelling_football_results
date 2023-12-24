@@ -1,0 +1,16 @@
+,Unnamed: 0_level_0,Unnamed: 1_level_0,Unnamed: 2_level_0,Unnamed: 3_level_0,Unnamed: 4_level_0,Unnamed: 5_level_0,Total,Total,Total,Total,Total,Short,Short,Short,Medium,Medium,Medium,Long,Long,Long,Unnamed: 20_level_0,Unnamed: 21_level_0,Unnamed: 22_level_0,Unnamed: 23_level_0,Unnamed: 24_level_0,Unnamed: 25_level_0,Unnamed: 26_level_0,Unnamed: 27_level_0
+,Player,#,Nation,Pos,Age,Min,Cmp,Att,Cmp%,TotDist,PrgDist,Cmp,Att,Cmp%,Cmp,Att,Cmp%,Cmp,Att,Cmp%,Ast,xAG,xA,KP,1/3,PPA,CrsPA,PrgP
+0,Daniel Jebbison,38.0,eng ENG,FW,17-283,78,4,7,57.1,83,21,2,3,66.7,1,2,50.0,1,1,100.0,0,0.0,0.0,0,1,0,0,1
+1,Rhian Brewster,24.0,eng ENG,FW,21-052,12,2,3,66.7,31,18,1,1,100.0,1,2,50.0,0,0,,0,0.0,0.0,0,0,0,0,0
+2,Ben Osborn,23.0,eng ENG,AM,26-291,82,15,27,55.6,229,25,8,8,100.0,5,9,55.6,1,6,16.7,0,0.0,0.0,0,0,1,0,2
+3,Phil Jagielka,15.0,eng ENG,CB,38-279,8,1,4,25.0,44,41,0,0,,0,2,0.0,1,2,50.0,0,0.0,0.0,0,1,0,0,0
+4,David McGoldrick,17.0,ie IRL,AM,33-175,90,25,32,78.1,364,58,16,17,94.1,6,9,66.7,2,4,50.0,0,0.0,0.0,1,2,0,0,3
+5,John Fleck,4.0,sct SCO,"CM,AM",29-272,90,22,27,81.5,308,106,13,13,100.0,7,10,70.0,1,3,33.3,0,0.0,0.0,0,2,0,0,2
+6,Oliver Norwood,16.0,nir NIR,CM,30-041,90,37,51,72.5,659,211,17,17,100.0,15,17,88.2,5,14,35.7,0,0.2,0.1,4,5,1,0,3
+7,Enda Stevens,3.0,ie IRL,WB,30-318,90,33,49,67.3,557,301,16,17,94.1,14,17,82.4,2,12,16.7,1,0.0,0.2,1,2,2,2,4
+8,George Baldock,2.0,gr GRE,WB,28-075,90,29,42,69.0,392,126,21,24,87.5,7,11,63.6,1,6,16.7,0,0.1,0.1,1,3,1,0,2
+9,Jack Robinson,19.0,eng ENG,CB,27-264,90,32,39,82.1,565,187,12,13,92.3,18,23,78.3,2,2,100.0,0,0.0,0.0,0,1,1,0,2
+10,John Egan,12.0,ie IRL,CB,28-215,90,19,33,57.6,436,222,8,12,66.7,8,15,53.3,3,6,50.0,0,0.0,0.0,0,2,0,0,1
+11,Chris Basham,6.0,eng ENG,"CB,CM",32-307,90,31,44,70.5,594,190,10,14,71.4,16,18,88.9,4,8,50.0,0,0.0,0.0,0,2,0,0,3
+12,Aaron Ramsdale,1.0,eng ENG,GK,23-009,90,18,42,42.9,872,772,0,0,,4,4,100.0,14,38,36.8,0,0.0,0.0,1,0,0,0,0
+13,13 Players,,,,,990,268,400,67.0,5134,2278,124,139,89.2,102,139,73.4,37,102,36.3,1,0.3,0.5,8,21,6,2,23

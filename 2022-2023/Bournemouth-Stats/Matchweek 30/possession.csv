@@ -1,0 +1,17 @@
+,Unnamed: 0_level_0,Unnamed: 1_level_0,Unnamed: 2_level_0,Unnamed: 3_level_0,Unnamed: 4_level_0,Unnamed: 5_level_0,Touches,Touches,Touches,Touches,Touches,Touches,Touches,Take-Ons,Take-Ons,Take-Ons,Take-Ons,Take-Ons,Carries,Carries,Carries,Carries,Carries,Carries,Carries,Carries,Receiving,Receiving
+,Player,#,Nation,Pos,Age,Min,Touches,Def Pen,Def 3rd,Mid 3rd,Att 3rd,Att Pen,Live,Att,Succ,Succ%,Tkld,Tkld%,Carries,TotDist,PrgDist,PrgC,1/3,CPA,Mis,Dis,Rec,PrgR
+0,Dominic Solanke,9.0,eng ENG,FW,25-206,87,40,2,5,16,19,10,40,5,1,20.0,2,40.0,21,149,39,1,0,1,2,2,25,7
+1,Antoine Semenyo,24.0,gh GHA,FW,23-091,3,4,0,1,1,2,0,4,1,1,100.0,0,0.0,2,14,3,0,0,0,1,0,3,0
+2,Dango Ouattara,11.0,bf BFA,LW,21-056,37,28,1,4,12,13,5,28,3,1,33.3,2,66.7,14,105,61,1,2,1,1,0,17,5
+3,Marcus Tavernier,16.0,eng ENG,LW,24-017,53,28,0,1,13,14,2,28,3,0,0.0,3,100.0,12,78,22,1,1,0,0,1,17,2
+4,Ryan Christie,10.0,sct SCO,RW,28-045,90,44,0,6,20,20,2,44,4,1,25.0,3,75.0,29,190,50,1,3,0,4,3,30,4
+5,Philip Billing,29.0,dk DEN,AM,26-301,90,53,2,5,23,25,4,53,1,0,0.0,0,0.0,27,129,76,2,1,0,1,1,29,5
+6,Jefferson Lerma,8.0,co COL,DM,28-165,90,45,1,8,28,9,0,45,0,0,,0,,20,89,42,0,0,0,0,0,24,0
+7,Joe Rothwell,14.0,eng ENG,DM,28-087,58,44,0,11,17,17,2,44,3,3,100.0,0,0.0,25,103,46,1,2,1,1,0,27,2
+8,Lewis Cook,4.0,eng ENG,DM,26-064,32,17,0,2,8,7,1,17,1,0,0.0,1,100.0,5,42,3,0,0,0,1,0,9,0
+9,Lloyd Kelly,5.0,eng ENG,LB,24-184,90,68,2,20,35,13,1,68,1,0,0.0,1,100.0,31,87,41,1,0,0,0,0,43,0
+10,Chris Mepham,6.0,wls WAL,CB,25-154,90,66,16,38,26,2,2,66,0,0,,0,,37,171,63,0,0,0,0,0,44,1
+11,Jack Stephens,3.0,eng ENG,CB,29-071,90,63,7,32,27,4,2,63,0,0,,0,,38,178,99,1,0,0,1,0,40,0
+12,Adam Smith,15.0,eng ENG,RB,31-344,90,58,3,15,29,15,0,58,0,0,,0,,25,142,77,3,1,0,0,0,26,3
+13,Neto,13.0,br BRA,GK,33-263,90,40,35,40,0,0,0,40,0,0,,0,,19,108,75,0,0,0,0,0,15,0
+14,14 Players,,,,,990,598,69,188,255,160,31,598,22,7,31.8,12,54.5,305,1585,697,12,10,3,12,7,349,29

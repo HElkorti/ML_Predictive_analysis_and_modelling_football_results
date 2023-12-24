@@ -1,0 +1,18 @@
+,Unnamed: 0_level_0,Unnamed: 1_level_0,Unnamed: 2_level_0,Unnamed: 3_level_0,Unnamed: 4_level_0,Unnamed: 5_level_0,Touches,Touches,Touches,Touches,Touches,Touches,Touches,Take-Ons,Take-Ons,Take-Ons,Take-Ons,Take-Ons,Carries,Carries,Carries,Carries,Carries,Carries,Carries,Carries,Receiving,Receiving
+,Player,#,Nation,Pos,Age,Min,Touches,Def Pen,Def 3rd,Mid 3rd,Att 3rd,Att Pen,Live,Att,Succ,Succ%,Tkld,Tkld%,Carries,TotDist,PrgDist,PrgC,1/3,CPA,Mis,Dis,Rec,PrgR
+0,Dominic Solanke,9.0,eng ENG,FW,24-354,89,27,0,5,12,11,4,27,2,0,0.0,1,50.0,18,125,46,2,1,2,4,1,20,2
+1,Jack Stacey,17.0,eng ENG,FW,26-150,1,1,0,0,1,0,0,1,0,0,,0,,0,0,0,0,0,0,0,0,1,0
+2,Marcus Tavernier,16.0,eng ENG,"WB,LW",23-165,90,62,1,9,24,30,5,62,5,2,40.0,3,60.0,36,223,96,2,5,1,2,2,39,13
+3,Ryan Christie,10.0,sct SCO,"RW,AM",27-193,84,36,1,3,21,12,2,36,1,0,0.0,0,0.0,21,156,87,4,2,1,1,1,27,3
+4,Jaidon Anthony,32.0,eng ENG,CM,22-276,6,5,0,2,3,2,1,5,1,1,100.0,0,0.0,2,35,33,1,1,0,0,0,2,1
+5,Philip Billing,29.0,dk DEN,AM,26-084,89,51,2,6,21,24,2,51,0,0,,0,,29,119,68,1,1,1,2,0,40,4
+6,Kieffer Moore,21.0,wls WAL,AM,30-026,1,4,0,1,2,1,0,4,0,0,,0,,2,7,4,0,0,0,0,0,3,0
+7,Jefferson Lerma,8.0,co COL,"CM,DM",27-313,90,73,5,19,44,13,1,73,0,0,,0,,49,279,160,3,6,0,2,0,57,0
+8,Lewis Cook,4.0,eng ENG,"CM,DM",25-212,90,64,4,26,28,11,0,64,0,0,,0,,33,181,97,1,1,0,0,0,37,1
+9,Jordan Zemura,33.0,zw ZIM,LB,22-293,45,44,1,16,15,13,1,44,2,1,50.0,1,50.0,29,159,92,2,5,0,0,1,24,1
+10,Ryan Fredericks,2.0,eng ENG,WB,29-328,45,30,2,10,11,9,0,30,1,0,0.0,0,0.0,16,118,87,2,1,0,0,1,18,4
+11,Lloyd Kelly,5.0,eng ENG,CB,23-332,90,54,8,27,25,3,1,54,0,0,,0,,32,175,105,1,0,0,1,0,30,0
+12,Chris Mepham,6.0,wls WAL,CB,24-302,90,59,16,37,22,0,0,59,0,0,,0,,38,160,62,0,0,0,0,1,41,0
+13,Adam Smith,15.0,eng ENG,"CB,RB",31-127,90,72,5,34,29,10,0,72,2,1,50.0,1,50.0,33,168,88,2,3,0,0,0,41,0
+14,Neto,13.0,br BRA,GK,33-046,90,22,21,22,0,0,0,22,0,0,,0,,13,59,38,0,0,0,1,0,9,0
+15,15 Players,,,,,990,604,66,217,258,139,17,604,14,5,35.7,6,42.9,351,1964,1063,21,26,5,13,7,389,29

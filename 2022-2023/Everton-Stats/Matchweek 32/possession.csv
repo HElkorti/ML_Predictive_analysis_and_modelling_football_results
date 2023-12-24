@@ -1,0 +1,16 @@
+,Unnamed: 0_level_0,Unnamed: 1_level_0,Unnamed: 2_level_0,Unnamed: 3_level_0,Unnamed: 4_level_0,Unnamed: 5_level_0,Touches,Touches,Touches,Touches,Touches,Touches,Touches,Take-Ons,Take-Ons,Take-Ons,Take-Ons,Take-Ons,Carries,Carries,Carries,Carries,Carries,Carries,Carries,Carries,Receiving,Receiving
+,Player,#,Nation,Pos,Age,Min,Touches,Def Pen,Def 3rd,Mid 3rd,Att 3rd,Att Pen,Live,Att,Succ,Succ%,Tkld,Tkld%,Carries,TotDist,PrgDist,PrgC,1/3,CPA,Mis,Dis,Rec,PrgR
+0,Dominic Calvert-Lewin,9.0,eng ENG,FW,26-037,89,23,3,3,6,14,4,23,1,1,100.0,0,0.0,6,22,13,0,0,0,2,0,19,4
+1,Neal Maupay,20.0,fr FRA,FW,26-251,1,2,0,0,0,2,0,2,0,0,,0,,2,4,1,0,0,0,0,0,2,0
+2,Dwight McNeil,7.0,eng ENG,LW,23-151,90,37,2,5,10,22,3,37,6,2,33.3,4,66.7,18,149,68,1,1,0,0,1,19,3
+3,Demarai Gray,11.0,jm JAM,RW,26-298,81,25,2,4,10,14,1,25,6,2,33.3,3,50.0,17,89,36,1,2,0,2,1,14,5
+4,Ben Godfrey,22.0,eng ENG,RB,25-097,9,9,4,4,3,2,0,9,0,0,,0,,1,1,0,0,0,0,1,0,2,0
+5,Alex Iwobi,17.0,ng NGA,"AM,RW",26-354,90,44,1,7,12,27,1,44,3,0,0.0,2,66.7,22,110,48,1,2,0,2,2,28,4
+6,Idrissa Gana Gueye,27.0,sn SEN,DM,33-208,90,61,6,19,35,7,0,61,2,1,50.0,1,50.0,20,101,42,1,0,0,2,0,33,0
+7,James Garner,37.0,eng ENG,DM,22-040,90,34,0,7,23,4,0,34,1,1,100.0,0,0.0,12,81,54,0,0,0,2,0,12,1
+8,Vitaliy Mykolenko,19.0,ua UKR,LB,23-328,90,57,2,25,17,15,1,57,1,0,0.0,1,100.0,24,195,21,0,0,0,1,0,25,5
+9,James Tarkowski,2.0,eng ENG,CB,30-154,90,46,6,21,21,4,3,46,0,0,,0,,22,80,29,0,0,0,0,0,28,0
+10,Michael Keane,5.0,eng ENG,CB,30-101,90,62,9,34,27,1,1,62,0,0,,0,,23,131,81,0,0,0,0,0,27,0
+11,Mason Holgate,4.0,eng ENG,RB,26-182,79,56,1,17,27,12,0,56,0,0,,0,,12,52,28,0,1,0,3,0,17,2
+12,Jordan Pickford,1.0,eng ENG,GK,29-046,90,41,28,40,1,0,0,41,0,0,,0,,24,166,116,0,0,0,0,0,13,0
+13,13 Players,,,,,979,497,64,186,192,124,14,497,20,7,35.0,11,55.0,203,1181,537,4,6,0,15,4,239,24

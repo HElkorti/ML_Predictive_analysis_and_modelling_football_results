@@ -1,0 +1,19 @@
+,Unnamed: 0_level_0,Unnamed: 1_level_0,Unnamed: 2_level_0,Unnamed: 3_level_0,Unnamed: 4_level_0,Unnamed: 5_level_0,Unnamed: 6_level_0,Pass Types,Pass Types,Pass Types,Pass Types,Pass Types,Pass Types,Pass Types,Pass Types,Corner Kicks,Corner Kicks,Corner Kicks,Outcomes,Outcomes,Outcomes
+,Player,#,Nation,Pos,Age,Min,Att,Live,Dead,FK,TB,Sw,Crs,TI,CK,In,Out,Str,Cmp,Off,Blocks
+0,Erling Haaland,9.0,no NOR,FW,22-041,68,11,9,1,0,0,0,0,0,0,0,0,0,6,1,1
+1,Kevin De Bruyne,17.0,be BEL,AM,31-064,22,23,21,2,1,0,1,2,0,1,0,0,0,19,0,1
+2,Phil Foden,47.0,eng ENG,LW,22-095,54,27,26,0,0,0,0,1,0,0,0,0,0,19,1,0
+3,Cole Palmer,80.0,eng ENG,LW,20-117,36,18,18,0,0,0,0,2,0,0,0,0,0,14,0,0
+4,Bernardo Silva,20.0,pt POR,"RW,DM",28-021,90,51,50,1,0,0,0,1,1,0,0,0,0,48,0,0
+5,Julián Álvarez,19.0,ar ARG,"AM,FW",22-212,90,27,27,0,0,1,1,2,0,0,0,0,0,23,0,1
+6,Rodri,16.0,es ESP,DM,26-070,54,80,80,0,0,0,2,0,0,0,0,0,0,78,0,0
+7,Riyad Mahrez,26.0,dz ALG,RW,31-191,36,27,24,3,0,0,0,2,2,1,0,0,0,23,0,2
+8,İlkay Gündoğan,8.0,de GER,DM,31-311,90,117,108,9,2,1,0,7,0,7,3,2,0,108,0,0
+9,João Cancelo,7.0,pt POR,LB,28-096,67,75,67,8,3,0,2,7,5,0,0,0,0,58,0,3
+10,Sergio Gómez,21.0,es ESP,LB,21-361,23,23,19,4,0,0,0,2,3,1,0,1,0,18,0,1
+11,Rúben Dias,3.0,pt POR,CB,25-109,90,98,94,4,3,0,0,0,1,0,0,0,0,89,0,0
+12,John Stones,5.0,eng ENG,CB,28-095,74,84,84,0,0,0,1,0,0,0,0,0,0,81,0,0
+13,Rico Lewis,82.0,eng ENG,RB,17-283,16,14,14,0,0,0,0,0,0,0,0,0,0,13,0,0
+14,Kyle Walker,2.0,eng ENG,"RB,CB",32-095,90,121,117,4,0,0,3,1,4,0,0,0,0,113,0,1
+15,Ederson,31.0,br BRA,GK,29-014,90,35,31,4,0,0,0,0,0,0,0,0,0,31,0,0
+16,16 Players,,,,,990,831,789,40,9,2,10,27,16,10,3,3,0,741,2,10

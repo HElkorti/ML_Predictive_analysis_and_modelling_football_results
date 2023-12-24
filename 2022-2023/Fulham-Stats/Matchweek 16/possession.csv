@@ -1,0 +1,16 @@
+,Unnamed: 0_level_0,Unnamed: 1_level_0,Unnamed: 2_level_0,Unnamed: 3_level_0,Unnamed: 4_level_0,Unnamed: 5_level_0,Touches,Touches,Touches,Touches,Touches,Touches,Touches,Take-Ons,Take-Ons,Take-Ons,Take-Ons,Take-Ons,Carries,Carries,Carries,Carries,Carries,Carries,Carries,Carries,Receiving,Receiving
+,Player,#,Nation,Pos,Age,Min,Touches,Def Pen,Def 3rd,Mid 3rd,Att 3rd,Att Pen,Live,Att,Succ,Succ%,Tkld,Tkld%,Carries,TotDist,PrgDist,PrgC,1/3,CPA,Mis,Dis,Rec,PrgR
+0,Carlos Vinícius,30.0,br BRA,FW,27-233,90,27,2,2,7,18,6,27,1,0,0.0,1,100.0,16,92,51,1,1,0,2,1,20,4
+1,Willian,20.0,br BRA,LW,34-096,90,49,0,4,18,27,6,49,1,1,100.0,0,0.0,38,257,117,6,4,3,5,0,42,11
+2,Harry Wilson,8.0,wls WAL,RW,25-236,58,28,1,2,10,16,1,28,1,1,100.0,0,0.0,20,181,26,0,1,0,1,1,23,5
+3,Daniel James,21.0,wls WAL,RW,25-003,32,16,0,0,6,12,4,16,0,0,,0,,10,132,100,3,2,1,1,2,10,1
+4,Andreas Pereira,18.0,br BRA,AM,26-316,90,59,1,3,22,35,2,59,1,0,0.0,1,100.0,31,188,80,3,0,1,2,1,33,6
+5,Tom Cairney,10.0,sct SCO,DM,31-297,89,64,0,11,28,25,1,64,0,0,,0,,38,169,74,1,2,0,2,1,43,2
+6,Josh Onomah,25.0,eng ENG,DM,25-200,1,1,0,0,1,0,0,1,0,0,,0,,0,0,0,0,0,0,0,0,0,0
+7,João Palhinha,26.0,pt POR,DM,27-127,90,64,1,12,43,9,2,64,2,0,0.0,1,50.0,35,118,34,0,0,0,0,0,35,0
+8,Antonee Robinson,33.0,us USA,LB,25-097,90,63,2,15,28,20,1,63,3,1,33.3,2,66.7,37,286,164,5,5,1,6,0,32,3
+9,Tim Ream,13.0,us USA,CB,35-039,90,74,9,41,29,5,2,74,2,1,50.0,0,0.0,52,343,248,1,1,0,0,0,57,0
+10,Issa Diop,31.0,fr FRA,CB,25-308,90,62,9,35,26,2,2,62,0,0,,0,,40,267,177,2,0,0,0,0,40,0
+11,Bobby Reid,14.0,jm JAM,RB,29-284,90,58,3,11,26,21,3,58,2,0,0.0,1,50.0,30,200,148,6,6,1,0,0,29,4
+12,Bernd Leno,17.0,de GER,GK,30-254,90,59,48,59,0,0,0,59,0,0,,0,,42,231,112,0,0,0,0,0,32,0
+13,13 Players,,,,,990,624,76,195,244,190,30,624,13,4,30.8,6,46.2,389,2464,1331,28,22,7,19,6,396,36

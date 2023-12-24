@@ -1,0 +1,19 @@
+,Unnamed: 0_level_0,Unnamed: 1_level_0,Unnamed: 2_level_0,Unnamed: 3_level_0,Unnamed: 4_level_0,Unnamed: 5_level_0,Touches,Touches,Touches,Touches,Touches,Touches,Touches,Take-Ons,Take-Ons,Take-Ons,Take-Ons,Take-Ons,Carries,Carries,Carries,Carries,Carries,Carries,Carries,Carries,Receiving,Receiving
+,Player,#,Nation,Pos,Age,Min,Touches,Def Pen,Def 3rd,Mid 3rd,Att 3rd,Att Pen,Live,Att,Succ,Succ%,Tkld,Tkld%,Carries,TotDist,PrgDist,PrgC,1/3,CPA,Mis,Dis,Rec,PrgR
+0,Ivan Toney,17.0,eng ENG,FW,26-171,90,28,0,2,15,11,3,27,1,1,100.0,0,0.0,10,37,9,0,0,0,3,1,17,2
+1,Keane Lewis-Potter,23.0,eng ENG,LW,21-193,58,19,0,2,10,8,6,19,4,1,25.0,3,75.0,14,81,19,1,0,1,3,4,13,4
+2,Josh Dasilva,10.0,eng ENG,"CM,LW",23-315,32,12,1,1,7,4,2,12,0,0,,0,,3,30,21,2,0,1,1,0,4,1
+3,Bryan Mbeumo,19.0,cm CMR,"RW,FW",23-027,82,26,1,9,5,12,3,26,2,2,100.0,0,0.0,11,43,25,2,1,0,4,2,16,5
+4,Yoane Wissa,11.0,cd COD,FW,26-000,8,8,0,0,5,3,2,8,0,0,,0,,3,19,11,1,0,1,1,0,2,0
+5,Mathias Jensen,8.0,dk DEN,"LM,CM",26-245,82,40,1,12,13,15,1,40,2,0,0.0,2,100.0,14,59,25,1,1,1,3,3,15,1
+6,Mikkel Damsgaard,24.0,dk DEN,CM,22-062,8,4,0,1,2,1,0,4,0,0,,0,,2,6,1,0,0,0,0,0,2,0
+7,Vitaly Janelt,27.0,de GER,CM,24-116,66,30,4,14,14,2,0,30,1,1,100.0,0,0.0,10,40,20,0,0,0,2,0,10,0
+8,Mathias Jørgensen,13.0,dk DEN,CB,32-133,24,7,1,1,5,1,0,7,0,0,,0,,2,7,1,0,0,0,0,1,2,0
+9,Shandon Baptiste,26.0,gd GRN,RM,24-148,58,19,0,8,10,2,0,19,2,1,50.0,0,0.0,13,112,69,1,1,0,0,0,11,1
+10,Frank Onyeka,15.0,ng NGA,"CM,RM",24-245,32,10,1,5,4,1,0,10,0,0,,0,,4,8,5,0,0,0,0,1,4,0
+11,Rico Henry,3.0,eng ENG,"LB,WB",25-057,90,36,3,8,19,10,0,36,5,3,60.0,1,20.0,16,119,31,1,0,0,0,3,17,0
+12,Ben Mee,16.0,eng ENG,CB,32-347,90,49,8,31,17,1,0,49,0,0,,0,,18,59,30,0,0,0,1,0,17,0
+13,Pontus Jansson,18.0,se SWE,CB,31-202,90,28,10,18,10,0,0,28,1,1,100.0,0,0.0,5,27,10,0,0,0,0,0,5,0
+14,Aaron Hickey,2.0,sct SCO,"RB,WB",20-085,90,42,3,22,17,3,0,42,7,3,42.9,3,42.9,16,55,13,0,0,0,2,0,13,1
+15,David Raya,1.0,es ESP,GK,26-353,90,32,29,32,0,0,0,32,0,0,,0,,18,133,80,0,0,0,0,0,12,0
+16,16 Players,,,,,990,390,62,166,153,74,17,389,25,13,52.0,9,36.0,159,835,370,9,3,4,20,15,160,15

@@ -1,0 +1,17 @@
+,Unnamed: 0_level_0,Unnamed: 1_level_0,Unnamed: 2_level_0,Unnamed: 3_level_0,Unnamed: 4_level_0,Unnamed: 5_level_0,Touches,Touches,Touches,Touches,Touches,Touches,Touches,Take-Ons,Take-Ons,Take-Ons,Take-Ons,Take-Ons,Carries,Carries,Carries,Carries,Carries,Carries,Carries,Carries,Receiving,Receiving
+,Player,#,Nation,Pos,Age,Min,Touches,Def Pen,Def 3rd,Mid 3rd,Att 3rd,Att Pen,Live,Att,Succ,Succ%,Tkld,Tkld%,Carries,TotDist,PrgDist,PrgC,1/3,CPA,Mis,Dis,Rec,PrgR
+0,Danny Welbeck,18.0,eng ENG,FW,31-127,90,26,0,1,4,21,8,26,2,1,50.0,1,50.0,24,68,14,1,0,1,1,1,24,7
+1,Neal Maupay,9.0,fr FRA,FW,25-231,78,33,0,0,7,26,8,32,1,0,0.0,1,100.0,24,96,60,1,2,0,0,0,27,9
+2,Enock Mwepu,12.0,zm ZAM,AM,24-091,12,6,0,0,2,4,0,6,1,0,0.0,1,100.0,4,16,2,0,0,0,0,1,4,0
+3,Leandro Trossard,11.0,be BEL,AM,27-119,90,52,0,3,19,31,9,52,6,5,83.3,1,16.7,47,247,139,6,1,4,2,2,45,17
+4,Alexis Mac Allister,10.0,ar ARG,CM,23-099,90,61,1,5,29,29,2,61,2,2,100.0,0,0.0,46,115,41,1,2,0,2,0,42,3
+5,Pascal Groß,13.0,de GER,CM,30-291,90,85,3,6,43,36,3,85,1,0,0.0,1,100.0,56,159,66,0,2,0,2,0,52,4
+6,Solly March,20.0,eng ENG,WB,27-256,82,74,2,5,23,48,4,74,3,1,33.3,2,66.7,43,208,108,3,3,0,2,1,42,8
+7,Jakub Moder,15.0,pl POL,WB,22-360,5,3,2,3,0,0,0,3,0,0,,0,,0,0,0,0,0,0,2,0,1,0
+8,Jeremy Sarmiento,60.0,ec ECU,WB,19-290,3,7,0,0,0,7,0,7,0,0,,0,,5,42,28,1,1,0,1,0,7,2
+9,Tariq Lamptey,2.0,gh GHA,WB,21-184,90,60,0,5,25,31,0,60,1,0,0.0,1,100.0,47,275,106,5,7,0,5,1,46,4
+10,Marc Cucurella,3.0,es ESP,CB,23-254,90,100,1,12,45,43,1,100,1,1,100.0,0,0.0,70,280,190,3,2,0,0,3,65,5
+11,Lewis Dunk,5.0,eng ENG,CB,30-132,90,56,3,24,28,4,4,56,0,0,,0,,37,165,89,1,0,0,0,0,35,0
+12,Joël Veltman,34.0,nl NED,CB,30-077,90,70,6,24,37,9,3,70,0,0,,0,,29,80,32,0,0,0,1,0,23,0
+13,Robert Sánchez,1.0,es ESP,GK,24-135,90,21,19,21,0,0,0,21,0,0,,0,,14,71,52,0,0,0,0,0,8,0
+14,14 Players,,,,,990,654,37,109,262,289,42,653,18,10,55.6,8,44.4,446,1822,927,22,20,5,18,9,421,59

@@ -1,0 +1,17 @@
+,Unnamed: 0_level_0,Unnamed: 1_level_0,Unnamed: 2_level_0,Unnamed: 3_level_0,Unnamed: 4_level_0,Unnamed: 5_level_0,Tackles,Tackles,Tackles,Tackles,Tackles,Challenges,Challenges,Challenges,Challenges,Blocks,Blocks,Blocks,Unnamed: 18_level_0,Unnamed: 19_level_0,Unnamed: 20_level_0,Unnamed: 21_level_0
+,Player,#,Nation,Pos,Age,Min,Tkl,TklW,Def 3rd,Mid 3rd,Att 3rd,Tkl,Att,Tkl%,Lost,Blocks,Sh,Pass,Int,Tkl+Int,Clr,Err
+0,Gabriel Jesus,9.0,br BRA,FW,25-146,88,0,0,0,0,0,0,0,,0,2,0,2,1,1,0,0
+1,Takehiro Tomiyasu,18.0,jp JPN,LB,23-295,2,0,0,0,0,0,0,0,,0,0,0,0,1,1,0,0
+2,Gabriel Martinelli,11.0,br BRA,"LW,WB,LM",21-070,90,4,2,1,1,2,0,1,0.0,1,3,0,3,0,4,0,0
+3,Bukayo Saka,7.0,eng ENG,"RW,WB,RM",20-356,90,0,0,0,0,0,0,0,,0,3,0,3,1,1,0,0
+4,Granit Xhaka,34.0,ch SUI,"LM,CM,DM",29-334,90,0,0,0,0,0,0,0,,0,1,0,1,1,1,1,0
+5,Mohamed Elneny,25.0,eg EGY,"CM,DM",30-047,90,1,1,1,0,0,1,1,100.0,0,0,0,0,0,1,0,0
+6,Martin Ødegaard,8.0,no NOR,"RM,AM",23-253,89,3,2,0,1,2,0,2,0.0,2,0,0,0,0,3,1,0
+7,Rob Holding,16.0,eng ENG,CB,26-341,1,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,0
+8,Kieran Tierney,3.0,sct SCO,LB,25-083,60,0,0,0,0,0,0,0,,0,2,1,1,2,2,0,0
+9,Eddie Nketiah,14.0,eng ENG,"AM,FW",23-089,30,1,1,0,1,0,0,1,0.0,1,0,0,0,0,1,1,0
+10,Gabriel Dos Santos,6.0,br BRA,CB,24-251,90,3,2,0,2,1,2,2,100.0,0,2,0,2,1,4,1,1
+11,William Saliba,12.0,fr FRA,CB,21-156,90,1,1,0,1,0,1,1,100.0,0,0,0,0,0,1,1,0
+12,Ben White,4.0,eng ENG,"RB,CB",24-323,90,2,2,0,2,0,2,2,100.0,0,4,1,3,0,2,0,0
+13,Aaron Ramsdale,1.0,eng ENG,GK,24-105,90,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,0
+14,14 Players,,,,,990,15,11,2,8,5,6,10,60.0,4,17,2,15,7,22,5,1

@@ -1,0 +1,16 @@
+,Unnamed: 0_level_0,Unnamed: 1_level_0,Unnamed: 2_level_0,Unnamed: 3_level_0,Unnamed: 4_level_0,Unnamed: 5_level_0,Touches,Touches,Touches,Touches,Touches,Touches,Touches,Take-Ons,Take-Ons,Take-Ons,Take-Ons,Take-Ons,Carries,Carries,Carries,Carries,Carries,Carries,Carries,Carries,Receiving,Receiving
+,Player,#,Nation,Pos,Age,Min,Touches,Def Pen,Def 3rd,Mid 3rd,Att 3rd,Att Pen,Live,Att,Succ,Succ%,Tkld,Tkld%,Carries,TotDist,PrgDist,PrgC,1/3,CPA,Mis,Dis,Rec,PrgR
+0,Armando Broja,18.0,al ALB,FW,20-085,80,32,0,2,9,21,8,32,5,3,60.0,2,40.0,22,104,40,3,1,1,4,6,22,9
+1,Adam Armstrong,9.0,eng ENG,FW,24-297,10,4,0,0,2,2,0,4,1,0,0.0,1,100.0,0,0,0,0,0,0,0,0,1,0
+2,Che Adams,10.0,sct SCO,FW,25-144,90,31,2,6,11,14,5,31,2,1,50.0,1,50.0,20,119,72,2,0,1,4,0,18,5
+3,Nathan Tella,23.0,ng NGA,LM,22-152,83,39,1,8,15,18,2,39,2,1,50.0,1,50.0,27,288,114,3,5,1,3,3,24,7
+4,Mohamed Elyounoussi,24.0,no NOR,LM,27-122,7,4,0,0,1,3,1,4,0,0,,0,,4,18,2,0,1,0,1,0,4,1
+5,Oriol Romeu,6.0,es ESP,CM,30-071,90,48,1,8,24,16,4,48,4,3,75.0,1,25.0,23,73,22,0,1,0,0,0,25,0
+6,James Ward-Prowse,8.0,eng ENG,CM,27-033,90,59,1,9,26,24,2,59,0,0,,0,,25,57,18,0,0,0,0,1,22,1
+7,Nathan Redmond,11.0,eng ENG,RM,27-273,90,49,1,6,21,23,2,49,2,1,50.0,1,50.0,34,189,100,4,1,1,1,1,27,3
+8,Kyle Walker-Peters,2.0,eng ENG,LB,24-235,90,48,4,14,21,13,1,48,2,1,50.0,1,50.0,25,161,78,3,1,1,1,1,22,1
+9,Mohammed Salisu,22.0,gh GHA,CB,22-231,90,49,6,24,18,7,2,49,0,0,,0,,16,68,20,0,0,0,0,0,13,1
+10,Lyanco,4.0,br BRA,CB,24-306,90,44,13,22,20,4,0,44,2,2,100.0,0,0.0,21,115,39,1,1,0,0,0,16,0
+11,Valentino Livramento,21.0,eng ENG,RB,19-022,90,61,3,21,21,20,4,61,0,0,,0,,32,212,127,5,0,3,4,1,27,1
+12,Alex McCarthy,1.0,eng ENG,GK,32-001,90,20,18,19,1,0,0,20,0,0,,0,,10,47,36,0,0,0,0,0,4,0
+13,13 Players,,,,,990,488,50,139,190,165,31,488,20,12,60.0,8,40.0,259,1451,668,21,11,8,18,13,225,29

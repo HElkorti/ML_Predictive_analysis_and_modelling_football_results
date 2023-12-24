@@ -1,0 +1,17 @@
+,Unnamed: 0_level_0,Unnamed: 1_level_0,Unnamed: 2_level_0,Unnamed: 3_level_0,Unnamed: 4_level_0,Unnamed: 5_level_0,Unnamed: 6_level_0,Pass Types,Pass Types,Pass Types,Pass Types,Pass Types,Pass Types,Pass Types,Pass Types,Corner Kicks,Corner Kicks,Corner Kicks,Outcomes,Outcomes,Outcomes
+,Player,#,Nation,Pos,Age,Min,Att,Live,Dead,FK,TB,Sw,Crs,TI,CK,In,Out,Str,Cmp,Off,Blocks
+0,Joelinton,9.0,br BRA,FW,24-246,89,19,19,0,0,0,0,2,0,0,0,0,0,15,0,2
+1,Andy Carroll,7.0,eng ENG,FW,32-101,1,1,1,0,0,0,1,0,0,0,0,0,0,1,0,0
+2,Allan Saint-Maximin,10.0,fr FRA,FW,24-036,63,16,15,1,0,0,1,0,0,0,0,0,0,11,0,0
+3,Callum Wilson,13.0,eng ENG,FW,29-049,27,9,7,2,0,0,0,0,0,0,0,0,0,6,0,0
+4,Miguel Almirón,24.0,py PAR,CM,27-066,90,33,32,0,0,1,0,1,0,0,0,0,0,25,1,1
+5,Jonjo Shelvey,8.0,eng ENG,CM,29-049,90,27,27,0,0,0,0,0,0,0,0,0,0,21,0,0
+6,Sean Longstaff,36.0,eng ENG,CM,23-169,80,17,15,2,0,0,0,2,0,2,2,0,0,12,0,1
+7,Joe Willock,28.0,eng ENG,CM,21-240,10,2,2,0,0,0,0,0,0,0,0,0,0,1,0,0
+8,Matt Ritchie,11.0,sct SCO,LB,31-219,90,32,24,8,3,0,0,4,4,1,1,0,0,23,0,0
+9,Paul Dummett,3.0,wls WAL,CB,29-203,90,41,32,8,2,0,0,0,6,0,0,0,0,26,1,1
+10,Ciaran Clark,2.0,ie IRL,CB,31-203,90,22,22,0,0,0,0,0,0,0,0,0,0,20,0,0
+11,Federico Fernández,18.0,ar ARG,CB,32-055,90,26,24,2,1,0,1,0,1,0,0,0,0,19,0,1
+12,Jacob Murphy,23.0,eng ENG,RB,26-052,90,29,24,5,0,0,1,0,5,0,0,0,0,22,0,1
+13,Martin Dúbravka,1.0,sk SVK,GK,32-092,90,32,23,9,1,0,0,0,0,0,0,0,0,24,0,0
+14,14 Players,,,,,990,306,267,37,7,1,4,9,16,3,3,0,0,226,2,7

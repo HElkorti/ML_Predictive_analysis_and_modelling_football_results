@@ -1,0 +1,19 @@
+,Unnamed: 0_level_0,Unnamed: 1_level_0,Unnamed: 2_level_0,Unnamed: 3_level_0,Unnamed: 4_level_0,Unnamed: 5_level_0,Unnamed: 6_level_0,Pass Types,Pass Types,Pass Types,Pass Types,Pass Types,Pass Types,Pass Types,Pass Types,Corner Kicks,Corner Kicks,Corner Kicks,Outcomes,Outcomes,Outcomes
+,Player,#,Nation,Pos,Age,Min,Att,Live,Dead,FK,TB,Sw,Crs,TI,CK,In,Out,Str,Cmp,Off,Blocks
+0,Gabriel Jesus,9.0,br BRA,FW,25-210,90,45,43,2,1,0,0,0,0,0,0,0,0,36,0,1
+1,Gabriel Martinelli,11.0,br BRA,LW,21-134,62,25,25,0,0,1,0,1,0,0,0,0,0,21,0,2
+2,Fabio Vieira,21.0,pt POR,"LM,RW",22-153,28,14,14,0,0,0,0,1,0,0,0,0,0,11,0,0
+3,Bukayo Saka,7.0,eng ENG,RW,21-055,26,20,18,2,0,0,0,3,0,2,1,0,0,15,0,1
+4,Reiss Nelson,24.0,eng ENG,"RW,LW",22-324,64,39,39,0,0,0,0,1,0,0,0,0,0,35,0,0
+5,Granit Xhaka,34.0,ch SUI,LM,30-033,74,43,40,2,0,0,0,0,2,0,0,0,0,37,1,1
+6,Eddie Nketiah,14.0,eng ENG,LW,23-153,16,7,7,0,0,0,0,0,0,0,0,0,0,5,0,2
+7,Thomas Partey,5.0,gh GHA,CM,29-139,90,116,113,3,1,2,0,1,2,0,0,0,0,104,0,1
+8,Martin Ødegaard,8.0,no NOR,RM,23-317,90,53,43,10,2,0,0,11,1,7,3,3,0,38,0,1
+9,Takehiro Tomiyasu,18.0,jp JPN,LB,23-359,62,45,35,10,1,0,1,1,9,0,0,0,0,42,0,1
+10,Cédric Soares,17.0,pt POR,"RB,LB",31-060,28,23,22,1,0,0,0,3,1,0,0,0,0,19,0,0
+11,Gabriel Dos Santos,6.0,br BRA,CB,24-315,90,69,68,1,1,0,0,0,0,0,0,0,0,62,0,0
+12,William Saliba,12.0,fr FRA,CB,21-220,75,59,58,1,1,0,0,0,0,0,0,0,0,55,0,0
+13,Kieran Tierney,3.0,sct SCO,LB,25-147,15,14,12,2,1,0,0,1,1,0,0,0,0,12,0,0
+14,Ben White,4.0,eng ENG,"RB,CB",25-022,90,73,70,3,1,0,1,0,2,0,0,0,0,67,0,0
+15,Aaron Ramsdale,1.0,eng ENG,GK,24-169,90,22,18,4,0,0,0,0,0,0,0,0,0,21,0,0
+16,16 Players,,,,,990,667,625,41,9,3,2,23,18,9,4,3,0,580,1,10

@@ -1,0 +1,17 @@
+,Unnamed: 0_level_0,Unnamed: 1_level_0,Unnamed: 2_level_0,Unnamed: 3_level_0,Unnamed: 4_level_0,Unnamed: 5_level_0,Unnamed: 6_level_0,Pass Types,Pass Types,Pass Types,Pass Types,Pass Types,Pass Types,Pass Types,Pass Types,Corner Kicks,Corner Kicks,Corner Kicks,Outcomes,Outcomes,Outcomes
+,Player,#,Nation,Pos,Age,Min,Att,Live,Dead,FK,TB,Sw,Crs,TI,CK,In,Out,Str,Cmp,Off,Blocks
+0,Sadio Mané,10.0,sn SEN,"FW,LM,LW",29-315,90,32,32,0,0,0,0,2,0,0,0,0,0,29,0,1
+1,Luis Díaz,23.0,co COL,"LW,FW",25-037,89,41,41,0,0,0,0,0,0,0,0,0,0,35,0,2
+2,Takumi Minamino,18.0,jp JPN,AM,27-034,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+3,Mohamed Salah,11.0,eg EGY,"RW,RM",29-249,90,46,44,2,1,0,0,5,1,0,0,0,0,36,0,1
+4,Naby Keïta,8.0,gn GUI,LM,27-009,61,58,58,0,0,0,0,1,0,0,0,0,0,45,0,1
+5,Divock Origi,27.0,be BEL,FW,26-307,29,3,3,0,0,0,0,0,0,0,0,0,0,3,0,0
+6,Jordan Henderson,14.0,eng ENG,"CM,DM",31-247,90,112,112,0,0,1,0,3,0,0,0,0,0,106,0,0
+7,Alex Oxlade-Chamberlain,15.0,eng ENG,RM,28-188,61,36,30,5,1,0,0,8,0,2,1,1,0,26,1,0
+8,Thiago Alcántara,6.0,es ESP,"CM,DM",30-314,29,48,48,0,0,0,0,0,0,0,0,0,0,45,0,0
+9,Kostas Tsimikas,21.0,gr GRE,LB,25-283,90,84,69,15,2,0,0,13,7,6,3,3,0,60,0,3
+10,Virgil van Dijk,4.0,nl NED,CB,30-226,90,93,89,4,4,3,0,0,0,0,0,0,0,82,0,1
+11,Joël Matip,32.0,cm CMR,CB,30-195,90,76,75,1,1,0,0,0,0,0,0,0,0,68,0,0
+12,Joe Gomez,12.0,eng ENG,RB,24-272,90,87,82,5,2,0,0,5,3,0,0,0,0,76,0,1
+13,Alisson,1.0,br BRA,GK,29-140,90,34,27,7,2,0,0,0,0,0,0,0,0,31,0,0
+14,14 Players,,,,,990,750,710,39,13,4,0,37,11,8,4,4,0,642,1,10

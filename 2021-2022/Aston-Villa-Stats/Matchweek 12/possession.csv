@@ -1,0 +1,17 @@
+,Unnamed: 0_level_0,Unnamed: 1_level_0,Unnamed: 2_level_0,Unnamed: 3_level_0,Unnamed: 4_level_0,Unnamed: 5_level_0,Touches,Touches,Touches,Touches,Touches,Touches,Touches,Take-Ons,Take-Ons,Take-Ons,Take-Ons,Take-Ons,Carries,Carries,Carries,Carries,Carries,Carries,Carries,Carries,Receiving,Receiving
+,Player,#,Nation,Pos,Age,Min,Touches,Def Pen,Def 3rd,Mid 3rd,Att 3rd,Att Pen,Live,Att,Succ,Succ%,Tkld,Tkld%,Carries,TotDist,PrgDist,PrgC,1/3,CPA,Mis,Dis,Rec,PrgR
+0,Danny Ings,20.0,eng ENG,FW,29-120,65,15,0,0,7,8,2,15,0,0,,0,,10,40,19,0,0,0,3,1,11,5
+1,Leon Bailey,31.0,jm JAM,RW,24-103,25,14,0,0,7,7,2,14,1,1,100.0,0,0.0,11,45,14,1,0,0,0,1,11,1
+2,Ollie Watkins,11.0,eng ENG,"LW,FW",25-325,90,45,0,3,20,23,4,45,3,2,66.7,1,33.3,30,220,95,4,4,1,1,4,32,7
+3,Emi Buendía,10.0,ar ARG,"RW,LW",24-330,73,33,2,5,14,15,0,33,0,0,,0,,22,123,54,2,0,0,1,2,25,3
+4,Ashley Young,18.0,eng ENG,"LM,LW",36-134,17,13,1,2,7,6,0,13,1,1,100.0,0,0.0,8,44,27,1,0,0,0,0,9,0
+5,Jacob Ramsey,41.0,eng ENG,LM,20-176,83,39,1,10,18,11,0,39,2,0,0.0,2,100.0,28,170,45,0,1,0,1,1,32,4
+6,Anwar El Ghazi,21.0,nl NED,LW,26-201,7,9,0,2,3,6,0,9,0,0,,0,,4,54,44,1,1,0,0,0,3,0
+7,Marvelous Nakamba,19.0,zw ZIM,CM,27-305,90,41,3,19,19,3,0,41,1,0,0.0,1,100.0,20,68,17,0,0,0,2,0,16,0
+8,John McGinn,7.0,sct SCO,RM,27-033,90,57,2,13,26,19,4,57,2,1,50.0,1,50.0,38,164,62,1,2,0,1,1,39,0
+9,Matt Targett,3.0,eng ENG,LB,26-063,90,69,3,22,26,21,2,69,0,0,,0,,33,95,65,1,1,0,2,0,37,4
+10,Tyrone Mings,5.0,eng ENG,CB,28-252,90,56,8,33,17,6,3,56,1,1,100.0,0,0.0,36,232,114,1,1,0,0,0,31,0
+11,Ezri Konsa,4.0,eng ENG,CB,24-028,90,35,7,23,9,3,2,35,0,0,,0,,25,83,24,0,0,0,0,0,29,0
+12,Matty Cash,2.0,pl POL,RB,24-105,90,48,2,19,11,19,4,48,3,2,66.7,1,33.3,27,165,75,1,1,1,3,0,25,4
+13,Emiliano Martínez,1.0,ar ARG,GK,29-079,90,24,22,24,0,0,0,24,0,0,,0,,12,72,34,0,0,0,0,0,11,0
+14,14 Players,,,,,990,498,51,175,184,147,23,498,14,8,57.1,6,42.9,304,1575,689,13,11,2,14,10,311,28

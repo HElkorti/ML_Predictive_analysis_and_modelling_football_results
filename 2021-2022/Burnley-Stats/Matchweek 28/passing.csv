@@ -1,0 +1,16 @@
+,Unnamed: 0_level_0,Unnamed: 1_level_0,Unnamed: 2_level_0,Unnamed: 3_level_0,Unnamed: 4_level_0,Unnamed: 5_level_0,Total,Total,Total,Total,Total,Short,Short,Short,Medium,Medium,Medium,Long,Long,Long,Unnamed: 20_level_0,Unnamed: 21_level_0,Unnamed: 22_level_0,Unnamed: 23_level_0,Unnamed: 24_level_0,Unnamed: 25_level_0,Unnamed: 26_level_0,Unnamed: 27_level_0
+,Player,#,Nation,Pos,Age,Min,Cmp,Att,Cmp%,TotDist,PrgDist,Cmp,Att,Cmp%,Cmp,Att,Cmp%,Cmp,Att,Cmp%,Ast,xAG,xA,KP,1/3,PPA,CrsPA,PrgP
+0,Wout Weghorst,9.0,nl NED,FW,29-210,77,9,15,60.0,113,50,7,10,70.0,1,3,33.3,1,1,100.0,0,0.0,0.0,0,1,1,0,3
+1,Ashley Barnes,10.0,eng ENG,FW,32-126,13,0,2,0.0,0,0,0,0,,0,1,0.0,0,0,,0,0.0,0.0,0,0,0,0,0
+2,Jay Rodriguez,19.0,eng ENG,FW,32-219,62,3,10,30.0,28,0,3,9,33.3,0,0,,0,0,,0,0.0,0.0,0,0,0,0,0
+3,Maxwel Cornet,20.0,ci CIV,FW,25-159,28,4,7,57.1,32,8,3,5,60.0,0,1,0.0,0,0,,0,0.0,0.0,0,0,0,0,0
+4,Dwight McNeil,11.0,eng ENG,LM,22-103,90,27,39,69.2,457,104,14,17,82.4,6,8,75.0,5,9,55.6,0,0.2,0.4,1,1,1,1,2
+5,Josh Brownhill,8.0,eng ENG,CM,26-076,90,26,34,76.5,298,113,15,17,88.2,6,10,60.0,1,2,50.0,0,0.0,0.0,1,5,0,0,4
+6,Ashley Westwood,18.0,eng ENG,CM,31-338,90,33,47,70.2,580,248,16,17,94.1,13,21,61.9,4,7,57.1,0,0.0,0.0,0,6,1,0,3
+7,Aaron Lennon,17.0,eng ENG,RM,34-323,90,13,18,72.2,157,26,5,6,83.3,6,9,66.7,0,1,0.0,0,0.1,0.2,1,1,0,0,1
+8,Charlie Taylor,3.0,eng ENG,LB,28-168,90,24,38,63.2,366,130,11,13,84.6,13,14,92.9,0,7,0.0,0,0.0,0.0,0,1,0,0,1
+9,James Tarkowski,5.0,eng ENG,CB,29-106,90,19,24,79.2,422,165,5,7,71.4,8,11,72.7,4,4,100.0,0,0.0,0.0,0,2,1,0,1
+10,Nathan Collins,22.0,ie IRL,CB,20-309,90,16,25,64.0,305,197,7,7,100.0,6,10,60.0,3,8,37.5,0,0.0,0.0,0,2,0,0,4
+11,Connor Roberts,14.0,wls WAL,RB,26-163,90,28,43,65.1,381,193,18,20,90.0,7,11,63.6,1,8,12.5,0,0.0,0.0,0,2,0,0,6
+12,Nick Pope,1.0,eng ENG,GK,29-320,90,9,19,47.4,310,241,0,0,,4,4,100.0,5,15,33.3,0,0.0,0.0,0,0,0,0,0
+13,13 Players,,,,,990,211,321,65.7,3449,1475,104,128,81.3,70,103,68.0,24,62,38.7,0,0.4,0.7,3,21,4,1,25

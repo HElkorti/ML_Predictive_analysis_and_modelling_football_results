@@ -1,0 +1,18 @@
+,Unnamed: 0_level_0,Unnamed: 1_level_0,Unnamed: 2_level_0,Unnamed: 3_level_0,Unnamed: 4_level_0,Unnamed: 5_level_0,Touches,Touches,Touches,Touches,Touches,Touches,Touches,Take-Ons,Take-Ons,Take-Ons,Take-Ons,Take-Ons,Carries,Carries,Carries,Carries,Carries,Carries,Carries,Carries,Receiving,Receiving
+,Player,#,Nation,Pos,Age,Min,Touches,Def Pen,Def 3rd,Mid 3rd,Att 3rd,Att Pen,Live,Att,Succ,Succ%,Tkld,Tkld%,Carries,TotDist,PrgDist,PrgC,1/3,CPA,Mis,Dis,Rec,PrgR
+0,Cody Gakpo,18.0,nl NED,FW,23-287,58,18,1,1,11,6,3,18,0,0,,0,,11,73,52,2,1,1,1,0,12,5
+1,Diogo Jota,20.0,pt POR,LW,26-076,32,25,0,1,11,13,6,25,2,1,50.0,1,50.0,15,74,46,3,0,1,0,0,21,6
+2,Darwin Núñez,27.0,uy URU,LW,23-239,58,18,1,2,5,11,4,18,2,0,0.0,2,100.0,16,117,72,3,1,3,0,0,16,9
+3,Roberto Firmino,9.0,br BRA,FW,31-139,32,28,0,2,15,11,0,28,4,2,50.0,2,50.0,18,36,10,0,1,0,2,0,23,3
+4,Mohamed Salah,11.0,eg EGY,RW,30-248,90,32,0,2,12,18,6,32,2,0,0.0,1,50.0,19,112,73,3,1,2,3,1,23,9
+5,Stefan Bajcetic,43.0,es ESP,LM,18-119,58,27,1,7,16,4,1,27,0,0,,0,,22,154,48,1,0,0,2,1,21,0
+6,James Milner,7.0,eng ENG,LM,37-045,32,33,1,8,19,6,0,33,2,2,100.0,0,0.0,22,83,26,1,1,0,1,0,29,1
+7,Fabinho,3.0,br BRA,CM,29-118,90,56,6,24,25,8,0,56,2,2,100.0,0,0.0,31,118,55,1,0,0,0,0,38,0
+8,Jordan Henderson,14.0,eng ENG,RM,32-246,58,37,1,9,18,10,0,37,1,1,100.0,0,0.0,22,44,16,0,0,0,1,0,25,2
+9,Harvey Elliott,19.0,eng ENG,RM,19-320,32,25,1,2,14,9,0,25,0,0,,0,,16,41,10,0,0,0,1,1,19,5
+10,Andrew Robertson,26.0,sct SCO,LB,28-344,90,103,3,25,52,27,1,103,1,0,0.0,1,100.0,75,228,169,2,0,0,1,0,73,10
+11,Virgil van Dijk,4.0,nl NED,CB,31-225,90,104,17,60,43,1,1,104,0,0,,0,,78,218,90,0,0,0,0,0,84,0
+12,Joe Gomez,2.0,eng ENG,CB,25-271,90,94,6,47,48,0,0,94,0,0,,0,,76,322,156,1,0,0,0,0,76,0
+13,Trent Alexander-Arnold,66.0,eng ENG,RB,24-134,90,103,4,25,48,31,0,103,1,1,100.0,0,0.0,62,187,125,2,1,0,2,0,76,4
+14,Alisson,1.0,br BRA,GK,30-139,90,41,31,41,0,0,0,41,0,0,,0,,26,101,65,0,0,0,0,0,23,0
+15,15 Players,,,,,990,744,73,256,337,155,22,744,17,9,52.9,7,41.2,509,1908,1013,19,6,7,14,3,559,54

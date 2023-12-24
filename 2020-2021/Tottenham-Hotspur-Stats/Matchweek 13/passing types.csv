@@ -1,0 +1,17 @@
+,Unnamed: 0_level_0,Unnamed: 1_level_0,Unnamed: 2_level_0,Unnamed: 3_level_0,Unnamed: 4_level_0,Unnamed: 5_level_0,Unnamed: 6_level_0,Pass Types,Pass Types,Pass Types,Pass Types,Pass Types,Pass Types,Pass Types,Pass Types,Corner Kicks,Corner Kicks,Corner Kicks,Outcomes,Outcomes,Outcomes
+,Player,#,Nation,Pos,Age,Min,Att,Live,Dead,FK,TB,Sw,Crs,TI,CK,In,Out,Str,Cmp,Off,Blocks
+0,Son Heung-min,7.0,kr KOR,FW,28-161,86,23,19,4,0,0,0,2,0,2,1,1,0,18,0,1
+1,Dele Alli,20.0,eng ENG,FW,24-249,4,1,0,1,0,0,0,0,0,0,0,0,0,1,0,0
+2,Harry Kane,10.0,eng ENG,FW,27-141,90,19,18,1,1,0,0,0,0,0,0,0,0,12,0,0
+3,Steven Bergwijn,23.0,nl NED,LM,23-069,75,12,12,0,0,0,0,1,0,0,0,0,0,8,0,0
+4,Sergio Reguilón,3.0,es ESP,LM,24-000,15,6,6,0,0,0,0,1,0,0,0,0,0,3,0,0
+5,Giovani Lo Celso,18.0,ar ARG,CM,24-251,57,24,20,4,3,1,0,2,0,1,1,0,0,17,0,0
+6,Lucas Moura,27.0,br BRA,RM,28-125,33,13,12,1,0,0,0,1,0,1,0,1,0,6,0,1
+7,Pierre Højbjerg,5.0,dk DEN,CM,25-133,90,29,28,1,1,0,0,0,0,0,0,0,0,19,0,1
+8,Moussa Sissoko,17.0,fr FRA,"RM,CM",31-122,90,25,25,0,0,0,1,0,0,0,0,0,0,14,0,1
+9,Ben Davies,33.0,wls WAL,LB,27-236,90,25,21,4,0,0,0,1,4,0,0,0,0,11,0,1
+10,Eric Dier,15.0,eng ENG,CB,26-336,90,24,24,0,0,0,0,0,0,0,0,0,0,14,0,0
+11,Toby Alderweireld,4.0,be BEL,CB,31-289,90,21,21,0,0,0,0,0,0,0,0,0,0,12,0,0
+12,Serge Aurier,24.0,ci CIV,RB,27-358,90,35,25,10,0,0,0,2,10,0,0,0,0,22,0,2
+13,Hugo Lloris,1.0,fr FRA,GK,33-356,90,27,18,9,4,0,0,0,0,0,0,0,0,17,0,0
+14,14 Players,,,,,990,284,249,35,9,1,1,10,14,4,2,2,0,174,0,7

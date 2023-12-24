@@ -1,0 +1,17 @@
+,Unnamed: 0_level_0,Unnamed: 1_level_0,Unnamed: 2_level_0,Unnamed: 3_level_0,Unnamed: 4_level_0,Unnamed: 5_level_0,Unnamed: 6_level_0,Pass Types,Pass Types,Pass Types,Pass Types,Pass Types,Pass Types,Pass Types,Pass Types,Corner Kicks,Corner Kicks,Corner Kicks,Outcomes,Outcomes,Outcomes
+,Player,#,Nation,Pos,Age,Min,Att,Live,Dead,FK,TB,Sw,Crs,TI,CK,In,Out,Str,Cmp,Off,Blocks
+0,Harry Kane,10.0,eng ENG,FW,27-173,90,34,33,1,0,2,0,1,0,0,0,0,0,24,0,2
+1,Son Heung-min,7.0,kr KOR,LW,28-193,89,29,21,8,1,0,0,9,0,7,3,4,0,16,0,0
+2,Carlos Vinícius,45.0,br BRA,LW,25-298,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+3,Steven Bergwijn,23.0,nl NED,RW,23-101,86,29,29,0,0,0,0,1,0,0,0,0,0,27,0,0
+4,Lucas Moura,27.0,br BRA,RW,28-157,4,5,5,0,0,0,0,0,0,0,0,0,0,4,0,1
+5,Sergio Reguilón,3.0,es ESP,LM,24-032,89,43,39,4,0,0,0,2,4,0,0,0,0,32,0,1
+6,Davinson Sánchez,6.0,co COL,"CB,LM",24-219,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+7,Pierre Højbjerg,5.0,dk DEN,CM,25-165,90,71,67,4,4,0,0,0,0,0,0,0,0,66,0,0
+8,Tanguy Ndombele,28.0,fr FRA,CM,24-020,90,78,74,4,3,1,0,0,0,0,0,0,0,69,0,1
+9,Serge Aurier,24.0,ci CIV,RM,28-024,90,49,38,11,0,0,0,0,11,0,0,0,0,37,0,3
+10,Ben Davies,33.0,wls WAL,CB,27-268,90,78,68,9,1,0,0,0,8,0,0,0,0,64,1,0
+11,Eric Dier,15.0,eng ENG,CB,27-002,90,85,82,3,3,0,0,0,0,0,0,0,0,71,0,0
+12,Joe Rodon,14.0,wls WAL,CB,23-087,90,82,82,0,0,0,0,0,0,0,0,0,0,67,0,0
+13,Hugo Lloris,1.0,fr FRA,GK,34-022,90,42,33,9,4,0,0,0,0,0,0,0,0,35,0,0
+14,14 Players,,,,,990,625,571,53,16,3,0,13,23,7,3,4,0,512,1,8

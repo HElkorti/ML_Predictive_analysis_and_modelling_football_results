@@ -1,0 +1,16 @@
+,Unnamed: 0_level_0,Unnamed: 1_level_0,Unnamed: 2_level_0,Unnamed: 3_level_0,Unnamed: 4_level_0,Unnamed: 5_level_0,Unnamed: 6_level_0,Pass Types,Pass Types,Pass Types,Pass Types,Pass Types,Pass Types,Pass Types,Pass Types,Corner Kicks,Corner Kicks,Corner Kicks,Outcomes,Outcomes,Outcomes
+,Player,#,Nation,Pos,Age,Min,Att,Live,Dead,FK,TB,Sw,Crs,TI,CK,In,Out,Str,Cmp,Off,Blocks
+0,Gabriel Jesus,9.0,br BRA,FW,24-018,45,17,15,2,0,0,0,0,0,0,0,0,0,16,0,0
+1,Aymeric Laporte,14.0,es ESP,CB,26-329,45,35,35,0,0,0,0,0,0,0,0,0,0,34,0,0
+2,Phil Foden,47.0,eng ENG,"LM,LW",20-328,90,71,65,6,0,0,0,8,0,6,0,5,0,61,0,2
+3,Riyad Mahrez,26.0,dz ALG,"FW,RW",30-059,89,75,73,2,0,0,0,4,1,1,0,0,0,62,0,2
+4,Fernandinho,25.0,br BRA,"CM,FW",35-352,1,1,1,0,0,0,0,0,0,0,0,0,0,1,0,0
+5,İlkay Gündoğan,8.0,de GER,"CM,LM,FW",30-179,90,117,111,5,3,0,0,0,0,2,0,0,0,109,1,0
+6,Rodri,16.0,es ESP,CM,24-303,90,116,115,1,1,0,1,1,0,0,0,0,0,109,0,1
+7,Bernardo Silva,20.0,pt POR,RM,26-254,90,69,63,6,1,0,0,2,3,2,0,0,0,65,0,0
+8,Oleksandr Zinchenko,11.0,ua UKR,LB,24-127,90,106,98,8,2,0,0,1,6,0,0,0,0,100,0,0
+9,Rúben Dias,3.0,pt POR,CB,23-342,90,75,75,0,0,0,2,0,0,0,0,0,0,68,0,0
+10,John Stones,5.0,eng ENG,CB,26-328,43,32,32,0,0,0,0,0,0,0,0,0,0,30,0,1
+11,Kyle Walker,2.0,eng ENG,RB,30-328,90,95,86,8,2,0,0,4,6,0,0,0,0,76,1,1
+12,Ederson,31.0,br BRA,GK,27-247,90,38,29,9,2,0,1,0,0,0,0,0,0,32,0,0
+13,13 Players,,,,,943,847,798,47,11,0,4,20,16,11,0,5,0,763,2,7

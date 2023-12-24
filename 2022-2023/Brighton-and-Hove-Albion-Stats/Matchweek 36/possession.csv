@@ -1,0 +1,17 @@
+,Unnamed: 0_level_0,Unnamed: 1_level_0,Unnamed: 2_level_0,Unnamed: 3_level_0,Unnamed: 4_level_0,Unnamed: 5_level_0,Touches,Touches,Touches,Touches,Touches,Touches,Touches,Take-Ons,Take-Ons,Take-Ons,Take-Ons,Take-Ons,Carries,Carries,Carries,Carries,Carries,Carries,Carries,Carries,Receiving,Receiving
+,Player,#,Nation,Pos,Age,Min,Touches,Def Pen,Def 3rd,Mid 3rd,Att 3rd,Att Pen,Live,Att,Succ,Succ%,Tkld,Tkld%,Carries,TotDist,PrgDist,PrgC,1/3,CPA,Mis,Dis,Rec,PrgR
+0,Evan Ferguson,28.0,ie IRL,FW,18-207,76,25,1,3,15,7,0,25,2,2,100.0,0,0.0,13,80,27,0,1,0,4,1,13,5
+1,Facundo Buonanotte,40.0,ar ARG,"RW,FW",18-142,14,12,1,1,10,1,0,12,0,0,,0,,7,38,11,0,0,0,0,1,8,1
+2,Julio César Enciso,20.0,py PAR,"LW,RW",19-111,81,33,0,3,15,17,6,33,8,2,25.0,6,75.0,18,156,100,4,3,0,1,1,19,3
+3,Deniz Undav,21.0,de GER,FW,26-299,9,9,0,1,5,4,1,9,1,1,100.0,0,0.0,7,62,57,2,1,0,0,0,6,0
+4,Kaoru Mitoma,22.0,jp JPN,"LW,RW",25-359,90,39,3,9,18,13,6,39,6,2,33.3,3,50.0,22,223,59,2,1,4,2,0,25,1
+5,Alexis Mac Allister,10.0,ar ARG,"AM,DM",24-141,90,60,3,19,33,11,1,60,3,2,66.7,1,33.3,42,222,113,3,6,0,0,1,48,2
+6,Billy Gilmour,27.0,sct SCO,DM,21-337,59,38,2,15,21,2,0,38,0,0,,0,,21,90,32,0,1,0,0,0,31,0
+7,Danny Welbeck,18.0,eng ENG,AM,32-169,31,15,0,2,10,3,0,15,1,1,100.0,0,0.0,11,100,72,3,2,0,0,0,13,0
+8,Pascal Groß,13.0,de GER,DM,31-333,90,52,2,14,32,6,0,52,0,0,,0,,28,82,20,0,0,0,1,1,41,1
+9,Pervis Estupiñán,30.0,ec ECU,LB,25-113,90,61,1,20,28,13,4,61,0,0,,0,,35,143,65,0,0,1,0,2,34,1
+10,Levi Colwill,6.0,eng ENG,CB,20-077,90,110,25,69,40,1,0,110,0,0,,0,,74,331,130,0,0,0,0,0,82,0
+11,Lewis Dunk,5.0,eng ENG,CB,31-174,90,84,16,50,34,1,0,84,0,0,,0,,52,212,88,0,0,0,0,0,57,0
+12,Moisés Caicedo,25.0,ec ECU,RB,21-193,90,62,4,20,28,15,0,62,6,3,50.0,2,33.3,28,141,70,2,0,0,0,1,33,2
+13,Jason Steele,23.0,eng ENG,GK,32-269,90,58,49,58,0,0,0,58,0,0,,0,,37,151,43,0,0,0,0,0,36,0
+14,14 Players,,,,,990,658,107,284,289,94,18,658,27,13,48.1,12,44.4,395,2031,887,16,15,5,8,8,446,16

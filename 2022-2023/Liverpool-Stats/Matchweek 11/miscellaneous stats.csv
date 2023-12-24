@@ -1,0 +1,19 @@
+,Unnamed: 0_level_0,Unnamed: 1_level_0,Unnamed: 2_level_0,Unnamed: 3_level_0,Unnamed: 4_level_0,Unnamed: 5_level_0,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Aerial Duels,Aerial Duels,Aerial Duels
+,Player,#,Nation,Pos,Age,Min,CrdY,CrdR,2CrdY,Fls,Fld,Off,Crs,Int,TklW,PKwon,PKcon,OG,Recov,Won,Lost,Won%
+0,Mohamed Salah,11.0,eg EGY,FW,30-123,89,0,0,0,1,0,1,1,1,0,0,0,0,1,0,1,0.0
+1,Trent Alexander-Arnold,66.0,eng ENG,RB,24-009,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,
+2,Diogo Jota,20.0,pt POR,"LW,LM",25-316,89,1,0,0,1,2,1,1,1,4,0,0,0,5,1,2,33.3
+3,Kostas Tsimikas,21.0,gr GRE,LM,26-157,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
+4,Harvey Elliott,19.0,eng ENG,RW,19-195,72,0,0,0,1,0,0,0,0,0,0,0,0,6,0,1,0.0
+5,Fabio Carvalho,28.0,pt POR,RM,20-047,18,0,0,0,2,0,0,0,0,1,0,0,0,2,0,0,
+6,Roberto Firmino,9.0,br BRA,AM,31-014,71,0,0,0,0,0,0,1,1,2,0,0,0,6,2,4,33.3
+7,Darwin Núñez,27.0,uy URU,FW,23-114,19,0,0,0,0,1,1,0,0,0,0,0,0,2,0,2,0.0
+8,Thiago Alcántara,6.0,es ESP,"DM,CM",31-188,90,1,0,0,2,1,0,0,2,3,0,0,0,3,1,1,50.0
+9,Fabinho,3.0,br BRA,DM,28-358,72,1,0,0,1,1,0,0,2,0,0,0,0,3,1,0,100.0
+10,Jordan Henderson,14.0,eng ENG,CM,32-121,18,0,0,0,0,0,0,0,2,0,0,0,0,2,0,1,0.0
+11,Andrew Robertson,26.0,sct SCO,LB,28-219,90,0,0,0,0,1,0,5,0,0,0,0,0,10,1,0,100.0
+12,Virgil van Dijk,4.0,nl NED,CB,31-100,90,0,0,0,1,0,0,0,1,0,0,0,0,4,0,1,0.0
+13,Joe Gomez,2.0,eng ENG,CB,25-146,90,0,0,0,1,0,0,0,1,1,0,0,0,10,1,2,33.3
+14,James Milner,7.0,eng ENG,"RB,CB",36-285,90,0,0,0,0,0,0,5,0,1,0,0,0,6,3,0,100.0
+15,Alisson,1.0,br BRA,GK,30-014,90,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,
+16,16 Players,,,,,990,3,0,0,10,6,3,13,11,12,0,0,0,63,10,15,40.0

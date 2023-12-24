@@ -1,0 +1,19 @@
+,Unnamed: 0_level_0,Unnamed: 1_level_0,Unnamed: 2_level_0,Unnamed: 3_level_0,Unnamed: 4_level_0,Unnamed: 5_level_0,Touches,Touches,Touches,Touches,Touches,Touches,Touches,Take-Ons,Take-Ons,Take-Ons,Take-Ons,Take-Ons,Carries,Carries,Carries,Carries,Carries,Carries,Carries,Carries,Receiving,Receiving
+,Player,#,Nation,Pos,Age,Min,Touches,Def Pen,Def 3rd,Mid 3rd,Att 3rd,Att Pen,Live,Att,Succ,Succ%,Tkld,Tkld%,Carries,TotDist,PrgDist,PrgC,1/3,CPA,Mis,Dis,Rec,PrgR
+0,Diego Costa,29.0,es ESP,FW,34-218,77,21,2,4,11,6,2,21,1,1,100.0,0,0.0,6,24,2,0,0,0,2,0,11,2
+1,Raúl Jiménez,9.0,mx MEX,FW,32-008,13,8,0,0,5,3,2,8,1,0,0.0,1,100.0,5,21,9,0,0,0,1,0,5,0
+2,Matheus Cunha,12.0,br BRA,FW,23-351,60,21,2,8,9,5,2,21,4,3,75.0,0,0.0,11,52,38,2,0,1,1,1,13,3
+3,Daniel Podence,10.0,pt POR,FW,27-204,30,11,0,3,4,5,1,11,1,1,100.0,0,0.0,6,46,23,0,0,0,1,0,7,1
+4,Pedro Neto,7.0,pt POR,LM,23-065,45,24,0,0,13,11,1,24,0,0,,0,,14,112,54,1,1,1,0,2,19,6
+5,Hwang Hee-chan,11.0,kr KOR,RM,27-107,45,22,0,3,5,14,5,22,2,2,100.0,0,0.0,10,53,16,1,0,1,0,2,14,5
+6,Mario Lemina,5.0,ga GAB,CM,29-254,74,47,2,15,24,9,0,47,2,1,50.0,1,50.0,24,139,74,2,1,0,1,0,36,1
+7,Adama Traoré,37.0,es ESP,CM,27-108,16,4,0,1,1,2,1,4,0,0,,0,,2,20,15,1,0,1,0,0,2,2
+8,Rúben Neves,8.0,pt POR,CM,26-061,90,84,3,24,41,19,2,84,0,0,,0,,44,268,158,2,0,0,1,0,56,0
+9,Matheus Nunes,27.0,pt POR,"LM,RM",24-259,90,56,5,12,29,16,0,56,5,2,40.0,2,40.0,32,205,105,5,6,0,2,1,39,5
+10,Toti Gomes,24.0,pt POR,LB,24-117,61,49,2,18,20,11,3,49,0,0,,0,,15,79,60,1,0,0,1,1,28,5
+11,Hugo Bueno,64.0,es ESP,LB,20-237,29,18,0,9,6,3,0,18,0,0,,0,,10,58,34,1,0,0,0,0,11,3
+12,Max Kilman,23.0,eng ENG,CB,25-355,90,72,10,40,26,7,2,72,3,3,100.0,0,0.0,31,232,193,1,1,0,0,0,50,1
+13,Craig Dawson,15.0,eng ENG,CB,33-007,90,71,15,41,28,3,1,71,1,0,0.0,0,0.0,34,179,89,0,0,0,0,0,49,0
+14,Nélson Semedo,22.0,pt POR,RB,29-178,90,69,6,24,28,17,0,69,5,3,60.0,1,20.0,30,278,153,4,1,0,1,1,45,1
+15,Daniel Bentley,25.0,eng ENG,GK,29-304,90,43,42,43,0,0,0,43,0,0,,0,,12,49,44,0,0,0,0,0,19,0
+16,16 Players,,,,,990,620,89,245,250,131,22,620,25,16,64.0,5,20.0,286,1815,1067,21,10,4,11,8,404,35

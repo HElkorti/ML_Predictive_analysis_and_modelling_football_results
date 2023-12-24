@@ -1,0 +1,17 @@
+,Unnamed: 0_level_0,Unnamed: 1_level_0,Unnamed: 2_level_0,Unnamed: 3_level_0,Unnamed: 4_level_0,Unnamed: 5_level_0,Touches,Touches,Touches,Touches,Touches,Touches,Touches,Take-Ons,Take-Ons,Take-Ons,Take-Ons,Take-Ons,Carries,Carries,Carries,Carries,Carries,Carries,Carries,Carries,Receiving,Receiving
+,Player,#,Nation,Pos,Age,Min,Touches,Def Pen,Def 3rd,Mid 3rd,Att 3rd,Att Pen,Live,Att,Succ,Succ%,Tkld,Tkld%,Carries,TotDist,PrgDist,PrgC,1/3,CPA,Mis,Dis,Rec,PrgR
+0,Harry Kane,10.0,eng ENG,FW,27-090,90,37,1,2,22,13,4,37,4,2,50.0,2,50.0,25,87,20,0,1,0,3,0,32,7
+1,Son Heung-min,7.0,kr KOR,LW,28-110,89,52,0,4,24,25,6,52,2,1,50.0,1,50.0,33,150,67,3,3,1,1,2,38,10
+2,Joe Rodon,14.0,wls WAL,LW,23-004,1,0,0,0,0,0,0,0,0,0,,0,,0,0,0,0,0,0,0,0,0,0
+3,Lucas Moura,27.0,br BRA,RW,28-074,56,22,0,3,9,10,2,22,1,0,0.0,1,100.0,14,107,40,1,1,1,2,0,17,3
+4,Érik Lamela,11.0,ar ARG,RW,28-236,34,27,1,1,14,12,3,27,1,1,100.0,0,0.0,21,126,50,1,0,0,1,1,20,6
+5,Tanguy Ndombele,28.0,fr FRA,AM,23-303,78,56,0,4,38,14,1,56,6,3,50.0,3,50.0,42,190,100,2,3,1,1,1,46,2
+6,Giovani Lo Celso,18.0,ar ARG,AM,24-200,12,15,0,0,6,9,3,15,0,0,,0,,13,79,35,1,2,1,0,0,15,1
+7,Pierre Højbjerg,5.0,dk DEN,DM,25-082,90,116,1,20,87,10,0,116,0,0,,0,,91,457,273,2,2,0,2,2,95,1
+8,Moussa Sissoko,17.0,fr FRA,DM,31-071,90,60,2,16,42,2,0,60,0,0,,0,,46,210,107,2,1,0,1,0,43,0
+9,Ben Davies,33.0,wls WAL,LB,27-185,90,84,3,19,39,27,2,84,0,0,,0,,58,238,136,6,3,2,0,0,53,8
+10,Eric Dier,15.0,eng ENG,CB,26-285,90,87,8,48,38,1,0,87,0,0,,0,,61,392,270,0,1,0,0,0,60,0
+11,Toby Alderweireld,4.0,be BEL,CB,31-238,90,71,10,41,30,0,0,71,0,0,,0,,49,208,105,0,0,0,0,0,51,0
+12,Matt Doherty,2.0,ie IRL,RB,28-284,90,74,1,17,36,22,2,74,1,0,0.0,1,100.0,43,152,76,1,3,0,1,1,48,5
+13,Hugo Lloris,1.0,fr FRA,GK,33-305,90,37,31,37,0,0,0,37,0,0,,0,,25,134,90,0,0,0,0,0,13,0
+14,14 Players,,,,,990,738,58,212,385,145,23,738,15,7,46.7,8,53.3,521,2530,1369,19,20,6,12,7,531,43

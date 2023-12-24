@@ -1,0 +1,17 @@
+,Unnamed: 0_level_0,Unnamed: 1_level_0,Unnamed: 2_level_0,Unnamed: 3_level_0,Unnamed: 4_level_0,Unnamed: 5_level_0,Touches,Touches,Touches,Touches,Touches,Touches,Touches,Take-Ons,Take-Ons,Take-Ons,Take-Ons,Take-Ons,Carries,Carries,Carries,Carries,Carries,Carries,Carries,Carries,Receiving,Receiving
+,Player,#,Nation,Pos,Age,Min,Touches,Def Pen,Def 3rd,Mid 3rd,Att 3rd,Att Pen,Live,Att,Succ,Succ%,Tkld,Tkld%,Carries,TotDist,PrgDist,PrgC,1/3,CPA,Mis,Dis,Rec,PrgR
+0,Richarlison,7.0,br BRA,FW,23-307,90,33,1,3,9,21,4,33,0,0,,0,,23,200,126,6,3,1,1,0,28,9
+1,Dominic Calvert-Lewin,9.0,eng ENG,FW,23-362,90,32,2,2,14,16,7,32,1,0,0.0,1,100.0,17,70,8,0,0,2,6,0,26,7
+2,Alex Iwobi,17.0,ng NGA,AM,24-314,90,70,1,7,36,28,2,70,1,1,100.0,0,0.0,51,424,206,6,2,1,3,1,57,7
+3,André Gomes,21.0,pt POR,"LM,DM",27-226,90,80,1,10,48,22,1,80,0,0,,0,,40,281,161,4,0,0,2,0,60,3
+4,Tom Davies,26.0,eng ENG,RM,22-256,65,46,2,10,24,12,2,46,2,1,50.0,1,50.0,30,145,61,1,0,1,3,1,38,4
+5,Joshua King,11.0,no NOR,AM,29-057,25,16,0,0,8,8,1,16,0,0,,0,,13,86,42,2,1,0,0,0,13,4
+6,Allan,6.0,br BRA,DM,30-064,90,63,3,15,41,7,0,63,0,0,,0,,33,273,161,1,2,0,0,0,39,0
+7,Lucas Digne,12.0,fr FRA,LB,27-236,90,92,2,18,37,38,0,92,2,1,50.0,1,50.0,32,140,44,0,0,0,0,0,46,9
+8,Ben Godfrey,22.0,eng ENG,CB,23-057,90,79,11,36,39,4,0,79,1,1,100.0,0,0.0,50,417,257,5,3,0,0,0,55,0
+9,Michael Keane,5.0,eng ENG,CB,28-061,90,82,7,28,50,5,2,82,1,1,100.0,0,0.0,53,387,265,0,0,0,0,0,53,0
+10,Mason Holgate,4.0,eng ENG,RB,24-142,72,50,2,11,24,15,1,50,0,0,,0,,23,62,14,0,0,0,4,0,29,7
+11,Séamus Coleman,23.0,ie IRL,RB,32-153,18,15,1,2,7,7,2,15,0,0,,0,,7,64,44,0,0,0,0,1,10,1
+12,Jordan Pickford,1.0,eng ENG,GK,27-006,42,25,16,23,2,0,0,25,0,0,,0,,18,109,48,0,0,0,0,0,19,0
+13,João Virgínia,31.0,pt POR,GK,21-154,48,18,17,18,0,0,0,18,0,0,,0,,9,62,47,0,0,0,0,0,9,0
+14,14 Players,,,,,990,701,66,183,339,183,22,701,8,5,62.5,3,37.5,399,2720,1484,25,11,5,19,3,482,51

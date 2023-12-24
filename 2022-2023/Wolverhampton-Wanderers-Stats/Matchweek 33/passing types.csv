@@ -1,0 +1,19 @@
+,Unnamed: 0_level_0,Unnamed: 1_level_0,Unnamed: 2_level_0,Unnamed: 3_level_0,Unnamed: 4_level_0,Unnamed: 5_level_0,Unnamed: 6_level_0,Pass Types,Pass Types,Pass Types,Pass Types,Pass Types,Pass Types,Pass Types,Pass Types,Corner Kicks,Corner Kicks,Corner Kicks,Outcomes,Outcomes,Outcomes
+,Player,#,Nation,Pos,Age,Min,Att,Live,Dead,FK,TB,Sw,Crs,TI,CK,In,Out,Str,Cmp,Off,Blocks
+0,Diego Costa,29.0,es ESP,FW,34-200,88,14,13,1,0,0,0,0,0,0,0,0,0,9,0,1
+1,Nathan Collins,4.0,ie IRL,CB,21-360,2,1,1,0,0,0,0,0,0,0,0,0,0,1,0,0
+2,Matheus Cunha,12.0,br BRA,FW,23-333,67,4,4,0,0,0,0,0,0,0,0,0,0,3,0,0
+3,João Gomes,35.0,br BRA,"FW,CM",22-072,23,6,6,0,0,0,0,0,0,0,0,0,0,3,0,0
+4,Matheus Nunes,27.0,pt POR,LM,24-241,88,20,19,0,0,0,0,0,0,0,0,0,0,18,1,1
+5,Pedro Neto,7.0,pt POR,FW,23-047,2,1,1,0,0,0,0,0,0,0,0,0,0,1,0,0
+6,Mario Lemina,5.0,ga GAB,CM,29-236,90,21,21,0,0,0,0,0,0,0,0,0,0,15,0,1
+7,Rúben Neves,8.0,pt POR,CM,26-043,90,53,41,11,7,0,1,5,0,4,0,4,0,39,1,0
+8,Hwang Hee-chan,11.0,kr KOR,RM,27-089,78,12,11,1,0,1,0,1,1,0,0,0,0,7,0,1
+9,Adama Traoré,37.0,es ESP,"RM,FW",27-090,12,2,2,0,0,0,0,0,0,0,0,0,0,0,0,1
+10,Hugo Bueno,64.0,es ESP,LB,20-219,78,41,34,7,0,0,0,5,5,2,0,2,0,30,0,1
+11,Toti Gomes,24.0,pt POR,LB,24-099,12,5,4,1,0,0,0,0,1,0,0,0,0,1,0,0
+12,Max Kilman,23.0,eng ENG,CB,25-337,90,54,53,1,1,0,2,0,0,0,0,0,0,47,0,0
+13,Craig Dawson,15.0,eng ENG,CB,32-354,90,47,45,2,2,0,1,0,0,0,0,0,0,37,0,0
+14,Nélson Semedo,22.0,pt POR,RB,29-160,90,39,34,5,0,0,0,2,5,0,0,0,0,26,0,1
+15,José Sá,1.0,pt POR,GK,30-098,90,29,19,10,5,0,1,0,0,0,0,0,0,16,0,0
+16,16 Players,,,,,990,349,308,39,15,1,5,13,12,6,0,6,0,253,2,7

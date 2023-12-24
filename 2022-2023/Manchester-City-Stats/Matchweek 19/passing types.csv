@@ -1,0 +1,19 @@
+,Unnamed: 0_level_0,Unnamed: 1_level_0,Unnamed: 2_level_0,Unnamed: 3_level_0,Unnamed: 4_level_0,Unnamed: 5_level_0,Unnamed: 6_level_0,Pass Types,Pass Types,Pass Types,Pass Types,Pass Types,Pass Types,Pass Types,Pass Types,Corner Kicks,Corner Kicks,Corner Kicks,Outcomes,Outcomes,Outcomes
+,Player,#,Nation,Pos,Age,Min,Att,Live,Dead,FK,TB,Sw,Crs,TI,CK,In,Out,Str,Cmp,Off,Blocks
+0,Erling Haaland,9.0,no NOR,FW,22-168,90,17,16,1,0,0,0,0,0,0,0,0,0,12,0,0
+1,Phil Foden,47.0,eng ENG,LW,22-222,59,19,19,0,0,0,0,1,0,0,0,0,0,17,0,0
+2,Jack Grealish,10.0,eng ENG,LW,27-117,31,9,9,0,0,0,0,0,0,0,0,0,0,9,0,0
+3,João Cancelo,7.0,pt POR,RW,28-223,45,39,38,1,0,0,0,4,1,0,0,0,0,28,0,0
+4,Rico Lewis,82.0,eng ENG,DM,18-045,45,32,27,5,0,0,0,0,5,0,0,0,0,31,0,0
+5,Kevin De Bruyne,17.0,be BEL,CM,31-191,90,55,50,4,1,1,1,5,2,1,0,0,0,45,1,0
+6,İlkay Gündoğan,8.0,de GER,CM,32-073,90,49,49,0,0,0,0,0,0,0,0,0,0,41,0,0
+7,Rodri,16.0,es ESP,DM,26-197,85,87,86,1,1,0,0,0,0,0,0,0,0,81,0,0
+8,Kalvin Phillips,4.0,eng ENG,DM,27-034,5,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+9,Bernardo Silva,20.0,pt POR,"DM,RW",28-148,59,59,57,2,0,0,0,2,1,1,0,0,0,52,0,0
+10,Riyad Mahrez,26.0,dz ALG,RW,31-318,31,16,16,0,0,0,0,1,0,0,0,0,0,15,0,0
+11,Nathan Aké,6.0,nl NED,LB,27-321,90,63,56,7,2,0,0,1,5,0,0,0,0,54,0,1
+12,John Stones,5.0,eng ENG,"RB,CB",28-222,90,90,86,4,3,0,0,0,1,0,0,0,0,88,0,0
+13,Kyle Walker,2.0,eng ENG,RB,32-222,45,48,45,3,1,0,0,0,2,0,0,0,0,40,0,0
+14,Manuel Akanji,25.0,ch SUI,CB,27-170,45,38,36,2,2,0,0,0,0,0,0,0,0,34,0,0
+15,Ederson,31.0,br BRA,GK,29-141,90,28,21,7,1,0,0,0,0,0,0,0,0,21,0,0
+16,16 Players,,,,,990,650,612,37,11,1,1,14,17,2,0,0,0,568,1,1

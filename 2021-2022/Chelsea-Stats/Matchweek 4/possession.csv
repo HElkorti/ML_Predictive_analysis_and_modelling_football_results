@@ -1,0 +1,17 @@
+,Unnamed: 0_level_0,Unnamed: 1_level_0,Unnamed: 2_level_0,Unnamed: 3_level_0,Unnamed: 4_level_0,Unnamed: 5_level_0,Touches,Touches,Touches,Touches,Touches,Touches,Touches,Take-Ons,Take-Ons,Take-Ons,Take-Ons,Take-Ons,Carries,Carries,Carries,Carries,Carries,Carries,Carries,Carries,Receiving,Receiving
+,Player,#,Nation,Pos,Age,Min,Touches,Def Pen,Def 3rd,Mid 3rd,Att 3rd,Att Pen,Live,Att,Succ,Succ%,Tkld,Tkld%,Carries,TotDist,PrgDist,PrgC,1/3,CPA,Mis,Dis,Rec,PrgR
+0,Romelu Lukaku,9.0,be BEL,FW,28-121,90,24,3,6,12,6,2,24,2,1,50.0,1,50.0,9,56,39,3,1,2,4,0,14,3
+1,Kai Havertz,29.0,de GER,AM,22-092,63,34,3,6,19,10,3,34,2,0,0.0,2,100.0,18,96,40,2,1,1,3,0,21,5
+2,César Azpilicueta,28.0,es ESP,WB,32-014,27,16,2,7,8,1,0,16,1,1,100.0,0,0.0,8,44,14,0,0,0,0,1,11,4
+3,Hakim Ziyech,22.0,ma MAR,AM,28-176,90,61,2,7,32,22,4,61,1,1,100.0,0,0.0,36,179,74,2,3,1,4,0,43,7
+4,Saúl Ñíguez,17.0,es ESP,CM,26-294,45,42,2,12,28,2,0,42,0,0,,0,,18,73,9,0,0,0,0,3,32,1
+5,Jorginho,5.0,it ITA,CM,29-265,45,35,3,10,25,0,0,35,1,1,100.0,0,0.0,14,49,14,0,0,0,1,0,27,0
+6,Mateo Kovačić,8.0,hr CRO,CM,27-128,90,88,5,17,55,17,1,88,5,2,40.0,3,60.0,55,289,165,1,7,0,0,1,66,1
+7,Marcos Alonso,3.0,es ESP,WB,30-257,90,57,4,20,14,23,1,57,0,0,,0,,20,107,42,0,1,0,2,0,27,4
+8,Callum Hudson-Odoi,20.0,eng ENG,"WB,AM",20-308,81,49,3,13,16,22,3,49,3,3,100.0,0,0.0,20,205,133,3,1,1,2,0,25,2
+9,Timo Werner,11.0,de GER,AM,25-189,9,1,0,0,1,0,0,1,0,0,,0,,1,4,0,0,0,0,0,0,1,1
+10,Antonio Rüdiger,2.0,de GER,CB,28-192,90,54,9,32,17,5,1,54,0,0,,0,,29,181,138,4,4,0,0,0,36,1
+11,Thiago Silva,6.0,br BRA,CB,36-354,90,87,20,50,37,0,0,87,0,0,,0,,44,351,295,0,0,0,0,0,59,0
+12,Trevoh Chalobah,14.0,eng ENG,CB,22-068,90,60,6,35,26,0,0,60,2,2,100.0,0,0.0,15,103,75,3,0,0,0,1,37,0
+13,Edouard Mendy,16.0,sn SEN,GK,29-194,90,40,39,40,0,0,0,40,0,0,,0,,24,111,48,0,0,0,0,0,14,0
+14,14 Players,,,,,990,648,101,255,290,108,15,648,17,11,64.7,6,35.3,311,1848,1086,18,18,5,16,6,413,29

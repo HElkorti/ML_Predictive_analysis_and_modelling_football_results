@@ -1,0 +1,17 @@
+,Unnamed: 0_level_0,Unnamed: 1_level_0,Unnamed: 2_level_0,Unnamed: 3_level_0,Unnamed: 4_level_0,Unnamed: 5_level_0,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Expected,Expected,Expected,SCA,SCA,Passes,Passes,Passes,Passes,Carries,Carries,Take-Ons,Take-Ons
+,Player,#,Nation,Pos,Age,Min,Gls,Ast,PK,PKatt,Sh,SoT,CrdY,CrdR,Touches,Tkl,Int,Blocks,xG,npxG,xAG,SCA,GCA,Cmp,Att,Cmp%,PrgP,Carries,PrgC,Att,Succ
+0,Jamie Vardy,9.0,eng ENG,FW,33-330,90,1,0,0,0,2,1,1,0,25,0,0,0,0.4,0.4,0.0,1,0,12,17,70.6,0,15,3,2,1
+1,James Maddison,10.0,eng ENG,AM,24-013,89,0,1,0,0,2,0,1,0,78,1,0,2,0.1,0.1,0.4,5,1,50,70,71.4,5,47,3,4,2
+2,Dennis Praet,26.0,be BEL,AM,26-206,1,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0,0,0,0,,0,0,0,0,0
+3,Ayoze Pérez,17.0,es ESP,AM,27-130,68,1,0,0,0,3,1,0,0,48,0,1,0,0.6,0.6,0.1,6,0,31,36,86.1,6,33,4,7,3
+4,Kelechi Iheanacho,14.0,ng NGA,AM,24-064,22,0,0,0,0,1,0,0,0,16,0,0,1,0.1,0.1,0.0,1,0,9,10,90.0,0,12,0,1,1
+5,Nampalys Mendy,24.0,sn SEN,CM,28-166,68,0,0,0,0,0,0,0,0,65,3,0,1,0.0,0.0,0.0,2,0,54,56,96.4,3,48,2,0,0
+6,Wilfred Ndidi,25.0,ng NGA,CM,23-356,22,0,0,0,0,0,0,0,0,21,2,0,0,0.0,0.0,0.0,1,0,15,17,88.2,2,11,0,1,1
+7,Youri Tielemans,8.0,be BEL,CM,23-213,90,0,0,0,0,1,1,0,0,92,2,1,0,0.1,0.1,0.0,1,0,71,84,84.5,5,62,1,1,1
+8,James Justin,2.0,eng ENG,WB,22-287,90,0,0,0,0,1,0,0,0,47,4,1,0,0.1,0.1,0.0,1,0,30,39,76.9,1,28,2,1,1
+9,Marc Albrighton,11.0,eng ENG,WB,31-018,90,0,0,0,0,2,1,0,0,85,1,0,1,0.1,0.1,0.0,4,1,52,77,67.5,6,50,3,3,3
+10,Christian Fuchs,28.0,at AUT,CB,34-243,90,0,0,0,0,1,0,1,0,107,0,2,0,0.0,0.0,0.0,0,0,81,101,80.2,7,79,0,0,0
+11,Jonny Evans,6.0,nir NIR,CB,32-338,90,0,0,0,0,0,0,0,0,102,2,1,0,0.0,0.0,0.1,1,0,77,90,85.6,3,61,0,1,1
+12,Wesley Fofana,3.0,fr FRA,CB,19-355,90,0,0,0,0,0,0,0,0,119,3,1,1,0.0,0.0,0.0,0,0,96,108,88.9,10,89,0,2,2
+13,Kasper Schmeichel,1.0,dk DEN,GK,34-031,90,0,0,0,0,0,0,0,0,24,0,0,0,0.0,0.0,0.0,0,0,21,24,87.5,0,10,0,0,0
+14,14 Players,,,,,990,2,1,0,0,13,4,3,0,829,18,7,6,1.4,1.4,0.6,23,2,599,729,82.2,48,545,18,23,16

@@ -1,0 +1,17 @@
+,Unnamed: 0_level_0,Unnamed: 1_level_0,Unnamed: 2_level_0,Unnamed: 3_level_0,Unnamed: 4_level_0,Unnamed: 5_level_0,Touches,Touches,Touches,Touches,Touches,Touches,Touches,Take-Ons,Take-Ons,Take-Ons,Take-Ons,Take-Ons,Carries,Carries,Carries,Carries,Carries,Carries,Carries,Carries,Receiving,Receiving
+,Player,#,Nation,Pos,Age,Min,Touches,Def Pen,Def 3rd,Mid 3rd,Att 3rd,Att Pen,Live,Att,Succ,Succ%,Tkld,Tkld%,Carries,TotDist,PrgDist,PrgC,1/3,CPA,Mis,Dis,Rec,PrgR
+0,Dominic Calvert-Lewin,9.0,eng ENG,FW,23-230,90,31,1,1,10,20,9,31,1,1,100.0,0,0.0,19,69,22,1,1,0,6,1,28,9
+1,André Gomes,21.0,pt POR,AM,27-094,59,34,0,2,26,6,0,34,1,0,0.0,1,100.0,15,70,34,1,0,0,0,0,29,2
+2,Bernard,20.0,br BRA,AM,28-054,31,32,0,2,14,16,0,32,1,1,100.0,0,0.0,24,104,54,2,2,0,1,0,27,1
+3,Gylfi Sigurðsson,10.0,is ISL,"AM,LM",31-054,90,69,0,4,32,33,4,69,1,0,0.0,1,100.0,26,61,23,0,0,0,4,4,39,7
+4,Fabian Delph,8.0,eng ENG,"LM,LB",30-346,90,122,2,18,92,12,0,122,3,1,33.3,2,66.7,71,354,187,2,2,0,1,0,100,2
+5,Allan,6.0,br BRA,"CM,DM",29-298,90,70,2,13,49,9,0,70,2,1,50.0,1,50.0,43,158,88,1,0,0,0,0,51,0
+6,Abdoulaye Doucouré,16.0,ml MLI,"RM,RB",27-305,90,80,2,15,53,14,2,80,0,0,,0,,52,322,188,5,5,1,0,0,59,3
+7,Niels Nkounkou,18.0,fr FRA,LB,20-000,68,51,3,9,28,15,0,51,3,1,33.3,2,66.7,20,142,42,2,1,0,3,1,29,8
+8,Cenk Tosun,14.0,tr TUR,FW,29-147,22,5,0,0,0,5,1,5,0,0,,0,,2,9,0,0,0,0,0,0,4,2
+9,Michael Keane,5.0,eng ENG,CB,27-295,90,111,8,45,61,5,3,111,0,0,,0,,67,408,293,1,0,0,2,0,90,1
+10,Yerry Mina,13.0,co COL,CB,26-039,90,74,7,35,39,0,0,74,0,0,,0,,54,272,177,0,0,0,0,0,58,0
+11,Jonjoe Kenny,2.0,eng ENG,RB,23-231,76,59,1,12,24,24,4,59,0,0,,0,,20,96,55,2,2,0,2,0,34,5
+12,Alex Iwobi,17.0,ng NGA,RM,24-182,14,12,0,0,5,7,0,12,0,0,,0,,13,91,54,1,4,0,0,0,13,0
+13,Robin Olsen,33.0,se SWE,GK,30-298,90,24,23,24,0,0,0,24,0,0,,0,,11,46,20,0,0,0,0,0,13,0
+14,14 Players,,,,,990,774,49,180,433,166,23,774,12,5,41.7,7,58.3,437,2202,1237,18,17,1,19,6,574,40

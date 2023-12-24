@@ -1,0 +1,17 @@
+,Unnamed: 0_level_0,Unnamed: 1_level_0,Unnamed: 2_level_0,Unnamed: 3_level_0,Unnamed: 4_level_0,Unnamed: 5_level_0,Touches,Touches,Touches,Touches,Touches,Touches,Touches,Take-Ons,Take-Ons,Take-Ons,Take-Ons,Take-Ons,Carries,Carries,Carries,Carries,Carries,Carries,Carries,Carries,Receiving,Receiving
+,Player,#,Nation,Pos,Age,Min,Touches,Def Pen,Def 3rd,Mid 3rd,Att 3rd,Att Pen,Live,Att,Succ,Succ%,Tkld,Tkld%,Carries,TotDist,PrgDist,PrgC,1/3,CPA,Mis,Dis,Rec,PrgR
+0,Edinson Cavani,21.0,uy URU,FW,34-335,90,32,3,10,17,5,1,32,0,0,,0,,17,41,17,0,1,1,2,0,20,1
+1,Anthony Elanga,36.0,se SWE,LW,19-263,77,36,0,5,17,14,6,36,5,2,40.0,3,60.0,20,161,90,4,2,3,2,2,28,8
+2,Jadon Sancho,25.0,eng ENG,LW,21-296,13,9,0,1,1,7,0,9,1,1,100.0,0,0.0,9,45,17,0,3,0,1,3,10,2
+3,Mason Greenwood,11.0,eng ENG,RW,20-106,88,35,0,6,19,10,3,35,2,2,100.0,0,0.0,27,257,141,5,2,2,0,2,27,5
+4,Jesse Lingard,14.0,eng ENG,RM,29-031,2,0,0,0,0,0,0,0,0,0,,0,,0,0,0,0,0,0,0,0,0,0
+5,Bruno Fernandes,18.0,pt POR,LM,27-129,88,72,2,14,42,17,2,72,0,0,,0,,42,222,128,6,4,2,3,2,45,2
+6,Donny van de Beek,34.0,nl NED,RW,24-272,2,3,0,0,1,2,1,3,1,1,100.0,0,0.0,2,29,3,0,0,0,1,0,2,1
+7,Nemanja Matić,31.0,rs SRB,CM,33-167,90,58,5,13,37,8,0,58,0,0,,0,,32,202,120,2,1,0,2,0,35,0
+8,Fred,17.0,br BRA,RM,28-316,90,50,4,19,24,7,0,50,1,0,0.0,1,100.0,28,99,56,0,1,0,1,2,31,2
+9,Alex Telles,27.0,br BRA,LB,29-031,90,95,1,21,50,24,0,95,1,0,0.0,1,100.0,54,287,211,4,3,0,0,1,58,4
+10,Raphaël Varane,19.0,fr FRA,CB,28-265,90,71,9,37,33,1,0,71,0,0,,0,,49,220,52,0,0,0,2,0,50,0
+11,Victor Lindelöf,2.0,se SWE,CB,27-182,90,63,10,33,29,1,1,63,0,0,,0,,40,240,92,1,1,1,0,0,43,0
+12,Diogo Dalot,20.0,pt POR,RB,22-303,90,57,4,14,40,3,0,57,1,1,100.0,0,0.0,33,188,139,3,1,0,2,0,34,4
+13,David de Gea,1.0,es ESP,GK,31-069,90,30,27,30,0,0,0,30,0,0,,0,,15,78,47,0,0,0,0,0,11,0
+14,14 Players,,,,,990,611,65,203,310,99,14,611,12,7,58.3,5,41.7,368,2069,1113,25,19,9,16,12,394,29

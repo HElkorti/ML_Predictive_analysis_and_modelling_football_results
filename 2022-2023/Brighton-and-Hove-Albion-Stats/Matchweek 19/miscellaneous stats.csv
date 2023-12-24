@@ -1,0 +1,19 @@
+,Unnamed: 0_level_0,Unnamed: 1_level_0,Unnamed: 2_level_0,Unnamed: 3_level_0,Unnamed: 4_level_0,Unnamed: 5_level_0,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Aerial Duels,Aerial Duels,Aerial Duels
+,Player,#,Nation,Pos,Age,Min,CrdY,CrdR,2CrdY,Fls,Fld,Off,Crs,Int,TklW,PKwon,PKcon,OG,Recov,Won,Lost,Won%
+0,Evan Ferguson,28.0,ie IRL,FW,18-076,70,1,0,0,2,1,0,0,0,0,0,0,0,3,1,0,100.0
+1,Julio César Enciso,20.0,py PAR,"LW,FW",18-345,20,0,0,0,1,0,0,0,0,0,0,0,0,1,0,0,
+2,Kaoru Mitoma,22.0,jp JPN,"LW,LM",25-228,77,0,0,0,0,0,0,1,0,2,0,0,0,5,1,0,100.0
+3,Adam Lallana,14.0,eng ENG,FW,34-238,13,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
+4,Solly March,7.0,eng ENG,"RW,RM",28-167,78,0,0,0,2,1,0,2,1,2,0,0,0,7,1,0,100.0
+5,Andrew Moran,49.0,ie IRL,RW,19-080,12,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
+6,Jeremy Sarmiento,19.0,ec ECU,AM,20-201,61,0,0,0,2,2,0,0,0,2,0,0,0,1,0,0,
+7,Alexis Mac Allister,10.0,ar ARG,"CM,LM",24-010,29,0,0,0,0,1,0,0,0,0,0,0,0,2,0,0,
+8,Pascal Groß,13.0,de GER,"DM,CM,RM",31-202,90,0,0,0,0,0,0,5,1,0,0,0,0,2,0,0,
+9,Moisés Caicedo,25.0,ec ECU,"DM,CM",21-062,90,0,0,0,1,0,0,0,3,1,0,0,0,9,2,0,100.0
+10,Pervis Estupiñán,30.0,ec ECU,LB,24-347,90,0,0,0,0,3,0,0,2,2,0,0,0,5,2,0,100.0
+11,Levi Colwill,6.0,eng ENG,CB,19-311,90,0,0,0,0,0,0,0,0,0,0,0,0,3,2,2,50.0
+12,Lewis Dunk,5.0,eng ENG,CB,31-043,90,0,0,0,0,0,0,0,0,0,0,0,0,3,2,2,50.0
+13,Joël Veltman,34.0,nl NED,RB,30-353,70,0,0,0,1,0,0,0,0,1,0,0,0,2,0,0,
+14,Tariq Lamptey,2.0,gh GHA,RB,22-095,20,0,0,0,0,0,0,1,0,0,0,0,0,1,0,0,
+15,Robert Sánchez,1.0,es ESP,GK,25-046,90,0,0,0,1,0,0,0,1,0,0,1,0,2,2,0,100.0
+16,16 Players,,,,,990,1,0,0,10,8,0,9,8,10,0,1,0,46,13,4,76.5

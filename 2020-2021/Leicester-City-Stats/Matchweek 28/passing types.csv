@@ -1,0 +1,16 @@
+,Unnamed: 0_level_0,Unnamed: 1_level_0,Unnamed: 2_level_0,Unnamed: 3_level_0,Unnamed: 4_level_0,Unnamed: 5_level_0,Unnamed: 6_level_0,Pass Types,Pass Types,Pass Types,Pass Types,Pass Types,Pass Types,Pass Types,Pass Types,Corner Kicks,Corner Kicks,Corner Kicks,Outcomes,Outcomes,Outcomes
+,Player,#,Nation,Pos,Age,Min,Att,Live,Dead,FK,TB,Sw,Crs,TI,CK,In,Out,Str,Cmp,Off,Blocks
+0,Jamie Vardy,9.0,eng ENG,FW,34-062,90,22,22,0,0,0,0,1,0,0,0,0,0,18,0,1
+1,Kelechi Iheanacho,14.0,ng NGA,FW,24-162,90,41,41,0,0,1,0,0,0,0,0,0,0,33,0,3
+2,Ayoze Pérez,17.0,es ESP,AM,27-228,80,37,36,1,0,1,0,0,0,0,0,0,0,26,0,0
+3,Khanya Leshabela,38.0,za RSA,AM,21-177,10,8,8,0,0,0,0,1,0,0,0,0,0,6,0,1
+4,Youri Tielemans,8.0,be BEL,CM,23-311,90,105,96,8,2,0,0,5,0,6,2,1,0,90,1,0
+5,Wilfred Ndidi,25.0,ng NGA,CM,24-088,90,101,101,0,0,0,0,0,0,0,0,0,0,91,0,2
+6,Timothy Castagne,27.0,be BEL,WB,25-099,90,60,53,7,1,0,0,2,6,0,0,0,0,55,0,0
+7,Ricardo Pereira,21.0,pt POR,WB,27-159,45,28,25,3,0,0,0,0,3,0,0,0,0,25,0,1
+8,Marc Albrighton,11.0,eng ENG,WB,31-116,45,34,27,7,2,0,1,5,2,3,1,2,0,28,0,0
+9,Çağlar Söyüncü,4.0,tr TUR,CB,24-295,90,95,92,3,1,0,0,0,2,0,0,0,0,91,0,0
+10,Jonny Evans,6.0,nir NIR,CB,33-070,90,114,113,0,0,0,0,0,0,0,0,0,0,107,1,0
+11,Wesley Fofana,3.0,fr FRA,CB,20-087,90,114,102,12,3,0,0,1,9,0,0,0,0,94,0,1
+12,Kasper Schmeichel,1.0,dk DEN,GK,34-129,90,33,33,0,0,0,0,0,0,0,0,0,0,31,0,0
+13,13 Players,,,,,990,792,749,41,9,2,1,15,22,9,3,3,0,695,2,9

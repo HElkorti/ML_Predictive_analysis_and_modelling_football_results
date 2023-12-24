@@ -1,0 +1,17 @@
+,Unnamed: 0_level_0,Unnamed: 1_level_0,Unnamed: 2_level_0,Unnamed: 3_level_0,Unnamed: 4_level_0,Unnamed: 5_level_0,Tackles,Tackles,Tackles,Tackles,Tackles,Challenges,Challenges,Challenges,Challenges,Blocks,Blocks,Blocks,Unnamed: 18_level_0,Unnamed: 19_level_0,Unnamed: 20_level_0,Unnamed: 21_level_0
+,Player,#,Nation,Pos,Age,Min,Tkl,TklW,Def 3rd,Mid 3rd,Att 3rd,Tkl,Att,Tkl%,Lost,Blocks,Sh,Pass,Int,Tkl+Int,Clr,Err
+0,Che Adams,10.0,sct SCO,FW,24-240,90,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,1
+1,Nathan Redmond,11.0,eng ENG,"FW,LM",27-004,90,2,1,0,2,0,1,1,100.0,0,0,0,0,2,4,0,0
+2,Moussa Djenepo,12.0,ml MLI,LM,22-268,45,2,2,0,2,0,1,2,50.0,1,1,0,1,0,2,0,0
+3,Nathan Tella,23.0,ng NGA,"FW,RM",21-248,45,0,0,0,0,0,0,0,,0,2,0,2,0,0,0,0
+4,Jack Stephens,5.0,eng ENG,CM,27-042,62,1,1,1,0,0,0,2,0.0,2,1,0,1,1,2,1,0
+5,Ibrahima Diallo,27.0,fr FRA,CM,22-002,28,2,1,1,1,0,0,0,,0,0,0,0,1,3,1,0
+6,James Ward-Prowse,8.0,eng ENG,CM,26-129,90,0,0,0,0,0,0,4,0.0,4,0,0,0,1,1,1,0
+7,Stuart Armstrong,17.0,sct SCO,RM,28-345,71,2,2,0,2,0,1,2,50.0,1,0,0,0,0,2,1,0
+8,Caleb Watts,65.0,au AUS,LM,19-053,19,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,0
+9,Mohammed Salisu,22.0,gh GHA,LB,21-327,90,5,2,2,3,0,3,4,75.0,1,1,0,1,2,7,1,0
+10,Jannik Vestergaard,4.0,dk DEN,CB,28-219,90,3,3,2,1,0,2,5,40.0,3,1,1,0,2,5,1,0
+11,Jan Bednarek,35.0,pl POL,CB,24-332,90,2,1,1,1,0,1,3,33.3,2,2,1,1,3,5,4,0
+12,Ryan Bertrand,3.0,eng ENG,RB,31-217,90,2,2,1,1,0,2,4,50.0,2,1,0,1,1,3,1,0
+13,Alex McCarthy,1.0,eng ENG,GK,31-097,90,1,0,1,0,0,1,1,100.0,0,0,0,0,0,1,0,0
+14,14 Players,,,,,990,22,15,9,13,0,12,28,42.9,16,9,2,7,13,35,11,1

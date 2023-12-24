@@ -1,0 +1,17 @@
+,Unnamed: 0_level_0,Unnamed: 1_level_0,Unnamed: 2_level_0,Unnamed: 3_level_0,Unnamed: 4_level_0,Unnamed: 5_level_0,Unnamed: 6_level_0,Pass Types,Pass Types,Pass Types,Pass Types,Pass Types,Pass Types,Pass Types,Pass Types,Corner Kicks,Corner Kicks,Corner Kicks,Outcomes,Outcomes,Outcomes
+,Player,#,Nation,Pos,Age,Min,Att,Live,Dead,FK,TB,Sw,Crs,TI,CK,In,Out,Str,Cmp,Off,Blocks
+0,Allan Saint-Maximin,10.0,fr FRA,FW,24-183,90,33,29,3,0,0,0,2,1,0,0,0,0,25,1,1
+1,Joelinton,7.0,br BRA,LM,25-028,90,24,24,0,0,0,0,0,0,0,0,0,0,14,0,3
+2,Sean Longstaff,36.0,eng ENG,CM,23-316,90,54,50,4,1,0,1,0,0,0,0,0,0,45,0,2
+3,Joe Willock,28.0,eng ENG,CM,22-022,84,23,22,1,1,0,1,0,0,0,0,0,0,22,0,0
+4,Jeff Hendrick,16.0,ie IRL,CM,29-223,6,6,6,0,0,0,0,0,0,0,0,0,0,6,0,0
+5,Miguel Almirón,24.0,py PAR,RM,27-213,90,25,25,0,0,0,1,2,0,0,0,0,0,20,0,0
+6,Matt Ritchie,11.0,sct SCO,LB,32-001,90,57,39,17,2,0,1,5,12,3,3,0,0,48,1,0
+7,Ciaran Clark,2.0,ie IRL,CB,31-350,83,34,33,0,0,0,0,0,0,0,0,0,0,28,1,0
+8,Jamal Lewis,12.0,nir NIR,CB,23-229,7,8,8,0,0,0,0,0,0,0,0,0,0,7,0,0
+9,Jamaal Lascelles,6.0,eng ENG,CB,27-304,90,36,29,7,1,0,2,0,0,0,0,0,0,33,0,0
+10,Isaac Hayden,14.0,eng ENG,CB,26-173,90,33,32,1,1,0,0,0,0,0,0,0,0,28,0,1
+11,Javier Manquillo,19.0,es ESP,RB,27-129,76,18,13,5,0,0,0,1,5,0,0,0,0,14,0,2
+12,Jacob Murphy,23.0,eng ENG,RB,26-199,14,11,9,2,1,0,0,0,1,0,0,0,0,9,0,0
+13,Freddie Woodman,27.0,eng ENG,GK,24-191,90,35,27,8,3,0,0,0,0,0,0,0,0,20,0,0
+14,14 Players,,,,,990,397,346,48,10,0,6,10,19,3,3,0,0,319,3,9

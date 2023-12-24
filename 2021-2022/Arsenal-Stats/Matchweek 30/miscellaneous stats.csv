@@ -1,0 +1,17 @@
+,Unnamed: 0_level_0,Unnamed: 1_level_0,Unnamed: 2_level_0,Unnamed: 3_level_0,Unnamed: 4_level_0,Unnamed: 5_level_0,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Aerial Duels,Aerial Duels,Aerial Duels
+,Player,#,Nation,Pos,Age,Min,CrdY,CrdR,2CrdY,Fls,Fld,Off,Crs,Int,TklW,PKwon,PKcon,OG,Recov,Won,Lost,Won%
+0,Alexandre Lacazette,9.0,fr FRA,FW,30-295,77,0,0,0,1,0,0,0,0,3,0,0,0,0,0,0,
+1,Eddie Nketiah,30.0,eng ENG,FW,22-293,13,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,
+2,Emile Smith Rowe,10.0,eng ENG,"LW,LM",21-234,90,0,0,0,0,5,0,1,0,0,0,0,0,7,0,1,0.0
+3,Bukayo Saka,7.0,eng ENG,RW,20-195,68,0,0,0,2,3,0,4,1,1,0,0,0,1,0,1,0.0
+4,Nicolas Pépé,19.0,ci CIV,"AM,RM",26-294,22,0,0,0,2,0,0,0,0,0,0,0,0,0,1,0,100.0
+5,Martin Ødegaard,8.0,no NOR,AM,23-092,85,0,0,0,1,1,0,0,0,0,0,0,0,5,0,0,
+6,Rob Holding,16.0,eng ENG,"CB,RW",26-180,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
+7,Granit Xhaka,34.0,ch SUI,"DM,CM",29-173,90,1,0,0,1,2,0,0,0,0,0,0,0,6,0,0,
+8,Thomas Partey,5.0,gh GHA,"DM,CM",28-279,90,1,0,0,3,0,0,0,1,2,0,0,0,9,1,1,50.0
+9,Kieran Tierney,3.0,sct SCO,LB,24-287,90,0,0,0,0,1,0,5,0,0,0,0,0,3,1,0,100.0
+10,Gabriel Dos Santos,6.0,br BRA,CB,24-090,90,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,100.0
+11,Ben White,4.0,eng ENG,CB,24-162,90,0,0,0,0,0,0,0,3,1,0,0,0,2,2,1,66.7
+12,Cédric Soares,17.0,pt POR,RB,30-200,90,1,0,0,2,0,1,4,0,3,0,0,0,3,0,1,0.0
+13,Bernd Leno,1.0,de GER,GK,30-015,90,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,
+14,14 Players,,,,,990,3,0,0,14,12,1,14,5,10,0,0,0,38,6,5,54.5

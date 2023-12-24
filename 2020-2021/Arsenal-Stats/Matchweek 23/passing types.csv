@@ -1,0 +1,17 @@
+,Unnamed: 0_level_0,Unnamed: 1_level_0,Unnamed: 2_level_0,Unnamed: 3_level_0,Unnamed: 4_level_0,Unnamed: 5_level_0,Unnamed: 6_level_0,Pass Types,Pass Types,Pass Types,Pass Types,Pass Types,Pass Types,Pass Types,Pass Types,Corner Kicks,Corner Kicks,Corner Kicks,Outcomes,Outcomes,Outcomes
+,Player,#,Nation,Pos,Age,Min,Att,Live,Dead,FK,TB,Sw,Crs,TI,CK,In,Out,Str,Cmp,Off,Blocks
+0,Alexandre Lacazette,9.0,fr FRA,FW,29-254,58,25,23,2,0,0,1,0,0,0,0,0,0,21,0,1
+1,Pierre-Emerick Aubameyang,14.0,ga GAB,FW,31-233,32,4,4,0,0,0,0,0,0,0,0,0,0,4,0,0
+2,Nicolas Pépé,19.0,ci CIV,"LW,RW",25-253,90,40,40,0,0,0,0,6,0,0,0,0,0,27,0,5
+3,Bukayo Saka,7.0,eng ENG,"RW,LB",19-154,90,72,63,9,1,0,0,15,4,4,2,0,1,56,0,3
+4,Emile Smith Rowe,32.0,eng ENG,"AM,DM,RW",20-193,90,60,59,1,1,0,0,0,0,0,0,0,0,56,0,2
+5,Granit Xhaka,34.0,ch SUI,DM,28-132,90,108,105,3,2,0,0,3,1,0,0,0,0,92,0,0
+6,Thomas Partey,18.0,gh GHA,DM,27-238,73,48,47,1,1,0,2,0,0,0,0,0,0,44,0,0
+7,Willian,12.0,br BRA,LW,32-181,17,22,21,1,0,0,0,1,0,1,1,0,0,18,0,1
+8,Cédric Soares,17.0,pt POR,LB,29-159,64,34,29,5,4,0,0,6,1,0,0,0,0,24,0,0
+9,Martin Ødegaard,11.0,no NOR,AM,22-051,26,29,26,3,1,0,0,4,0,2,1,1,0,24,0,1
+10,Gabriel Dos Santos,6.0,br BRA,CB,23-049,90,61,60,1,1,0,0,0,0,0,0,0,0,55,0,0
+11,Rob Holding,16.0,eng ENG,CB,25-139,90,68,68,0,0,0,1,0,0,0,0,0,0,58,0,0
+12,Héctor Bellerín,2.0,es ESP,RB,25-324,90,70,61,9,0,0,0,5,9,0,0,0,0,54,0,1
+13,Mathew Ryan,33.0,au AUS,GK,28-304,90,17,13,4,1,0,0,0,0,0,0,0,0,17,0,0
+14,14 Players,,,,,990,658,619,39,12,0,4,40,15,7,4,1,1,550,0,14

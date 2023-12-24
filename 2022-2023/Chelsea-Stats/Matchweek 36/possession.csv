@@ -1,0 +1,17 @@
+,Unnamed: 0_level_0,Unnamed: 1_level_0,Unnamed: 2_level_0,Unnamed: 3_level_0,Unnamed: 4_level_0,Unnamed: 5_level_0,Touches,Touches,Touches,Touches,Touches,Touches,Touches,Take-Ons,Take-Ons,Take-Ons,Take-Ons,Take-Ons,Carries,Carries,Carries,Carries,Carries,Carries,Carries,Carries,Receiving,Receiving
+,Player,#,Nation,Pos,Age,Min,Touches,Def Pen,Def 3rd,Mid 3rd,Att 3rd,Att Pen,Live,Att,Succ,Succ%,Tkld,Tkld%,Carries,TotDist,PrgDist,PrgC,1/3,CPA,Mis,Dis,Rec,PrgR
+0,João Félix,11.0,pt POR,FW,23-184,72,33,0,1,18,14,2,33,3,0,0.0,1,33.3,17,100,30,0,3,0,3,0,28,4
+1,Kai Havertz,29.0,de GER,FW,23-336,18,8,0,1,2,5,0,8,0,0,,0,,6,28,14,0,0,0,0,1,9,1
+2,Raheem Sterling,17.0,eng ENG,LW,28-156,90,52,1,2,18,33,8,52,8,4,50.0,4,50.0,36,271,115,3,3,0,1,4,37,15
+3,Noni Madueke,31.0,eng ENG,RW,21-064,72,43,2,6,15,22,7,43,8,3,37.5,4,50.0,33,276,155,6,3,4,1,3,33,10
+4,Hakim Ziyech,22.0,ma MAR,RW,30-055,18,33,0,1,3,29,1,33,1,0,0.0,0,0.0,19,111,60,1,0,1,1,0,23,4
+5,Conor Gallagher,23.0,eng ENG,LM,23-096,90,67,0,3,32,32,4,67,5,2,40.0,2,40.0,45,218,73,1,2,0,1,2,51,10
+6,Enzo Fernández,5.0,ar ARG,CM,22-116,90,116,1,13,85,18,0,116,0,0,,0,,90,568,273,4,3,0,1,1,101,0
+7,Mateo Kovačić,8.0,hr CRO,RM,29-007,44,29,0,1,25,3,0,29,0,0,,0,,19,92,11,0,0,0,0,1,21,0
+8,Ruben Loftus-Cheek,12.0,eng ENG,RM,27-110,46,37,0,2,17,18,2,37,2,1,50.0,1,50.0,25,126,68,1,2,0,2,1,30,5
+9,Lewis Hall,67.0,eng ENG,LB,18-247,90,85,1,15,43,28,1,85,1,1,100.0,0,0.0,48,233,134,2,3,0,2,1,61,7
+10,Benoît Badiashile,4.0,fr FRA,CB,22-048,90,110,8,44,63,3,1,110,0,0,,0,,75,368,209,1,0,0,1,2,77,1
+11,Thiago Silva,6.0,br BRA,CB,38-233,90,111,6,35,70,6,0,111,1,1,100.0,0,0.0,78,502,401,3,4,0,1,0,87,0
+12,Trevoh Chalobah,14.0,eng ENG,RB,23-312,90,121,5,26,61,34,3,121,3,3,100.0,0,0.0,75,275,150,4,2,1,0,0,96,10
+13,Edouard Mendy,16.0,sn SEN,GK,31-073,90,21,18,21,0,0,0,21,0,0,,0,,11,46,24,0,0,0,0,0,9,0
+14,14 Players,,,,,990,866,42,171,452,245,29,866,32,15,46.9,12,37.5,577,3214,1717,26,25,6,14,16,663,67

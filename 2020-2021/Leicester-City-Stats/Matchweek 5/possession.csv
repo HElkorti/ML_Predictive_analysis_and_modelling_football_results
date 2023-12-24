@@ -1,0 +1,17 @@
+,Unnamed: 0_level_0,Unnamed: 1_level_0,Unnamed: 2_level_0,Unnamed: 3_level_0,Unnamed: 4_level_0,Unnamed: 5_level_0,Touches,Touches,Touches,Touches,Touches,Touches,Touches,Take-Ons,Take-Ons,Take-Ons,Take-Ons,Take-Ons,Carries,Carries,Carries,Carries,Carries,Carries,Carries,Carries,Receiving,Receiving
+,Player,#,Nation,Pos,Age,Min,Touches,Def Pen,Def 3rd,Mid 3rd,Att 3rd,Att Pen,Live,Att,Succ,Succ%,Tkld,Tkld%,Carries,TotDist,PrgDist,PrgC,1/3,CPA,Mis,Dis,Rec,PrgR
+0,Kelechi Iheanacho,14.0,ng NGA,FW,24-015,70,19,1,2,9,9,0,19,3,2,66.7,1,33.3,12,84,33,1,1,0,2,0,17,6
+1,Islam Slimani,13.0,dz ALG,FW,32-122,20,12,0,0,6,6,2,12,0,0,,0,,5,25,1,0,1,0,1,0,10,4
+2,Harvey Barnes,15.0,eng ENG,LM,22-314,90,31,1,6,11,15,3,31,6,3,50.0,3,50.0,23,171,99,4,2,0,0,0,26,6
+3,Dennis Praet,26.0,be BEL,CM,26-157,67,24,0,1,14,9,1,24,0,0,,0,,14,42,14,1,1,1,2,1,16,3
+4,James Maddison,10.0,eng ENG,CM,23-330,23,15,0,0,6,9,3,15,0,0,,0,,10,56,30,2,0,1,1,2,11,5
+5,Youri Tielemans,8.0,be BEL,CM,23-164,90,64,3,9,36,19,0,64,2,1,50.0,1,50.0,33,106,69,1,1,0,0,0,36,0
+6,Ayoze Pérez,17.0,es ESP,RM,27-081,90,41,0,5,21,17,6,41,3,1,33.3,2,66.7,19,107,55,3,3,2,2,0,22,5
+7,Nampalys Mendy,24.0,sn SEN,DM,28-117,77,48,1,10,31,8,0,48,0,0,,0,,28,93,37,0,0,0,2,0,30,0
+8,Hamza Choudhury,20.0,eng ENG,DM,23-017,13,12,0,4,5,3,0,12,0,0,,0,,4,6,5,0,0,0,0,0,6,0
+9,James Justin,2.0,eng ENG,LB,22-238,90,59,8,22,26,12,0,59,2,1,50.0,1,50.0,21,64,43,1,1,0,1,1,26,3
+10,Jonny Evans,6.0,nir NIR,CB,32-289,90,66,9,48,21,0,0,66,0,0,,0,,43,191,129,0,0,0,0,0,41,0
+11,Wesley Fofana,3.0,fr FRA,CB,19-306,90,57,10,33,23,1,0,57,0,0,,0,,29,171,82,0,0,0,2,1,26,0
+12,Timothy Castagne,27.0,be BEL,RB,24-318,90,74,5,25,29,20,7,74,2,1,50.0,1,50.0,37,190,123,5,0,1,0,0,41,8
+13,Kasper Schmeichel,1.0,dk DEN,GK,33-348,90,44,32,44,0,0,0,44,0,0,,0,,27,157,127,0,0,0,0,0,24,0
+14,14 Players,,,,,990,566,70,209,238,128,22,566,18,9,50.0,9,50.0,305,1463,847,18,10,5,13,5,332,40

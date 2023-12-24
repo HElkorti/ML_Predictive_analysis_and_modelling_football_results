@@ -1,0 +1,19 @@
+,Unnamed: 0_level_0,Unnamed: 1_level_0,Unnamed: 2_level_0,Unnamed: 3_level_0,Unnamed: 4_level_0,Unnamed: 5_level_0,Unnamed: 6_level_0,Pass Types,Pass Types,Pass Types,Pass Types,Pass Types,Pass Types,Pass Types,Pass Types,Corner Kicks,Corner Kicks,Corner Kicks,Outcomes,Outcomes,Outcomes
+,Player,#,Nation,Pos,Age,Min,Att,Live,Dead,FK,TB,Sw,Crs,TI,CK,In,Out,Str,Cmp,Off,Blocks
+0,Carlos Alcaraz,26.0,ar ARG,FW,20-151,76,15,15,0,0,0,0,0,0,0,0,0,0,10,0,0
+1,Che Adams,10.0,sct SCO,FW,26-291,14,6,6,0,0,0,0,0,0,0,0,0,0,4,0,0
+2,Kamaldeen Sulemana,20.0,gh GHA,FW,21-074,69,14,13,1,0,0,0,2,0,0,0,0,0,8,0,2
+3,Adam Armstrong,9.0,eng ENG,FW,26-079,21,2,0,2,0,0,0,0,0,0,0,0,0,2,0,0
+4,Stuart Armstrong,17.0,sct SCO,LM,31-031,70,17,17,0,0,0,0,0,0,0,0,0,0,13,0,1
+5,Mohamed Elyounoussi,24.0,no NOR,LM,28-269,20,3,3,0,0,0,0,0,0,0,0,0,0,2,0,1
+6,Roméo Lavia,45.0,be BEL,CM,19-114,90,34,34,0,0,1,1,0,0,0,0,0,0,27,0,2
+7,James Ward-Prowse,8.0,eng ENG,CM,28-180,90,35,31,4,1,0,0,2,0,2,0,2,0,27,0,0
+8,Moussa Djenepo,19.0,ml MLI,RM,24-319,63,7,7,0,0,0,0,0,0,0,0,0,0,4,0,0
+9,Theo Walcott,32.0,eng ENG,RM,34-045,27,4,4,0,0,0,0,0,0,0,0,0,0,4,0,0
+10,Kyle Walker-Peters,2.0,eng ENG,LB,26-017,90,44,36,8,1,0,0,0,7,0,0,0,0,32,0,3
+11,Armel Bella Kotchap,37.0,de GER,CB,21-140,90,40,38,2,1,0,0,0,0,0,0,0,0,32,0,0
+12,Jan Bednarek,35.0,pl POL,CB,27-018,90,30,29,1,1,0,0,0,0,0,0,0,0,20,0,1
+13,Lyanco,4.0,br BRA,RB,26-088,69,26,14,12,0,2,1,1,12,0,0,0,0,10,0,2
+14,Ainsley Maitland-Niles,3.0,eng ENG,RB,25-244,21,9,7,2,0,0,0,0,2,0,0,0,0,8,0,0
+15,Alex McCarthy,1.0,eng ENG,GK,33-148,90,46,27,17,3,0,0,0,0,0,0,0,0,23,2,0
+16,16 Players,,,,,990,332,281,49,7,3,2,5,21,2,0,2,0,226,2,12

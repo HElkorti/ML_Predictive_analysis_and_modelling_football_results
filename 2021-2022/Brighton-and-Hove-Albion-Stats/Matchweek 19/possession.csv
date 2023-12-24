@@ -1,0 +1,17 @@
+,Unnamed: 0_level_0,Unnamed: 1_level_0,Unnamed: 2_level_0,Unnamed: 3_level_0,Unnamed: 4_level_0,Unnamed: 5_level_0,Touches,Touches,Touches,Touches,Touches,Touches,Touches,Take-Ons,Take-Ons,Take-Ons,Take-Ons,Take-Ons,Carries,Carries,Carries,Carries,Carries,Carries,Carries,Carries,Receiving,Receiving
+,Player,#,Nation,Pos,Age,Min,Touches,Def Pen,Def 3rd,Mid 3rd,Att 3rd,Att Pen,Live,Att,Succ,Succ%,Tkld,Tkld%,Carries,TotDist,PrgDist,PrgC,1/3,CPA,Mis,Dis,Rec,PrgR
+0,Leandro Trossard,11.0,be BEL,FW,27-022,45,27,0,1,4,22,3,27,1,0,0.0,1,100.0,19,124,36,3,0,1,1,2,21,12
+1,Danny Welbeck,18.0,eng ENG,FW,31-030,45,24,1,2,6,16,1,24,2,1,50.0,1,50.0,11,50,30,1,0,1,3,0,19,4
+2,Neal Maupay,9.0,fr FRA,FW,25-134,90,33,0,2,9,22,7,33,2,1,50.0,1,50.0,21,66,29,0,0,0,2,3,24,7
+3,Jakub Moder,15.0,pl POL,"AM,LM",22-263,90,68,0,15,24,31,1,68,3,1,33.3,2,66.7,36,215,110,4,3,1,5,1,43,5
+4,Alexis Mac Allister,10.0,ar ARG,LM,23-002,84,56,4,9,26,22,0,56,1,0,0.0,1,100.0,28,128,59,0,1,0,4,1,30,1
+5,Steven Alzate,17.0,co COL,CM,23-109,6,8,0,3,1,4,1,8,0,0,,0,,4,8,2,0,0,0,0,0,5,0
+6,Enock Mwepu,12.0,zm ZAM,RM,23-359,90,53,3,9,32,15,5,53,3,2,66.7,1,33.3,31,196,128,4,2,1,1,0,34,8
+7,Adam Lallana,14.0,eng ENG,DM,33-230,84,67,4,14,41,13,0,67,3,3,100.0,0,0.0,37,162,50,1,3,0,2,1,40,0
+8,Pascal Groß,13.0,de GER,CM,30-194,6,8,0,1,3,4,0,8,0,0,,0,,3,4,3,0,0,0,0,0,2,0
+9,Marc Cucurella,3.0,es ESP,LB,23-157,90,100,5,25,49,27,1,100,1,1,100.0,0,0.0,55,235,154,2,0,0,4,1,66,9
+10,Dan Burn,33.0,eng ENG,CB,29-231,90,66,11,45,19,2,1,66,0,0,,0,,35,85,16,0,1,1,1,0,35,0
+11,Adam Webster,4.0,eng ENG,CB,26-356,90,56,11,34,22,1,0,56,0,0,,0,,22,110,57,1,0,0,0,0,26,0
+12,Tariq Lamptey,2.0,gh GHA,RB,21-087,90,42,3,14,22,7,1,42,0,0,,0,,26,123,54,1,1,0,0,0,26,0
+13,Robert Sánchez,1.0,es ESP,GK,24-038,90,39,28,39,0,0,0,39,0,0,,0,,27,163,105,0,0,0,0,0,20,0
+14,14 Players,,,,,990,647,70,213,258,186,21,647,16,9,56.3,7,43.8,355,1669,833,17,11,5,23,9,391,46

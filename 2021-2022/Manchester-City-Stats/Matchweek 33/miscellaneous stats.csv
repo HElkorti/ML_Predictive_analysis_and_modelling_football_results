@@ -1,0 +1,17 @@
+,Unnamed: 0_level_0,Unnamed: 1_level_0,Unnamed: 2_level_0,Unnamed: 3_level_0,Unnamed: 4_level_0,Unnamed: 5_level_0,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Aerial Duels,Aerial Duels,Aerial Duels
+,Player,#,Nation,Pos,Age,Min,CrdY,CrdR,2CrdY,Fls,Fld,Off,Crs,Int,TklW,PKwon,PKcon,OG,Recov,Won,Lost,Won%
+0,Bernardo Silva,20.0,pt POR,"FW,DM",27-274,90,0,0,0,1,1,1,1,1,0,0,0,0,5,0,0,
+1,Phil Foden,47.0,eng ENG,"LW,FW",21-348,80,0,0,0,1,0,0,2,0,1,0,0,0,1,0,1,0.0
+2,Jack Grealish,10.0,eng ENG,FW,26-243,10,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,
+3,Raheem Sterling,7.0,eng ENG,"RW,LW",27-154,90,0,0,0,0,0,2,2,0,0,0,0,0,2,1,0,100.0
+4,Kevin De Bruyne,17.0,be BEL,AM,30-317,90,1,0,0,2,1,0,2,0,0,0,0,0,3,0,1,0.0
+5,İlkay Gündoğan,8.0,de GER,DM,31-199,90,0,0,0,1,0,0,1,2,1,0,0,0,9,1,1,50.0
+6,Rodri,16.0,es ESP,"DM,CB",25-323,90,0,0,0,1,0,0,0,0,2,0,0,0,11,4,0,100.0
+7,Oleksandr Zinchenko,11.0,ua UKR,LB,25-147,90,0,0,0,2,0,0,1,0,2,0,0,0,7,3,1,75.0
+8,Aymeric Laporte,14.0,es ESP,CB,27-349,60,0,0,0,1,0,0,0,1,2,0,0,0,1,1,0,100.0
+9,Nathan Aké,6.0,nl NED,CB,27-082,30,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,
+10,Fernandinho,25.0,br BRA,CB,37-007,76,0,0,0,0,0,0,0,1,1,0,0,0,4,0,0,
+11,Riyad Mahrez,26.0,dz ALG,RW,31-079,14,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,
+12,João Cancelo,27.0,pt POR,RB,27-349,90,0,0,0,0,0,0,3,3,1,0,0,0,11,1,0,100.0
+13,Ederson,31.0,br BRA,GK,28-267,90,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,
+14,14 Players,,,,,990,1,0,0,11,2,3,12,8,10,0,0,0,58,11,4,73.3

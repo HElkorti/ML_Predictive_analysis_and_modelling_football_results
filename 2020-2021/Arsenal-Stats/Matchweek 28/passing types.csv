@@ -1,0 +1,17 @@
+,Unnamed: 0_level_0,Unnamed: 1_level_0,Unnamed: 2_level_0,Unnamed: 3_level_0,Unnamed: 4_level_0,Unnamed: 5_level_0,Unnamed: 6_level_0,Pass Types,Pass Types,Pass Types,Pass Types,Pass Types,Pass Types,Pass Types,Pass Types,Corner Kicks,Corner Kicks,Corner Kicks,Outcomes,Outcomes,Outcomes
+,Player,#,Nation,Pos,Age,Min,Att,Live,Dead,FK,TB,Sw,Crs,TI,CK,In,Out,Str,Cmp,Off,Blocks
+0,Alexandre Lacazette,9.0,fr FRA,FW,29-290,87,17,17,0,0,0,0,1,0,0,0,0,0,13,0,1
+1,Mohamed Elneny,25.0,eg EGY,AM,28-246,3,3,3,0,0,0,0,0,0,0,0,0,0,2,0,1
+2,Emile Smith Rowe,32.0,eng ENG,LW,20-229,76,41,40,1,0,0,0,3,1,0,0,0,0,37,0,0
+3,Willian,12.0,br BRA,LW,32-217,14,6,5,1,1,0,0,0,0,0,0,0,0,5,0,0
+4,Bukayo Saka,7.0,eng ENG,RW,19-190,45,17,17,0,0,0,0,2,0,0,0,0,0,13,0,1
+5,Nicolas Pépé,19.0,ci CIV,RW,25-289,45,23,21,2,0,0,0,3,0,2,1,0,0,15,0,3
+6,Martin Ødegaard,11.0,no NOR,"AM,FW",22-087,90,62,54,8,2,0,0,4,0,4,2,1,0,56,0,1
+7,Granit Xhaka,34.0,ch SUI,DM,28-168,90,70,65,5,5,0,0,0,0,0,0,0,0,66,0,1
+8,Thomas Partey,18.0,gh GHA,DM,27-274,90,64,60,4,4,0,0,0,0,0,0,0,0,51,0,2
+9,Kieran Tierney,3.0,sct SCO,LB,23-282,90,56,54,2,0,0,0,7,2,0,0,0,0,40,0,3
+10,Gabriel Dos Santos,6.0,br BRA,CB,23-085,90,63,63,0,0,0,0,0,0,0,0,0,0,55,0,1
+11,David Luiz,23.0,br BRA,CB,33-326,90,59,58,1,1,0,1,1,0,0,0,0,0,52,0,0
+12,Cédric Soares,17.0,pt POR,RB,29-195,90,57,47,10,0,0,0,5,10,0,0,0,0,43,0,4
+13,Bernd Leno,1.0,de GER,GK,29-010,90,27,25,2,1,0,0,0,0,0,0,0,0,20,0,0
+14,14 Players,,,,,990,565,529,36,14,0,1,26,13,6,3,1,0,468,0,18

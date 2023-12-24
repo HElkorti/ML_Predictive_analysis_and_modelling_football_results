@@ -1,0 +1,18 @@
+,Unnamed: 0_level_0,Unnamed: 1_level_0,Unnamed: 2_level_0,Unnamed: 3_level_0,Unnamed: 4_level_0,Unnamed: 5_level_0,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Aerial Duels,Aerial Duels,Aerial Duels
+,Player,#,Nation,Pos,Age,Min,CrdY,CrdR,2CrdY,Fls,Fld,Off,Crs,Int,TklW,PKwon,PKcon,OG,Recov,Won,Lost,Won%
+0,Marcus Rashford,10.0,eng ENG,"FW,LW",25-178,90,0,0,0,0,1,1,1,1,0,0,0,0,4,0,3,0.0
+1,Jadon Sancho,25.0,eng ENG,LW,23-033,60,0,0,0,0,0,0,1,0,0,0,0,0,3,0,1,0.0
+2,Anthony Martial,9.0,fr FRA,FW,27-143,30,0,0,0,0,0,1,0,0,1,0,0,0,1,0,1,0.0
+3,Antony,21.0,br BRA,RW,23-062,70,0,0,0,0,1,0,0,2,0,0,0,0,1,0,1,0.0
+4,Wout Weghorst,27.0,nl NED,AM,30-263,20,0,0,0,1,0,0,0,0,1,0,0,0,1,0,1,0.0
+5,Bruno Fernandes,8.0,pt POR,"AM,RW",28-231,90,0,0,0,1,2,0,3,1,0,0,0,0,3,0,2,0.0
+6,Christian Eriksen,14.0,dk DEN,DM,31-072,60,0,0,0,0,1,0,2,0,0,0,0,0,2,0,0,
+7,Fred,17.0,br BRA,DM,30-053,30,0,0,0,1,1,1,1,0,0,0,0,0,3,1,0,100.0
+8,Casemiro,18.0,br BRA,DM,31-063,90,0,0,0,0,0,0,3,1,1,0,0,0,9,3,2,60.0
+9,Diogo Dalot,20.0,pt POR,"LB,RB",24-040,90,0,0,0,1,0,0,0,3,2,0,0,0,8,1,0,100.0
+10,Luke Shaw,23.0,eng ENG,CB,27-289,90,0,0,0,0,1,0,4,3,1,0,0,0,10,3,0,100.0
+11,Victor Lindelöf,2.0,se SWE,CB,28-284,90,1,0,0,2,0,0,0,1,1,0,0,0,4,3,0,100.0
+12,Aaron Wan-Bissaka,29.0,eng ENG,RB,25-152,70,1,0,0,1,0,0,3,1,2,0,0,0,3,0,1,0.0
+13,Tyrell Malacia,12.0,nl NED,LB,23-253,20,0,0,0,0,0,0,1,1,4,0,0,0,0,0,0,
+14,David de Gea,1.0,es ESP,GK,32-171,90,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,
+15,15 Players,,,,,990,2,0,0,7,8,3,19,14,13,0,0,0,52,11,12,47.8

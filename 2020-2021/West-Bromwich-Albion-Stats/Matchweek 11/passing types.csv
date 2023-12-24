@@ -1,0 +1,17 @@
+,Unnamed: 0_level_0,Unnamed: 1_level_0,Unnamed: 2_level_0,Unnamed: 3_level_0,Unnamed: 4_level_0,Unnamed: 5_level_0,Unnamed: 6_level_0,Pass Types,Pass Types,Pass Types,Pass Types,Pass Types,Pass Types,Pass Types,Pass Types,Corner Kicks,Corner Kicks,Corner Kicks,Outcomes,Outcomes,Outcomes
+,Player,#,Nation,Pos,Age,Min,Att,Live,Dead,FK,TB,Sw,Crs,TI,CK,In,Out,Str,Cmp,Off,Blocks
+0,Karlan Grant,29.0,eng ENG,FW,23-079,61,16,14,2,0,0,0,1,0,0,0,0,0,11,0,2
+1,Callum Robinson,7.0,ie IRL,FW,25-308,29,15,14,1,0,0,0,0,0,0,0,0,0,14,0,0
+2,Grady Diangana,11.0,cd COD,FW,22-231,45,13,13,0,0,0,0,1,0,0,0,0,0,11,0,0
+3,Filip Krovinović,17.0,hr CRO,DM,25-099,45,37,36,1,1,0,0,1,0,0,0,0,0,31,0,2
+4,Matheus Pereira,12.0,pt POR,AM,24-215,33,18,14,3,1,0,0,0,0,0,0,0,0,15,1,1
+5,Conor Gallagher,18.0,eng ENG,"DM,CM",20-304,90,57,51,6,3,0,0,4,0,2,1,0,1,49,0,1
+6,Romaine Sawyers,19.0,kn SKN,"CM,DM",29-034,79,60,58,2,2,0,2,0,0,0,0,0,0,55,0,0
+7,Dara O'Shea,27.0,ie IRL,DM,21-277,11,14,13,1,1,0,0,0,0,0,0,0,0,12,0,0
+8,Matt Phillips,10.0,sct SCO,WB,29-268,90,57,51,5,0,0,0,4,3,2,1,1,0,47,1,0
+9,Darnell Furlong,2.0,eng ENG,WB,25-036,90,37,35,2,0,0,0,3,2,0,0,0,0,25,0,2
+10,Kyle Bartley,5.0,eng ENG,CB,29-198,90,71,66,5,1,0,0,0,4,0,0,0,0,62,0,1
+11,Branislav Ivanović,20.0,rs SRB,CB,36-288,90,48,44,4,4,0,0,0,0,0,0,0,0,46,0,0
+12,Semi Ajayi,6.0,ng NGA,CB,27-027,90,61,54,7,2,0,0,0,5,0,0,0,0,56,0,1
+13,Sam Johnstone,1.0,eng ENG,GK,27-256,90,25,16,9,3,0,1,0,0,0,0,0,0,16,0,0
+14,14 Players,,,,,933,529,479,48,18,0,3,14,14,4,2,1,1,450,2,10

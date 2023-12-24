@@ -1,0 +1,18 @@
+,Unnamed: 0_level_0,Unnamed: 1_level_0,Unnamed: 2_level_0,Unnamed: 3_level_0,Unnamed: 4_level_0,Unnamed: 5_level_0,Tackles,Tackles,Tackles,Tackles,Tackles,Challenges,Challenges,Challenges,Challenges,Blocks,Blocks,Blocks,Unnamed: 18_level_0,Unnamed: 19_level_0,Unnamed: 20_level_0,Unnamed: 21_level_0
+,Player,#,Nation,Pos,Age,Min,Tkl,TklW,Def 3rd,Mid 3rd,Att 3rd,Tkl,Att,Tkl%,Lost,Blocks,Sh,Pass,Int,Tkl+Int,Clr,Err
+0,Rodrigo,19.0,es ESP,FW,32-047,64,1,0,0,1,0,0,0,,0,1,0,1,0,1,1,0
+1,Patrick Bamford,9.0,eng ENG,FW,29-229,26,0,0,0,0,0,0,0,,0,0,0,0,0,0,1,0
+2,Jack Harrison,11.0,eng ENG,LW,26-153,79,0,0,0,0,0,0,3,0.0,3,0,0,0,2,2,0,0
+3,Degnand Gnonto,29.0,it ITA,LW,19-168,11,1,0,0,0,1,0,0,,0,1,0,1,0,1,0,0
+4,Crysencio Summerville,10.0,nl NED,"RW,AM",21-174,90,0,0,0,0,0,0,1,0.0,1,2,0,2,0,0,0,0
+5,Brenden Aaronson,7.0,us USA,AM,22-182,64,1,1,1,0,0,0,1,0.0,1,1,0,1,1,2,0,0
+6,Luis Sinisterra,23.0,co COL,RW,23-309,26,0,0,0,0,0,0,1,0.0,1,0,0,0,0,0,1,0
+7,Weston McKennie,28.0,us USA,DM,24-237,79,3,2,1,2,0,2,3,66.7,1,2,1,1,3,6,1,0
+8,Adam Forshaw,4.0,eng ENG,DM,31-196,11,1,1,1,0,0,1,1,100.0,0,0,0,0,1,2,0,0
+9,Marc Roca,8.0,es ESP,DM,26-147,90,1,1,1,0,0,1,2,50.0,1,2,1,1,0,1,0,0
+10,Maximilian Wöber,39.0,at AUT,LB,25-077,90,3,1,1,2,0,2,2,100.0,0,0,0,0,1,4,5,0
+11,Liam Cooper,6.0,sct SCO,CB,31-235,90,6,2,4,2,0,4,6,66.7,2,3,2,1,3,9,6,0
+12,Robin Koch,5.0,de GER,CB,26-279,90,1,1,1,0,0,0,3,0.0,3,0,0,0,1,2,5,0
+13,Rasmus Nissen,25.0,dk DEN,RB,25-285,90,6,3,4,2,0,5,8,62.5,3,0,0,0,2,8,5,0
+14,Illan Meslier,1.0,fr FRA,GK,23-051,90,0,0,0,0,0,0,0,,0,0,0,0,0,0,4,0
+15,15 Players,,,,,990,24,12,14,9,1,15,31,48.4,16,12,4,8,14,38,29,0

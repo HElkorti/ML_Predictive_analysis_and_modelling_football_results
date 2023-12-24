@@ -1,0 +1,17 @@
+,Unnamed: 0_level_0,Unnamed: 1_level_0,Unnamed: 2_level_0,Unnamed: 3_level_0,Unnamed: 4_level_0,Unnamed: 5_level_0,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Aerial Duels,Aerial Duels,Aerial Duels
+,Player,#,Nation,Pos,Age,Min,CrdY,CrdR,2CrdY,Fls,Fld,Off,Crs,Int,TklW,PKwon,PKcon,OG,Recov,Won,Lost,Won%
+0,Cristiano Ronaldo,7.0,pt POR,FW,37-035,82,0,0,0,0,1,0,0,1,0,0,0,0,2,3,1,75.0
+1,Victor Lindelöf,2.0,se SWE,CB,27-238,8,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,
+2,Jadon Sancho,25.0,eng ENG,"LW,RW,RM",21-352,90,0,0,0,0,1,0,1,2,0,0,0,0,7,0,0,
+3,Marcus Rashford,10.0,eng ENG,RW,24-132,67,0,0,0,0,0,0,3,3,1,0,0,0,4,0,2,0.0
+4,Anthony Elanga,36.0,se SWE,"LW,LM",19-319,23,0,0,0,0,1,0,0,1,0,0,0,0,1,0,1,0.0
+5,Paul Pogba,6.0,fr FRA,"AM,CM",28-362,90,1,0,0,3,3,0,0,0,0,0,0,0,4,3,0,100.0
+6,Fred,17.0,br BRA,"DM,CM",29-007,90,1,0,0,0,0,0,0,1,1,0,0,0,8,0,1,0.0
+7,Nemanja Matić,31.0,rs SRB,DM,33-223,79,0,0,0,1,0,0,0,2,2,0,0,0,6,0,2,0.0
+8,Edinson Cavani,21.0,uy URU,FW,35-026,11,0,0,0,0,0,0,0,0,0,0,0,0,2,0,1,0.0
+9,Alex Telles,27.0,br BRA,"LB,LM",29-087,90,0,0,0,3,0,0,6,0,2,0,1,0,8,0,1,0.0
+10,Harry Maguire,5.0,eng ENG,CB,29-007,90,0,0,0,0,0,0,0,4,1,0,0,1,2,2,1,66.7
+11,Raphaël Varane,19.0,fr FRA,CB,28-321,90,0,0,0,0,0,0,0,0,1,0,0,0,2,1,0,100.0
+12,Diogo Dalot,20.0,pt POR,"RB,RM",22-359,90,0,0,0,1,0,0,0,0,1,0,0,0,8,1,0,100.0
+13,David de Gea,1.0,es ESP,GK,31-125,90,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,
+14,14 Players,,,,,990,2,0,0,8,6,0,10,14,9,0,1,1,56,10,10,50.0

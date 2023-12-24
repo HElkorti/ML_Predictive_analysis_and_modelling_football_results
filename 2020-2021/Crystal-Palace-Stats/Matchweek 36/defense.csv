@@ -1,0 +1,15 @@
+,Unnamed: 0_level_0,Unnamed: 1_level_0,Unnamed: 2_level_0,Unnamed: 3_level_0,Unnamed: 4_level_0,Unnamed: 5_level_0,Tackles,Tackles,Tackles,Tackles,Tackles,Challenges,Challenges,Challenges,Challenges,Blocks,Blocks,Blocks,Unnamed: 18_level_0,Unnamed: 19_level_0,Unnamed: 20_level_0,Unnamed: 21_level_0
+,Player,#,Nation,Pos,Age,Min,Tkl,TklW,Def 3rd,Mid 3rd,Att 3rd,Tkl,Att,Tkl%,Lost,Blocks,Sh,Pass,Int,Tkl+Int,Clr,Err
+0,Christian Benteke,20.0,be BEL,FW,30-164,90,0,0,0,0,0,0,0,,0,1,0,1,0,0,3,0
+1,Wilfried Zaha,11.0,ci CIV,LW,28-187,90,0,0,0,0,0,0,0,,0,2,0,2,1,1,0,0
+2,Andros Townsend,10.0,eng ENG,RW,29-304,90,3,3,1,0,2,2,2,100.0,0,5,1,4,1,4,0,0
+3,Jeffrey Schlupp,15.0,gh GHA,LM,28-144,90,5,2,1,2,2,0,0,,0,3,0,3,1,6,2,0
+4,James McCarthy,22.0,ie IRL,CM,30-185,72,1,1,1,0,0,1,2,50.0,1,1,0,1,1,2,1,0
+5,James Tomkins,5.0,eng ENG,CB,32-048,18,0,0,0,0,0,0,0,,0,1,1,0,0,0,0,0
+6,Eberechi Eze,25.0,eng ENG,RM,22-321,90,0,0,0,0,0,0,0,,0,0,0,0,1,1,0,0
+7,Tyrick Mitchell,27.0,eng ENG,LB,21-257,90,1,1,1,0,0,1,1,100.0,0,2,2,0,0,1,4,0
+8,Gary Cahill,24.0,eng ENG,CB,35-148,90,0,0,0,0,0,0,0,,0,1,1,0,0,0,6,0
+9,Cheikhou Kouyaté,8.0,sn SEN,"CB,CM",31-146,90,5,3,3,2,0,3,3,100.0,0,1,1,0,1,6,3,0
+10,Joel Ward,2.0,eng ENG,RB,31-199,90,0,0,0,0,0,0,0,,0,0,0,0,0,0,3,0
+11,Jack Butland,1.0,eng ENG,GK,28-067,90,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,0
+12,12 Players,,,,,990,15,10,7,4,4,7,8,87.5,1,17,6,11,6,21,22,0

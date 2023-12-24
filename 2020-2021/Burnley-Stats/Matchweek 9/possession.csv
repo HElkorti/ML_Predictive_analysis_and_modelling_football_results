@@ -1,0 +1,16 @@
+,Unnamed: 0_level_0,Unnamed: 1_level_0,Unnamed: 2_level_0,Unnamed: 3_level_0,Unnamed: 4_level_0,Unnamed: 5_level_0,Touches,Touches,Touches,Touches,Touches,Touches,Touches,Take-Ons,Take-Ons,Take-Ons,Take-Ons,Take-Ons,Carries,Carries,Carries,Carries,Carries,Carries,Carries,Carries,Receiving,Receiving
+,Player,#,Nation,Pos,Age,Min,Touches,Def Pen,Def 3rd,Mid 3rd,Att 3rd,Att Pen,Live,Att,Succ,Succ%,Tkld,Tkld%,Carries,TotDist,PrgDist,PrgC,1/3,CPA,Mis,Dis,Rec,PrgR
+0,Jay Rodriguez,19.0,eng ENG,FW,31-117,90,43,2,5,21,17,6,43,3,2,66.7,1,33.3,27,119,58,3,1,3,10,3,29,7
+1,Chris Wood,9.0,nz NZL,FW,28-352,90,30,0,1,11,18,5,30,0,0,,0,,15,54,15,0,0,0,2,2,26,9
+2,Dwight McNeil,11.0,eng ENG,LM,21-001,90,51,2,7,30,14,0,51,1,0,0.0,1,100.0,24,134,36,0,0,0,2,2,30,2
+3,Josh Brownhill,8.0,eng ENG,CM,24-340,90,56,2,12,37,7,0,56,0,0,,0,,15,50,17,0,0,0,0,0,28,0
+4,Ashley Westwood,18.0,eng ENG,CM,30-236,90,61,2,6,48,7,1,61,0,0,,0,,23,52,20,0,0,0,0,0,45,1
+5,Jóhann Berg Guðmundsson,7.0,is ISL,RM,30-027,66,35,1,3,26,6,1,35,0,0,,0,,22,78,30,0,1,0,1,0,27,4
+6,Robbie Brady,12.0,ie IRL,RM,28-314,17,7,2,4,3,0,0,7,0,0,,0,,3,13,4,0,0,0,0,0,3,0
+7,Erik Pieters,23.0,nl NED,RM,32-108,7,2,0,1,1,0,0,2,0,0,,0,,0,0,0,0,0,0,0,0,0,0
+8,Charlie Taylor,3.0,eng ENG,LB,27-066,90,61,6,15,34,13,0,61,3,2,66.7,1,33.3,21,158,72,2,0,0,0,0,31,2
+9,Ben Mee,6.0,eng ENG,CB,31-063,90,61,9,28,33,0,0,61,0,0,,0,,28,108,46,0,0,0,0,0,28,0
+10,James Tarkowski,5.0,eng ENG,CB,28-004,90,61,7,25,34,3,2,61,0,0,,0,,28,128,78,0,0,0,0,0,30,0
+11,Matthew Lowton,2.0,eng ENG,RB,31-167,90,52,5,16,34,3,0,52,1,0,0.0,1,100.0,24,113,59,0,1,0,1,1,31,0
+12,Nick Pope,1.0,eng ENG,GK,28-218,90,32,28,32,0,0,0,32,0,0,,0,,10,104,64,0,0,0,0,0,8,0
+13,13 Players,,,,,990,552,66,155,312,88,15,552,8,4,50.0,4,50.0,240,1111,499,5,3,3,16,8,316,25

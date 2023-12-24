@@ -1,0 +1,15 @@
+,Unnamed: 0_level_0,Unnamed: 1_level_0,Unnamed: 2_level_0,Unnamed: 3_level_0,Unnamed: 4_level_0,Unnamed: 5_level_0,Unnamed: 6_level_0,Pass Types,Pass Types,Pass Types,Pass Types,Pass Types,Pass Types,Pass Types,Pass Types,Corner Kicks,Corner Kicks,Corner Kicks,Outcomes,Outcomes,Outcomes
+,Player,#,Nation,Pos,Age,Min,Att,Live,Dead,FK,TB,Sw,Crs,TI,CK,In,Out,Str,Cmp,Off,Blocks
+0,Bernardo Silva,20.0,pt POR,FW,27-138,90,57,53,4,0,0,0,1,0,0,0,0,0,51,0,1
+1,Raheem Sterling,7.0,eng ENG,LW,27-018,90,43,42,1,0,0,0,0,1,0,0,0,0,39,0,1
+2,Riyad Mahrez,26.0,dz ALG,RW,30-308,90,54,43,11,1,0,0,11,2,8,7,0,0,41,0,0
+3,İlkay Gündoğan,8.0,de GER,LM,31-063,90,46,45,1,0,0,0,1,0,1,0,0,0,41,0,0
+4,Fernandinho,25.0,br BRA,CM,36-236,90,64,63,1,1,0,0,0,0,0,0,0,0,62,0,0
+5,Kevin De Bruyne,17.0,be BEL,RM,30-181,70,44,37,6,1,0,0,7,1,4,4,0,0,32,1,0
+6,Phil Foden,47.0,eng ENG,RM,21-212,20,10,9,1,0,0,0,1,0,1,0,1,0,9,0,0
+7,Oleksandr Zinchenko,11.0,ua UKR,LB,25-011,90,99,91,8,2,1,1,1,6,0,0,0,0,93,0,1
+8,Aymeric Laporte,14.0,es ESP,CB,27-213,90,109,109,0,0,0,0,0,0,0,0,0,0,109,0,0
+9,Rúben Dias,3.0,pt POR,CB,24-226,90,128,127,1,0,0,0,0,1,0,0,0,0,125,0,0
+10,João Cancelo,27.0,pt POR,RB,27-213,90,114,105,8,1,0,1,2,7,0,0,0,0,103,1,2
+11,Ederson,31.0,br BRA,GK,28-131,90,17,13,4,1,0,0,0,0,0,0,0,0,17,0,0
+12,12 Players,,,,,990,785,737,46,7,1,2,24,18,14,11,1,0,722,2,5

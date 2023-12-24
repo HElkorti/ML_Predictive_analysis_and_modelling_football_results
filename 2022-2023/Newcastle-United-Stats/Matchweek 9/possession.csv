@@ -1,0 +1,19 @@
+,Unnamed: 0_level_0,Unnamed: 1_level_0,Unnamed: 2_level_0,Unnamed: 3_level_0,Unnamed: 4_level_0,Unnamed: 5_level_0,Touches,Touches,Touches,Touches,Touches,Touches,Touches,Take-Ons,Take-Ons,Take-Ons,Take-Ons,Take-Ons,Carries,Carries,Carries,Carries,Carries,Carries,Carries,Carries,Receiving,Receiving
+,Player,#,Nation,Pos,Age,Min,Touches,Def Pen,Def 3rd,Mid 3rd,Att 3rd,Att Pen,Live,Att,Succ,Succ%,Tkld,Tkld%,Carries,TotDist,PrgDist,PrgC,1/3,CPA,Mis,Dis,Rec,PrgR
+0,Callum Wilson,9.0,eng ENG,FW,30-216,65,10,0,0,4,6,5,10,0,0,,0,,6,10,3,0,0,0,1,0,8,3
+1,Ryan Fraser,21.0,sct SCO,LW,28-219,25,22,0,2,12,8,1,22,0,0,,0,,14,86,62,2,0,1,0,0,21,2
+2,Jacob Murphy,23.0,eng ENG,"LW,FW",27-219,90,58,0,4,18,36,12,58,3,0,0.0,2,66.7,42,349,292,14,7,7,0,1,45,18
+3,Miguel Almirón,24.0,py PAR,RW,28-233,90,54,0,2,20,32,7,54,3,1,33.3,2,66.7,39,218,77,2,1,1,0,0,47,14
+4,Joe Willock,28.0,eng ENG,"LM,RM",23-042,90,70,0,8,33,29,8,70,1,0,0.0,0,0.0,47,179,54,1,0,0,5,1,60,11
+5,Bruno Guimarães,39.0,br BRA,CM,24-319,58,64,1,9,40,17,0,64,1,1,100.0,0,0.0,48,273,132,0,3,0,0,0,52,0
+6,Elliot Anderson,32.0,sct SCO,"CM,LM",19-329,32,29,0,2,17,12,7,29,3,0,0.0,3,100.0,21,145,74,4,1,4,0,0,21,4
+7,Sean Longstaff,36.0,eng ENG,"RM,CM",24-336,90,61,1,15,31,15,3,61,2,0,0.0,2,100.0,35,97,35,0,0,0,1,2,41,2
+8,Dan Burn,33.0,eng ENG,LB,30-145,82,74,0,25,37,12,1,74,1,1,100.0,0,0.0,45,178,107,0,0,0,1,0,55,2
+9,Matt Targett,13.0,eng ENG,"RB,LB",27-013,8,6,0,3,2,1,0,6,0,0,,0,,5,11,4,0,0,0,0,0,5,1
+10,Sven Botman,4.0,nl NED,CB,22-262,90,79,7,50,25,4,2,79,0,0,,0,,48,235,116,0,1,0,1,0,58,0
+11,Fabian Schär,5.0,ch SUI,CB,30-285,82,80,4,44,31,5,2,80,0,0,,0,,59,255,147,1,1,0,0,0,58,1
+12,Jamaal Lascelles,6.0,eng ENG,CB,28-324,8,10,2,7,3,0,0,10,0,0,,0,,7,19,7,0,0,0,0,0,7,0
+13,Kieran Trippier,2.0,eng ENG,RB,32-012,82,96,1,25,42,29,0,96,0,0,,0,,50,141,65,1,1,0,1,0,52,4
+14,Jamal Lewis,12.0,nir NIR,LB,24-249,8,13,0,6,2,5,2,13,0,0,,0,,8,38,10,0,1,0,0,0,11,1
+15,Nick Pope,22.0,eng ENG,GK,30-165,90,23,20,22,1,0,0,23,0,0,,0,,15,87,58,0,0,0,0,0,10,0
+16,16 Players,,,,,990,749,36,224,318,211,50,749,14,3,21.4,9,64.3,489,2321,1243,25,16,13,10,4,551,63

@@ -1,0 +1,17 @@
+,Unnamed: 0_level_0,Unnamed: 1_level_0,Unnamed: 2_level_0,Unnamed: 3_level_0,Unnamed: 4_level_0,Unnamed: 5_level_0,Unnamed: 6_level_0,Pass Types,Pass Types,Pass Types,Pass Types,Pass Types,Pass Types,Pass Types,Pass Types,Corner Kicks,Corner Kicks,Corner Kicks,Outcomes,Outcomes,Outcomes
+,Player,#,Nation,Pos,Age,Min,Att,Live,Dead,FK,TB,Sw,Crs,TI,CK,In,Out,Str,Cmp,Off,Blocks
+0,Che Adams,10.0,sct SCO,FW,25-115,90,19,19,0,0,0,0,0,0,0,0,0,0,18,0,0
+1,Adam Armstrong,9.0,eng ENG,"FW,AM",24-268,80,16,15,1,0,0,0,1,0,0,0,0,0,13,0,0
+2,Armando Broja,18.0,al ALB,FW,20-056,10,2,2,0,0,0,0,0,0,0,0,0,0,1,0,0
+3,Mohamed Elyounoussi,24.0,no NOR,"LM,AM",27-093,75,26,26,0,0,0,0,2,0,0,0,0,0,17,0,1
+4,Ibrahima Diallo,27.0,fr FRA,"DM,AM",22-242,15,2,2,0,0,0,0,0,0,0,0,0,0,1,0,0
+5,Oriol Romeu,6.0,es ESP,"CM,DM",30-042,90,56,55,1,1,0,0,0,0,0,0,0,0,45,0,0
+6,James Ward-Prowse,8.0,eng ENG,"CM,DM",27-004,90,69,57,12,2,0,0,14,0,10,6,2,0,55,0,0
+7,Stuart Armstrong,17.0,sct SCO,RM,29-220,55,22,22,0,0,0,0,1,0,0,0,0,0,16,0,0
+8,Lyanco,4.0,br BRA,CB,24-277,35,5,5,0,0,0,0,0,0,0,0,0,0,1,0,0
+9,Kyle Walker-Peters,2.0,eng ENG,"LB,WB",24-206,90,53,44,9,0,0,0,3,9,0,0,0,0,43,0,1
+10,Mohammed Salisu,22.0,gh GHA,CB,22-202,90,65,60,5,1,0,0,0,4,0,0,0,0,53,0,0
+11,Jan Bednarek,35.0,pl POL,CB,25-207,90,52,46,6,6,0,1,0,0,0,0,0,0,46,0,0
+12,Valentino Livramento,21.0,eng ENG,"RB,WB",18-358,90,47,40,7,1,0,0,3,6,0,0,0,0,40,0,1
+13,Alex McCarthy,1.0,eng ENG,GK,31-337,90,42,30,12,3,0,0,0,0,0,0,0,0,22,0,1
+14,14 Players,,,,,990,476,423,53,14,0,1,24,19,10,6,2,0,371,0,4

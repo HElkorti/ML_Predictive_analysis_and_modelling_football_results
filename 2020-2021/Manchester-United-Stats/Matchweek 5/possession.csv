@@ -1,0 +1,17 @@
+,Unnamed: 0_level_0,Unnamed: 1_level_0,Unnamed: 2_level_0,Unnamed: 3_level_0,Unnamed: 4_level_0,Unnamed: 5_level_0,Touches,Touches,Touches,Touches,Touches,Touches,Touches,Take-Ons,Take-Ons,Take-Ons,Take-Ons,Take-Ons,Carries,Carries,Carries,Carries,Carries,Carries,Carries,Carries,Receiving,Receiving
+,Player,#,Nation,Pos,Age,Min,Touches,Def Pen,Def 3rd,Mid 3rd,Att 3rd,Att Pen,Live,Att,Succ,Succ%,Tkld,Tkld%,Carries,TotDist,PrgDist,PrgC,1/3,CPA,Mis,Dis,Rec,PrgR
+0,Marcus Rashford,10.0,eng ENG,FW,22-352,90,47,0,2,14,32,15,47,5,2,40.0,3,60.0,38,214,123,8,1,6,2,1,38,9
+1,Daniel James,21.0,wls WAL,LW,22-342,75,55,0,6,20,31,5,55,2,1,50.0,1,50.0,49,268,122,5,7,0,1,0,46,16
+2,Donny van de Beek,34.0,nl NED,"AM,CM",23-182,15,13,0,2,7,4,0,13,1,1,100.0,0,0.0,11,10,7,0,0,0,1,0,11,2
+3,Juan Mata,8.0,es ESP,RW,32-172,89,72,0,1,39,33,2,72,0,0,,0,,59,322,124,5,3,2,2,0,61,5
+4,Nemanja Matić,31.0,rs SRB,RW,32-077,1,6,0,1,4,1,0,6,0,0,,0,,5,10,0,0,0,0,1,0,3,0
+5,Bruno Fernandes,18.0,pt POR,"AM,LW",26-039,90,104,1,10,47,47,5,103,4,2,50.0,2,50.0,67,235,138,5,4,2,0,1,72,10
+6,Fred,17.0,br BRA,DM,27-226,68,64,0,12,44,8,0,64,2,2,100.0,0,0.0,50,150,72,1,0,0,0,1,46,0
+7,Paul Pogba,6.0,fr FRA,"DM,CM",27-216,22,27,0,3,20,6,0,27,1,1,100.0,0,0.0,23,99,68,1,2,0,0,1,20,1
+8,Scott McTominay,39.0,sct SCO,"DM,CM",23-314,90,64,1,13,42,9,1,64,1,1,100.0,0,0.0,45,191,104,1,0,0,1,2,47,0
+9,Luke Shaw,23.0,eng ENG,LB,25-097,90,97,3,21,51,26,4,97,2,0,0.0,2,100.0,65,300,163,6,3,4,0,0,63,4
+10,Harry Maguire,5.0,eng ENG,CB,27-226,90,92,5,48,41,5,3,92,0,0,,0,,66,392,228,0,0,0,0,0,64,0
+11,Victor Lindelöf,2.0,se SWE,CB,26-092,90,56,6,32,24,0,0,56,0,0,,0,,40,313,191,0,0,0,0,0,38,0
+12,Aaron Wan-Bissaka,29.0,eng ENG,RB,22-326,90,68,3,14,28,26,4,68,3,1,33.3,2,66.7,40,169,85,2,2,0,2,2,38,12
+13,David de Gea,1.0,es ESP,GK,29-345,90,21,20,21,0,0,0,21,0,0,,0,,16,47,16,0,0,0,0,0,15,0
+14,14 Players,,,,,990,786,39,186,381,228,39,785,21,11,52.4,10,47.6,574,2720,1441,34,22,14,10,8,562,59

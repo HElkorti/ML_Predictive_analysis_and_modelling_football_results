@@ -1,0 +1,17 @@
+,Unnamed: 0_level_0,Unnamed: 1_level_0,Unnamed: 2_level_0,Unnamed: 3_level_0,Unnamed: 4_level_0,Unnamed: 5_level_0,Unnamed: 6_level_0,Pass Types,Pass Types,Pass Types,Pass Types,Pass Types,Pass Types,Pass Types,Pass Types,Corner Kicks,Corner Kicks,Corner Kicks,Outcomes,Outcomes,Outcomes
+,Player,#,Nation,Pos,Age,Min,Att,Live,Dead,FK,TB,Sw,Crs,TI,CK,In,Out,Str,Cmp,Off,Blocks
+0,Wilfried Zaha,11.0,ci CIV,"FW,RW",28-354,90,18,18,0,0,0,0,0,0,0,0,0,0,12,0,2
+1,Odsonne Édouard,22.0,fr FRA,LW,23-287,72,18,16,0,0,0,0,0,0,0,0,0,0,13,2,0
+2,Jeffrey Schlupp,15.0,gh GHA,LW,28-311,18,6,6,0,0,0,0,0,0,0,0,0,0,3,0,0
+3,Jordan Ayew,9.0,gh GHA,RW,30-049,64,17,16,0,0,0,0,0,0,0,0,0,0,11,1,1
+4,Christian Benteke,20.0,be BEL,FW,30-331,26,7,7,0,0,0,0,0,0,0,0,0,0,5,0,0
+5,James McArthur,18.0,sct SCO,LM,34-023,90,37,35,2,1,0,0,0,0,0,0,0,0,34,0,0
+6,Cheikhou Kouyaté,8.0,sn SEN,CM,31-313,84,20,20,0,0,0,0,0,0,0,0,0,0,16,0,0
+7,Michael Olise,7.0,fr FRA,RM,19-322,6,4,3,0,0,0,0,0,0,0,0,0,0,3,1,0
+8,Conor Gallagher,23.0,eng ENG,"RM,CM",21-266,90,30,24,6,5,0,0,4,0,1,0,1,0,19,0,0
+9,Tyrick Mitchell,3.0,eng ENG,LB,22-059,90,34,27,6,0,0,0,0,6,0,0,0,0,22,1,0
+10,Marc Guéhi,6.0,eng ENG,CB,21-109,90,30,28,2,2,0,0,0,0,0,0,0,0,25,0,0
+11,Joachim Andersen,16.0,dk DEN,CB,25-152,90,37,35,2,2,0,0,0,0,0,0,0,0,29,0,0
+12,Joel Ward,2.0,eng ENG,RB,32-001,90,41,34,7,0,0,0,0,7,0,0,0,0,30,0,1
+13,Vicente Guaita,13.0,es ESP,GK,34-293,90,49,32,17,3,0,0,0,0,0,0,0,0,29,0,0
+14,14 Players,,,,,990,348,301,42,13,0,0,4,13,1,0,1,0,251,5,4

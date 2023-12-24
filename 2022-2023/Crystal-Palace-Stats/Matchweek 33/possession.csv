@@ -1,0 +1,18 @@
+,Unnamed: 0_level_0,Unnamed: 1_level_0,Unnamed: 2_level_0,Unnamed: 3_level_0,Unnamed: 4_level_0,Unnamed: 5_level_0,Touches,Touches,Touches,Touches,Touches,Touches,Touches,Take-Ons,Take-Ons,Take-Ons,Take-Ons,Take-Ons,Carries,Carries,Carries,Carries,Carries,Carries,Carries,Carries,Receiving,Receiving
+,Player,#,Nation,Pos,Age,Min,Touches,Def Pen,Def 3rd,Mid 3rd,Att 3rd,Att Pen,Live,Att,Succ,Succ%,Tkld,Tkld%,Carries,TotDist,PrgDist,PrgC,1/3,CPA,Mis,Dis,Rec,PrgR
+0,Jordan Ayew,9.0,gh GHA,"FW,LW,LM",31-226,90,32,0,1,13,20,3,32,4,3,75.0,0,0.0,27,124,56,2,1,1,10,3,28,8
+1,Eberechi Eze,10.0,eng ENG,"LW,RM",24-300,90,54,2,4,24,26,4,54,8,5,62.5,3,37.5,39,202,95,2,3,1,2,5,36,3
+2,Michael Olise,7.0,fr FRA,RW,21-134,90,67,0,3,20,44,8,67,4,1,25.0,2,50.0,36,237,108,5,3,4,1,3,42,12
+3,Will Hughes,19.0,eng ENG,"LM,CM",28-008,88,44,2,8,23,14,2,44,1,1,100.0,0,0.0,23,122,63,1,1,1,1,0,27,1
+4,Jean-Philippe Mateta,14.0,fr FRA,LW,25-301,2,3,0,0,2,1,1,3,0,0,,0,,1,0,0,0,0,0,1,0,3,1
+5,Luka Milivojević,4.0,rs SRB,CM,32-018,64,33,2,10,16,7,0,33,0,0,,0,,16,68,17,0,0,0,1,0,20,0
+6,Jeffrey Schlupp,15.0,gh GHA,"LM,CM",30-123,26,16,0,1,7,8,2,16,0,0,,0,,6,25,13,1,0,0,0,0,7,2
+7,Albert Sambi Lokonga,8.0,be BEL,RM,23-185,64,26,3,6,12,8,2,26,0,0,,0,,16,47,21,0,0,0,0,1,20,0
+8,Odsonne Édouard,22.0,fr FRA,FW,25-099,26,11,0,0,4,7,1,11,1,0,0.0,1,100.0,8,25,0,0,0,0,3,1,9,5
+9,Tyrick Mitchell,3.0,eng ENG,LB,23-236,90,71,3,19,40,14,0,71,3,2,66.7,1,33.3,36,129,55,1,2,0,0,0,40,3
+10,Marc Guéhi,6.0,eng ENG,CB,22-286,90,86,8,42,41,3,1,86,0,0,,0,,55,334,153,2,1,0,1,0,58,0
+11,Joachim Andersen,16.0,dk DEN,CB,26-329,45,33,2,14,20,0,0,33,0,0,,0,,26,164,106,1,0,0,0,0,24,0
+12,Joel Ward,2.0,eng ENG,RB,33-178,45,34,1,1,21,12,1,34,0,0,,0,,22,107,73,2,1,1,0,0,23,1
+13,Chris Richards,26.0,us USA,"CB,RB",23-028,90,66,6,22,39,5,2,66,0,0,,0,,38,223,107,2,0,0,1,1,44,2
+14,Sam Johnstone,21.0,eng ENG,GK,30-031,90,36,26,36,0,0,0,36,0,0,,0,,21,91,66,0,0,0,1,0,20,0
+15,15 Players,,,,,990,612,55,167,282,169,27,612,21,12,57.1,7,33.3,370,1898,933,19,12,8,22,14,401,38

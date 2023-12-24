@@ -1,0 +1,19 @@
+,Unnamed: 0_level_0,Unnamed: 1_level_0,Unnamed: 2_level_0,Unnamed: 3_level_0,Unnamed: 4_level_0,Unnamed: 5_level_0,Touches,Touches,Touches,Touches,Touches,Touches,Touches,Take-Ons,Take-Ons,Take-Ons,Take-Ons,Take-Ons,Carries,Carries,Carries,Carries,Carries,Carries,Carries,Carries,Receiving,Receiving
+,Player,#,Nation,Pos,Age,Min,Touches,Def Pen,Def 3rd,Mid 3rd,Att 3rd,Att Pen,Live,Att,Succ,Succ%,Tkld,Tkld%,Carries,TotDist,PrgDist,PrgC,1/3,CPA,Mis,Dis,Rec,PrgR
+0,Dominic Solanke,9.0,eng ENG,FW,25-202,90,26,0,1,11,16,6,26,2,2,100.0,0,0.0,18,131,99,3,4,1,3,1,22,10
+1,Hamed Junior Traorè,22.0,ci CIV,FW,23-047,71,44,1,5,16,24,3,44,5,2,40.0,2,40.0,28,100,54,2,2,0,3,0,31,7
+2,David Brooks,7.0,wls WAL,"FW,RM",25-270,19,3,0,0,1,2,1,3,0,0,,0,,3,5,1,0,0,0,0,1,4,1
+3,Dango Ouattara,11.0,bf BFA,"LM,RM",21-052,84,45,2,8,14,23,5,45,6,0,0.0,6,100.0,26,133,63,3,2,2,2,1,28,12
+4,Lewis Cook,4.0,eng ENG,CM,26-060,6,3,0,1,2,0,0,3,0,0,,0,,1,6,0,0,0,0,0,0,1,0
+5,Jefferson Lerma,8.0,co COL,CM,28-161,90,52,5,15,25,12,0,52,1,1,100.0,0,0.0,28,89,58,2,1,0,0,0,37,1
+6,Philip Billing,29.0,dk DEN,CM,26-297,84,48,2,19,20,9,1,48,4,1,25.0,2,50.0,29,105,28,0,0,0,1,0,31,0
+7,Antoine Semenyo,24.0,gh GHA,FW,23-087,6,3,0,0,1,2,0,3,0,0,,0,,1,3,0,0,0,0,1,1,2,0
+8,Ryan Christie,10.0,sct SCO,RM,28-041,57,31,1,5,14,12,2,31,2,1,50.0,1,50.0,17,66,44,1,1,0,2,1,12,0
+9,Marcus Tavernier,16.0,eng ENG,LM,24-013,33,13,1,2,5,6,1,13,1,1,100.0,0,0.0,10,68,30,1,1,0,1,0,5,0
+10,Lloyd Kelly,5.0,eng ENG,LB,24-180,90,55,3,26,21,9,0,55,1,0,0.0,1,100.0,22,73,37,1,1,0,0,0,27,0
+11,Marcos Senesi,25.0,ar ARG,CB,25-329,84,49,10,28,18,4,1,49,0,0,,0,,37,150,83,3,2,0,1,0,31,0
+12,Illia Zabarnyi,27.0,ua UKR,CB,20-215,6,1,0,1,0,0,0,1,0,0,,0,,1,7,7,0,0,0,0,0,1,0
+13,Jack Stephens,3.0,eng ENG,CB,29-067,90,58,7,31,22,5,1,58,0,0,,0,,39,150,36,0,0,0,0,0,41,0
+14,Adam Smith,15.0,eng ENG,RB,31-340,90,27,3,12,9,6,0,27,0,0,,0,,6,6,0,0,0,0,0,0,8,1
+15,Neto,13.0,br BRA,GK,33-259,90,38,34,38,0,0,0,38,0,0,,0,,18,133,93,0,0,0,0,0,10,0
+16,16 Players,,,,,990,496,69,192,179,130,21,496,22,8,36.4,12,54.5,284,1225,633,16,14,3,14,5,291,32

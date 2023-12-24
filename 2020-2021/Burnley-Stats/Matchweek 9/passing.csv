@@ -1,0 +1,16 @@
+,Unnamed: 0_level_0,Unnamed: 1_level_0,Unnamed: 2_level_0,Unnamed: 3_level_0,Unnamed: 4_level_0,Unnamed: 5_level_0,Total,Total,Total,Total,Total,Short,Short,Short,Medium,Medium,Medium,Long,Long,Long,Unnamed: 20_level_0,Unnamed: 21_level_0,Unnamed: 22_level_0,Unnamed: 23_level_0,Unnamed: 24_level_0,Unnamed: 25_level_0,Unnamed: 26_level_0,Unnamed: 27_level_0
+,Player,#,Nation,Pos,Age,Min,Cmp,Att,Cmp%,TotDist,PrgDist,Cmp,Att,Cmp%,Cmp,Att,Cmp%,Cmp,Att,Cmp%,Ast,xAG,xA,KP,1/3,PPA,CrsPA,PrgP
+0,Jay Rodriguez,19.0,eng ENG,FW,31-117,90,18,21,85.7,204,71,11,12,91.7,1,1,100.0,2,2,100.0,0,0.3,0.1,1,1,1,0,3
+1,Chris Wood,9.0,nz NZL,FW,28-352,90,13,21,61.9,153,39,7,10,70.0,4,5,80.0,0,1,0.0,0,0.1,0.1,2,0,1,0,1
+2,Dwight McNeil,11.0,eng ENG,LM,21-001,90,25,38,65.8,387,84,12,13,92.3,6,9,66.7,3,9,33.3,0,0.3,0.0,2,2,0,0,3
+3,Josh Brownhill,8.0,eng ENG,CM,24-340,90,37,43,86.0,467,76,15,18,83.3,12,12,100.0,2,3,66.7,0,0.0,0.0,0,0,0,0,0
+4,Ashley Westwood,18.0,eng ENG,CM,30-236,90,41,55,74.5,675,250,21,24,87.5,14,19,73.7,4,9,44.4,0,0.0,0.1,0,6,3,0,10
+5,Jóhann Berg Guðmundsson,7.0,is ISL,RM,30-027,66,27,31,87.1,413,93,11,12,91.7,10,11,90.9,2,4,50.0,0,0.1,0.0,1,2,0,0,1
+6,Robbie Brady,12.0,ie IRL,RM,28-314,17,2,6,33.3,13,0,1,2,50.0,0,0,,0,2,0.0,0,0.0,0.0,0,0,0,0,0
+7,Erik Pieters,23.0,nl NED,RM,32-108,7,0,0,,0,0,0,0,,0,0,,0,0,,0,0.0,0.0,0,0,0,0,0
+8,Charlie Taylor,3.0,eng ENG,LB,27-066,90,42,53,79.2,687,168,20,22,90.9,13,16,81.3,6,9,66.7,0,0.0,0.0,1,3,1,1,2
+9,Ben Mee,6.0,eng ENG,CB,31-063,90,31,51,60.8,652,284,13,15,86.7,12,17,70.6,6,13,46.2,0,0.0,0.0,0,0,0,0,1
+10,James Tarkowski,5.0,eng ENG,CB,28-004,90,39,50,78.0,839,243,11,17,64.7,19,21,90.5,7,9,77.8,0,0.0,0.3,1,1,0,0,3
+11,Matthew Lowton,2.0,eng ENG,RB,31-167,90,30,47,63.8,542,227,15,17,88.2,9,10,90.0,5,17,29.4,0,0.0,0.0,0,3,0,0,1
+12,Nick Pope,1.0,eng ENG,GK,28-218,90,13,27,48.1,577,501,0,0,,3,3,100.0,10,24,41.7,0,0.0,0.0,0,1,0,0,0
+13,13 Players,,,,,990,318,443,71.8,5609,2036,137,162,84.6,103,124,83.1,47,102,46.1,0,0.7,0.8,8,19,6,1,25

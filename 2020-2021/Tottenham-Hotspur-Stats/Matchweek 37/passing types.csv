@@ -1,0 +1,17 @@
+,Unnamed: 0_level_0,Unnamed: 1_level_0,Unnamed: 2_level_0,Unnamed: 3_level_0,Unnamed: 4_level_0,Unnamed: 5_level_0,Unnamed: 6_level_0,Pass Types,Pass Types,Pass Types,Pass Types,Pass Types,Pass Types,Pass Types,Pass Types,Corner Kicks,Corner Kicks,Corner Kicks,Outcomes,Outcomes,Outcomes
+,Player,#,Nation,Pos,Age,Min,Att,Live,Dead,FK,TB,Sw,Crs,TI,CK,In,Out,Str,Cmp,Off,Blocks
+0,Harry Kane,10.0,eng ENG,FW,27-295,90,27,27,0,0,0,0,4,0,0,0,0,0,14,0,2
+1,Son Heung-min,7.0,kr KOR,LW,28-315,90,39,34,5,1,0,1,5,0,4,2,1,0,28,0,0
+2,Steven Bergwijn,23.0,nl NED,RW,23-223,71,23,23,0,0,0,1,1,0,0,0,0,0,19,0,2
+3,Gareth Bale,9.0,wls WAL,RW,31-307,19,13,13,0,0,0,0,1,0,0,0,0,0,8,0,0
+4,Dele Alli,20.0,eng ENG,AM,25-038,90,57,52,4,1,0,0,2,0,0,0,0,0,44,1,2
+5,Pierre Højbjerg,5.0,dk DEN,DM,25-287,90,83,81,1,0,0,0,0,1,0,0,0,0,73,1,1
+6,Harry Winks,8.0,eng ENG,DM,25-106,73,47,46,1,1,0,0,0,0,0,0,0,0,38,0,1
+7,Tanguy Ndombele,28.0,fr FRA,DM,24-142,17,10,10,0,0,0,0,0,0,0,0,0,0,9,0,0
+8,Sergio Reguilón,3.0,es ESP,LB,24-154,90,68,57,11,1,0,0,4,10,0,0,0,0,56,0,2
+9,Eric Dier,15.0,eng ENG,CB,27-124,90,81,78,3,3,0,0,0,0,0,0,0,0,69,0,0
+10,Toby Alderweireld,4.0,be BEL,CB,32-078,90,84,76,8,7,0,2,0,1,0,0,0,0,73,0,0
+11,Japhet Tanganga,25.0,eng ENG,RB,22-049,82,44,36,8,0,0,0,1,8,0,0,0,0,39,0,2
+12,Matt Doherty,2.0,ie IRL,RB,29-123,8,16,15,1,0,0,0,2,1,0,0,0,0,14,0,0
+13,Hugo Lloris,1.0,fr FRA,GK,34-144,90,24,13,11,2,0,0,0,0,0,0,0,0,22,0,0
+14,14 Players,,,,,990,616,561,53,16,0,4,20,21,4,2,1,0,506,2,12

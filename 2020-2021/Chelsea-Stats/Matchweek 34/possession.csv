@@ -1,0 +1,17 @@
+,Unnamed: 0_level_0,Unnamed: 1_level_0,Unnamed: 2_level_0,Unnamed: 3_level_0,Unnamed: 4_level_0,Unnamed: 5_level_0,Touches,Touches,Touches,Touches,Touches,Touches,Touches,Take-Ons,Take-Ons,Take-Ons,Take-Ons,Take-Ons,Carries,Carries,Carries,Carries,Carries,Carries,Carries,Carries,Receiving,Receiving
+,Player,#,Nation,Pos,Age,Min,Touches,Def Pen,Def 3rd,Mid 3rd,Att 3rd,Att Pen,Live,Att,Succ,Succ%,Tkld,Tkld%,Carries,TotDist,PrgDist,PrgC,1/3,CPA,Mis,Dis,Rec,PrgR
+0,Timo Werner,11.0,de GER,"FW,AM",25-056,90,36,1,4,8,24,8,36,6,2,33.3,4,66.7,23,182,99,4,2,3,5,2,30,8
+1,Kai Havertz,29.0,de GER,FW,21-324,90,47,3,6,19,22,8,47,3,1,33.3,2,66.7,20,137,53,4,2,3,3,1,30,8
+2,Mason Mount,19.0,eng ENG,"CM,AM",22-111,75,50,0,6,18,26,3,50,0,0,,0,,26,186,98,3,3,1,0,0,34,5
+3,Tammy Abraham,9.0,eng ENG,AM,23-211,15,7,2,3,4,0,0,7,0,0,,0,,0,0,0,0,0,0,1,0,1,0
+4,Billy Gilmour,23.0,sct SCO,CM,19-324,90,66,1,15,40,12,0,66,3,1,33.3,2,66.7,27,158,59,1,1,0,1,0,46,1
+5,Hakim Ziyech,22.0,ma MAR,CM,28-043,65,56,1,9,29,18,2,56,5,2,40.0,3,60.0,19,82,18,0,2,0,1,3,34,2
+6,N'Golo Kanté,7.0,fr FRA,CM,30-033,25,11,1,6,6,0,0,11,0,0,,0,,5,29,5,0,1,0,1,0,5,0
+7,Ben Chilwell,21.0,eng ENG,WB,24-131,80,43,1,10,14,19,2,43,1,1,100.0,0,0.0,15,59,36,1,0,0,0,0,27,4
+8,Marcos Alonso,3.0,es ESP,WB,30-124,10,4,0,1,1,2,1,4,0,0,,0,,1,2,1,0,0,0,0,0,3,1
+9,Reece James,24.0,eng ENG,WB,21-144,90,79,6,31,28,20,1,79,4,1,25.0,3,75.0,24,140,45,0,2,0,2,0,41,6
+10,Kurt Zouma,15.0,fr FRA,CB,26-186,90,73,10,32,33,8,0,73,0,0,,0,,48,333,199,3,5,0,0,1,56,1
+11,Thiago Silva,6.0,br BRA,CB,36-221,90,100,17,48,51,1,0,100,0,0,,0,,64,433,286,0,0,0,1,0,80,0
+12,Andreas Christensen,4.0,dk DEN,CB,25-021,90,67,4,33,30,5,1,67,1,1,100.0,0,0.0,27,138,82,1,1,0,0,0,47,0
+13,Edouard Mendy,16.0,sn SEN,GK,29-061,90,37,34,37,0,0,0,37,0,0,,0,,21,102,55,0,0,0,0,0,19,0
+14,14 Players,,,,,990,676,81,241,281,157,26,676,23,9,39.1,14,60.9,320,1981,1036,17,19,7,15,7,453,36

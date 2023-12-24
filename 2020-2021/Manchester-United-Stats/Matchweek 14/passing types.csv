@@ -1,0 +1,17 @@
+,Unnamed: 0_level_0,Unnamed: 1_level_0,Unnamed: 2_level_0,Unnamed: 3_level_0,Unnamed: 4_level_0,Unnamed: 5_level_0,Unnamed: 6_level_0,Pass Types,Pass Types,Pass Types,Pass Types,Pass Types,Pass Types,Pass Types,Pass Types,Corner Kicks,Corner Kicks,Corner Kicks,Outcomes,Outcomes,Outcomes
+,Player,#,Nation,Pos,Age,Min,Att,Live,Dead,FK,TB,Sw,Crs,TI,CK,In,Out,Str,Cmp,Off,Blocks
+0,Anthony Martial,9.0,fr FRA,"FW,LW",25-015,90,33,33,0,0,2,0,1,0,0,0,0,0,26,0,1
+1,Marcus Rashford,10.0,eng ENG,LW,23-050,70,33,33,0,0,0,0,0,0,0,0,0,0,26,0,1
+2,Edinson Cavani,7.0,uy URU,FW,33-310,20,7,6,1,0,0,0,0,0,0,0,0,0,6,0,0
+3,Daniel James,21.0,wls WAL,RW,23-040,90,21,21,0,0,0,0,0,0,0,0,0,0,16,0,1
+4,Bruno Fernandes,18.0,pt POR,AM,26-103,70,40,35,4,1,0,2,1,0,1,0,1,0,31,1,2
+5,Donny van de Beek,34.0,nl NED,AM,23-246,20,4,4,0,0,0,0,0,0,0,0,0,0,4,0,0
+6,Fred,17.0,br BRA,DM,27-290,90,48,48,0,0,0,0,0,0,0,0,0,0,35,0,1
+7,Scott McTominay,39.0,sct SCO,DM,24-012,90,29,28,1,1,0,0,0,0,0,0,0,0,25,0,1
+8,Luke Shaw,23.0,eng ENG,LB,25-161,59,29,18,11,1,0,0,5,5,5,2,3,0,18,0,1
+9,Alex Telles,27.0,br BRA,LB,28-005,31,13,7,6,0,0,0,5,1,5,1,4,0,10,0,0
+10,Harry Maguire,5.0,eng ENG,CB,27-290,90,24,24,0,0,0,0,0,0,0,0,0,0,22,0,0
+11,Victor Lindelöf,2.0,se SWE,CB,26-156,90,32,32,0,0,0,1,0,0,0,0,0,0,24,0,0
+12,Aaron Wan-Bissaka,29.0,eng ENG,RB,23-024,90,43,33,10,1,0,0,0,9,0,0,0,0,30,0,1
+13,David de Gea,1.0,es ESP,GK,30-043,90,30,14,15,5,0,0,0,0,0,0,0,0,19,1,0
+14,14 Players,,,,,990,386,336,48,9,2,3,12,15,11,3,8,0,292,2,9

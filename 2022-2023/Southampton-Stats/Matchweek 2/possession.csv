@@ -1,0 +1,18 @@
+,Unnamed: 0_level_0,Unnamed: 1_level_0,Unnamed: 2_level_0,Unnamed: 3_level_0,Unnamed: 4_level_0,Unnamed: 5_level_0,Touches,Touches,Touches,Touches,Touches,Touches,Touches,Take-Ons,Take-Ons,Take-Ons,Take-Ons,Take-Ons,Carries,Carries,Carries,Carries,Carries,Carries,Carries,Carries,Receiving,Receiving
+,Player,#,Nation,Pos,Age,Min,Touches,Def Pen,Def 3rd,Mid 3rd,Att 3rd,Att Pen,Live,Att,Succ,Succ%,Tkld,Tkld%,Carries,TotDist,PrgDist,PrgC,1/3,CPA,Mis,Dis,Rec,PrgR
+0,Che Adams,10.0,sct SCO,FW,26-031,90,21,1,2,7,16,1,21,0,0,,0,,9,41,0,0,0,0,3,2,15,0
+1,Mohamed Elyounoussi,24.0,no NOR,AM,28-009,60,22,0,3,9,10,2,22,2,1,50.0,1,50.0,11,69,31,0,0,0,1,1,11,2
+2,Adam Armstrong,9.0,eng ENG,FW,25-184,30,14,0,1,5,8,2,14,0,0,,0,,9,63,14,1,0,0,0,1,11,5
+3,Stuart Armstrong,17.0,sct SCO,AM,30-136,61,22,0,0,10,12,3,22,1,0,0.0,1,100.0,11,89,57,3,2,0,1,1,15,5
+4,Joe Aribo,7.0,ng NGA,AM,26-023,29,17,0,1,6,11,3,17,2,1,50.0,1,50.0,8,25,6,0,0,0,0,1,9,5
+5,Roméo Lavia,45.0,be BEL,"CM,DM",18-219,90,37,0,10,26,1,0,37,2,1,50.0,1,50.0,17,116,54,0,1,0,1,2,17,1
+6,James Ward-Prowse,8.0,eng ENG,"CM,DM",27-285,90,54,2,5,36,13,0,54,1,1,100.0,0,0.0,21,114,25,0,0,0,0,2,25,1
+7,Moussa Djenepo,19.0,ml MLI,"WB,LB",24-059,89,54,0,8,31,15,0,54,6,5,83.3,1,16.7,25,231,122,4,1,0,2,1,34,1
+8,Jack Stephens,5.0,eng ENG,LB,28-198,1,2,0,1,1,0,0,2,0,0,,0,,0,0,0,0,0,0,0,0,0,0
+9,Kyle Walker-Peters,2.0,eng ENG,"WB,RB",25-122,90,50,5,9,20,21,3,50,5,3,60.0,2,40.0,28,252,120,4,2,1,2,5,25,5
+10,Mohammed Salisu,22.0,gh GHA,CB,23-118,90,77,5,40,34,5,0,77,3,3,100.0,0,0.0,33,148,64,1,0,0,1,2,37,0
+11,Jan Bednarek,35.0,pl POL,CB,26-123,69,42,4,29,12,1,1,42,0,0,,0,,18,46,18,0,0,0,0,0,18,0
+12,Sekou Mara,18.0,fr FRA,AM,20-014,21,8,0,0,1,7,0,8,3,2,66.7,1,33.3,5,28,2,0,0,0,1,0,5,0
+13,Armel Bella Kotchap,37.0,de GER,CB,20-245,90,43,5,19,23,2,0,43,1,0,0.0,0,0.0,15,121,66,1,0,0,0,1,18,0
+14,Gavin Bazunu,31.0,ie IRL,GK,20-174,90,33,22,33,0,0,0,33,0,0,,0,,16,75,40,0,0,0,0,0,13,0
+15,15 Players,,,,,990,496,44,161,221,122,15,496,26,17,65.4,8,30.8,226,1418,619,14,6,1,12,19,253,25

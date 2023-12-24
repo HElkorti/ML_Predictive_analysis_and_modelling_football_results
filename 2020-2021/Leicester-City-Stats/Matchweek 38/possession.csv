@@ -1,0 +1,17 @@
+,Unnamed: 0_level_0,Unnamed: 1_level_0,Unnamed: 2_level_0,Unnamed: 3_level_0,Unnamed: 4_level_0,Unnamed: 5_level_0,Touches,Touches,Touches,Touches,Touches,Touches,Touches,Take-Ons,Take-Ons,Take-Ons,Take-Ons,Take-Ons,Carries,Carries,Carries,Carries,Carries,Carries,Carries,Carries,Receiving,Receiving
+,Player,#,Nation,Pos,Age,Min,Touches,Def Pen,Def 3rd,Mid 3rd,Att 3rd,Att Pen,Live,Att,Succ,Succ%,Tkld,Tkld%,Carries,TotDist,PrgDist,PrgC,1/3,CPA,Mis,Dis,Rec,PrgR
+0,Jamie Vardy,9.0,eng ENG,FW,34-132,90,25,2,2,7,16,6,23,1,0,0.0,1,100.0,15,138,46,4,0,2,1,1,19,8
+1,Kelechi Iheanacho,14.0,ng NGA,FW,24-232,90,51,0,7,21,23,2,51,1,0,0.0,1,100.0,33,151,68,2,5,0,3,5,37,5
+2,James Maddison,10.0,eng ENG,LM,24-181,61,34,0,4,18,12,0,34,4,4,100.0,0,0.0,27,128,63,1,2,0,3,1,25,5
+3,Ricardo Pereira,21.0,pt POR,"FW,WB",27-229,29,20,0,6,12,2,1,20,0,0,,0,,11,53,37,2,1,0,2,0,14,1
+4,Youri Tielemans,8.0,be BEL,CM,24-016,90,89,2,23,43,23,0,89,1,1,100.0,0,0.0,48,147,72,1,0,0,2,0,59,2
+5,Wilfred Ndidi,25.0,ng NGA,"CB,CM",24-158,90,56,13,35,20,1,0,56,1,1,100.0,0,0.0,27,133,35,0,1,0,0,1,30,1
+6,Marc Albrighton,11.0,eng ENG,RM,31-186,79,50,2,16,20,14,1,50,1,0,0.0,1,100.0,22,111,47,1,1,1,1,0,25,3
+7,Ayoze Pérez,17.0,es ESP,AM,27-298,11,5,0,1,3,1,0,5,0,0,,0,,4,21,8,0,0,0,0,1,5,0
+8,Luke Thomas,33.0,eng ENG,"LB,WB",19-347,90,75,2,24,27,24,2,75,2,1,50.0,1,50.0,29,217,53,3,1,1,1,2,38,4
+9,Çağlar Söyüncü,4.0,tr TUR,CB,25-000,90,60,7,34,21,6,1,60,2,2,100.0,0,0.0,28,195,95,1,3,0,0,1,28,0
+10,Wesley Fofana,3.0,fr FRA,CB,20-157,20,18,2,10,7,1,0,18,0,0,,0,,10,61,47,0,1,0,0,0,11,0
+11,Nampalys Mendy,24.0,sn SEN,CM,28-334,70,43,3,10,29,4,0,43,1,0,0.0,1,100.0,22,90,29,0,0,0,1,1,24,0
+12,Timothy Castagne,27.0,be BEL,"RB,CB",25-169,90,61,4,32,25,4,0,61,0,0,,0,,34,128,47,0,1,0,1,0,36,1
+13,Kasper Schmeichel,1.0,dk DEN,GK,34-199,90,27,23,26,1,0,0,27,0,0,,0,,12,65,39,0,0,0,0,0,12,0
+14,14 Players,,,,,990,614,60,230,254,131,13,612,14,9,64.3,5,35.7,322,1638,686,15,16,4,15,13,363,30

@@ -1,0 +1,17 @@
+,Unnamed: 0_level_0,Unnamed: 1_level_0,Unnamed: 2_level_0,Unnamed: 3_level_0,Unnamed: 4_level_0,Unnamed: 5_level_0,Touches,Touches,Touches,Touches,Touches,Touches,Touches,Take-Ons,Take-Ons,Take-Ons,Take-Ons,Take-Ons,Carries,Carries,Carries,Carries,Carries,Carries,Carries,Carries,Receiving,Receiving
+,Player,#,Nation,Pos,Age,Min,Touches,Def Pen,Def 3rd,Mid 3rd,Att 3rd,Att Pen,Live,Att,Succ,Succ%,Tkld,Tkld%,Carries,TotDist,PrgDist,PrgC,1/3,CPA,Mis,Dis,Rec,PrgR
+0,Wout Weghorst,27.0,nl NED,FW,30-164,68,26,3,5,11,10,2,26,0,0,,0,,15,31,2,0,0,0,0,1,19,6
+1,Scott McTominay,39.0,sct SCO,FW,26-041,22,9,0,3,1,5,1,9,1,0,0.0,0,0.0,8,27,5,1,0,0,2,1,8,3
+2,Marcus Rashford,10.0,eng ENG,LW,25-079,90,50,0,4,21,26,6,50,6,0,0.0,5,83.3,29,208,48,3,2,1,3,0,35,13
+3,Antony,21.0,br BRA,RW,22-328,69,41,1,2,17,23,2,41,1,0,0.0,1,100.0,28,216,90,3,4,0,0,2,29,11
+4,Alejandro Garnacho,49.0,ar ARG,RW,18-201,21,12,0,2,6,5,0,12,1,0,0.0,1,100.0,12,75,39,1,1,0,1,2,11,4
+5,Bruno Fernandes,8.0,pt POR,AM,28-132,90,89,5,17,39,33,8,89,0,0,,0,,61,245,142,3,4,1,1,1,59,10
+6,Christian Eriksen,14.0,dk DEN,DM,30-338,82,66,1,8,47,11,1,66,0,0,,0,,56,231,125,4,4,0,1,1,54,2
+7,Fred,17.0,br BRA,DM,29-319,8,15,0,4,9,2,0,15,0,0,,0,,9,43,27,1,1,0,1,0,9,0
+8,Casemiro,18.0,br BRA,DM,30-329,90,97,8,23,64,12,2,97,1,0,0.0,1,100.0,50,135,72,0,0,0,0,2,51,5
+9,Luke Shaw,23.0,eng ENG,LB,27-190,90,82,5,24,44,16,3,82,1,0,0.0,0,0.0,48,360,168,7,4,0,2,1,44,6
+10,Lisandro Martínez,6.0,ar ARG,CB,25-000,90,106,7,44,60,3,1,106,2,2,100.0,0,0.0,75,481,354,5,1,0,0,0,76,0
+11,Raphaël Varane,19.0,fr FRA,CB,29-268,90,92,5,33,59,0,0,92,0,0,,0,,68,541,358,1,0,0,0,1,62,0
+12,Aaron Wan-Bissaka,29.0,eng ENG,RB,25-053,90,87,4,22,41,24,1,87,2,0,0.0,2,100.0,49,276,127,5,2,0,3,2,53,4
+13,David de Gea,1.0,es ESP,GK,32-072,90,30,26,30,0,0,0,30,0,0,,0,,23,102,61,0,0,0,0,0,22,0
+14,14 Players,,,,,990,802,65,221,419,170,27,802,15,2,13.3,10,66.7,531,2971,1618,34,23,2,14,14,532,64

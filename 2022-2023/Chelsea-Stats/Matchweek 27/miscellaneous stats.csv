@@ -1,0 +1,19 @@
+,Unnamed: 0_level_0,Unnamed: 1_level_0,Unnamed: 2_level_0,Unnamed: 3_level_0,Unnamed: 4_level_0,Unnamed: 5_level_0,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Aerial Duels,Aerial Duels,Aerial Duels
+,Player,#,Nation,Pos,Age,Min,CrdY,CrdR,2CrdY,Fls,Fld,Off,Crs,Int,TklW,PKwon,PKcon,OG,Recov,Won,Lost,Won%
+0,Mykhailo Mudryk,15.0,ua UKR,"FW,LW",22-065,81,0,0,0,1,0,1,0,0,0,0,0,0,3,1,4,20.0
+1,Carney Chukwuemeka,30.0,eng ENG,LW,19-142,9,0,0,0,0,1,1,0,0,0,0,0,0,1,0,0,
+2,João Félix,11.0,pt POR,LW,23-121,45,0,0,0,0,2,1,0,1,0,0,0,0,0,0,0,
+3,Conor Gallagher,23.0,eng ENG,"CM,AM",23-033,45,0,0,0,1,1,0,1,2,1,0,0,0,2,0,1,0.0
+4,Kai Havertz,29.0,de GER,"FW,RW",23-273,90,0,0,0,3,0,0,0,0,2,0,0,0,6,2,4,33.3
+5,Ben Chilwell,21.0,eng ENG,"LM,WB",26-080,71,0,0,0,0,0,1,6,0,0,0,0,0,8,0,0,
+6,Christian Pulisic,10.0,us USA,RW,24-174,19,0,0,0,0,0,0,1,1,0,0,0,0,1,0,0,
+7,Mateo Kovačić,8.0,hr CRO,"CM,DM",28-309,90,0,0,0,1,1,0,0,1,1,0,0,0,8,2,0,100.0
+8,Enzo Fernández,5.0,ar ARG,"CM,DM",22-053,90,0,0,0,0,2,0,1,0,2,0,0,0,5,0,0,
+9,Ruben Loftus-Cheek,12.0,eng ENG,"RM,WB",27-047,72,0,0,0,0,1,0,0,0,0,0,0,0,3,2,2,50.0
+10,Trevoh Chalobah,14.0,eng ENG,RB,23-249,18,0,0,0,0,0,0,1,0,0,0,0,0,1,0,2,0.0
+11,Marc Cucurella,32.0,es ESP,"CB,LB",24-232,90,1,0,0,2,0,0,0,2,6,0,0,0,9,0,0,
+12,Kalidou Koulibaly,26.0,sn SEN,CB,31-264,90,0,0,0,1,0,0,1,1,1,0,0,0,9,0,3,0.0
+13,Wesley Fofana,33.0,fr FRA,CB,22-084,85,1,0,0,2,1,0,0,1,1,0,0,0,1,2,3,40.0
+14,Benoît Badiashile,4.0,fr FRA,CB,21-350,5,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,
+15,Kepa Arrizabalaga,1.0,es ESP,GK,28-159,90,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,100.0
+16,16 Players,,,,,990,2,0,0,11,9,4,11,9,14,0,0,0,60,10,19,34.5

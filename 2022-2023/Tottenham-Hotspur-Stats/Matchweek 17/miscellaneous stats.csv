@@ -1,0 +1,16 @@
+,Unnamed: 0_level_0,Unnamed: 1_level_0,Unnamed: 2_level_0,Unnamed: 3_level_0,Unnamed: 4_level_0,Unnamed: 5_level_0,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Aerial Duels,Aerial Duels,Aerial Duels
+,Player,#,Nation,Pos,Age,Min,CrdY,CrdR,2CrdY,Fls,Fld,Off,Crs,Int,TklW,PKwon,PKcon,OG,Recov,Won,Lost,Won%
+0,Harry Kane,10.0,eng ENG,FW,29-151,90,0,0,0,1,0,2,0,0,0,0,0,0,1,6,2,75.0
+1,Son Heung-min,7.0,kr KOR,LW,30-171,90,0,0,0,0,2,1,4,0,0,0,0,0,6,0,0,
+2,Dejan Kulusevski,21.0,se SWE,RW,22-245,90,0,0,0,1,1,0,2,0,0,0,0,0,10,0,0,
+3,Ivan Perišić,14.0,hr CRO,LM,33-327,90,0,0,0,0,0,1,11,0,1,0,0,0,7,1,1,50.0
+4,Pierre Højbjerg,5.0,dk DEN,CM,27-143,90,0,0,0,1,0,0,1,1,1,0,0,0,9,1,1,50.0
+5,Yves Bissouma,38.0,ml MLI,CM,26-118,90,1,0,0,1,0,1,0,0,2,0,0,0,8,3,1,75.0
+6,Matt Doherty,2.0,ie IRL,RM,30-344,90,0,0,0,2,1,0,3,1,1,0,0,0,3,7,2,77.8
+7,Clément Lenglet,34.0,fr FRA,CB,27-192,89,0,0,0,0,4,0,3,2,1,0,0,0,9,2,2,50.0
+8,Ben Davies,33.0,wls WAL,CB,29-246,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
+9,Eric Dier,15.0,eng ENG,CB,28-345,90,0,0,0,1,0,0,2,1,0,0,0,0,8,5,2,71.4
+10,Japhet Tanganga,25.0,eng ENG,CB,23-270,66,0,0,0,3,0,0,0,0,1,0,0,0,4,1,2,33.3
+11,Davinson Sánchez,6.0,co COL,CB,26-197,24,0,0,0,0,1,0,0,0,1,0,0,0,2,1,0,100.0
+12,Fraser Forster,20.0,eng ENG,GK,34-284,90,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,
+13,13 Players,,,,,990,1,0,0,10,10,5,26,5,8,0,0,0,68,27,13,67.5

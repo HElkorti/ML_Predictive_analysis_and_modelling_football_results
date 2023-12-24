@@ -1,0 +1,17 @@
+,Unnamed: 0_level_0,Unnamed: 1_level_0,Unnamed: 2_level_0,Unnamed: 3_level_0,Unnamed: 4_level_0,Unnamed: 5_level_0,Tackles,Tackles,Tackles,Tackles,Tackles,Challenges,Challenges,Challenges,Challenges,Blocks,Blocks,Blocks,Unnamed: 18_level_0,Unnamed: 19_level_0,Unnamed: 20_level_0,Unnamed: 21_level_0
+,Player,#,Nation,Pos,Age,Min,Tkl,TklW,Def 3rd,Mid 3rd,Att 3rd,Tkl,Att,Tkl%,Lost,Blocks,Sh,Pass,Int,Tkl+Int,Clr,Err
+0,Eddie Nketiah,30.0,eng ENG,FW,21-328,73,2,0,0,1,1,0,1,0.0,1,1,0,1,0,2,0,0
+1,Gabriel Martinelli,35.0,br BRA,FW,19-309,17,0,0,0,0,0,0,0,,0,0,0,0,1,1,0,0
+2,Nicolas Pépé,19.0,ci CIV,LW,25-329,73,0,0,0,0,0,0,1,0.0,1,0,0,0,0,0,0,0
+3,Martin Ødegaard,11.0,no NOR,AM,22-127,17,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,0
+4,Bukayo Saka,7.0,eng ENG,"RW,RB,LW",19-230,90,0,0,0,0,0,0,0,,0,1,0,1,0,0,2,0
+5,Emile Smith Rowe,32.0,eng ENG,"AM,RW",20-269,90,0,0,0,0,0,0,1,0.0,1,0,0,0,1,1,0,0
+6,Dani Ceballos,8.0,es ESP,DM,24-259,90,0,0,0,0,0,0,2,0.0,2,3,0,3,1,1,0,0
+7,Thomas Partey,18.0,gh GHA,DM,27-314,90,2,1,0,1,1,0,1,0.0,1,3,2,1,2,4,0,0
+8,Granit Xhaka,34.0,ch SUI,LB,28-208,90,3,1,2,0,1,1,2,50.0,1,1,0,1,0,3,1,0
+9,Pablo Marí,22.0,es ESP,CB,27-235,90,1,0,1,0,0,0,1,0.0,1,1,1,0,2,3,1,0
+10,Rob Holding,16.0,eng ENG,CB,25-215,90,2,2,1,1,0,0,0,,0,2,1,1,1,3,3,0
+11,Calum Chambers,21.0,eng ENG,RB,26-093,82,0,0,0,0,0,0,1,0.0,1,0,0,0,1,1,3,0
+12,Willian,12.0,br BRA,LW,32-257,8,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,0
+13,Bernd Leno,1.0,de GER,GK,29-050,90,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,1
+14,14 Players,,,,,990,10,4,4,3,3,1,10,10.0,9,12,4,8,9,19,10,1

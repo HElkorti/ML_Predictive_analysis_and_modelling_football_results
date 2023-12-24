@@ -1,0 +1,19 @@
+,Unnamed: 0_level_0,Unnamed: 1_level_0,Unnamed: 2_level_0,Unnamed: 3_level_0,Unnamed: 4_level_0,Unnamed: 5_level_0,Tackles,Tackles,Tackles,Tackles,Tackles,Challenges,Challenges,Challenges,Challenges,Blocks,Blocks,Blocks,Unnamed: 18_level_0,Unnamed: 19_level_0,Unnamed: 20_level_0,Unnamed: 21_level_0
+,Player,#,Nation,Pos,Age,Min,Tkl,TklW,Def 3rd,Mid 3rd,Att 3rd,Tkl,Att,Tkl%,Lost,Blocks,Sh,Pass,Int,Tkl+Int,Clr,Err
+0,Kai Havertz,29.0,de GER,"FW,RW",23-260,90,1,1,0,0,1,0,0,,0,2,0,2,0,1,0,0
+1,Raheem Sterling,17.0,eng ENG,"LW,RW",28-080,82,1,1,1,0,0,0,1,0.0,1,0,0,0,0,1,0,0
+2,Pierre-Emerick Aubameyang,9.0,ga GAB,FW,33-253,8,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,0
+3,Hakim Ziyech,22.0,ma MAR,RW,29-344,61,0,0,0,0,0,0,1,0.0,1,2,0,2,0,0,0,1
+4,Denis Zakaria,20.0,ch SUI,DM,26-098,29,1,1,0,0,1,0,0,,0,1,0,1,1,2,0,0
+5,João Félix,11.0,pt POR,"AM,LW",23-108,82,3,1,2,0,1,2,5,40.0,3,0,0,0,0,3,0,0
+6,Mykhailo Mudryk,15.0,ua UKR,LW,22-052,8,0,0,0,0,0,0,0,,0,1,0,1,0,0,0,0
+7,Enzo Fernández,5.0,ar ARG,DM,22-040,90,2,0,1,1,0,0,4,0.0,4,5,0,5,2,4,1,0
+8,Ruben Loftus-Cheek,12.0,eng ENG,DM,27-034,61,2,2,0,1,1,1,1,100.0,0,1,0,1,1,3,0,0
+9,Mason Mount,19.0,eng ENG,AM,24-047,29,2,2,1,0,1,2,2,100.0,0,1,0,1,1,3,0,0
+10,Ben Chilwell,21.0,eng ENG,LB,26-067,90,2,2,2,0,0,1,2,50.0,1,0,0,0,3,5,1,0
+11,Kalidou Koulibaly,26.0,sn SEN,CB,31-251,90,0,0,0,0,0,0,0,,0,2,0,2,1,1,10,0
+12,Thiago Silva,6.0,br BRA,CB,38-157,18,2,2,2,0,0,2,3,66.7,1,0,0,0,0,2,1,0
+13,Wesley Fofana,33.0,fr FRA,CB,22-071,72,2,2,1,1,0,0,0,,0,1,1,0,2,4,4,0
+14,Reece James,24.0,eng ENG,RB,23-080,90,1,1,0,0,1,1,1,100.0,0,1,0,1,1,2,5,0
+15,Kepa Arrizabalaga,1.0,es ESP,GK,28-146,90,0,0,0,0,0,0,0,,0,0,0,0,0,0,1,0
+16,16 Players,,,,,990,19,15,10,3,6,9,20,45.0,11,17,1,16,12,31,23,1

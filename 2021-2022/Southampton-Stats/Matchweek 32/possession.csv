@@ -1,0 +1,17 @@
+,Unnamed: 0_level_0,Unnamed: 1_level_0,Unnamed: 2_level_0,Unnamed: 3_level_0,Unnamed: 4_level_0,Unnamed: 5_level_0,Touches,Touches,Touches,Touches,Touches,Touches,Touches,Take-Ons,Take-Ons,Take-Ons,Take-Ons,Take-Ons,Carries,Carries,Carries,Carries,Carries,Carries,Carries,Carries,Receiving,Receiving
+,Player,#,Nation,Pos,Age,Min,Touches,Def Pen,Def 3rd,Mid 3rd,Att 3rd,Att Pen,Live,Att,Succ,Succ%,Tkld,Tkld%,Carries,TotDist,PrgDist,PrgC,1/3,CPA,Mis,Dis,Rec,PrgR
+0,Adam Armstrong,9.0,eng ENG,FW,25-058,45,26,0,1,14,12,1,26,4,1,25.0,3,75.0,17,90,34,1,2,0,3,0,18,3
+1,Ibrahima Diallo,27.0,fr FRA,CM,23-032,45,15,0,5,7,3,1,15,1,0,0.0,1,100.0,12,76,30,0,0,0,3,0,13,1
+2,Che Adams,10.0,sct SCO,"FW,RW",25-270,90,29,1,3,11,15,3,29,2,1,50.0,1,50.0,20,50,4,0,1,0,3,1,22,7
+3,Mohamed Elyounoussi,24.0,no NOR,"FW,LM,LW",27-248,90,22,1,3,12,8,1,22,0,0,,0,,12,84,39,0,0,0,1,2,13,4
+4,Oriol Romeu,6.0,es ESP,CM,30-197,35,14,0,2,11,1,1,14,0,0,,0,,10,44,13,0,0,0,0,3,11,0
+5,Yan Valery,43.0,tn TUN,CB,23-046,55,30,1,12,10,8,0,30,2,0,0.0,2,100.0,15,61,9,0,0,0,0,0,12,1
+6,James Ward-Prowse,8.0,eng ENG,"DM,CM",27-159,90,43,2,12,21,10,0,43,0,0,,0,,16,39,9,0,0,0,2,0,16,0
+7,Stuart Armstrong,17.0,sct SCO,"CM,RM",30-010,90,54,1,8,23,23,1,54,1,0,0.0,1,100.0,37,244,62,3,3,0,3,7,35,1
+8,Kyle Walker-Peters,2.0,eng ENG,"LW,LB,LM",24-361,90,48,3,15,23,11,1,48,3,1,33.3,2,66.7,33,253,106,4,1,0,0,3,27,2
+9,Mohammed Salisu,22.0,gh GHA,CB,22-357,90,46,6,23,20,4,0,46,0,0,,0,,21,100,25,0,0,0,2,1,20,0
+10,Jan Bednarek,35.0,pl POL,CB,25-362,90,33,5,20,13,0,0,33,0,0,,0,,13,34,8,0,0,0,1,0,9,0
+11,Valentino Livramento,21.0,eng ENG,"RB,RW,RM",19-148,72,38,1,8,25,5,0,38,1,0,0.0,1,100.0,27,99,54,1,0,0,0,1,26,3
+12,William Smallbone,20.0,ie IRL,RW,22-047,18,10,0,4,4,3,0,10,0,0,,0,,4,46,35,2,1,0,0,0,3,1
+13,Fraser Forster,44.0,eng ENG,GK,34-023,90,38,28,38,0,0,0,38,0,0,,0,,17,102,60,0,0,0,0,0,11,0
+14,14 Players,,,,,990,446,49,154,194,103,9,446,14,3,21.4,11,78.6,254,1322,488,11,8,0,18,18,236,23

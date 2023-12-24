@@ -1,0 +1,17 @@
+,Unnamed: 0_level_0,Unnamed: 1_level_0,Unnamed: 2_level_0,Unnamed: 3_level_0,Unnamed: 4_level_0,Unnamed: 5_level_0,Unnamed: 6_level_0,Pass Types,Pass Types,Pass Types,Pass Types,Pass Types,Pass Types,Pass Types,Pass Types,Corner Kicks,Corner Kicks,Corner Kicks,Outcomes,Outcomes,Outcomes
+,Player,#,Nation,Pos,Age,Min,Att,Live,Dead,FK,TB,Sw,Crs,TI,CK,In,Out,Str,Cmp,Off,Blocks
+0,Daniel Podence,10.0,pt POR,FW,26-055,90,27,26,1,0,1,1,2,0,0,0,0,0,22,0,0
+1,Hwang Hee-chan,26.0,kr KOR,LW,25-323,15,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2,Adama Traoré,37.0,es ESP,LW,25-324,74,20,20,0,0,1,0,0,0,0,0,0,0,16,0,0
+3,Fábio Silva,17.0,pt POR,LW,19-149,1,1,1,0,0,0,0,0,0,0,0,0,0,1,0,0
+4,Francisco Trincão,11.0,pt POR,RW,21-351,89,32,30,2,0,0,0,2,0,2,1,0,0,23,0,1
+5,Leander Dendoncker,32.0,be BEL,RW,26-244,1,2,2,0,0,0,0,0,0,0,0,0,0,1,0,0
+6,Fernando Marçal,5.0,br BRA,LM,32-299,90,48,37,11,0,0,0,5,9,2,1,0,0,35,0,1
+7,João Moutinho,28.0,pt POR,CM,35-098,90,37,33,4,4,0,0,1,0,0,0,0,0,31,0,0
+8,Rúben Neves,8.0,pt POR,CM,24-277,90,52,49,3,3,1,0,2,0,0,0,0,0,39,0,0
+9,Nélson Semedo,22.0,pt POR,RM,28-029,90,33,26,6,0,0,0,1,6,0,0,0,0,21,1,1
+10,Romain Saïss,27.0,ma MAR,CB,31-264,90,48,47,1,1,0,1,0,0,0,0,0,0,36,0,0
+11,Conor Coady,16.0,eng ENG,CB,28-293,90,39,39,0,0,0,0,0,0,0,0,0,0,32,0,0
+12,Max Kilman,23.0,eng ENG,CB,24-206,90,30,30,0,0,0,0,0,0,0,0,0,0,26,0,1
+13,José Sá,1.0,pt POR,GK,28-332,90,28,16,12,3,0,0,0,0,0,0,0,0,18,0,0
+14,14 Players,,,,,990,397,356,40,11,3,2,13,15,4,2,0,0,301,1,4

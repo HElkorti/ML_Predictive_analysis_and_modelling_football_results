@@ -1,0 +1,17 @@
+,Unnamed: 0_level_0,Unnamed: 1_level_0,Unnamed: 2_level_0,Unnamed: 3_level_0,Unnamed: 4_level_0,Unnamed: 5_level_0,Unnamed: 6_level_0,Pass Types,Pass Types,Pass Types,Pass Types,Pass Types,Pass Types,Pass Types,Pass Types,Corner Kicks,Corner Kicks,Corner Kicks,Outcomes,Outcomes,Outcomes
+,Player,#,Nation,Pos,Age,Min,Att,Live,Dead,FK,TB,Sw,Crs,TI,CK,In,Out,Str,Cmp,Off,Blocks
+0,Michail Antonio,9.0,jm JAM,FW,31-342,90,18,18,0,0,0,1,0,0,0,0,0,0,12,0,1
+1,Pablo Fornals,8.0,es ESP,"FW,RM",26-011,89,38,34,4,0,0,1,4,0,2,2,0,0,25,0,1
+2,Daniel Chesters,51.0,eng ENG,RM,19-335,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+3,Nikola Vlašić,11.0,hr CRO,LM,24-152,60,15,15,0,0,0,1,2,0,0,0,0,0,9,0,1
+4,Mark Noble,16.0,eng ENG,CM,34-301,30,25,22,3,3,0,0,1,0,0,0,0,0,22,0,0
+5,Manuel Lanzini,10.0,ar ARG,"CM,FW",29-018,90,35,33,2,1,0,1,0,1,0,0,0,0,31,0,1
+6,Tomáš Souček,28.0,cz CZE,CM,27-006,90,34,33,1,1,0,0,1,0,0,0,0,0,26,0,3
+7,Jarrod Bowen,20.0,eng ENG,RM,25-075,52,10,9,1,0,0,1,1,0,1,1,0,0,9,0,0
+8,Saïd Benrahma,22.0,dz ALG,"LM,RM",26-207,38,19,18,0,0,0,0,4,0,0,0,0,0,10,1,1
+9,Aaron Cresswell,3.0,eng ENG,LB,32-080,90,51,36,13,1,0,0,4,9,3,2,1,0,34,2,0
+10,Kurt Zouma,4.0,fr FRA,CB,27-129,90,27,25,2,0,0,0,0,0,0,0,0,0,24,0,0
+11,Craig Dawson,15.0,eng ENG,CB,31-303,90,18,18,0,0,0,0,0,0,0,0,0,0,13,0,0
+12,Ben Johnson,31.0,eng ENG,RB,22-040,90,30,25,4,0,0,0,2,4,0,0,0,0,19,1,1
+13,Łukasz Fabiański,1.0,pl POL,GK,36-321,90,35,26,9,2,0,0,0,0,0,0,0,0,16,0,0
+14,14 Players,,,,,990,355,312,39,8,0,5,19,14,6,5,1,0,250,4,9

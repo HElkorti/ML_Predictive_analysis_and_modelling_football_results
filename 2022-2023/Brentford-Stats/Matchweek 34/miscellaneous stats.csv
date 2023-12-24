@@ -1,0 +1,19 @@
+,Unnamed: 0_level_0,Unnamed: 1_level_0,Unnamed: 2_level_0,Unnamed: 3_level_0,Unnamed: 4_level_0,Unnamed: 5_level_0,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Aerial Duels,Aerial Duels,Aerial Duels
+,Player,#,Nation,Pos,Age,Min,CrdY,CrdR,2CrdY,Fls,Fld,Off,Crs,Int,TklW,PKwon,PKcon,OG,Recov,Won,Lost,Won%
+0,Ivan Toney,17.0,eng ENG,FW,27-044,90,0,0,0,2,0,1,2,0,0,0,0,0,2,1,1,50.0
+1,Kevin Schade,9.0,de GER,"LW,RW",21-153,75,0,0,0,1,2,0,3,0,1,0,0,0,2,3,5,37.5
+2,Saman Ghoddos,14.0,ir IRN,LM,29-235,15,0,0,0,0,0,0,1,0,0,0,0,0,1,1,0,100.0
+3,Bryan Mbeumo,19.0,cm CMR,"RW,LW",23-265,90,0,0,0,1,1,0,5,0,1,0,0,0,3,1,2,33.3
+4,Mathias Jensen,8.0,dk DEN,"LM,CM",27-118,70,0,0,0,0,0,0,8,0,0,0,0,0,4,0,0,
+5,Shandon Baptiste,26.0,gd GRN,CM,25-021,20,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,
+6,Vitaly Janelt,27.0,de GER,CM,24-354,70,0,0,0,0,2,0,1,2,0,0,0,0,7,2,2,50.0
+7,Frank Onyeka,15.0,ng NGA,CM,25-118,20,0,0,0,0,2,0,0,0,0,0,0,0,0,1,0,100.0
+8,Mikkel Damsgaard,24.0,dk DEN,RM,22-300,59,0,0,0,0,1,0,3,1,0,0,0,0,2,1,0,100.0
+9,Josh Dasilva,10.0,eng ENG,RM,24-188,31,0,0,0,0,2,0,2,0,0,0,0,0,4,0,0,
+10,Rico Henry,3.0,eng ENG,LB,25-295,59,1,0,0,1,0,0,3,1,0,0,0,0,4,2,2,50.0
+11,Yoane Wissa,11.0,cd COD,"LW,LM",26-238,31,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,
+12,Ben Mee,16.0,eng ENG,CB,33-220,90,0,0,0,0,0,0,0,2,0,0,0,0,10,4,7,36.4
+13,Ethan Pinnock,5.0,jm JAM,CB,29-335,90,0,0,0,0,1,0,1,0,1,0,0,0,8,5,3,62.5
+14,Aaron Hickey,2.0,sct SCO,"RB,CB",20-323,90,0,0,0,1,1,0,2,0,1,0,0,0,7,1,1,50.0
+15,David Raya,1.0,es ESP,GK,27-226,90,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,
+16,16 Players,,,,,990,1,0,0,6,13,1,32,6,5,0,0,0,55,22,23,48.9

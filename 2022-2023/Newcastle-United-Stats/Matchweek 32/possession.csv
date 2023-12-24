@@ -1,0 +1,19 @@
+,Unnamed: 0_level_0,Unnamed: 1_level_0,Unnamed: 2_level_0,Unnamed: 3_level_0,Unnamed: 4_level_0,Unnamed: 5_level_0,Touches,Touches,Touches,Touches,Touches,Touches,Touches,Take-Ons,Take-Ons,Take-Ons,Take-Ons,Take-Ons,Carries,Carries,Carries,Carries,Carries,Carries,Carries,Carries,Receiving,Receiving
+,Player,#,Nation,Pos,Age,Min,Touches,Def Pen,Def 3rd,Mid 3rd,Att 3rd,Att Pen,Live,Att,Succ,Succ%,Tkld,Tkld%,Carries,TotDist,PrgDist,PrgC,1/3,CPA,Mis,Dis,Rec,PrgR
+0,Alexander Isak,14.0,se SWE,FW,23-214,65,26,0,0,11,15,6,26,3,2,66.7,1,33.3,21,102,32,1,0,1,2,1,23,7
+1,Callum Wilson,9.0,eng ENG,FW,31-055,25,7,1,1,3,4,3,7,2,2,100.0,0,0.0,5,19,1,0,0,0,0,0,5,1
+2,Joelinton,7.0,br BRA,"LW,CM",26-252,90,73,2,8,45,22,3,73,8,5,62.5,2,25.0,52,249,129,5,4,2,0,1,56,6
+3,Jacob Murphy,23.0,eng ENG,RW,28-058,65,33,0,0,13,20,3,33,2,1,50.0,1,50.0,25,136,69,3,0,2,1,0,21,8
+4,Miguel Almirón,24.0,py PAR,RW,29-072,25,21,0,1,12,9,4,21,1,0,0.0,1,100.0,17,153,73,2,0,0,0,1,18,6
+5,Joe Willock,28.0,eng ENG,LM,23-246,90,57,0,1,33,23,2,57,5,3,60.0,2,40.0,42,256,182,5,7,0,1,1,48,4
+6,Bruno Guimarães,39.0,br BRA,CM,25-158,69,76,2,8,48,21,0,76,3,1,33.3,0,0.0,66,262,114,1,1,0,1,2,63,2
+7,Anthony Gordon,8.0,eng ENG,LW,22-058,21,18,0,1,7,10,2,18,0,0,,0,,14,62,29,1,0,0,2,0,14,2
+8,Sean Longstaff,36.0,eng ENG,RM,25-175,90,45,0,1,28,16,6,45,1,0,0.0,1,100.0,35,100,15,0,1,0,2,1,34,6
+9,Dan Burn,33.0,eng ENG,LB,30-349,90,76,4,24,37,15,5,76,2,1,50.0,1,50.0,42,146,35,0,0,1,2,1,47,4
+10,Sven Botman,4.0,nl NED,CB,23-101,90,56,4,24,28,4,2,56,0,0,,0,,36,102,61,0,0,0,1,0,37,0
+11,Fabian Schär,5.0,ch SUI,CB,31-124,73,47,0,20,22,5,1,47,0,0,,0,,29,114,79,1,0,0,0,0,28,0
+12,Jamaal Lascelles,6.0,eng ENG,CB,29-163,17,17,2,6,11,1,1,17,0,0,,0,,12,25,7,0,0,0,0,0,12,0
+13,Kieran Trippier,2.0,eng ENG,RB,32-216,69,66,1,8,34,24,0,66,1,1,100.0,0,0.0,44,171,119,2,6,0,0,0,45,4
+14,Javier Manquillo,19.0,es ESP,RB,28-353,21,23,1,5,13,5,1,23,0,0,,0,,13,34,7,0,0,0,0,0,14,0
+15,Nick Pope,22.0,eng ENG,GK,31-004,90,21,18,20,1,0,0,21,0,0,,0,,12,47,24,0,0,0,0,0,5,0
+16,16 Players,,,,,990,662,35,128,346,194,39,662,28,16,57.1,9,32.1,465,1978,976,21,19,6,12,8,470,50

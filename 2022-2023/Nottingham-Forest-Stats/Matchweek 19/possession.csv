@@ -1,0 +1,19 @@
+,Unnamed: 0_level_0,Unnamed: 1_level_0,Unnamed: 2_level_0,Unnamed: 3_level_0,Unnamed: 4_level_0,Unnamed: 5_level_0,Touches,Touches,Touches,Touches,Touches,Touches,Touches,Take-Ons,Take-Ons,Take-Ons,Take-Ons,Take-Ons,Carries,Carries,Carries,Carries,Carries,Carries,Carries,Carries,Receiving,Receiving
+,Player,#,Nation,Pos,Age,Min,Touches,Def Pen,Def 3rd,Mid 3rd,Att 3rd,Att Pen,Live,Att,Succ,Succ%,Tkld,Tkld%,Carries,TotDist,PrgDist,PrgC,1/3,CPA,Mis,Dis,Rec,PrgR
+0,Taiwo Awoniyi,9.0,ng NGA,FW,25-145,70,20,2,3,7,10,2,20,1,0,0.0,1,100.0,12,57,17,0,0,0,4,1,10,3
+1,Sam Surridge,16.0,eng ENG,FW,24-160,20,13,1,3,6,6,0,13,0,0,,0,,8,86,50,1,1,0,2,0,6,0
+2,Brennan Johnson,20.0,wls WAL,FW,21-226,83,26,0,5,15,10,4,26,3,2,66.7,1,33.3,12,147,105,4,3,1,6,1,12,0
+3,Neco Williams,7.0,wls WAL,FW,21-266,7,3,0,1,1,2,0,3,0,0,,0,,3,18,4,0,0,0,0,0,2,1
+4,Morgan Gibbs-White,10.0,eng ENG,AM,22-342,70,35,0,2,20,13,1,35,1,0,0.0,1,100.0,20,62,26,2,2,1,2,1,23,4
+5,Gustavo Scarpa,31.0,br BRA,AM,28-364,20,10,1,4,2,4,0,10,0,0,,0,,7,47,27,1,0,0,0,0,7,1
+6,Orel Mangala,5.0,be BEL,LM,24-292,59,28,1,6,15,7,3,28,3,1,33.3,2,66.7,13,118,47,3,0,1,0,1,15,1
+7,Jack Colback,8.0,eng ENG,LM,33-072,31,14,1,8,6,0,0,14,0,0,,0,,2,1,1,0,0,0,0,0,4,0
+8,Remo Freuler,23.0,ch SUI,CM,30-264,90,39,3,14,24,2,0,39,0,0,,0,,14,66,13,0,0,0,4,2,15,0
+9,Ryan Yates,22.0,eng ENG,RM,25-044,90,34,1,7,20,7,2,34,0,0,,0,,14,46,21,0,0,0,0,0,16,1
+10,Renan Lodi,32.0,br BRA,LB,24-271,83,45,5,15,22,9,0,45,0,0,,0,,23,105,43,1,1,0,1,1,19,1
+11,Harry Toffolo,15.0,eng ENG,LB,27-138,7,3,2,3,0,0,0,3,0,0,,0,,0,0,0,0,0,0,0,0,0,0
+12,Willy Boly,30.0,ci CIV,CB,31-335,90,45,6,34,7,4,3,45,0,0,,0,,18,76,27,0,1,0,2,0,18,0
+13,Joe Worrall,4.0,eng ENG,CB,25-359,90,37,7,26,10,1,0,37,0,0,,0,,9,52,18,0,0,0,0,2,12,0
+14,Serge Aurier,24.0,ci CIV,RB,30-011,90,66,8,30,28,8,0,66,1,0,0.0,0,0.0,22,98,26,1,1,0,1,0,23,2
+15,Dean Henderson,1.0,eng ENG,GK,25-298,90,31,28,31,0,0,0,31,0,0,,0,,14,98,54,0,0,0,0,0,9,0
+16,16 Players,,,,,990,449,66,192,183,83,15,449,9,3,33.3,5,55.6,191,1077,479,13,9,3,22,9,191,14

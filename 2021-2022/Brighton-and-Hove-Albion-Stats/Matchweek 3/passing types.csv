@@ -1,0 +1,17 @@
+,Unnamed: 0_level_0,Unnamed: 1_level_0,Unnamed: 2_level_0,Unnamed: 3_level_0,Unnamed: 4_level_0,Unnamed: 5_level_0,Unnamed: 6_level_0,Pass Types,Pass Types,Pass Types,Pass Types,Pass Types,Pass Types,Pass Types,Pass Types,Corner Kicks,Corner Kicks,Corner Kicks,Outcomes,Outcomes,Outcomes
+,Player,#,Nation,Pos,Age,Min,Att,Live,Dead,FK,TB,Sw,Crs,TI,CK,In,Out,Str,Cmp,Off,Blocks
+0,Neal Maupay,9.0,fr FRA,FW,25-014,90,25,22,3,0,0,0,0,0,0,0,0,0,21,0,2
+1,Alexis Mac Allister,10.0,ar ARG,AM,22-247,45,19,19,0,0,0,0,0,0,0,0,0,0,16,0,1
+2,Joël Veltman,34.0,nl NED,LB,29-225,45,44,39,5,0,0,0,2,5,0,0,0,0,39,0,0
+3,Leandro Trossard,11.0,be BEL,"AM,FW",26-267,90,31,31,0,0,0,0,1,0,0,0,0,0,24,0,3
+4,Yves Bissouma,8.0,ml MLI,CM,24-363,90,65,64,1,1,0,1,0,0,0,0,0,0,58,0,0
+5,Adam Lallana,14.0,eng ENG,CM,33-110,58,34,34,0,0,0,0,0,0,0,0,0,0,28,0,1
+6,Danny Welbeck,18.0,eng ENG,FW,30-275,32,3,3,0,0,0,0,0,0,0,0,0,0,2,0,0
+7,Jakub Moder,15.0,pl POL,"WB,LM",22-143,72,31,28,3,0,0,0,0,3,0,0,0,0,23,0,1
+8,Taylor Richards,30.0,eng ENG,LM,20-267,18,17,17,0,0,0,0,0,0,0,0,0,0,14,0,0
+9,Pascal Groß,13.0,de GER,"RM,WB",30-074,90,77,65,11,0,0,0,8,7,4,1,2,0,61,1,2
+10,Lewis Dunk,5.0,eng ENG,CB,29-280,90,84,82,2,2,0,0,0,0,0,0,0,0,78,0,0
+11,Shane Duffy,24.0,ie IRL,CB,29-239,90,85,83,2,1,0,1,0,1,0,0,0,0,77,0,0
+12,Adam Webster,4.0,eng ENG,"RB,CB",26-236,90,92,87,5,3,0,2,1,2,0,0,0,0,81,0,0
+13,Robert Sánchez,1.0,es ESP,GK,23-283,90,43,37,6,0,0,1,0,0,0,0,0,0,35,0,0
+14,14 Players,,,,,990,650,611,38,7,0,5,12,18,4,1,2,0,557,1,10

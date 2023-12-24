@@ -1,0 +1,15 @@
+,Unnamed: 0_level_0,Unnamed: 1_level_0,Unnamed: 2_level_0,Unnamed: 3_level_0,Unnamed: 4_level_0,Unnamed: 5_level_0,Unnamed: 6_level_0,Pass Types,Pass Types,Pass Types,Pass Types,Pass Types,Pass Types,Pass Types,Pass Types,Corner Kicks,Corner Kicks,Corner Kicks,Outcomes,Outcomes,Outcomes
+,Player,#,Nation,Pos,Age,Min,Att,Live,Dead,FK,TB,Sw,Crs,TI,CK,In,Out,Str,Cmp,Off,Blocks
+0,Christian Benteke,20.0,be BEL,FW,30-164,90,21,21,0,0,0,0,1,0,0,0,0,0,10,0,0
+1,Wilfried Zaha,11.0,ci CIV,LW,28-187,90,29,29,0,0,0,0,1,0,0,0,0,0,21,0,1
+2,Andros Townsend,10.0,eng ENG,RW,29-304,90,42,35,7,3,0,0,12,0,4,3,0,0,27,0,2
+3,Jeffrey Schlupp,15.0,gh GHA,LM,28-144,90,37,37,0,0,0,0,2,0,0,0,0,0,23,0,0
+4,James McCarthy,22.0,ie IRL,CM,30-185,72,33,33,0,0,0,0,0,0,0,0,0,0,30,0,0
+5,James Tomkins,5.0,eng ENG,CB,32-048,18,2,2,0,0,0,0,0,0,0,0,0,0,1,0,0
+6,Eberechi Eze,25.0,eng ENG,RM,22-321,90,49,39,9,3,0,0,3,0,3,2,0,0,39,1,1
+7,Tyrick Mitchell,27.0,eng ENG,LB,21-257,90,41,32,9,0,0,0,3,9,0,0,0,0,30,0,1
+8,Gary Cahill,24.0,eng ENG,CB,35-148,90,36,35,1,1,0,0,0,0,0,0,0,0,29,0,0
+9,Cheikhou Kouyaté,8.0,sn SEN,"CB,CM",31-146,90,18,17,1,1,0,0,0,0,0,0,0,0,16,0,0
+10,Joel Ward,2.0,eng ENG,RB,31-199,90,39,31,8,2,0,0,3,6,0,0,0,0,27,0,1
+11,Jack Butland,1.0,eng ENG,GK,28-067,90,22,11,10,2,0,0,0,0,0,0,0,0,6,1,0
+12,12 Players,,,,,990,369,322,45,12,0,0,25,15,7,5,0,0,259,2,6

@@ -1,0 +1,17 @@
+,Unnamed: 0_level_0,Unnamed: 1_level_0,Unnamed: 2_level_0,Unnamed: 3_level_0,Unnamed: 4_level_0,Unnamed: 5_level_0,Touches,Touches,Touches,Touches,Touches,Touches,Touches,Take-Ons,Take-Ons,Take-Ons,Take-Ons,Take-Ons,Carries,Carries,Carries,Carries,Carries,Carries,Carries,Carries,Receiving,Receiving
+,Player,#,Nation,Pos,Age,Min,Touches,Def Pen,Def 3rd,Mid 3rd,Att 3rd,Att Pen,Live,Att,Succ,Succ%,Tkld,Tkld%,Carries,TotDist,PrgDist,PrgC,1/3,CPA,Mis,Dis,Rec,PrgR
+0,Eddie Nketiah,30.0,eng ENG,FW,22-343,89,25,1,2,6,17,7,25,2,1,50.0,1,50.0,14,82,28,1,1,0,2,0,23,4
+1,Alexandre Lacazette,9.0,fr FRA,FW,30-345,1,0,0,0,0,0,0,0,0,0,,0,,0,0,0,0,0,0,0,0,0,0
+2,Gabriel Martinelli,35.0,br BRA,LW,20-324,77,48,0,0,4,44,8,48,4,3,75.0,1,25.0,38,233,117,6,0,4,1,1,42,26
+3,Emile Smith Rowe,10.0,eng ENG,LW,21-284,13,10,0,1,3,6,0,10,1,1,100.0,0,0.0,6,31,12,0,0,0,0,0,8,2
+4,Bukayo Saka,7.0,eng ENG,RW,20-245,67,44,1,2,12,31,4,44,7,3,42.9,4,57.1,27,118,40,2,2,1,4,2,30,10
+5,Nicolas Pépé,19.0,ci CIV,AM,26-344,23,17,1,4,4,9,0,17,3,0,0.0,3,100.0,10,46,5,0,0,0,0,2,11,1
+6,Martin Ødegaard,8.0,no NOR,AM,23-142,90,62,0,2,26,35,6,62,5,3,60.0,2,40.0,38,160,55,2,2,1,1,1,44,5
+7,Granit Xhaka,34.0,ch SUI,DM,29-223,90,84,1,6,39,39,3,84,2,2,100.0,0,0.0,53,189,82,0,0,1,1,2,75,8
+8,Mohamed Elneny,25.0,eg EGY,DM,29-301,90,86,1,14,62,10,0,86,0,0,,0,,55,183,79,0,0,0,0,2,72,0
+9,Takehiro Tomiyasu,18.0,jp JPN,LB,23-184,90,97,1,8,53,36,3,97,1,1,100.0,0,0.0,65,279,189,6,2,0,1,0,73,8
+10,Gabriel Dos Santos,6.0,br BRA,CB,24-140,90,88,0,17,66,6,2,88,0,0,,0,,64,316,199,0,1,0,0,0,75,0
+11,Rob Holding,16.0,eng ENG,CB,26-230,90,71,3,18,51,3,0,71,0,0,,0,,50,156,79,0,0,0,0,0,54,0
+12,Cédric Soares,17.0,pt POR,RB,30-250,90,116,2,11,58,49,3,116,2,1,50.0,1,50.0,56,220,88,1,4,0,3,2,69,5
+13,Aaron Ramsdale,32.0,eng ENG,GK,23-359,90,25,15,24,1,0,0,25,0,0,,0,,22,110,73,0,0,0,0,0,18,0
+14,14 Players,,,,,990,773,26,109,385,285,36,773,27,15,55.6,12,44.4,498,2123,1046,18,12,7,13,12,594,69

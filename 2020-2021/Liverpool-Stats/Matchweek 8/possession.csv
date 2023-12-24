@@ -1,0 +1,16 @@
+,Unnamed: 0_level_0,Unnamed: 1_level_0,Unnamed: 2_level_0,Unnamed: 3_level_0,Unnamed: 4_level_0,Unnamed: 5_level_0,Touches,Touches,Touches,Touches,Touches,Touches,Touches,Take-Ons,Take-Ons,Take-Ons,Take-Ons,Take-Ons,Carries,Carries,Carries,Carries,Carries,Carries,Carries,Carries,Receiving,Receiving
+,Player,#,Nation,Pos,Age,Min,Touches,Def Pen,Def 3rd,Mid 3rd,Att 3rd,Att Pen,Live,Att,Succ,Succ%,Tkld,Tkld%,Carries,TotDist,PrgDist,PrgC,1/3,CPA,Mis,Dis,Rec,PrgR
+0,Mohamed Salah,11.0,eg EGY,FW,28-146,90,27,0,0,13,15,5,26,1,0,0.0,1,100.0,24,149,73,3,3,1,1,4,26,4
+1,Sadio Mané,10.0,sn SEN,LW,28-212,90,31,1,4,11,16,6,31,3,3,100.0,0,0.0,25,167,79,4,2,4,3,2,28,8
+2,Diogo Jota,20.0,pt POR,"RW,AM",23-340,90,36,0,6,19,11,2,36,2,1,50.0,1,50.0,23,171,80,3,3,0,3,2,25,5
+3,Roberto Firmino,9.0,br BRA,AM,29-037,58,27,0,3,12,12,4,27,2,1,50.0,1,50.0,23,121,69,1,1,0,3,0,24,4
+4,Xherdan Shaqiri,23.0,ch SUI,"RW,AM",29-029,32,16,0,5,6,6,1,16,1,1,100.0,0,0.0,9,40,12,0,0,0,1,0,9,1
+5,Georginio Wijnaldum,5.0,nl NED,DM,29-363,90,62,0,17,40,5,0,62,1,1,100.0,0,0.0,42,302,146,2,2,0,1,0,51,2
+6,Jordan Henderson,14.0,eng ENG,DM,30-144,90,47,2,14,27,6,0,47,0,0,,0,,29,107,66,0,1,0,0,0,30,0
+7,Andrew Robertson,26.0,sct SCO,LB,26-242,90,67,3,25,32,13,2,67,2,1,50.0,1,50.0,40,253,157,1,0,0,0,0,39,3
+8,Joe Gomez,12.0,eng ENG,CB,23-169,90,73,12,47,26,0,0,73,0,0,,0,,53,198,71,0,0,0,0,0,55,0
+9,Joël Matip,32.0,cm CMR,CB,29-092,90,76,9,39,38,0,0,76,0,0,,0,,54,237,143,0,0,0,1,0,53,0
+10,Trent Alexander-Arnold,66.0,eng ENG,RB,22-032,62,46,0,8,28,10,1,46,0,0,,0,,16,54,42,0,0,0,0,0,21,1
+11,James Milner,7.0,eng ENG,RB,34-309,28,22,2,9,9,4,0,22,0,0,,0,,9,94,58,2,2,0,0,0,10,1
+12,Alisson,1.0,br BRA,GK,28-037,90,51,37,51,0,0,0,51,0,0,,0,,30,107,68,0,0,0,0,0,27,0
+13,13 Players,,,,,990,581,66,228,261,98,21,580,12,8,66.7,4,33.3,377,2000,1064,16,14,5,13,8,398,29

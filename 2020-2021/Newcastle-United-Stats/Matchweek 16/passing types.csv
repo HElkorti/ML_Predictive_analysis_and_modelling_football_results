@@ -1,0 +1,16 @@
+,Unnamed: 0_level_0,Unnamed: 1_level_0,Unnamed: 2_level_0,Unnamed: 3_level_0,Unnamed: 4_level_0,Unnamed: 5_level_0,Unnamed: 6_level_0,Pass Types,Pass Types,Pass Types,Pass Types,Pass Types,Pass Types,Pass Types,Pass Types,Corner Kicks,Corner Kicks,Corner Kicks,Outcomes,Outcomes,Outcomes
+,Player,#,Nation,Pos,Age,Min,Att,Live,Dead,FK,TB,Sw,Crs,TI,CK,In,Out,Str,Cmp,Off,Blocks
+0,Callum Wilson,13.0,eng ENG,FW,28-307,90,17,17,0,0,0,0,1,0,0,0,0,0,12,0,2
+1,Joelinton,9.0,br BRA,LM,24-138,90,26,25,1,1,0,0,0,0,0,0,0,0,21,0,1
+2,Matthew Longstaff,4.0,eng ENG,CM,20-284,90,35,33,1,0,0,0,2,0,1,1,0,0,24,1,0
+3,Isaac Hayden,14.0,eng ENG,CM,25-283,90,19,17,1,0,0,0,2,0,0,0,0,0,14,1,2
+4,Jacob Murphy,23.0,eng ENG,RM,25-310,66,9,7,2,2,0,0,1,0,0,0,0,0,5,0,1
+5,Miguel Almirón,24.0,py PAR,RM,26-324,24,10,10,0,0,0,0,1,0,0,0,0,0,4,0,0
+6,Matt Ritchie,11.0,sct SCO,LB,31-111,85,39,26,13,5,0,0,7,4,4,2,1,1,23,0,2
+7,Jamal Lewis,15.0,nir NIR,LB,22-340,5,2,0,2,0,0,0,0,2,0,0,0,0,1,0,0
+8,Ciaran Clark,2.0,ie IRL,CB,31-095,90,22,19,3,0,0,0,0,3,0,0,0,0,17,0,2
+9,Fabian Schär,5.0,ch SUI,CB,29-010,90,20,19,1,1,0,1,0,0,0,0,0,0,13,0,0
+10,Federico Fernández,18.0,ar ARG,CB,31-313,90,34,31,3,0,0,0,3,3,0,0,0,0,20,0,0
+11,DeAndre Yedlin,22.0,us USA,RB,27-174,90,24,18,6,0,0,0,1,6,0,0,0,0,14,0,1
+12,Karl Darlow,26.0,eng ENG,GK,30-083,90,22,7,15,8,0,0,0,0,0,0,0,0,8,0,0
+13,13 Players,,,,,990,279,229,48,17,0,1,18,18,5,3,1,1,176,2,11

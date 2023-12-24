@@ -1,0 +1,18 @@
+,Unnamed: 0_level_0,Unnamed: 1_level_0,Unnamed: 2_level_0,Unnamed: 3_level_0,Unnamed: 4_level_0,Unnamed: 5_level_0,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Aerial Duels,Aerial Duels,Aerial Duels
+,Player,#,Nation,Pos,Age,Min,CrdY,CrdR,2CrdY,Fls,Fld,Off,Crs,Int,TklW,PKwon,PKcon,OG,Recov,Won,Lost,Won%
+0,Sekou Mara,18.0,fr FRA,FW,20-246,53,0,0,0,0,0,0,0,0,0,0,0,0,0,4,0,100.0
+1,Carlos Alcaraz,26.0,ar ARG,FW,20-123,37,0,0,0,1,1,0,0,0,1,0,0,0,2,0,0,
+2,Theo Walcott,32.0,eng ENG,FW,34-017,71,0,0,0,0,0,1,2,0,0,0,0,0,2,0,2,0.0
+3,Paul Onuachu,12.0,ng NGA,FW,28-309,19,0,0,0,0,0,0,0,0,1,0,0,0,1,1,1,50.0
+4,Mohamed Elyounoussi,24.0,no NOR,LM,28-241,53,0,0,0,1,1,0,1,0,0,0,0,0,2,0,2,0.0
+5,Kamaldeen Sulemana,20.0,gh GHA,LM,21-046,37,0,0,0,1,1,0,0,0,2,0,0,0,3,0,0,
+6,Roméo Lavia,45.0,be BEL,CM,19-086,90,0,0,0,1,2,0,0,3,2,0,0,0,8,0,0,
+7,James Ward-Prowse,8.0,eng ENG,CM,28-152,90,0,0,0,1,1,0,6,1,0,0,0,0,6,0,4,0.0
+8,Stuart Armstrong,17.0,sct SCO,RM,31-003,70,0,0,0,1,2,0,1,1,2,0,0,0,6,0,0,
+9,Ainsley Maitland-Niles,3.0,eng ENG,RM,25-216,20,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,
+10,Romain Perraud,15.0,fr FRA,LB,25-192,90,0,0,0,1,1,0,2,1,4,0,0,0,5,3,2,60.0
+11,Duje Ćaleta-Car,6.0,hr CRO,CB,26-197,90,1,0,0,2,0,0,0,1,1,0,0,0,7,5,1,83.3
+12,Jan Bednarek,35.0,pl POL,CB,26-355,90,1,0,0,1,0,0,0,5,0,0,0,0,7,3,0,100.0
+13,Kyle Walker-Peters,2.0,eng ENG,RB,25-354,90,0,0,0,1,1,0,2,1,1,0,0,0,6,1,0,100.0
+14,Gavin Bazunu,31.0,ie IRL,GK,21-041,90,0,0,0,0,0,0,0,0,0,0,0,0,1,2,0,100.0
+15,15 Players,,,,,990,2,0,0,11,10,1,14,14,15,0,0,0,56,19,12,61.3

@@ -1,0 +1,19 @@
+,Unnamed: 0_level_0,Unnamed: 1_level_0,Unnamed: 2_level_0,Unnamed: 3_level_0,Unnamed: 4_level_0,Unnamed: 5_level_0,Touches,Touches,Touches,Touches,Touches,Touches,Touches,Take-Ons,Take-Ons,Take-Ons,Take-Ons,Take-Ons,Carries,Carries,Carries,Carries,Carries,Carries,Carries,Carries,Receiving,Receiving
+,Player,#,Nation,Pos,Age,Min,Touches,Def Pen,Def 3rd,Mid 3rd,Att 3rd,Att Pen,Live,Att,Succ,Succ%,Tkld,Tkld%,Carries,TotDist,PrgDist,PrgC,1/3,CPA,Mis,Dis,Rec,PrgR
+0,Jamie Vardy,9.0,eng ENG,FW,36-094,45,9,2,3,2,4,1,9,0,0,,0,,5,18,0,0,0,0,1,0,6,1
+1,Kelechi Iheanacho,14.0,ng NGA,FW,26-194,45,9,0,0,4,5,2,9,1,1,100.0,0,0.0,4,20,12,1,1,0,0,2,9,2
+2,Kiernan Dewsbury-Hall,22.0,eng ENG,AM,24-221,61,31,3,7,16,8,1,31,3,3,100.0,0,0.0,23,145,71,1,0,0,2,1,20,3
+3,Dennis Praet,26.0,be BEL,"AM,CM",28-336,29,8,0,0,4,4,1,8,0,0,,0,,7,24,3,1,0,0,1,0,8,2
+4,James Maddison,10.0,eng ENG,AM,26-143,90,42,0,7,17,19,5,42,8,4,50.0,4,50.0,29,192,100,2,1,1,1,0,28,3
+5,Youri Tielemans,8.0,be BEL,CM,25-343,61,24,3,9,10,5,2,24,0,0,,0,,15,49,13,0,0,0,0,2,20,0
+6,Nampalys Mendy,24.0,sn SEN,CM,30-296,29,21,0,10,11,1,1,21,2,1,50.0,1,50.0,15,50,6,0,0,0,0,0,16,0
+7,Wilfred Ndidi,25.0,ng NGA,CM,26-120,86,35,4,14,17,5,1,35,0,0,,0,,19,52,20,0,1,0,1,0,19,1
+8,Patson Daka,20.0,zm ZAM,AM,24-188,4,3,0,0,3,0,0,3,0,0,,0,,2,5,5,0,0,0,0,0,3,0
+9,Victor Bernth Kristiansen,16.0,dk DEN,WB,20-120,45,20,3,7,5,8,0,20,0,0,,0,,11,56,27,0,1,0,2,0,13,3
+10,Luke Thomas,33.0,eng ENG,WB,21-309,45,20,4,15,3,2,0,20,0,0,,0,,9,27,9,0,0,0,0,0,9,0
+11,Timothy Castagne,27.0,be BEL,WB,27-131,90,49,7,24,15,10,2,49,0,0,,0,,20,77,22,1,0,0,0,1,28,1
+12,Çağlar Söyüncü,4.0,tr TUR,CB,26-327,90,48,12,32,14,2,1,48,1,1,100.0,0,0.0,27,198,90,2,0,0,0,0,28,0
+13,Harry Souttar,15.0,au AUS,CB,24-175,90,47,14,32,13,2,2,47,0,0,,0,,23,103,44,0,0,0,1,0,28,0
+14,Wout Faes,3.0,be BEL,CB,25-012,90,35,7,24,9,2,1,35,0,0,,0,,26,79,32,0,1,0,0,0,25,0
+15,Daniel Iversen,31.0,dk DEN,GK,25-270,90,30,26,30,0,0,0,30,0,0,,0,,16,94,59,0,0,0,0,0,13,0
+16,16 Players,,,,,990,431,85,214,143,77,20,431,15,10,66.7,5,33.3,251,1189,513,8,5,1,9,6,273,16

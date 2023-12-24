@@ -1,0 +1,19 @@
+,Unnamed: 0_level_0,Unnamed: 1_level_0,Unnamed: 2_level_0,Unnamed: 3_level_0,Unnamed: 4_level_0,Unnamed: 5_level_0,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Aerial Duels,Aerial Duels,Aerial Duels
+,Player,#,Nation,Pos,Age,Min,CrdY,CrdR,2CrdY,Fls,Fld,Off,Crs,Int,TklW,PKwon,PKcon,OG,Recov,Won,Lost,Won%
+0,Callum Wilson,9.0,eng ENG,FW,30-216,65,0,0,0,1,2,2,1,0,0,0,0,0,0,0,0,
+1,Ryan Fraser,21.0,sct SCO,LW,28-219,25,0,0,0,0,1,1,0,0,0,0,0,0,1,0,0,
+2,Jacob Murphy,23.0,eng ENG,"LW,FW",27-219,90,0,0,0,1,0,0,4,0,1,0,0,0,4,0,0,
+3,Miguel Almirón,24.0,py PAR,RW,28-233,90,0,0,0,1,0,2,1,0,1,0,0,0,3,0,0,
+4,Joe Willock,28.0,eng ENG,"LM,RM",23-042,90,0,0,0,1,2,0,2,0,1,0,0,0,1,0,0,
+5,Bruno Guimarães,39.0,br BRA,CM,24-319,58,0,0,0,0,1,0,0,0,1,0,0,0,5,0,0,
+6,Elliot Anderson,32.0,sct SCO,"CM,LM",19-329,32,0,0,0,0,0,0,0,1,1,0,0,0,3,0,0,
+7,Sean Longstaff,36.0,eng ENG,"RM,CM",24-336,90,0,0,0,0,1,1,0,0,2,0,0,0,5,1,0,100.0
+8,Dan Burn,33.0,eng ENG,LB,30-145,82,0,0,0,1,0,0,0,1,1,0,0,0,4,0,0,
+9,Matt Targett,13.0,eng ENG,"RB,LB",27-013,8,0,0,0,0,0,0,1,0,0,0,0,0,1,0,1,0.0
+10,Sven Botman,4.0,nl NED,CB,22-262,90,0,0,0,0,1,0,0,1,1,0,0,0,5,2,0,100.0
+11,Fabian Schär,5.0,ch SUI,CB,30-285,82,0,0,0,1,0,0,0,0,0,0,0,0,6,3,0,100.0
+12,Jamaal Lascelles,6.0,eng ENG,CB,28-324,8,0,0,0,2,0,0,0,0,0,0,0,0,0,2,0,100.0
+13,Kieran Trippier,2.0,eng ENG,RB,32-012,82,0,0,0,2,1,1,8,1,1,0,0,0,8,0,0,
+14,Jamal Lewis,12.0,nir NIR,LB,24-249,8,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,
+15,Nick Pope,22.0,eng ENG,GK,30-165,90,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,
+16,16 Players,,,,,990,0,0,0,10,9,7,17,4,10,0,0,0,49,8,1,88.9

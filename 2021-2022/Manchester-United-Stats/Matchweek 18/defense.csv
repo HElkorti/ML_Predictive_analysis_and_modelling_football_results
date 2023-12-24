@@ -1,0 +1,17 @@
+,Unnamed: 0_level_0,Unnamed: 1_level_0,Unnamed: 2_level_0,Unnamed: 3_level_0,Unnamed: 4_level_0,Unnamed: 5_level_0,Tackles,Tackles,Tackles,Tackles,Tackles,Challenges,Challenges,Challenges,Challenges,Blocks,Blocks,Blocks,Unnamed: 18_level_0,Unnamed: 19_level_0,Unnamed: 20_level_0,Unnamed: 21_level_0
+,Player,#,Nation,Pos,Age,Min,Tkl,TklW,Def 3rd,Mid 3rd,Att 3rd,Tkl,Att,Tkl%,Lost,Blocks,Sh,Pass,Int,Tkl+Int,Clr,Err
+0,Cristiano Ronaldo,7.0,pt POR,FW,37-010,90,0,0,0,0,0,0,0,,0,1,0,1,0,0,0,0
+1,Jadon Sancho,25.0,eng ENG,LW,21-327,79,1,0,0,1,0,1,1,100.0,0,0,0,0,0,1,0,0
+2,Alex Telles,27.0,br BRA,LW,29-062,11,0,0,0,0,0,0,0,,0,0,0,0,1,1,0,0
+3,Anthony Elanga,36.0,se SWE,RW,19-294,78,2,2,0,1,1,0,1,0.0,1,0,0,0,0,2,1,0
+4,Marcus Rashford,10.0,eng ENG,RW,24-107,12,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,0
+5,Bruno Fernandes,18.0,pt POR,AM,27-160,90,1,1,0,0,1,0,1,0.0,1,2,0,2,1,2,0,0
+6,Fred,17.0,br BRA,DM,28-347,72,3,0,2,1,0,1,2,50.0,1,0,0,0,0,3,1,0
+7,Paul Pogba,6.0,fr FRA,DM,28-337,18,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,0
+8,Scott McTominay,39.0,sct SCO,DM,25-069,90,5,3,2,1,2,2,4,50.0,2,2,0,2,1,6,1,0
+9,Luke Shaw,23.0,eng ENG,LB,26-218,90,1,1,0,0,1,1,1,100.0,0,0,0,0,0,1,4,0
+10,Harry Maguire,5.0,eng ENG,CB,28-347,90,0,0,0,0,0,0,0,,0,1,1,0,4,4,5,0
+11,Victor Lindelöf,2.0,se SWE,CB,27-213,90,0,0,0,0,0,0,0,,0,1,0,1,0,0,2,0
+12,Diogo Dalot,20.0,pt POR,RB,22-334,90,5,3,3,1,1,4,4,100.0,0,1,0,1,1,6,2,0
+13,David de Gea,1.0,es ESP,GK,31-100,90,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,0
+14,14 Players,,,,,990,18,10,7,5,6,9,14,64.3,5,8,1,7,8,26,16,0

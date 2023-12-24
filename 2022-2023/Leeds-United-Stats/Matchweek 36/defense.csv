@@ -1,0 +1,18 @@
+,Unnamed: 0_level_0,Unnamed: 1_level_0,Unnamed: 2_level_0,Unnamed: 3_level_0,Unnamed: 4_level_0,Unnamed: 5_level_0,Tackles,Tackles,Tackles,Tackles,Tackles,Challenges,Challenges,Challenges,Challenges,Blocks,Blocks,Blocks,Unnamed: 18_level_0,Unnamed: 19_level_0,Unnamed: 20_level_0,Unnamed: 21_level_0
+,Player,#,Nation,Pos,Age,Min,Tkl,TklW,Def 3rd,Mid 3rd,Att 3rd,Tkl,Att,Tkl%,Lost,Blocks,Sh,Pass,Int,Tkl+Int,Clr,Err
+0,Patrick Bamford,9.0,eng ENG,FW,29-250,89,0,0,0,0,0,0,0,,0,1,0,1,0,0,0,0
+1,Pascal Struijk,21.0,nl NED,FW,23-275,1,1,1,0,1,0,1,1,100.0,0,0,0,0,1,2,2,0
+2,Jack Harrison,11.0,eng ENG,LW,26-174,63,0,0,0,0,0,0,0,,0,1,0,1,1,1,0,0
+3,Degnand Gnonto,29.0,it ITA,LW,19-189,27,1,0,0,1,0,0,0,,0,1,0,1,0,1,0,0
+4,Rodrigo,19.0,es ESP,RW,32-068,86,2,0,1,1,0,1,2,50.0,1,2,2,0,0,2,1,0
+5,Brenden Aaronson,7.0,us USA,RW,22-203,4,0,0,0,0,0,0,1,0.0,1,0,0,0,0,0,0,0
+6,Sam Greenwood,42.0,eng ENG,LM,21-107,45,3,0,0,3,0,2,4,50.0,2,1,0,1,0,3,0,0
+7,Adam Forshaw,4.0,eng ENG,LM,31-217,45,3,3,2,1,0,3,4,75.0,1,3,1,2,1,4,0,0
+8,Robin Koch,5.0,de GER,CM,26-300,90,1,0,1,0,0,1,4,25.0,3,3,1,2,0,1,5,0
+9,Weston McKennie,28.0,us USA,RM,24-258,90,2,1,0,1,1,1,2,50.0,1,1,0,1,2,4,2,0
+10,Junior Firpo,3.0,es ESP,LB,26-264,89,5,3,4,1,0,3,3,100.0,0,0,0,0,3,8,1,0
+11,Maximilian Wöber,39.0,at AUT,CB,25-098,90,0,0,0,0,0,0,0,,0,2,1,1,4,4,4,0
+12,Rasmus Nissen,25.0,dk DEN,CB,25-306,90,0,0,0,0,0,0,4,0.0,4,2,1,1,2,2,5,0
+13,Luke Ayling,2.0,eng ENG,RB,31-261,90,5,4,2,2,1,3,8,37.5,5,0,0,0,1,6,4,0
+14,Joel Robles,22.0,es ESP,GK,32-330,90,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,0
+15,15 Players,,,,,989,23,12,10,11,2,15,33,45.5,18,17,6,11,15,38,24,0

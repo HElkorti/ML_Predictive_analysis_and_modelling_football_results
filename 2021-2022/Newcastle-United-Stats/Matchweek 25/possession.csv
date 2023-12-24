@@ -1,0 +1,17 @@
+,Unnamed: 0_level_0,Unnamed: 1_level_0,Unnamed: 2_level_0,Unnamed: 3_level_0,Unnamed: 4_level_0,Unnamed: 5_level_0,Touches,Touches,Touches,Touches,Touches,Touches,Touches,Take-Ons,Take-Ons,Take-Ons,Take-Ons,Take-Ons,Carries,Carries,Carries,Carries,Carries,Carries,Carries,Carries,Receiving,Receiving
+,Player,#,Nation,Pos,Age,Min,Touches,Def Pen,Def 3rd,Mid 3rd,Att 3rd,Att Pen,Live,Att,Succ,Succ%,Tkld,Tkld%,Carries,TotDist,PrgDist,PrgC,1/3,CPA,Mis,Dis,Rec,PrgR
+0,Chris Wood,20.0,nz NZL,FW,30-068,90,36,1,2,19,15,1,36,0,0,,0,,14,32,16,0,0,0,2,1,28,2
+1,Allan Saint-Maximin,10.0,fr FRA,LW,24-338,90,31,1,3,8,21,3,31,9,4,44.4,5,55.6,25,242,99,5,3,3,7,2,26,4
+2,Ryan Fraser,21.0,sct SCO,RW,27-354,90,31,2,5,8,19,0,31,0,0,,0,,20,120,37,1,1,0,0,0,19,8
+3,Joelinton,7.0,br BRA,LM,25-183,90,38,3,9,21,8,3,38,2,1,50.0,1,50.0,12,66,22,0,0,0,4,1,14,3
+4,Jonjo Shelvey,8.0,eng ENG,CM,29-351,90,32,2,12,17,4,0,32,0,0,,0,,14,54,37,1,0,0,1,0,16,0
+5,Joe Willock,28.0,eng ENG,RM,22-177,89,29,2,4,11,15,3,29,4,1,25.0,3,75.0,15,98,62,3,2,2,3,0,13,4
+6,Bruno Guimarães,39.0,br BRA,RM,24-089,1,1,0,1,0,0,0,1,0,0,,0,,1,2,2,0,0,0,0,0,0,0
+7,Javier Manquillo,19.0,es ESP,LB,27-284,44,17,3,10,6,1,0,17,1,1,100.0,0,0.0,5,64,25,1,0,0,0,0,6,0
+8,Paul Dummett,3.0,wls WAL,LB,30-140,46,10,2,4,6,0,0,10,0,0,,0,,2,2,2,0,0,0,0,0,1,0
+9,Dan Burn,33.0,eng ENG,CB,29-280,90,36,3,25,9,2,2,36,0,0,,0,,12,69,23,0,0,0,0,0,10,0
+10,Fabian Schär,5.0,ch SUI,CB,30-055,90,41,3,22,17,3,1,41,2,1,50.0,1,50.0,22,129,56,1,1,0,0,0,18,0
+11,Kieran Trippier,15.0,eng ENG,RB,31-147,47,37,2,10,22,5,0,37,0,0,,0,,18,32,12,0,0,0,1,0,19,0
+12,Emil Krafth,17.0,se SWE,RB,27-195,43,19,0,4,11,6,0,19,1,1,100.0,0,0.0,8,125,93,2,2,0,0,0,8,0
+13,Martin Dúbravka,1.0,sk SVK,GK,33-029,90,35,26,34,1,0,0,35,0,0,,0,,14,108,52,0,0,0,0,0,9,0
+14,14 Players,,,,,990,393,50,145,156,99,13,393,19,9,47.4,10,52.6,182,1143,538,14,9,5,18,4,187,21

@@ -1,0 +1,15 @@
+,Unnamed: 0_level_0,Unnamed: 1_level_0,Unnamed: 2_level_0,Unnamed: 3_level_0,Unnamed: 4_level_0,Unnamed: 5_level_0,Touches,Touches,Touches,Touches,Touches,Touches,Touches,Take-Ons,Take-Ons,Take-Ons,Take-Ons,Take-Ons,Carries,Carries,Carries,Carries,Carries,Carries,Carries,Carries,Receiving,Receiving
+,Player,#,Nation,Pos,Age,Min,Touches,Def Pen,Def 3rd,Mid 3rd,Att 3rd,Att Pen,Live,Att,Succ,Succ%,Tkld,Tkld%,Carries,TotDist,PrgDist,PrgC,1/3,CPA,Mis,Dis,Rec,PrgR
+0,Hwang Hee-chan,11.0,kr KOR,FW,26-192,84,27,0,5,9,14,6,27,5,3,60.0,2,40.0,19,112,50,3,0,2,2,1,20,4
+1,Chem Campbell,77.0,wls WAL,FW,19-219,6,0,0,0,0,0,0,0,0,0,,0,,2,4,0,0,0,0,0,1,2,2
+2,Pedro Neto,7.0,pt POR,LW,22-150,90,56,0,10,16,32,5,56,12,5,41.7,5,41.7,45,275,156,7,6,2,2,0,42,13
+3,Daniel Podence,10.0,pt POR,RW,26-289,90,56,0,4,23,30,2,56,0,0,,0,,37,68,24,0,0,0,4,1,41,5
+4,Morgan Gibbs-White,18.0,eng ENG,AM,22-191,90,62,0,9,22,32,2,62,5,2,40.0,3,60.0,38,149,72,2,3,1,1,0,47,7
+5,Rúben Neves,8.0,pt POR,DM,25-146,90,75,9,25,38,12,0,75,3,2,66.7,1,33.3,53,160,43,0,0,0,1,0,51,0
+6,Leander Dendoncker,32.0,be BEL,DM,27-113,90,62,3,18,31,14,3,62,1,1,100.0,0,0.0,37,102,54,1,0,0,1,0,39,1
+7,Rayan Aït Nouri,3.0,dz ALG,LB,21-061,90,87,7,34,38,16,2,87,6,5,83.3,1,16.7,64,272,164,4,2,2,3,3,60,10
+8,Max Kilman,23.0,eng ENG,CB,25-075,90,98,19,69,28,2,2,98,4,4,100.0,0,0.0,75,259,122,1,0,0,0,0,72,0
+9,Nathan Collins,4.0,ie IRL,CB,21-098,90,80,9,50,28,2,1,80,1,1,100.0,0,0.0,63,180,106,1,0,0,1,0,60,0
+10,Jonny Castro,19.0,es ESP,RB,28-156,90,77,3,33,27,19,0,77,4,2,50.0,2,50.0,50,177,92,1,2,0,2,1,47,2
+11,José Sá,1.0,pt POR,GK,29-201,90,40,37,39,1,0,0,40,0,0,,0,,24,86,65,0,0,0,1,0,20,0
+12,12 Players,,,,,990,720,87,296,261,173,23,720,41,25,61.0,14,34.1,507,1844,948,20,13,7,18,7,501,44

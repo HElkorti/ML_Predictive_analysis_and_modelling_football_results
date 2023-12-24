@@ -1,0 +1,17 @@
+,Unnamed: 0_level_0,Unnamed: 1_level_0,Unnamed: 2_level_0,Unnamed: 3_level_0,Unnamed: 4_level_0,Unnamed: 5_level_0,Unnamed: 6_level_0,Pass Types,Pass Types,Pass Types,Pass Types,Pass Types,Pass Types,Pass Types,Pass Types,Corner Kicks,Corner Kicks,Corner Kicks,Outcomes,Outcomes,Outcomes
+,Player,#,Nation,Pos,Age,Min,Att,Live,Dead,FK,TB,Sw,Crs,TI,CK,In,Out,Str,Cmp,Off,Blocks
+0,Adam Armstrong,9.0,eng ENG,FW,24-193,90,16,15,1,0,0,0,2,0,0,0,0,0,10,0,1
+1,Che Adams,10.0,sct SCO,FW,25-040,90,22,22,0,0,1,0,0,0,0,0,0,0,10,0,0
+2,Moussa Djenepo,19.0,ml MLI,LM,23-068,69,17,17,0,0,0,0,0,0,0,0,0,0,11,0,0
+3,Ibrahima Diallo,27.0,fr FRA,CM,22-167,21,13,13,0,0,0,0,0,0,0,0,0,0,11,0,1
+4,James Ward-Prowse,8.0,eng ENG,CM,26-294,90,51,40,11,4,0,0,9,0,6,3,3,0,35,0,1
+5,Oriol Romeu,6.0,es ESP,CM,29-332,90,36,35,1,1,0,0,0,0,0,0,0,0,25,0,1
+6,Theo Walcott,32.0,eng ENG,RM,32-159,45,3,3,0,0,0,0,1,0,0,0,0,0,2,0,0
+7,Jan Bednarek,35.0,pl POL,CB,25-132,45,15,14,1,1,0,0,0,0,0,0,0,0,12,0,0
+8,Romain Perraud,15.0,fr FRA,LB,23-334,78,23,15,8,0,0,0,3,7,1,0,0,0,10,0,1
+9,Kyle Walker-Peters,2.0,eng ENG,LB,24-131,12,9,7,2,0,0,0,0,2,0,0,0,0,9,0,0
+10,Mohammed Salisu,22.0,gh GHA,CB,22-127,90,34,33,1,0,0,0,0,0,0,0,0,0,27,0,1
+11,Jack Stephens,5.0,eng ENG,"CB,RB",27-207,90,35,32,3,0,0,0,0,3,0,0,0,0,22,0,1
+12,Valentino Livramento,21.0,eng ENG,"RB,RM",18-283,90,31,23,8,1,0,0,2,7,0,0,0,0,25,0,0
+13,Alex McCarthy,1.0,eng ENG,GK,31-262,90,24,11,13,3,0,0,0,0,0,0,0,0,7,0,0
+14,14 Players,,,,,990,329,280,49,10,1,0,17,19,7,3,3,0,216,0,7

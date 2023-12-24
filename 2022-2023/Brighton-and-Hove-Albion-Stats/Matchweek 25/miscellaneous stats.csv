@@ -1,0 +1,19 @@
+,Unnamed: 0_level_0,Unnamed: 1_level_0,Unnamed: 2_level_0,Unnamed: 3_level_0,Unnamed: 4_level_0,Unnamed: 5_level_0,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Aerial Duels,Aerial Duels,Aerial Duels
+,Player,#,Nation,Pos,Age,Min,CrdY,CrdR,2CrdY,Fls,Fld,Off,Crs,Int,TklW,PKwon,PKcon,OG,Recov,Won,Lost,Won%
+0,Danny Welbeck,18.0,eng ENG,FW,32-173,55,0,0,0,0,3,0,0,0,0,0,0,0,0,0,1,0.0
+1,Evan Ferguson,28.0,ie IRL,FW,18-211,35,0,0,0,0,0,0,0,0,0,0,0,0,0,2,1,66.7
+2,Kaoru Mitoma,22.0,jp JPN,LW,25-363,90,0,0,0,2,1,0,0,0,0,0,0,0,2,0,1,0.0
+3,Facundo Buonanotte,40.0,ar ARG,RW,18-146,55,0,0,0,0,1,1,0,0,0,0,0,0,2,0,0,
+4,Julio César Enciso,20.0,py PAR,RW,19-115,35,0,0,0,2,1,0,1,0,0,0,0,0,1,0,0,
+5,Deniz Undav,21.0,de GER,AM,26-303,84,1,0,0,3,1,1,0,0,0,0,0,1,2,0,0,
+6,Cameron Peupion,51.0,au AUS,AM,20-237,6,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,100.0
+7,Billy Gilmour,27.0,sct SCO,DM,21-341,55,0,0,0,0,0,0,0,1,0,0,0,0,2,0,0,
+8,Alexis Mac Allister,10.0,ar ARG,DM,24-145,35,1,0,0,1,0,0,0,0,0,0,0,0,2,0,0,
+9,Pascal Groß,13.0,de GER,DM,31-337,68,1,0,0,2,1,0,0,0,2,0,0,0,4,0,1,0.0
+10,Odeluga Offiah,42.0,eng ENG,RB,20-204,22,0,0,0,0,0,0,0,0,1,0,0,0,3,0,1,0.0
+11,Pervis Estupiñán,30.0,ec ECU,LB,25-117,90,0,0,0,2,2,0,3,0,3,0,0,0,7,1,1,50.0
+12,Lewis Dunk,5.0,eng ENG,CB,31-178,90,0,0,0,0,0,0,0,1,1,0,0,0,13,0,0,
+13,Jan Paul van Hecke,29.0,nl NED,CB,22-344,90,1,0,0,1,4,0,0,0,3,0,0,0,6,2,7,22.2
+14,Moisés Caicedo,25.0,ec ECU,"RB,DM",21-197,90,0,0,0,3,3,0,1,0,0,0,0,0,5,1,2,33.3
+15,Jason Steele,23.0,eng ENG,GK,32-273,90,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,
+16,16 Players,,,,,990,4,0,0,16,17,2,5,2,10,0,0,1,51,7,15,31.8

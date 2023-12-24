@@ -1,0 +1,17 @@
+,Unnamed: 0_level_0,Unnamed: 1_level_0,Unnamed: 2_level_0,Unnamed: 3_level_0,Unnamed: 4_level_0,Unnamed: 5_level_0,Unnamed: 6_level_0,Pass Types,Pass Types,Pass Types,Pass Types,Pass Types,Pass Types,Pass Types,Pass Types,Corner Kicks,Corner Kicks,Corner Kicks,Outcomes,Outcomes,Outcomes
+,Player,#,Nation,Pos,Age,Min,Att,Live,Dead,FK,TB,Sw,Crs,TI,CK,In,Out,Str,Cmp,Off,Blocks
+0,Eddie Nketiah,30.0,eng ENG,FW,22-336,90,35,35,0,0,0,0,0,0,0,0,0,0,25,0,3
+1,Gabriel Martinelli,35.0,br BRA,"LW,RW",20-317,90,22,20,2,0,0,0,3,0,2,2,0,0,17,0,1
+2,Bukayo Saka,7.0,eng ENG,RW,20-238,86,24,20,4,0,0,0,4,0,4,4,0,0,19,0,0
+3,Emile Smith Rowe,10.0,eng ENG,LW,21-277,4,2,2,0,0,0,0,0,0,0,0,0,0,2,0,0
+4,Martin Ødegaard,8.0,no NOR,"AM,RM",23-135,89,42,38,4,1,0,1,1,0,1,1,0,0,37,0,0
+5,Albert Sambi Lokonga,23.0,be BEL,RM,22-191,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+6,Granit Xhaka,34.0,ch SUI,"DM,LM",29-216,90,73,72,1,1,1,0,1,0,0,0,0,0,61,0,0
+7,Mohamed Elneny,25.0,eg EGY,"DM,CM",29-294,90,54,53,1,1,0,0,0,0,0,0,0,0,49,0,0
+8,Nuno Tavares,20.0,pt POR,LB,22-095,90,58,48,10,1,0,1,4,9,0,0,0,0,45,0,3
+9,Gabriel Dos Santos,6.0,br BRA,CB,24-133,90,46,46,0,0,0,0,0,0,0,0,0,0,41,0,1
+10,Rob Holding,16.0,eng ENG,CB,26-223,90,61,59,2,2,0,0,0,0,0,0,0,0,54,0,0
+11,Takehiro Tomiyasu,18.0,jp JPN,RB,23-177,77,38,37,1,0,0,0,0,1,0,0,0,0,30,0,0
+12,Cédric Soares,17.0,pt POR,RB,30-243,13,5,4,1,0,0,0,0,1,0,0,0,0,3,0,0
+13,Aaron Ramsdale,32.0,eng ENG,GK,23-352,90,22,14,8,2,0,0,0,0,0,0,0,0,13,0,0
+14,14 Players,,,,,990,482,448,34,8,1,2,13,11,7,7,0,0,396,0,8

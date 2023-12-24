@@ -1,0 +1,17 @@
+,Unnamed: 0_level_0,Unnamed: 1_level_0,Unnamed: 2_level_0,Unnamed: 3_level_0,Unnamed: 4_level_0,Unnamed: 5_level_0,Unnamed: 6_level_0,Pass Types,Pass Types,Pass Types,Pass Types,Pass Types,Pass Types,Pass Types,Pass Types,Corner Kicks,Corner Kicks,Corner Kicks,Outcomes,Outcomes,Outcomes
+,Player,#,Nation,Pos,Age,Min,Att,Live,Dead,FK,TB,Sw,Crs,TI,CK,In,Out,Str,Cmp,Off,Blocks
+0,Ollie Watkins,11.0,eng ENG,FW,25-101,90,25,25,0,0,0,0,0,0,0,0,0,0,17,0,1
+1,Trézéguet,17.0,eg EGY,LW,26-191,81,17,17,0,0,0,0,1,0,0,0,0,0,8,0,0
+2,Jacob Ramsey,41.0,eng ENG,RW,19-317,9,3,3,0,0,0,0,0,0,0,0,0,0,3,0,0
+3,Bertrand Traoré,15.0,bf BFA,RW,25-216,67,17,16,1,1,0,0,1,0,0,0,0,0,8,0,0
+4,Anwar El Ghazi,21.0,nl NED,"LW,RM",25-342,23,6,5,1,0,0,0,1,1,0,0,0,0,5,0,0
+5,Douglas Luiz,6.0,br BRA,"LM,DM",22-336,90,37,35,2,2,0,0,1,0,0,0,0,0,29,0,1
+6,Marvelous Nakamba,19.0,zw ZIM,CM,27-081,65,20,20,0,0,0,1,0,0,0,0,0,0,14,0,0
+7,Ross Barkley,20.0,eng ENG,"CM,AM",27-126,25,10,9,1,0,0,0,0,0,0,0,0,0,7,0,0
+8,John McGinn,7.0,sct SCO,"RM,DM",26-174,90,26,23,3,1,0,0,0,0,0,0,0,0,17,0,0
+9,Matt Targett,18.0,eng ENG,LB,25-204,90,40,26,14,2,0,1,2,12,0,0,0,0,29,0,1
+10,Tyrone Mings,5.0,eng ENG,CB,28-028,90,22,19,3,3,0,0,0,0,0,0,0,0,13,0,0
+11,Ezri Konsa,4.0,eng ENG,CB,23-169,90,32,31,1,1,0,0,0,0,0,0,0,0,25,0,0
+12,Matty Cash,2.0,pl POL,RB,23-246,90,47,28,19,1,0,0,2,18,0,0,0,0,35,0,2
+13,Emiliano Martínez,26.0,ar ARG,GK,28-220,90,40,21,17,6,0,0,0,0,0,0,0,0,25,2,0
+14,14 Players,,,,,990,342,278,62,17,0,2,8,31,0,0,0,0,235,2,5

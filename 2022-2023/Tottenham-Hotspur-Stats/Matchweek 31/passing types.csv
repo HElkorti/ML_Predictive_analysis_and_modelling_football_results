@@ -1,0 +1,17 @@
+,Unnamed: 0_level_0,Unnamed: 1_level_0,Unnamed: 2_level_0,Unnamed: 3_level_0,Unnamed: 4_level_0,Unnamed: 5_level_0,Unnamed: 6_level_0,Pass Types,Pass Types,Pass Types,Pass Types,Pass Types,Pass Types,Pass Types,Pass Types,Corner Kicks,Corner Kicks,Corner Kicks,Outcomes,Outcomes,Outcomes
+,Player,#,Nation,Pos,Age,Min,Att,Live,Dead,FK,TB,Sw,Crs,TI,CK,In,Out,Str,Cmp,Off,Blocks
+0,Harry Kane,10.0,eng ENG,FW,29-261,90,24,24,0,0,0,0,0,0,0,0,0,0,17,0,1
+1,Son Heung-min,7.0,kr KOR,"AM,LW",30-281,90,29,28,1,0,1,0,0,0,0,0,0,0,25,0,1
+2,Dejan Kulusevski,21.0,se SWE,AM,22-355,90,29,27,2,0,0,0,3,0,0,0,0,0,28,0,0
+3,Oliver Skipp,4.0,eng ENG,"CM,DM",22-211,76,28,27,1,1,0,0,0,0,0,0,0,0,26,0,0
+4,Richarlison,9.0,br BRA,DM,25-340,14,7,7,0,0,0,0,0,0,0,0,0,0,4,0,1
+5,Pierre Højbjerg,5.0,dk DEN,"CM,DM",27-253,90,78,76,2,1,0,0,1,0,0,0,0,0,69,0,0
+6,Ivan Perišić,14.0,hr CRO,"WB,LB",34-072,90,68,51,16,2,0,0,19,8,6,5,1,0,37,1,2
+7,Pedro Porro,23.0,es ESP,"WB,RB",23-214,90,55,42,13,0,0,1,13,11,2,0,2,0,35,0,2
+8,Clément Lenglet,34.0,fr FRA,CB,27-302,34,24,22,2,2,0,2,0,0,0,0,0,0,19,0,0
+9,Davinson Sánchez,6.0,co COL,CB,26-307,23,18,18,0,0,0,0,0,0,0,0,0,0,16,0,1
+10,Arnaut Danjuma,16.0,nl NED,RW,26-074,33,12,12,0,0,0,0,1,0,0,0,0,0,6,0,1
+11,Eric Dier,15.0,eng ENG,CB,29-090,90,70,69,1,1,1,0,0,0,0,0,0,0,61,0,1
+12,Cristian Romero,17.0,ar ARG,CB,24-353,90,83,82,1,1,0,1,0,0,0,0,0,0,66,0,2
+13,Hugo Lloris,1.0,fr FRA,GK,36-110,90,18,14,4,1,0,0,0,0,0,0,0,0,12,0,0
+14,14 Players,,,,,990,543,499,43,9,2,4,37,19,8,5,3,0,421,1,12

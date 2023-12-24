@@ -1,0 +1,17 @@
+,Unnamed: 0_level_0,Unnamed: 1_level_0,Unnamed: 2_level_0,Unnamed: 3_level_0,Unnamed: 4_level_0,Unnamed: 5_level_0,Unnamed: 6_level_0,Pass Types,Pass Types,Pass Types,Pass Types,Pass Types,Pass Types,Pass Types,Pass Types,Corner Kicks,Corner Kicks,Corner Kicks,Outcomes,Outcomes,Outcomes
+,Player,#,Nation,Pos,Age,Min,Att,Live,Dead,FK,TB,Sw,Crs,TI,CK,In,Out,Str,Cmp,Off,Blocks
+0,Raúl Jiménez,9.0,mx MEX,FW,30-180,89,43,39,3,0,0,0,0,1,0,0,0,0,33,1,2
+1,Leander Dendoncker,32.0,be BEL,FW,26-200,1,2,2,0,0,0,0,0,0,0,0,0,0,2,0,0
+2,Hwang Hee-chan,26.0,kr KOR,AM,25-279,89,47,47,0,0,0,0,0,0,0,0,0,0,37,0,0
+3,Fábio Silva,17.0,pt POR,AM,19-105,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+4,Francisco Trincão,11.0,pt POR,AM,21-307,78,33,33,0,0,0,1,0,0,0,0,0,0,27,0,2
+5,Daniel Podence,10.0,pt POR,AM,26-011,12,3,3,0,0,0,0,0,0,0,0,0,0,2,0,0
+6,João Moutinho,28.0,pt POR,CM,35-054,90,73,69,4,2,0,1,2,0,2,2,0,0,65,0,0
+7,Rúben Neves,8.0,pt POR,CM,24-233,90,79,78,1,1,0,3,0,0,0,0,0,0,72,0,2
+8,Rayan Aït Nouri,3.0,dz ALG,WB,20-148,90,74,64,10,0,0,0,6,8,2,0,2,0,60,0,1
+9,Nélson Semedo,22.0,pt POR,WB,27-350,90,56,46,10,0,0,0,1,10,0,0,0,0,46,0,3
+10,Romain Saïss,27.0,ma MAR,CB,31-220,90,82,80,2,2,0,1,0,0,0,0,0,0,72,0,0
+11,Conor Coady,16.0,eng ENG,CB,28-249,90,62,61,1,1,1,0,0,0,0,0,0,0,57,0,0
+12,Max Kilman,23.0,eng ENG,CB,24-162,90,65,65,0,0,0,1,0,0,0,0,0,0,58,0,1
+13,José Sá,1.0,pt POR,GK,28-288,90,36,28,8,3,0,0,0,0,0,0,0,0,21,0,0
+14,14 Players,,,,,990,655,615,39,9,1,7,9,19,4,2,2,0,552,1,11

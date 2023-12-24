@@ -1,0 +1,19 @@
+,Unnamed: 0_level_0,Unnamed: 1_level_0,Unnamed: 2_level_0,Unnamed: 3_level_0,Unnamed: 4_level_0,Unnamed: 5_level_0,Unnamed: 6_level_0,Pass Types,Pass Types,Pass Types,Pass Types,Pass Types,Pass Types,Pass Types,Pass Types,Corner Kicks,Corner Kicks,Corner Kicks,Outcomes,Outcomes,Outcomes
+,Player,#,Nation,Pos,Age,Min,Att,Live,Dead,FK,TB,Sw,Crs,TI,CK,In,Out,Str,Cmp,Off,Blocks
+0,Son Heung-min,7.0,kr KOR,"FW,AM",30-103,90,29,26,3,0,0,0,3,0,2,0,2,0,22,0,2
+1,Harry Kane,10.0,eng ENG,FW,29-083,90,24,24,0,0,0,1,2,0,0,0,0,0,13,0,3
+2,Pierre Højbjerg,5.0,dk DEN,CM,27-075,90,77,74,3,3,0,0,0,0,0,0,0,0,73,0,0
+3,Yves Bissouma,38.0,ml MLI,CM,26-050,81,44,43,1,0,0,0,0,0,0,0,0,0,40,0,1
+4,Lucas Moura,27.0,br BRA,AM,30-067,9,6,5,1,0,0,0,0,1,0,0,0,0,4,0,1
+5,Rodrigo Bentancur,30.0,uy URU,CM,25-116,88,46,45,1,0,0,0,5,0,0,0,0,0,36,0,3
+6,Oliver Skipp,4.0,eng ENG,CM,22-033,2,7,7,0,0,0,0,0,0,0,0,0,0,5,0,0
+7,Ivan Perišić,14.0,hr CRO,WB,33-259,88,47,37,10,1,0,0,7,8,1,1,0,0,33,0,0
+8,Djed Spence,24.0,eng ENG,WB,22-071,2,5,5,0,0,0,0,0,0,0,0,0,0,3,0,2
+9,Matt Doherty,2.0,ie IRL,WB,30-276,81,38,33,5,0,0,1,1,5,0,0,0,0,32,0,0
+10,Ryan Sessegnon,19.0,eng ENG,WB,22-154,9,5,2,3,0,0,0,0,3,0,0,0,0,4,0,0
+11,Ben Davies,33.0,wls WAL,CB,29-178,90,57,57,0,0,0,0,1,0,0,0,0,0,44,0,1
+12,Eric Dier,15.0,eng ENG,CB,28-277,81,63,60,3,3,0,0,0,0,0,0,0,0,54,0,1
+13,Davinson Sánchez,6.0,co COL,CB,26-129,9,11,11,0,0,0,0,0,0,0,0,0,0,11,0,0
+14,Cristian Romero,17.0,ar ARG,CB,24-175,90,74,70,4,4,0,2,0,0,0,0,0,0,64,0,0
+15,Hugo Lloris,1.0,fr FRA,GK,35-297,90,38,27,11,0,0,0,0,0,0,0,0,0,33,0,0
+16,16 Players,,,,,990,571,526,45,11,0,4,19,17,3,1,2,0,471,0,14

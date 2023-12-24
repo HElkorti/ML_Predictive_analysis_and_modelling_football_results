@@ -1,0 +1,19 @@
+,Unnamed: 0_level_0,Unnamed: 1_level_0,Unnamed: 2_level_0,Unnamed: 3_level_0,Unnamed: 4_level_0,Unnamed: 5_level_0,Unnamed: 6_level_0,Pass Types,Pass Types,Pass Types,Pass Types,Pass Types,Pass Types,Pass Types,Pass Types,Corner Kicks,Corner Kicks,Corner Kicks,Outcomes,Outcomes,Outcomes
+,Player,#,Nation,Pos,Age,Min,Att,Live,Dead,FK,TB,Sw,Crs,TI,CK,In,Out,Str,Cmp,Off,Blocks
+0,Hwang Hee-chan,11.0,kr KOR,FW,27-114,73,17,15,2,1,0,0,0,0,0,0,0,0,14,0,0
+1,Mario Lemina,5.0,ga GAB,FW,29-261,17,16,16,0,0,0,0,0,0,0,0,0,0,10,0,1
+2,Pablo Sarabia,21.0,es ESP,FW,31-009,69,27,27,0,0,1,0,0,0,0,0,0,0,18,0,1
+3,Matheus Nunes,27.0,pt POR,FW,24-266,21,7,7,0,0,0,0,0,0,0,0,0,0,7,0,0
+4,Daniel Podence,10.0,pt POR,LM,27-211,69,17,17,0,0,0,0,1,0,0,0,0,0,12,0,0
+5,Diego Costa,29.0,es ESP,LM,34-225,21,14,12,2,0,0,0,0,0,1,0,0,0,10,0,0
+6,João Gomes,35.0,br BRA,CM,22-097,90,41,40,1,1,0,1,0,0,0,0,0,0,32,0,0
+7,Rúben Neves,8.0,pt POR,CM,26-068,87,46,45,1,1,0,0,0,0,0,0,0,0,39,0,0
+8,Boubacar Traoré,6.0,ml MLI,CM,21-273,3,5,5,0,0,0,0,0,0,0,0,0,0,3,0,0
+9,Adama Traoré,37.0,es ESP,RM,27-115,87,25,25,0,0,0,0,5,0,0,0,0,0,14,0,1
+10,Matheus Cunha,12.0,br BRA,RM,23-358,3,3,3,0,0,0,0,0,0,0,0,0,0,3,0,0
+11,Toti Gomes,24.0,pt POR,LB,24-124,90,59,55,3,0,0,1,2,3,0,0,0,0,51,1,0
+12,Craig Dawson,15.0,eng ENG,CB,33-014,90,61,60,1,1,0,1,0,0,0,0,0,0,50,0,0
+13,Nathan Collins,4.0,ie IRL,CB,22-020,90,57,56,1,1,0,0,0,0,0,0,0,0,43,0,0
+14,Nélson Semedo,22.0,pt POR,RB,29-185,90,45,38,7,0,0,0,1,7,0,0,0,0,36,0,1
+15,Daniel Bentley,25.0,eng ENG,GK,29-311,90,41,27,14,4,0,0,0,0,0,0,0,0,33,0,0
+16,16 Players,,,,,990,481,448,32,9,1,3,9,10,1,0,0,0,375,1,4

@@ -1,0 +1,16 @@
+,Unnamed: 0_level_0,Unnamed: 1_level_0,Unnamed: 2_level_0,Unnamed: 3_level_0,Unnamed: 4_level_0,Unnamed: 5_level_0,Touches,Touches,Touches,Touches,Touches,Touches,Touches,Take-Ons,Take-Ons,Take-Ons,Take-Ons,Take-Ons,Carries,Carries,Carries,Carries,Carries,Carries,Carries,Carries,Receiving,Receiving
+,Player,#,Nation,Pos,Age,Min,Touches,Def Pen,Def 3rd,Mid 3rd,Att 3rd,Att Pen,Live,Att,Succ,Succ%,Tkld,Tkld%,Carries,TotDist,PrgDist,PrgC,1/3,CPA,Mis,Dis,Rec,PrgR
+0,Ashley Barnes,10.0,eng ENG,FW,31-058,90,37,0,1,12,24,4,37,0,0,,0,,21,65,12,1,0,1,2,1,29,7
+1,Chris Wood,9.0,nz NZL,FW,29-020,90,44,2,2,19,23,4,44,0,0,,0,,20,88,22,0,0,0,2,2,40,13
+2,Erik Pieters,23.0,nl NED,LM,32-142,73,33,0,0,19,14,2,33,0,0,,0,,14,49,26,0,0,0,1,1,18,0
+3,Jay Rodriguez,19.0,eng ENG,LM,31-151,17,12,0,0,5,8,3,12,2,1,50.0,1,50.0,5,27,16,1,1,0,0,1,8,4
+4,Ashley Westwood,18.0,eng ENG,CM,30-270,90,86,2,9,36,41,5,86,0,0,,0,,30,120,60,0,0,0,1,0,48,5
+5,Josh Brownhill,8.0,eng ENG,CM,25-008,90,67,2,10,30,27,5,67,4,3,75.0,2,50.0,30,148,59,1,2,1,1,1,40,4
+6,Josh Benson,41.0,eng ENG,RM,21-022,73,30,1,5,11,14,2,30,0,0,,0,,15,102,63,1,2,0,1,4,22,3
+7,Dale Stephens,16.0,eng ENG,RM,31-198,17,11,0,0,7,4,2,11,0,0,,0,,5,22,14,1,0,0,0,1,6,0
+8,Charlie Taylor,3.0,eng ENG,LB,27-100,90,46,3,12,21,15,0,46,5,4,80.0,1,20.0,26,286,104,5,2,0,1,1,19,5
+9,Ben Mee,6.0,eng ENG,CB,31-097,90,45,5,13,28,4,4,45,0,0,,0,,19,94,57,0,0,0,2,1,15,0
+10,James Tarkowski,5.0,eng ENG,CB,28-038,90,40,3,12,20,8,3,40,1,1,100.0,0,0.0,14,92,78,1,1,0,1,0,24,1
+11,Matthew Lowton,2.0,eng ENG,RB,31-201,90,50,0,14,19,17,1,50,1,0,0.0,1,100.0,16,93,53,0,0,0,1,0,23,1
+12,Nick Pope,1.0,eng ENG,GK,28-252,90,32,26,30,2,0,0,32,0,0,,0,,11,113,79,0,0,0,0,0,5,0
+13,13 Players,,,,,990,533,44,108,229,199,35,533,13,9,69.2,5,38.5,226,1299,643,11,8,2,13,13,297,43

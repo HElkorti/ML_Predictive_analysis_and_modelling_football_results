@@ -1,0 +1,17 @@
+,Unnamed: 0_level_0,Unnamed: 1_level_0,Unnamed: 2_level_0,Unnamed: 3_level_0,Unnamed: 4_level_0,Unnamed: 5_level_0,Touches,Touches,Touches,Touches,Touches,Touches,Touches,Take-Ons,Take-Ons,Take-Ons,Take-Ons,Take-Ons,Carries,Carries,Carries,Carries,Carries,Carries,Carries,Carries,Receiving,Receiving
+,Player,#,Nation,Pos,Age,Min,Touches,Def Pen,Def 3rd,Mid 3rd,Att 3rd,Att Pen,Live,Att,Succ,Succ%,Tkld,Tkld%,Carries,TotDist,PrgDist,PrgC,1/3,CPA,Mis,Dis,Rec,PrgR
+0,Michail Antonio,9.0,jm JAM,FW,33-019,86,24,0,1,8,17,4,24,5,2,40.0,2,40.0,15,221,133,5,3,0,2,2,18,4
+1,Maxwel Cornet,14.0,ci CIV,FW,26-201,4,2,0,0,0,2,0,2,0,0,,0,,2,2,0,0,0,0,0,0,2,2
+2,Saïd Benrahma,22.0,dz ALG,LW,27-249,89,30,0,2,14,15,3,29,2,1,50.0,1,50.0,19,101,59,2,1,1,2,1,18,4
+3,Pablo Fornals,8.0,es ESP,LW,27-053,1,3,0,1,1,1,0,3,0,0,,0,,1,1,1,0,0,0,0,0,1,0
+4,Jarrod Bowen,20.0,eng ENG,RW,26-117,90,34,2,6,12,17,4,34,4,0,0.0,3,75.0,18,145,58,3,0,3,1,1,17,3
+5,Lucas Paquetá,11.0,br BRA,LM,25-232,86,40,0,6,23,13,1,40,2,2,100.0,0,0.0,21,48,17,0,0,0,0,0,25,1
+6,Flynn Downes,12.0,eng ENG,LM,24-086,4,2,0,0,1,1,0,2,0,0,,0,,1,3,2,0,0,0,0,0,1,0
+7,Declan Rice,41.0,eng ENG,CM,24-092,90,49,1,15,22,12,1,49,1,0,0.0,1,100.0,26,115,67,1,0,1,2,0,24,1
+8,Tomáš Souček,28.0,cz CZE,RM,28-048,90,22,2,4,11,7,3,22,0,0,,0,,9,31,15,0,0,0,2,0,12,1
+9,Aaron Cresswell,3.0,eng ENG,LB,33-122,90,42,2,14,8,20,3,42,0,0,,0,,14,78,10,0,0,0,1,0,13,1
+10,Thilo Kehrer,24.0,de GER,CB,26-207,90,30,6,20,9,1,1,30,1,1,100.0,0,0.0,11,23,5,0,0,0,0,0,13,0
+11,Kurt Zouma,4.0,fr FRA,CB,28-171,90,37,5,16,17,4,4,37,0,0,,0,,14,33,16,0,0,0,0,0,17,0
+12,Vladimír Coufal,5.0,cz CZE,RB,30-237,90,43,2,11,18,15,0,43,1,0,0.0,1,100.0,10,38,5,0,0,0,0,1,10,3
+13,Łukasz Fabiański,1.0,pl POL,GK,37-363,90,23,21,23,0,0,0,23,0,0,,0,,11,109,49,0,0,0,0,0,6,0
+14,14 Players,,,,,990,381,41,119,144,125,24,380,16,6,37.5,8,50.0,172,948,437,11,4,5,10,5,177,20

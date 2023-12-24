@@ -1,0 +1,19 @@
+,Unnamed: 0_level_0,Unnamed: 1_level_0,Unnamed: 2_level_0,Unnamed: 3_level_0,Unnamed: 4_level_0,Unnamed: 5_level_0,Unnamed: 6_level_0,Pass Types,Pass Types,Pass Types,Pass Types,Pass Types,Pass Types,Pass Types,Pass Types,Corner Kicks,Corner Kicks,Corner Kicks,Outcomes,Outcomes,Outcomes
+,Player,#,Nation,Pos,Age,Min,Att,Live,Dead,FK,TB,Sw,Crs,TI,CK,In,Out,Str,Cmp,Off,Blocks
+0,Evan Ferguson,28.0,ie IRL,FW,18-076,70,17,16,1,0,0,0,0,0,0,0,0,0,14,0,0
+1,Julio César Enciso,20.0,py PAR,"LW,FW",18-345,20,6,6,0,0,0,0,0,0,0,0,0,0,5,0,0
+2,Kaoru Mitoma,22.0,jp JPN,"LW,LM",25-228,77,30,30,0,0,0,0,1,0,0,0,0,0,24,0,3
+3,Adam Lallana,14.0,eng ENG,FW,34-238,13,12,11,1,1,0,0,0,0,0,0,0,0,10,0,0
+4,Solly March,7.0,eng ENG,"RW,RM",28-167,78,30,28,2,0,0,1,2,2,0,0,0,0,27,0,0
+5,Andrew Moran,49.0,ie IRL,RW,19-080,12,2,1,1,0,0,0,0,0,0,0,0,0,1,0,0
+6,Jeremy Sarmiento,19.0,ec ECU,AM,20-201,61,13,13,0,0,0,0,0,0,0,0,0,0,9,0,1
+7,Alexis Mac Allister,10.0,ar ARG,"CM,LM",24-010,29,25,25,0,0,0,1,0,0,0,0,0,0,24,0,0
+8,Pascal Groß,13.0,de GER,"DM,CM,RM",31-202,90,66,56,10,3,0,0,5,5,2,2,0,0,54,0,3
+9,Moisés Caicedo,25.0,ec ECU,"DM,CM",21-062,90,76,76,0,0,1,1,0,0,0,0,0,0,70,0,3
+10,Pervis Estupiñán,30.0,ec ECU,LB,24-347,90,70,62,8,0,0,1,0,8,0,0,0,0,52,0,8
+11,Levi Colwill,6.0,eng ENG,CB,19-311,90,76,72,4,3,0,1,0,0,0,0,0,0,64,0,1
+12,Lewis Dunk,5.0,eng ENG,CB,31-043,90,53,52,1,1,0,0,0,0,0,0,0,0,45,0,0
+13,Joël Veltman,34.0,nl NED,RB,30-353,70,27,22,5,1,0,0,0,4,0,0,0,0,25,0,0
+14,Tariq Lamptey,2.0,gh GHA,RB,22-095,20,9,8,1,0,0,0,1,1,0,0,0,0,8,0,0
+15,Robert Sánchez,1.0,es ESP,GK,25-046,90,37,30,7,0,0,0,0,0,0,0,0,0,33,0,0
+16,16 Players,,,,,990,549,508,41,9,1,5,9,20,2,2,0,0,465,0,19

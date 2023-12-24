@@ -1,0 +1,17 @@
+,Unnamed: 0_level_0,Unnamed: 1_level_0,Unnamed: 2_level_0,Unnamed: 3_level_0,Unnamed: 4_level_0,Unnamed: 5_level_0,Touches,Touches,Touches,Touches,Touches,Touches,Touches,Take-Ons,Take-Ons,Take-Ons,Take-Ons,Take-Ons,Carries,Carries,Carries,Carries,Carries,Carries,Carries,Carries,Receiving,Receiving
+,Player,#,Nation,Pos,Age,Min,Touches,Def Pen,Def 3rd,Mid 3rd,Att 3rd,Att Pen,Live,Att,Succ,Succ%,Tkld,Tkld%,Carries,TotDist,PrgDist,PrgC,1/3,CPA,Mis,Dis,Rec,PrgR
+0,Wout Weghorst,9.0,nl NED,FW,29-196,87,29,2,5,16,9,2,29,1,1,100.0,0,0.0,16,52,21,0,0,0,1,2,20,7
+1,Ashley Barnes,10.0,eng ENG,FW,32-112,3,2,0,2,0,0,0,2,0,0,,0,,0,0,0,0,0,0,1,0,0,0
+2,Maxwel Cornet,20.0,ci CIV,FW,25-145,54,19,0,1,4,14,5,19,2,0,0.0,2,100.0,10,37,0,0,0,0,2,1,12,2
+3,Jay Rodriguez,19.0,eng ENG,FW,32-205,36,17,1,1,10,6,0,17,0,0,,0,,6,45,16,0,2,0,0,1,13,1
+4,Dwight McNeil,11.0,eng ENG,LM,22-089,90,46,1,11,14,23,2,46,3,2,66.7,1,33.3,27,169,78,2,3,0,0,2,26,4
+5,Josh Brownhill,8.0,eng ENG,CM,26-062,90,43,3,12,20,14,4,43,2,1,50.0,1,50.0,13,103,54,2,1,2,0,0,13,0
+6,Jack Cork,4.0,eng ENG,CM,32-239,90,24,1,2,19,3,0,24,1,1,100.0,0,0.0,9,32,9,0,0,0,0,1,13,0
+7,Aaron Lennon,17.0,eng ENG,RM,34-309,89,32,4,6,20,6,2,32,1,0,0.0,1,100.0,14,82,22,2,0,1,0,1,18,5
+8,Matthew Lowton,2.0,eng ENG,RM,32-255,1,1,0,1,0,0,0,1,0,0,,0,,0,0,0,0,0,0,0,0,0,0
+9,Erik Pieters,23.0,nl NED,LB,33-196,90,44,3,19,18,7,1,44,0,0,,0,,15,51,31,1,1,0,2,0,15,2
+10,Ben Mee,6.0,eng ENG,CB,32-151,90,29,7,16,11,2,0,29,0,0,,0,,9,44,30,1,0,0,0,0,10,0
+11,Nathan Collins,22.0,ie IRL,CB,20-295,90,28,3,16,12,0,0,28,1,1,100.0,0,0.0,15,69,32,1,1,0,0,0,10,0
+12,Connor Roberts,14.0,wls WAL,RB,26-149,90,41,3,14,18,10,0,41,0,0,,0,,18,74,39,0,0,0,0,0,19,2
+13,Nick Pope,1.0,eng ENG,GK,29-306,90,30,22,30,0,0,0,30,0,0,,0,,14,130,93,0,0,0,0,0,5,0
+14,14 Players,,,,,990,385,50,136,162,94,16,385,11,6,54.5,5,45.5,166,888,425,9,8,3,6,8,174,23

@@ -1,0 +1,17 @@
+,Unnamed: 0_level_0,Unnamed: 1_level_0,Unnamed: 2_level_0,Unnamed: 3_level_0,Unnamed: 4_level_0,Unnamed: 5_level_0,Touches,Touches,Touches,Touches,Touches,Touches,Touches,Take-Ons,Take-Ons,Take-Ons,Take-Ons,Take-Ons,Carries,Carries,Carries,Carries,Carries,Carries,Carries,Carries,Receiving,Receiving
+,Player,#,Nation,Pos,Age,Min,Touches,Def Pen,Def 3rd,Mid 3rd,Att 3rd,Att Pen,Live,Att,Succ,Succ%,Tkld,Tkld%,Carries,TotDist,PrgDist,PrgC,1/3,CPA,Mis,Dis,Rec,PrgR
+0,Jean-Philippe Mateta,14.0,fr FRA,FW,25-067,62,24,2,3,10,11,3,24,1,0,0.0,1,100.0,11,50,20,0,0,0,2,0,12,3
+1,Odsonne Édouard,22.0,fr FRA,FW,24-230,28,11,1,1,5,5,3,11,0,0,,0,,6,11,2,0,0,1,0,1,10,3
+2,Wilfried Zaha,11.0,ci CIV,LW,29-297,90,39,0,4,21,14,4,39,5,3,60.0,2,40.0,17,130,72,3,1,1,6,2,23,6
+3,Jordan Ayew,9.0,gh GHA,"RW,RM",30-357,90,43,2,10,21,13,1,43,7,2,28.6,3,42.9,25,155,97,4,1,0,3,1,24,5
+4,Jeffrey Schlupp,15.0,gh GHA,LM,29-254,90,39,3,6,21,12,1,39,2,1,50.0,0,0.0,17,55,17,0,0,0,0,0,23,0
+5,Cheick Doucouré,28.0,ml MLI,CM,22-238,90,64,8,20,35,9,2,64,2,1,50.0,1,50.0,28,172,67,0,0,0,0,0,41,0
+6,Eberechi Eze,10.0,eng ENG,RM,24-066,61,24,2,6,11,7,0,24,2,1,50.0,1,50.0,13,91,62,2,2,0,1,2,17,2
+7,Michael Olise,7.0,fr FRA,RW,20-265,29,23,0,6,4,13,0,23,1,0,0.0,0,0.0,6,61,39,1,0,0,1,1,9,3
+8,Tyrick Mitchell,3.0,eng ENG,LB,23-002,62,38,6,19,14,5,0,38,2,0,0.0,1,50.0,11,58,31,0,0,0,2,1,18,1
+9,Nathaniel Clyne,17.0,eng ENG,LB,31-151,28,14,1,4,7,3,0,14,0,0,,0,,4,34,20,0,0,0,0,0,6,0
+10,Marc Guéhi,6.0,eng ENG,CB,22-052,90,74,14,33,35,6,3,74,0,0,,0,,28,151,98,0,0,0,0,0,45,0
+11,Joachim Andersen,16.0,dk DEN,CB,26-095,90,84,25,60,23,2,1,84,0,0,,0,,23,99,24,0,0,0,0,0,34,1
+12,Joel Ward,2.0,eng ENG,RB,32-309,90,52,8,26,20,6,3,52,4,3,75.0,0,0.0,16,92,38,0,0,0,1,1,27,1
+13,Vicente Guaita,13.0,es ESP,GK,35-236,90,35,33,35,0,0,0,35,0,0,,0,,13,66,45,0,0,0,0,0,11,0
+14,14 Players,,,,,990,564,105,233,227,106,21,564,26,11,42.3,9,34.6,218,1225,632,10,4,2,16,9,300,25

@@ -1,0 +1,17 @@
+,Unnamed: 0_level_0,Unnamed: 1_level_0,Unnamed: 2_level_0,Unnamed: 3_level_0,Unnamed: 4_level_0,Unnamed: 5_level_0,Touches,Touches,Touches,Touches,Touches,Touches,Touches,Take-Ons,Take-Ons,Take-Ons,Take-Ons,Take-Ons,Carries,Carries,Carries,Carries,Carries,Carries,Carries,Carries,Receiving,Receiving
+,Player,#,Nation,Pos,Age,Min,Touches,Def Pen,Def 3rd,Mid 3rd,Att 3rd,Att Pen,Live,Att,Succ,Succ%,Tkld,Tkld%,Carries,TotDist,PrgDist,PrgC,1/3,CPA,Mis,Dis,Rec,PrgR
+0,Chris Wood,20.0,nz NZL,FW,30-152,67,20,0,1,13,6,1,20,0,0,,0,,10,14,7,0,0,0,1,0,18,2
+1,Callum Wilson,9.0,eng ENG,FW,30-070,23,10,0,0,4,6,3,10,0,0,,0,,4,20,7,1,0,1,1,0,6,0
+2,Allan Saint-Maximin,10.0,fr FRA,LW,25-057,90,35,1,3,14,19,3,35,6,5,83.3,1,16.7,25,290,166,6,3,1,5,1,27,6
+3,Miguel Almirón,24.0,py PAR,RW,28-087,79,24,3,8,10,7,1,24,0,0,,0,,12,58,35,2,1,1,2,0,12,3
+4,Jacob Murphy,23.0,eng ENG,RW,27-073,11,3,0,0,2,1,1,3,0,0,,0,,3,10,9,1,0,1,0,0,3,0
+5,Joelinton,7.0,br BRA,LM,25-267,90,36,3,10,17,9,1,36,1,1,100.0,0,0.0,17,63,26,0,0,0,0,0,19,0
+6,Bruno Guimarães,39.0,br BRA,CM,24-173,90,47,2,13,22,13,2,47,4,0,0.0,4,100.0,25,116,37,2,0,1,1,1,32,0
+7,Sean Longstaff,36.0,eng ENG,RM,24-190,90,26,3,9,13,5,0,26,0,0,,0,,13,38,17,0,0,0,0,1,12,0
+8,Matt Targett,13.0,eng ENG,LB,26-232,90,33,3,15,12,6,0,33,0,0,,0,,11,34,9,1,0,0,1,0,15,1
+9,Dan Burn,33.0,eng ENG,CB,29-364,90,35,10,24,11,0,0,35,0,0,,0,,15,71,16,0,1,1,0,0,21,0
+10,Jamaal Lascelles,6.0,eng ENG,CB,28-178,90,43,10,28,13,2,2,43,0,0,,0,,21,78,40,0,0,0,0,0,30,0
+11,Emil Krafth,17.0,se SWE,RB,27-279,67,26,5,14,9,3,0,26,0,0,,0,,9,19,5,0,0,0,0,0,12,0
+12,Kieran Trippier,15.0,eng ENG,RB,31-231,23,14,2,5,5,4,0,14,0,0,,0,,4,9,2,0,0,0,0,0,6,1
+13,Martin Dúbravka,1.0,sk SVK,GK,33-113,90,48,41,46,2,0,0,48,0,0,,0,,22,120,39,0,0,0,0,0,14,0
+14,14 Players,,,,,990,400,83,176,147,81,14,400,11,6,54.5,5,45.5,191,940,415,13,5,6,11,3,227,13

@@ -1,0 +1,17 @@
+,Unnamed: 0_level_0,Unnamed: 1_level_0,Unnamed: 2_level_0,Unnamed: 3_level_0,Unnamed: 4_level_0,Unnamed: 5_level_0,Unnamed: 6_level_0,Pass Types,Pass Types,Pass Types,Pass Types,Pass Types,Pass Types,Pass Types,Pass Types,Corner Kicks,Corner Kicks,Corner Kicks,Outcomes,Outcomes,Outcomes
+,Player,#,Nation,Pos,Age,Min,Att,Live,Dead,FK,TB,Sw,Crs,TI,CK,In,Out,Str,Cmp,Off,Blocks
+0,Joelinton,9.0,br BRA,FW,24-278,45,12,12,0,0,0,0,0,0,0,0,0,0,9,0,2
+1,Dwight Gayle,12.0,eng ENG,FW,30-214,45,13,12,1,0,0,0,0,1,0,0,0,0,12,0,0
+2,Allan Saint-Maximin,10.0,fr FRA,FW,24-068,70,37,36,1,0,0,0,1,1,0,0,0,0,32,0,0
+3,Sean Longstaff,36.0,eng ENG,CM,23-201,20,7,7,0,0,0,0,0,0,0,0,0,0,7,0,0
+4,Miguel Almirón,24.0,py PAR,"CM,FW",27-098,90,44,42,1,0,0,0,2,0,0,0,0,0,39,1,1
+5,Jonjo Shelvey,8.0,eng ENG,CM,29-081,90,65,58,7,4,0,2,3,0,3,2,1,0,57,0,0
+6,Joe Willock,28.0,eng ENG,CM,21-272,84,24,24,0,0,0,0,2,0,0,0,0,0,22,0,0
+7,Andy Carroll,7.0,eng ENG,FW,32-133,6,5,5,0,0,0,0,0,0,0,0,0,0,2,0,0
+8,Matt Ritchie,11.0,sct SCO,LB,31-251,90,44,33,11,1,0,0,5,8,2,0,2,0,36,0,1
+9,Paul Dummett,3.0,wls WAL,CB,29-235,90,70,68,1,0,0,0,0,1,0,0,0,0,56,1,2
+10,Federico Fernández,18.0,ar ARG,CB,32-087,90,77,77,0,0,0,0,0,0,0,0,0,0,72,0,1
+11,Emil Krafth,17.0,se SWE,CB,26-290,90,59,54,5,2,0,0,0,3,0,0,0,0,52,0,2
+12,Jacob Murphy,23.0,eng ENG,RB,26-084,90,41,26,15,2,0,0,2,13,0,0,0,0,36,0,2
+13,Martin Dúbravka,1.0,sk SVK,GK,32-124,90,36,25,11,1,0,0,0,0,0,0,0,0,33,0,0
+14,14 Players,,,,,990,534,479,53,10,0,2,15,27,5,2,3,0,465,2,11

@@ -1,0 +1,18 @@
+,Unnamed: 0_level_0,Unnamed: 1_level_0,Unnamed: 2_level_0,Unnamed: 3_level_0,Unnamed: 4_level_0,Unnamed: 5_level_0,Unnamed: 6_level_0,Pass Types,Pass Types,Pass Types,Pass Types,Pass Types,Pass Types,Pass Types,Pass Types,Corner Kicks,Corner Kicks,Corner Kicks,Outcomes,Outcomes,Outcomes
+,Player,#,Nation,Pos,Age,Min,Att,Live,Dead,FK,TB,Sw,Crs,TI,CK,In,Out,Str,Cmp,Off,Blocks
+0,Marcus Rashford,10.0,eng ENG,"FW,LW,RM",25-156,90,32,31,1,1,0,0,1,0,0,0,0,0,27,0,2
+1,Jadon Sancho,25.0,eng ENG,LW,23-011,70,41,39,2,0,0,1,4,0,2,2,0,0,33,0,2
+2,Anthony Martial,9.0,fr FRA,FW,27-121,20,11,11,0,0,0,0,0,0,0,0,0,0,10,0,0
+3,Antony,21.0,br BRA,RW,23-040,85,46,45,1,0,1,0,1,1,0,0,0,0,39,0,0
+4,Victor Lindelöf,2.0,se SWE,CB,28-262,5,1,1,0,0,0,0,0,0,0,0,0,0,1,0,0
+5,Marcel Sabitzer,15.0,at AUT,AM,29-019,70,31,30,1,1,0,0,0,0,0,0,0,0,20,0,2
+6,Fred,17.0,br BRA,"AM,CM",30-031,20,19,17,1,0,0,0,1,0,1,0,0,0,15,1,1
+7,Bruno Fernandes,8.0,pt POR,"DM,LM",28-209,90,103,94,9,2,3,1,6,1,5,1,2,0,85,0,2
+8,Scott McTominay,39.0,sct SCO,"DM,CM",26-118,90,31,31,0,0,1,0,0,0,0,0,0,0,23,0,2
+9,Luke Shaw,23.0,eng ENG,LB,27-267,36,51,45,6,0,0,1,4,2,4,2,0,0,43,0,0
+10,Tyrell Malacia,12.0,nl NED,LB,23-231,54,39,37,2,0,0,0,0,2,0,0,0,0,38,0,0
+11,Lisandro Martínez,6.0,ar ARG,CB,25-077,90,78,68,10,6,1,1,0,0,0,0,0,0,72,0,0
+12,Raphaël Varane,19.0,fr FRA,CB,29-345,90,53,53,0,0,0,0,0,0,0,0,0,0,47,0,0
+13,Diogo Dalot,20.0,pt POR,RB,24-018,90,74,67,6,0,0,1,1,6,0,0,0,0,67,1,0
+14,David de Gea,1.0,es ESP,GK,32-149,90,41,33,8,3,1,0,0,0,0,0,0,0,24,0,1
+15,15 Players,,,,,990,651,602,47,13,7,5,18,12,12,5,2,0,544,2,12

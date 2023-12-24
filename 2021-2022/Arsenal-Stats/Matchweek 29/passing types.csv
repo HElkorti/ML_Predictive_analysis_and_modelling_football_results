@@ -1,0 +1,17 @@
+,Unnamed: 0_level_0,Unnamed: 1_level_0,Unnamed: 2_level_0,Unnamed: 3_level_0,Unnamed: 4_level_0,Unnamed: 5_level_0,Unnamed: 6_level_0,Pass Types,Pass Types,Pass Types,Pass Types,Pass Types,Pass Types,Pass Types,Pass Types,Corner Kicks,Corner Kicks,Corner Kicks,Outcomes,Outcomes,Outcomes
+,Player,#,Nation,Pos,Age,Min,Att,Live,Dead,FK,TB,Sw,Crs,TI,CK,In,Out,Str,Cmp,Off,Blocks
+0,Alexandre Lacazette,9.0,fr FRA,FW,30-289,87,19,19,0,0,0,0,0,0,0,0,0,0,17,0,0
+1,Eddie Nketiah,30.0,eng ENG,FW,22-287,3,1,1,0,0,0,0,0,0,0,0,0,0,1,0,0
+2,Gabriel Martinelli,35.0,br BRA,LW,20-268,77,16,15,1,0,0,0,2,0,1,1,0,0,13,0,1
+3,Emile Smith Rowe,10.0,eng ENG,LW,21-228,13,4,3,1,0,0,0,0,0,1,0,0,0,4,0,0
+4,Bukayo Saka,7.0,eng ENG,RW,20-189,84,27,26,1,0,2,0,1,1,0,0,0,0,20,0,1
+5,Nicolas Pépé,19.0,ci CIV,RW,26-288,6,1,1,0,0,0,0,0,0,0,0,0,0,1,0,0
+6,Martin Ødegaard,8.0,no NOR,AM,23-086,90,58,54,3,2,1,1,1,0,0,0,0,0,45,1,2
+7,Granit Xhaka,34.0,ch SUI,DM,29-167,90,49,49,0,0,0,0,1,0,0,0,0,0,44,0,1
+8,Thomas Partey,5.0,gh GHA,DM,28-273,90,46,46,0,0,0,0,0,0,0,0,0,0,38,0,1
+9,Kieran Tierney,3.0,sct SCO,LB,24-281,90,51,46,5,0,0,0,5,5,0,0,0,0,42,0,1
+10,Gabriel Dos Santos,6.0,br BRA,CB,24-084,90,63,60,2,1,0,1,0,0,0,0,0,0,60,1,0
+11,Ben White,4.0,eng ENG,CB,24-156,90,78,78,0,0,0,2,0,0,0,0,0,0,70,0,0
+12,Cédric Soares,17.0,pt POR,RB,30-194,90,61,49,12,4,0,0,2,8,0,0,0,0,51,0,1
+13,Aaron Ramsdale,32.0,eng ENG,GK,23-303,90,38,35,3,2,0,1,0,0,0,0,0,0,28,0,0
+14,14 Players,,,,,990,512,482,28,9,3,5,12,14,2,1,0,0,434,2,8

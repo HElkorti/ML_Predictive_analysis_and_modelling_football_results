@@ -1,0 +1,19 @@
+,Unnamed: 0_level_0,Unnamed: 1_level_0,Unnamed: 2_level_0,Unnamed: 3_level_0,Unnamed: 4_level_0,Unnamed: 5_level_0,Touches,Touches,Touches,Touches,Touches,Touches,Touches,Take-Ons,Take-Ons,Take-Ons,Take-Ons,Take-Ons,Carries,Carries,Carries,Carries,Carries,Carries,Carries,Carries,Receiving,Receiving
+,Player,#,Nation,Pos,Age,Min,Touches,Def Pen,Def 3rd,Mid 3rd,Att 3rd,Att Pen,Live,Att,Succ,Succ%,Tkld,Tkld%,Carries,TotDist,PrgDist,PrgC,1/3,CPA,Mis,Dis,Rec,PrgR
+0,Chris Wood,39.0,nz NZL,FW,31-045,74,20,1,1,11,8,1,20,0,0,,0,,10,19,12,0,1,0,3,2,18,3
+1,Sam Surridge,16.0,eng ENG,FW,24-177,16,5,0,0,2,3,3,5,0,0,,0,,2,3,0,0,0,0,2,0,3,1
+2,Brennan Johnson,20.0,wls WAL,FW,21-243,90,40,0,1,8,32,8,40,4,1,25.0,2,50.0,22,227,122,5,2,3,1,1,28,13
+3,Morgan Gibbs-White,10.0,eng ENG,AM,22-359,90,63,1,3,18,43,6,63,1,1,100.0,0,0.0,28,135,44,2,2,0,2,1,39,13
+4,Orel Mangala,5.0,be BEL,LM,24-309,59,36,0,1,29,6,0,36,3,0,0.0,3,100.0,24,118,47,0,1,0,0,0,24,2
+5,Gustavo Scarpa,31.0,br BRA,LM,29-016,31,29,1,9,12,8,0,29,0,0,,0,,22,181,150,5,0,0,0,0,22,0
+6,Remo Freuler,23.0,ch SUI,"RM,CM",30-281,90,61,1,14,30,17,1,61,1,1,100.0,0,0.0,36,182,101,2,6,0,1,0,38,0
+7,Ryan Yates,22.0,eng ENG,RM,25-061,44,22,1,4,16,2,1,22,0,0,,0,,10,30,10,0,0,0,0,1,12,0
+8,Danilo,28.0,br BRA,CM,21-267,46,36,2,12,19,5,0,36,1,1,100.0,0,0.0,22,90,38,0,0,0,1,0,18,0
+9,Renan Lodi,32.0,br BRA,LB,24-288,90,67,4,27,29,14,0,67,0,0,,0,,37,142,78,1,0,0,0,0,37,7
+10,Willy Boly,30.0,ci CIV,CB,31-352,74,60,6,30,29,1,0,60,0,0,,0,,35,135,77,0,0,0,0,0,37,0
+11,Scott McKenna,26.0,sct SCO,CB,26-070,16,20,3,11,8,1,1,20,0,0,,0,,9,33,8,0,0,0,0,0,14,0
+12,Joe Worrall,4.0,eng ENG,CB,26-011,90,96,7,44,47,5,1,96,0,0,,0,,62,312,233,1,0,0,0,0,60,0
+13,Serge Aurier,24.0,ci CIV,RB,30-028,74,73,3,16,29,28,4,73,2,1,50.0,0,0.0,33,151,95,6,5,0,2,1,44,9
+14,Neco Williams,7.0,wls WAL,RB,21-283,16,9,0,3,1,5,0,9,0,0,,0,,6,24,10,0,0,0,1,0,5,1
+15,Wayne Hennessey,13.0,wls WAL,GK,35-362,90,34,26,34,0,0,0,34,0,0,,0,,20,94,68,0,0,0,0,0,16,0
+16,16 Players,,,,,990,671,56,210,288,178,26,671,12,5,41.7,5,41.7,378,1876,1093,22,17,3,13,6,415,49

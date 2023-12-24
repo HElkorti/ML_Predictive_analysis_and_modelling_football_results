@@ -1,0 +1,17 @@
+,Unnamed: 0_level_0,Unnamed: 1_level_0,Unnamed: 2_level_0,Unnamed: 3_level_0,Unnamed: 4_level_0,Unnamed: 5_level_0,Touches,Touches,Touches,Touches,Touches,Touches,Touches,Take-Ons,Take-Ons,Take-Ons,Take-Ons,Take-Ons,Carries,Carries,Carries,Carries,Carries,Carries,Carries,Carries,Receiving,Receiving
+,Player,#,Nation,Pos,Age,Min,Touches,Def Pen,Def 3rd,Mid 3rd,Att 3rd,Att Pen,Live,Att,Succ,Succ%,Tkld,Tkld%,Carries,TotDist,PrgDist,PrgC,1/3,CPA,Mis,Dis,Rec,PrgR
+0,Edinson Cavani,21.0,uy URU,FW,35-097,90,30,0,7,11,12,3,30,0,0,,0,,15,44,7,0,1,0,0,0,24,4
+1,Hannibal Mejbri,46.0,tn TUN,LW,19-121,61,27,0,5,11,12,0,27,2,1,50.0,1,50.0,13,98,26,0,2,0,0,1,18,4
+2,Juan Mata,8.0,es ESP,AM,34-024,29,33,0,7,16,10,0,33,0,0,,0,,20,125,43,1,0,0,2,0,24,1
+3,Anthony Elanga,36.0,se SWE,"RW,RB",20-025,90,44,0,6,19,19,2,44,1,0,0.0,1,100.0,25,225,132,5,3,1,4,1,27,6
+4,Bruno Fernandes,18.0,pt POR,"AM,RW,LW",27-256,90,82,2,9,34,41,5,82,2,2,100.0,0,0.0,52,227,100,2,4,0,4,4,56,8
+5,Fred,17.0,br BRA,DM,29-078,74,67,2,12,43,12,0,67,0,0,,0,,44,180,111,2,0,0,2,0,52,0
+6,Shola Shoretire,47.0,eng ENG,DM,18-109,16,6,1,2,0,4,0,6,0,0,,0,,3,17,3,0,0,0,0,0,3,1
+7,Scott McTominay,39.0,sct SCO,DM,25-165,90,70,4,17,39,14,3,70,0,0,,0,,48,263,152,0,1,0,1,0,50,1
+8,Alex Telles,27.0,br BRA,LB,29-158,90,84,3,28,33,25,0,84,2,2,100.0,0,0.0,49,268,179,4,6,0,2,0,50,5
+9,Harry Maguire,5.0,eng ENG,CB,29-078,90,73,8,26,44,3,1,73,0,0,,0,,52,295,197,1,0,0,0,0,62,1
+10,Victor Lindelöf,2.0,se SWE,CB,27-309,90,68,11,34,33,1,0,68,1,1,100.0,0,0.0,44,220,134,0,1,0,0,0,48,0
+11,Diogo Dalot,20.0,pt POR,RB,23-065,78,70,3,15,35,21,1,70,0,0,,0,,37,227,136,4,4,1,1,0,37,4
+12,Alejandro Garnacho,75.0,ar ARG,LW,17-325,12,3,0,0,2,1,0,3,0,0,,0,,3,20,10,0,0,0,0,0,3,0
+13,David de Gea,1.0,es ESP,GK,31-196,90,22,19,22,0,0,0,22,0,0,,0,,10,44,15,0,0,0,0,0,10,0
+14,14 Players,,,,,990,679,53,190,320,175,15,679,8,6,75.0,2,25.0,415,2253,1245,19,22,2,16,6,464,35

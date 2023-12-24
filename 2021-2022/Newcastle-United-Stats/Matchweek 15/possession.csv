@@ -1,0 +1,16 @@
+,Unnamed: 0_level_0,Unnamed: 1_level_0,Unnamed: 2_level_0,Unnamed: 3_level_0,Unnamed: 4_level_0,Unnamed: 5_level_0,Touches,Touches,Touches,Touches,Touches,Touches,Touches,Take-Ons,Take-Ons,Take-Ons,Take-Ons,Take-Ons,Carries,Carries,Carries,Carries,Carries,Carries,Carries,Carries,Receiving,Receiving
+,Player,#,Nation,Pos,Age,Min,Touches,Def Pen,Def 3rd,Mid 3rd,Att 3rd,Att Pen,Live,Att,Succ,Succ%,Tkld,Tkld%,Carries,TotDist,PrgDist,PrgC,1/3,CPA,Mis,Dis,Rec,PrgR
+0,Joelinton,7.0,br BRA,"FW,RM",25-112,90,45,5,11,22,14,1,45,3,3,100.0,0,0.0,25,182,72,1,4,0,2,0,28,3
+1,Callum Wilson,9.0,eng ENG,FW,29-280,90,25,3,5,10,11,5,25,1,1,100.0,0,0.0,12,46,25,1,0,1,5,1,16,4
+2,Allan Saint-Maximin,10.0,fr FRA,LM,24-267,89,34,0,2,15,17,6,34,2,1,50.0,1,50.0,26,448,170,6,2,3,3,7,24,6
+3,Jacob Murphy,23.0,eng ENG,LM,26-283,1,1,0,0,0,1,1,1,0,0,,0,,0,0,0,0,0,0,0,0,0,0
+4,Joe Willock,28.0,eng ENG,CM,22-106,90,40,1,6,20,16,1,40,1,1,100.0,0,0.0,25,204,141,4,2,0,1,1,25,2
+5,Jonjo Shelvey,8.0,eng ENG,CM,29-280,90,60,1,17,26,19,0,60,1,1,100.0,0,0.0,29,111,34,0,2,0,1,0,29,1
+6,Miguel Almirón,24.0,py PAR,RM,27-297,84,38,0,5,9,24,5,38,1,1,100.0,0,0.0,22,121,72,1,0,1,2,1,21,9
+7,Federico Fernández,18.0,ar ARG,CB,32-286,6,3,0,3,0,0,0,3,0,0,,0,,1,1,0,0,0,0,0,0,1,0
+8,Jamal Lewis,12.0,nir NIR,LB,23-313,90,51,3,24,15,12,1,51,1,0,0.0,1,100.0,26,103,26,1,0,0,0,3,26,4
+9,Jamaal Lascelles,6.0,eng ENG,CB,28-023,90,51,9,33,13,5,5,51,0,0,,0,,11,38,5,0,0,0,2,0,15,1
+10,Fabian Schär,5.0,ch SUI,CB,29-349,90,39,4,23,15,2,1,39,0,0,,0,,12,74,53,0,0,0,1,0,14,0
+11,Javier Manquillo,19.0,es ESP,RB,27-213,90,41,3,17,18,7,0,41,1,1,100.0,0,0.0,16,73,16,0,0,0,0,0,17,1
+12,Martin Dúbravka,1.0,sk SVK,GK,32-323,90,37,29,37,0,0,0,37,0,0,,0,,15,48,21,0,0,0,0,0,13,0
+13,13 Players,,,,,990,465,58,183,163,128,26,465,11,9,81.8,2,18.2,220,1449,635,14,10,5,17,13,229,31

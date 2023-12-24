@@ -1,0 +1,19 @@
+,Unnamed: 0_level_0,Unnamed: 1_level_0,Unnamed: 2_level_0,Unnamed: 3_level_0,Unnamed: 4_level_0,Unnamed: 5_level_0,Touches,Touches,Touches,Touches,Touches,Touches,Touches,Take-Ons,Take-Ons,Take-Ons,Take-Ons,Take-Ons,Carries,Carries,Carries,Carries,Carries,Carries,Carries,Carries,Receiving,Receiving
+,Player,#,Nation,Pos,Age,Min,Touches,Def Pen,Def 3rd,Mid 3rd,Att 3rd,Att Pen,Live,Att,Succ,Succ%,Tkld,Tkld%,Carries,TotDist,PrgDist,PrgC,1/3,CPA,Mis,Dis,Rec,PrgR
+0,Roberto Firmino,9.0,br BRA,FW,31-041,74,52,0,2,34,16,4,52,1,1,100.0,0,0.0,28,174,70,1,0,0,1,2,46,7
+1,Alex Oxlade-Chamberlain,15.0,eng ENG,FW,29-089,16,6,0,0,5,1,0,6,1,1,100.0,0,0.0,3,18,0,0,0,0,0,1,7,1
+2,Darwin Núñez,27.0,uy URU,LW,23-141,86,41,0,2,18,21,6,41,2,1,50.0,1,50.0,23,129,39,2,1,1,6,1,32,4
+3,Fabio Carvalho,28.0,pt POR,LW,20-074,4,5,1,1,0,4,0,5,0,0,,0,,4,24,15,0,1,0,0,0,4,1
+4,Mohamed Salah,11.0,eg EGY,RW,30-150,90,37,0,0,13,24,7,37,4,2,50.0,1,25.0,29,126,46,2,0,1,6,3,36,12
+5,Thiago Alcántara,6.0,es ESP,LM,31-215,90,104,0,28,67,10,0,104,1,1,100.0,0,0.0,63,317,152,0,1,0,2,1,80,3
+6,Fabinho,3.0,br BRA,CM,29-020,90,76,1,27,44,5,1,76,0,0,,0,,35,165,77,2,1,0,0,0,61,0
+7,Harvey Elliott,19.0,eng ENG,RM,19-222,67,56,2,10,36,11,1,56,2,0,0.0,0,0.0,36,187,110,3,2,1,0,1,43,2
+8,James Milner,7.0,eng ENG,RM,36-312,23,16,0,6,8,2,1,16,2,2,100.0,0,0.0,12,54,30,1,0,1,0,1,14,2
+9,Andrew Robertson,26.0,sct SCO,LB,28-246,85,86,0,28,37,21,2,86,2,0,0.0,2,100.0,50,179,92,4,3,1,2,2,63,9
+10,Kostas Tsimikas,21.0,gr GRE,LB,26-184,5,9,0,2,1,6,0,9,0,0,,0,,4,8,1,0,0,0,0,0,4,2
+11,Virgil van Dijk,4.0,nl NED,CB,31-127,90,93,16,58,31,4,3,93,0,0,,0,,58,223,124,0,1,0,1,0,72,0
+12,Joe Gomez,2.0,eng ENG,"CB,RB",25-173,90,82,12,46,35,1,0,82,0,0,,0,,55,229,131,0,0,0,1,0,57,1
+13,Trent Alexander-Arnold,66.0,eng ENG,RB,24-036,86,94,6,31,54,9,0,94,1,0,0.0,1,100.0,51,156,65,0,0,0,0,0,63,3
+14,Nathaniel Phillips,47.0,eng ENG,CB,25-236,4,3,0,1,2,0,0,3,0,0,,0,,2,14,7,0,0,0,0,0,3,0
+15,Alisson,1.0,br BRA,GK,30-041,90,44,38,43,1,0,0,44,0,0,,0,,25,113,76,0,0,0,0,0,22,0
+16,16 Players,,,,,990,804,76,285,386,135,25,804,16,8,50.0,5,31.3,478,2116,1035,15,10,5,19,12,607,47

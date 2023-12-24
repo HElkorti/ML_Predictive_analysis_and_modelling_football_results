@@ -1,0 +1,17 @@
+,Unnamed: 0_level_0,Unnamed: 1_level_0,Unnamed: 2_level_0,Unnamed: 3_level_0,Unnamed: 4_level_0,Unnamed: 5_level_0,Tackles,Tackles,Tackles,Tackles,Tackles,Challenges,Challenges,Challenges,Challenges,Blocks,Blocks,Blocks,Unnamed: 18_level_0,Unnamed: 19_level_0,Unnamed: 20_level_0,Unnamed: 21_level_0
+,Player,#,Nation,Pos,Age,Min,Tkl,TklW,Def 3rd,Mid 3rd,Att 3rd,Tkl,Att,Tkl%,Lost,Blocks,Sh,Pass,Int,Tkl+Int,Clr,Err
+0,Anthony Martial,9.0,fr FRA,"FW,LW",25-015,90,0,0,0,0,0,0,0,,0,1,0,1,0,0,1,0
+1,Marcus Rashford,10.0,eng ENG,LW,23-050,70,1,0,0,0,1,0,0,,0,1,0,1,2,3,1,0
+2,Edinson Cavani,7.0,uy URU,FW,33-310,20,0,0,0,0,0,0,2,0.0,2,0,0,0,0,0,1,0
+3,Daniel James,21.0,wls WAL,RW,23-040,90,1,1,0,0,1,0,0,,0,1,0,1,0,1,2,0
+4,Bruno Fernandes,18.0,pt POR,AM,26-103,70,1,1,0,0,1,0,1,0.0,1,2,0,2,0,1,3,0
+5,Donny van de Beek,34.0,nl NED,AM,23-246,20,3,2,2,1,0,0,1,0.0,1,0,0,0,1,4,2,0
+6,Fred,17.0,br BRA,DM,27-290,90,5,3,3,2,0,2,2,100.0,0,4,2,2,1,6,1,0
+7,Scott McTominay,39.0,sct SCO,DM,24-012,90,0,0,0,0,0,0,0,,0,0,0,0,1,1,5,0
+8,Luke Shaw,23.0,eng ENG,LB,25-161,59,1,1,1,0,0,0,0,,0,0,0,0,0,1,3,1
+9,Alex Telles,27.0,br BRA,LB,28-005,31,1,1,0,0,1,1,1,100.0,0,1,0,1,0,1,1,0
+10,Harry Maguire,5.0,eng ENG,CB,27-290,90,1,1,1,0,0,1,1,100.0,0,2,2,0,3,4,3,0
+11,Victor Lindelöf,2.0,se SWE,CB,26-156,90,0,0,0,0,0,0,0,,0,1,1,0,1,1,4,0
+12,Aaron Wan-Bissaka,29.0,eng ENG,RB,23-024,90,5,2,4,1,0,3,3,100.0,0,4,2,2,1,6,8,0
+13,David de Gea,1.0,es ESP,GK,30-043,90,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,0
+14,14 Players,,,,,990,19,12,11,4,4,7,11,63.6,4,17,7,10,10,29,35,1

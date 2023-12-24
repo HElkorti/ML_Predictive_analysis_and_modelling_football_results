@@ -1,0 +1,17 @@
+,Unnamed: 0_level_0,Unnamed: 1_level_0,Unnamed: 2_level_0,Unnamed: 3_level_0,Unnamed: 4_level_0,Unnamed: 5_level_0,Tackles,Tackles,Tackles,Tackles,Tackles,Challenges,Challenges,Challenges,Challenges,Blocks,Blocks,Blocks,Unnamed: 18_level_0,Unnamed: 19_level_0,Unnamed: 20_level_0,Unnamed: 21_level_0
+,Player,#,Nation,Pos,Age,Min,Tkl,TklW,Def 3rd,Mid 3rd,Att 3rd,Tkl,Att,Tkl%,Lost,Blocks,Sh,Pass,Int,Tkl+Int,Clr,Err
+0,Roberto Firmino,9.0,br BRA,FW,29-002,67,0,0,0,0,0,0,0,,0,2,0,2,0,0,0,0
+1,James Milner,7.0,eng ENG,RM,34-274,23,1,1,1,0,0,0,3,0.0,3,2,1,1,0,1,0,0
+2,Diogo Jota,20.0,pt POR,LW,23-305,90,1,0,0,1,0,0,2,0.0,2,2,0,2,0,1,1,0
+3,Mohamed Salah,11.0,eg EGY,RW,28-111,90,1,0,0,0,1,0,0,,0,0,0,0,0,1,0,0
+4,Georginio Wijnaldum,5.0,nl NED,"LM,CM",29-328,90,2,1,1,1,0,1,1,100.0,0,1,0,1,2,4,1,0
+5,Fabinho,3.0,br BRA,"CM,CB",26-347,90,2,0,1,1,0,1,4,25.0,3,2,1,1,2,4,0,0
+6,Naby Keïta,8.0,gn GUI,RM,25-237,45,0,0,0,0,0,0,1,0.0,1,2,0,2,0,0,0,0
+7,Takumi Minamino,18.0,jp JPN,"FW,RM",25-262,45,1,1,0,0,1,0,1,0.0,1,0,0,0,1,2,0,0
+8,Andrew Robertson,26.0,sct SCO,LB,26-207,90,1,1,0,1,0,0,0,,0,2,1,1,0,1,3,0
+9,Virgil van Dijk,4.0,nl NED,CB,29-088,90,2,2,1,1,0,0,0,,0,0,0,0,3,5,1,0
+10,Joe Gomez,12.0,eng ENG,CB,23-134,60,0,0,0,0,0,0,1,0.0,1,0,0,0,0,0,5,0
+11,Curtis Jones,17.0,eng ENG,LM,19-248,30,1,0,1,0,0,1,1,100.0,0,0,0,0,0,1,1,0
+12,Trent Alexander-Arnold,66.0,eng ENG,RB,21-363,90,2,1,0,2,0,1,1,100.0,0,0,0,0,4,6,1,0
+13,Adrián,13.0,es ESP,GK,33-275,90,0,0,0,0,0,0,0,,0,0,0,0,0,0,1,1
+14,14 Players,,,,,990,14,7,5,7,2,4,15,26.7,11,13,3,10,12,26,14,1

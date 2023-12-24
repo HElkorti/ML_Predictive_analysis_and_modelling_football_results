@@ -1,0 +1,18 @@
+,Unnamed: 0_level_0,Unnamed: 1_level_0,Unnamed: 2_level_0,Unnamed: 3_level_0,Unnamed: 4_level_0,Unnamed: 5_level_0,Touches,Touches,Touches,Touches,Touches,Touches,Touches,Take-Ons,Take-Ons,Take-Ons,Take-Ons,Take-Ons,Carries,Carries,Carries,Carries,Carries,Carries,Carries,Carries,Receiving,Receiving
+,Player,#,Nation,Pos,Age,Min,Touches,Def Pen,Def 3rd,Mid 3rd,Att 3rd,Att Pen,Live,Att,Succ,Succ%,Tkld,Tkld%,Carries,TotDist,PrgDist,PrgC,1/3,CPA,Mis,Dis,Rec,PrgR
+0,Willian José,12.0,br BRA,FW,29-112,69,37,1,1,28,8,1,37,0,0,,0,,16,53,27,1,0,0,1,0,29,5
+1,Fábio Silva,17.0,pt POR,"FW,AM",18-239,21,11,1,2,6,3,2,11,0,0,,0,,4,2,2,0,0,0,2,0,8,0
+2,Adama Traoré,37.0,es ESP,"FW,WB",25-049,90,50,0,1,22,28,4,50,7,6,85.7,1,14.3,30,252,141,7,1,3,7,2,41,9
+3,Pedro Neto,7.0,pt POR,AM,21-006,90,60,0,3,32,25,3,60,1,0,0.0,1,100.0,35,263,90,2,5,0,6,2,45,8
+4,João Moutinho,28.0,pt POR,CM,34-188,90,90,1,24,52,16,2,90,1,1,100.0,0,0.0,34,164,74,0,3,1,1,0,54,1
+5,Rúben Neves,8.0,pt POR,CM,24-002,75,71,3,18,47,7,2,71,2,2,100.0,0,0.0,30,84,24,0,0,0,1,2,45,0
+6,Leander Dendoncker,32.0,be BEL,CM,25-334,15,9,1,4,4,1,0,9,0,0,,0,,2,11,0,0,0,0,0,0,4,0
+7,Jonny Castro,19.0,es ESP,WB,27-012,90,62,2,20,30,12,1,62,0,0,,0,,22,107,64,1,1,0,0,2,30,5
+8,Nélson Semedo,22.0,pt POR,WB,27-119,83,59,2,8,32,19,3,59,1,0,0.0,1,100.0,33,205,136,5,1,1,3,1,44,5
+9,Morgan Gibbs-White,18.0,eng ENG,AM,21-047,7,8,0,1,7,1,0,8,1,0,0.0,1,100.0,5,44,16,0,1,0,0,0,5,0
+10,Willy Boly,15.0,ci CIV,CB,30-040,90,66,7,37,22,7,3,66,1,1,100.0,0,0.0,22,123,76,1,0,0,1,0,28,1
+11,Conor Coady,16.0,eng ENG,CB,28-018,90,62,11,45,16,1,1,62,0,0,,0,,29,87,54,0,0,0,0,0,42,0
+12,Romain Saïss,27.0,ma MAR,CB,30-354,90,62,4,28,29,6,0,62,1,1,100.0,0,0.0,24,80,35,0,0,0,0,1,40,0
+13,Rui Patrício,11.0,pt POR,GK,33-028,89,24,24,24,0,0,0,24,0,0,,0,,8,58,18,0,0,0,0,0,7,0
+14,John Ruddy,21.0,eng ENG,GK,34-142,1,3,3,3,0,0,0,3,0,0,,0,,0,0,0,0,0,0,0,0,0,0
+15,15 Players,,,,,990,674,60,219,327,134,22,674,15,11,73.3,4,26.7,294,1533,757,17,12,5,22,10,422,34

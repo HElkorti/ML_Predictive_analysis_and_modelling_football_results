@@ -1,0 +1,17 @@
+,Unnamed: 0_level_0,Unnamed: 1_level_0,Unnamed: 2_level_0,Unnamed: 3_level_0,Unnamed: 4_level_0,Unnamed: 5_level_0,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Aerial Duels,Aerial Duels,Aerial Duels
+,Player,#,Nation,Pos,Age,Min,CrdY,CrdR,2CrdY,Fls,Fld,Off,Crs,Int,TklW,PKwon,PKcon,OG,Recov,Won,Lost,Won%
+0,Anthony Martial,9.0,fr FRA,FW,25-078,69,0,0,0,0,1,1,0,0,0,0,0,0,0,0,1,0.0
+1,Mason Greenwood,11.0,eng ENG,FW,19-143,21,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,
+2,Marcus Rashford,10.0,eng ENG,LW,23-113,88,0,0,0,2,2,1,2,1,0,1,0,0,3,1,0,100.0
+3,Shola Shoretire,74.0,eng ENG,LW,17-019,2,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,
+4,Daniel James,21.0,wls WAL,RW,23-103,87,0,0,0,1,4,0,4,0,1,0,0,0,3,0,1,0.0
+5,Juan Mata,8.0,es ESP,RW,32-299,3,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,
+6,Bruno Fernandes,18.0,pt POR,AM,26-166,90,1,0,0,0,2,0,2,1,1,0,0,0,3,0,2,0.0
+7,Nemanja Matić,31.0,rs SRB,DM,32-204,90,0,0,0,1,0,0,2,1,1,0,0,0,11,2,2,50.0
+8,Fred,17.0,br BRA,DM,27-353,90,0,0,0,1,0,0,0,1,1,0,0,0,4,2,0,100.0
+9,Luke Shaw,23.0,eng ENG,LB,25-224,90,0,0,0,2,1,0,6,0,0,0,0,0,5,5,3,62.5
+10,Harry Maguire,5.0,eng ENG,CB,27-353,90,0,0,0,1,1,0,0,1,2,0,0,0,11,6,0,100.0
+11,Victor Lindelöf,2.0,se SWE,CB,26-219,90,0,0,0,0,0,0,0,0,0,0,0,0,3,0,0,
+12,Aaron Wan-Bissaka,29.0,eng ENG,RB,23-087,90,0,0,0,1,0,0,0,0,0,0,0,0,3,1,0,100.0
+13,David de Gea,1.0,es ESP,GK,30-106,90,0,0,0,0,0,0,0,0,0,0,0,0,2,1,0,100.0
+14,14 Players,,,,,990,1,0,0,9,11,2,16,5,6,1,0,0,52,18,9,66.7

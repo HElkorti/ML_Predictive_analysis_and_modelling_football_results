@@ -1,0 +1,17 @@
+,Unnamed: 0_level_0,Unnamed: 1_level_0,Unnamed: 2_level_0,Unnamed: 3_level_0,Unnamed: 4_level_0,Unnamed: 5_level_0,Tackles,Tackles,Tackles,Tackles,Tackles,Challenges,Challenges,Challenges,Challenges,Blocks,Blocks,Blocks,Unnamed: 18_level_0,Unnamed: 19_level_0,Unnamed: 20_level_0,Unnamed: 21_level_0
+,Player,#,Nation,Pos,Age,Min,Tkl,TklW,Def 3rd,Mid 3rd,Att 3rd,Tkl,Att,Tkl%,Lost,Blocks,Sh,Pass,Int,Tkl+Int,Clr,Err
+0,Leandro Trossard,11.0,be BEL,FW,26-330,90,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,0
+1,Jakub Moder,15.0,pl POL,LW,22-206,65,1,1,0,1,0,0,0,,0,1,0,1,1,2,0,0
+2,Tariq Lamptey,2.0,gh GHA,RW,21-030,25,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,0
+3,Solly March,20.0,eng ENG,"RW,LW",27-102,90,3,0,1,1,1,0,0,,0,0,0,0,2,5,0,0
+4,Adam Lallana,14.0,eng ENG,AM,33-173,76,5,1,2,3,0,1,2,50.0,1,0,0,0,2,7,0,0
+5,Pascal Groß,13.0,de GER,AM,30-137,14,0,0,0,0,0,0,0,,0,1,0,1,0,0,1,0
+6,Yves Bissouma,8.0,ml MLI,DM,25-061,59,2,0,1,1,0,0,1,0.0,1,2,0,2,3,5,1,0
+7,Alexis Mac Allister,10.0,ar ARG,DM,22-310,31,2,2,1,1,0,1,1,100.0,0,0,0,0,0,2,0,0
+8,Enock Mwepu,12.0,zm ZAM,DM,23-302,90,4,3,1,2,1,0,4,0.0,4,3,1,2,2,6,0,0
+9,Marc Cucurella,3.0,es ESP,LB,23-100,90,0,0,0,0,0,0,2,0.0,2,1,0,1,1,1,1,0
+10,Lewis Dunk,5.0,eng ENG,CB,29-343,90,0,0,0,0,0,0,0,,0,3,2,1,1,1,5,0
+11,Shane Duffy,24.0,ie IRL,CB,29-302,90,1,1,0,1,0,1,2,50.0,1,2,2,0,1,2,5,0
+12,Joël Veltman,34.0,nl NED,RB,29-288,90,2,2,2,0,0,1,2,50.0,1,0,0,0,3,5,4,0
+13,Robert Sánchez,1.0,es ESP,GK,23-346,90,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,0
+14,14 Players,,,,,990,20,10,8,10,2,4,14,28.6,10,13,5,8,16,36,17,0

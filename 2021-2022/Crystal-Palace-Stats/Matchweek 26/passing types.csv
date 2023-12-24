@@ -1,0 +1,17 @@
+,Unnamed: 0_level_0,Unnamed: 1_level_0,Unnamed: 2_level_0,Unnamed: 3_level_0,Unnamed: 4_level_0,Unnamed: 5_level_0,Unnamed: 6_level_0,Pass Types,Pass Types,Pass Types,Pass Types,Pass Types,Pass Types,Pass Types,Pass Types,Corner Kicks,Corner Kicks,Corner Kicks,Outcomes,Outcomes,Outcomes
+,Player,#,Nation,Pos,Age,Min,Att,Live,Dead,FK,TB,Sw,Crs,TI,CK,In,Out,Str,Cmp,Off,Blocks
+0,Wilfried Zaha,11.0,ci CIV,FW,29-101,90,21,21,0,0,0,0,0,0,0,0,0,0,15,0,2
+1,Jeffrey Schlupp,15.0,gh GHA,LW,29-058,90,24,23,0,0,0,0,2,0,0,0,0,0,12,1,1
+2,Jordan Ayew,9.0,gh GHA,RW,30-161,84,26,26,0,0,0,0,2,0,0,0,0,0,19,0,0
+3,Eberechi Eze,10.0,eng ENG,"RW,RM",23-235,6,2,1,1,0,0,0,0,0,0,0,0,0,1,0,0
+4,Michael Olise,7.0,fr FRA,AM,20-069,90,51,41,10,6,1,1,9,0,4,1,2,0,39,0,1
+5,James McArthur,18.0,sct SCO,DM,34-135,89,42,40,2,1,0,0,1,0,0,0,0,0,37,0,1
+6,Jean-Philippe Mateta,14.0,fr FRA,FW,24-236,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+7,Cheikhou Kouyaté,8.0,sn SEN,DM,32-060,90,16,16,0,0,0,0,0,0,0,0,0,0,15,0,0
+8,Tyrick Mitchell,3.0,eng ENG,LB,22-171,90,48,36,12,1,0,0,3,11,0,0,0,0,31,0,2
+9,Marc Guéhi,6.0,eng ENG,CB,21-221,90,50,47,3,3,0,0,1,0,0,0,0,0,40,0,0
+10,Joachim Andersen,16.0,dk DEN,CB,25-264,90,57,52,5,5,0,0,0,0,0,0,0,0,44,0,0
+11,Nathaniel Clyne,17.0,eng ENG,RB,30-320,90,45,34,11,3,0,0,2,8,0,0,0,0,34,0,0
+12,Vicente Guaita,13.0,es ESP,GK,35-040,45,13,8,5,1,0,0,0,0,0,0,0,0,12,0,0
+13,Jack Butland,1.0,eng ENG,GK,28-346,45,20,14,6,3,0,0,0,0,0,0,0,0,19,0,0
+14,14 Players,,,,,990,415,359,55,23,1,1,20,19,4,1,2,0,318,1,7

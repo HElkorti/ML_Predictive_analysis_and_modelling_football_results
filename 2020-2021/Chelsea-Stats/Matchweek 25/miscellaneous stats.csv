@@ -1,0 +1,17 @@
+,Unnamed: 0_level_0,Unnamed: 1_level_0,Unnamed: 2_level_0,Unnamed: 3_level_0,Unnamed: 4_level_0,Unnamed: 5_level_0,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Aerial Duels,Aerial Duels,Aerial Duels
+,Player,#,Nation,Pos,Age,Min,CrdY,CrdR,2CrdY,Fls,Fld,Off,Crs,Int,TklW,PKwon,PKcon,OG,Recov,Won,Lost,Won%
+0,Tammy Abraham,9.0,eng ENG,FW,23-141,45,0,0,0,1,0,1,1,0,0,0,0,0,0,2,0,100.0
+1,Callum Hudson-Odoi,20.0,eng ENG,AM,20-105,30,0,0,0,0,0,1,1,0,1,0,0,0,0,0,0,
+2,Hakim Ziyech,22.0,ma MAR,AM,27-338,15,0,0,0,1,0,0,1,0,0,0,0,0,0,1,0,100.0
+3,Timo Werner,11.0,de GER,"FW,AM",24-351,90,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0.0
+4,Mason Mount,19.0,eng ENG,AM,22-041,90,0,0,0,2,2,0,5,0,0,1,0,0,4,2,1,66.7
+5,Mateo Kovačić,17.0,hr CRO,CM,26-290,75,0,0,0,0,1,0,0,0,1,0,0,0,9,0,0,
+6,Jorginho,5.0,it ITA,CM,29-062,15,0,0,0,1,0,0,0,0,0,0,0,0,1,0,0,
+7,N'Golo Kanté,7.0,fr FRA,CM,29-328,90,0,0,0,1,0,0,1,5,3,0,0,0,13,3,0,100.0
+8,Marcos Alonso,3.0,es ESP,WB,30-054,90,1,0,0,3,2,1,5,2,1,0,0,0,4,1,2,33.3
+9,Reece James,24.0,eng ENG,WB,21-074,90,0,0,0,1,1,0,1,0,1,0,0,0,8,1,1,50.0
+10,Antonio Rüdiger,2.0,de GER,CB,27-354,90,0,0,0,0,2,0,0,1,1,0,0,0,8,4,0,100.0
+11,Kurt Zouma,15.0,fr FRA,CB,26-116,90,0,0,0,0,0,0,0,2,0,0,0,0,5,4,1,80.0
+12,César Azpilicueta,28.0,es ESP,CB,31-176,90,0,0,0,0,0,1,0,2,3,0,0,0,7,5,4,55.6
+13,Edouard Mendy,16.0,sn SEN,GK,28-356,90,0,0,0,0,0,0,0,0,0,0,0,0,3,0,0,
+14,14 Players,,,,,990,1,0,0,10,9,4,15,12,11,1,0,0,62,23,10,69.7

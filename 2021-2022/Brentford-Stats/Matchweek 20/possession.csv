@@ -1,0 +1,17 @@
+,Unnamed: 0_level_0,Unnamed: 1_level_0,Unnamed: 2_level_0,Unnamed: 3_level_0,Unnamed: 4_level_0,Unnamed: 5_level_0,Touches,Touches,Touches,Touches,Touches,Touches,Touches,Take-Ons,Take-Ons,Take-Ons,Take-Ons,Take-Ons,Carries,Carries,Carries,Carries,Carries,Carries,Carries,Carries,Receiving,Receiving
+,Player,#,Nation,Pos,Age,Min,Touches,Def Pen,Def 3rd,Mid 3rd,Att 3rd,Att Pen,Live,Att,Succ,Succ%,Tkld,Tkld%,Carries,TotDist,PrgDist,PrgC,1/3,CPA,Mis,Dis,Rec,PrgR
+0,Ivan Toney,17.0,eng ENG,FW,25-288,90,32,2,9,16,8,1,32,1,1,100.0,0,0.0,12,42,11,0,1,0,0,3,12,3
+1,Yoane Wissa,11.0,cd COD,FW,25-117,68,14,0,4,6,5,2,14,1,0,0.0,1,100.0,8,43,16,1,0,0,1,0,7,1
+2,Sergi Canós,7.0,es ESP,FW,24-330,22,2,0,0,1,1,0,2,1,0,0.0,1,100.0,1,2,0,0,0,0,1,0,1,0
+3,Frank Onyeka,15.0,ng NGA,CM,23-362,74,27,1,10,14,3,2,27,0,0,,0,,14,58,38,1,0,1,0,3,15,1
+4,Mads Bidstrup,28.0,dk DEN,CM,20-307,16,3,0,0,1,2,0,3,0,0,,0,,3,12,6,0,0,0,1,0,3,0
+5,Mathias Jensen,8.0,dk DEN,CM,25-362,90,34,2,8,15,11,0,34,0,0,,0,,9,22,4,0,0,0,1,1,8,1
+6,Shandon Baptiste,26.0,gd GRN,CM,23-265,90,14,1,5,7,2,0,14,0,0,,0,,8,38,8,0,0,0,0,0,4,0
+7,Dominic Thompson,2.0,eng ENG,WB,21-156,81,26,7,21,2,3,0,26,1,0,0.0,1,100.0,13,50,8,0,0,0,2,0,11,1
+8,Saman Ghoddos,14.0,ir IRN,WB,28-114,9,3,1,2,0,1,0,3,1,1,100.0,0,0.0,2,28,11,0,0,0,0,0,1,0
+9,Mads Roerslev,30.0,dk DEN,WB,22-188,90,21,1,11,6,4,0,21,1,0,0.0,1,100.0,10,23,1,0,0,0,2,0,9,0
+10,Mads Bech Sørensen,29.0,dk DEN,CB,22-356,90,52,8,34,19,0,0,52,0,0,,0,,29,141,79,0,0,0,0,0,25,0
+11,Pontus Jansson,18.0,se SWE,CB,30-319,90,27,10,21,6,0,0,27,0,0,,0,,11,35,16,0,0,0,0,0,13,0
+12,Ethan Pinnock,5.0,jm JAM,CB,28-214,90,38,7,21,8,9,5,38,0,0,,0,,16,31,15,0,0,0,0,0,17,0
+13,Álvaro Fernández,40.0,es ESP,GK,23-260,90,43,31,42,1,0,0,43,0,0,,0,,20,117,65,0,0,0,0,0,18,0
+14,14 Players,,,,,990,336,71,188,102,49,10,336,6,2,33.3,4,66.7,156,642,278,2,1,1,8,7,144,7

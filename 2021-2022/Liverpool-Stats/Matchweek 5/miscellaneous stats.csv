@@ -1,0 +1,17 @@
+,Unnamed: 0_level_0,Unnamed: 1_level_0,Unnamed: 2_level_0,Unnamed: 3_level_0,Unnamed: 4_level_0,Unnamed: 5_level_0,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Aerial Duels,Aerial Duels,Aerial Duels
+,Player,#,Nation,Pos,Age,Min,CrdY,CrdR,2CrdY,Fls,Fld,Off,Crs,Int,TklW,PKwon,PKcon,OG,Recov,Won,Lost,Won%
+0,Diogo Jota,20.0,pt POR,FW,24-288,75,0,0,0,1,2,0,1,0,1,0,0,0,2,3,1,75.0
+1,Curtis Jones,17.0,eng ENG,"LW,RM",20-231,15,0,0,0,0,0,0,0,0,0,0,0,0,2,0,1,0.0
+2,Sadio Mané,10.0,sn SEN,"LW,FW",29-161,90,0,0,0,1,1,1,2,0,1,0,0,0,1,0,1,0.0
+3,Mohamed Salah,11.0,eg EGY,RW,29-095,90,1,0,0,0,1,0,1,0,0,0,0,0,2,1,0,100.0
+4,Thiago Alcántara,6.0,es ESP,LM,30-160,61,0,0,0,1,0,0,0,1,0,0,0,0,8,2,0,100.0
+5,Naby Keïta,8.0,gn GUI,LM,26-220,29,0,0,0,0,0,0,0,0,1,0,0,0,2,0,0,
+6,Fabinho,3.0,br BRA,CM,27-330,90,0,0,0,0,0,0,1,2,2,0,0,0,4,1,0,100.0
+7,Jordan Henderson,14.0,eng ENG,RM,31-093,87,1,0,0,2,1,0,7,0,1,0,0,0,3,1,0,100.0
+8,Divock Origi,27.0,be BEL,LW,26-153,3,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,
+9,Kostas Tsimikas,21.0,gr GRE,LB,25-129,90,1,0,0,6,1,0,11,2,2,0,0,0,1,2,2,50.0
+10,Virgil van Dijk,4.0,nl NED,CB,30-072,90,0,0,0,0,0,0,0,1,0,0,0,0,6,7,0,100.0
+11,Ibrahima Konaté,5.0,fr FRA,CB,22-116,90,0,0,0,1,0,0,0,1,1,0,0,0,5,2,1,66.7
+12,James Milner,7.0,eng ENG,RB,35-257,90,0,0,0,5,3,0,13,3,2,0,0,0,15,2,1,66.7
+13,Alisson,1.0,br BRA,GK,28-351,90,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
+14,14 Players,,,,,990,3,0,0,17,9,1,36,10,11,0,0,0,52,21,7,75.0

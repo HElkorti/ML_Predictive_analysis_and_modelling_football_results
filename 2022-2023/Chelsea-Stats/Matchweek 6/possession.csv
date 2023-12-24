@@ -1,0 +1,19 @@
+,Unnamed: 0_level_0,Unnamed: 1_level_0,Unnamed: 2_level_0,Unnamed: 3_level_0,Unnamed: 4_level_0,Unnamed: 5_level_0,Touches,Touches,Touches,Touches,Touches,Touches,Touches,Take-Ons,Take-Ons,Take-Ons,Take-Ons,Take-Ons,Carries,Carries,Carries,Carries,Carries,Carries,Carries,Carries,Receiving,Receiving
+,Player,#,Nation,Pos,Age,Min,Touches,Def Pen,Def 3rd,Mid 3rd,Att 3rd,Att Pen,Live,Att,Succ,Succ%,Tkld,Tkld%,Carries,TotDist,PrgDist,PrgC,1/3,CPA,Mis,Dis,Rec,PrgR
+0,Raheem Sterling,17.0,eng ENG,"FW,LW",27-269,90,42,0,0,13,30,4,42,5,3,60.0,2,40.0,29,208,114,4,4,4,3,2,39,6
+1,Christian Pulisic,10.0,us USA,FW,23-350,59,31,0,1,12,19,3,31,3,1,33.3,2,66.7,19,141,74,3,5,0,0,2,24,4
+2,Mason Mount,19.0,eng ENG,"CM,FW",23-236,31,23,1,2,11,10,0,23,0,0,,0,,12,38,13,1,1,0,0,1,17,4
+3,Marc Cucurella,32.0,es ESP,LW,24-043,71,59,1,7,22,30,1,59,1,0,0.0,1,100.0,21,92,52,1,1,0,1,0,37,7
+4,Ben Chilwell,21.0,eng ENG,LM,25-256,19,18,0,3,5,10,1,18,0,0,,0,,6,25,23,1,2,0,1,1,9,5
+5,Reece James,24.0,eng ENG,"RW,RM",22-269,90,63,0,5,20,39,5,63,3,2,66.7,0,0.0,33,186,135,5,1,4,2,1,44,13
+6,Mateo Kovačić,8.0,hr CRO,CM,28-120,71,67,0,5,46,16,0,67,2,1,50.0,1,50.0,44,272,100,1,2,0,0,0,57,0
+7,Kai Havertz,29.0,de GER,RW,23-084,19,11,0,1,1,9,2,11,0,0,,0,,4,26,0,0,1,0,3,0,5,2
+8,Conor Gallagher,23.0,eng ENG,CM,22-209,59,40,0,2,15,24,0,40,0,0,,0,,24,133,54,1,3,0,1,0,28,5
+9,Armando Broja,18.0,al ALB,"FW,CM",20-358,31,17,0,0,6,11,2,17,0,0,,0,,4,13,11,0,0,0,3,0,8,3
+10,Ruben Loftus-Cheek,12.0,eng ENG,"DM,CM",26-223,82,91,3,5,61,26,1,91,2,1,50.0,0,0.0,57,329,192,4,4,0,1,1,78,3
+11,Jorginho,5.0,it ITA,CM,30-257,8,6,0,1,3,2,0,6,0,0,,0,,2,11,6,0,0,0,0,0,4,0
+12,Kalidou Koulibaly,26.0,sn SEN,CB,31-075,90,92,4,28,59,6,2,92,1,1,100.0,0,0.0,55,221,105,1,1,0,1,0,63,1
+13,Thiago Silva,6.0,br BRA,CB,37-346,90,114,4,38,72,5,1,114,0,0,,0,,74,287,168,0,2,0,0,0,85,0
+14,Wesley Fofana,33.0,fr FRA,CB,21-260,90,105,2,22,64,19,1,105,0,0,,0,,76,394,216,5,2,0,1,0,84,5
+15,Edouard Mendy,16.0,sn SEN,GK,30-186,90,23,20,23,0,0,0,23,0,0,,0,,16,63,20,0,0,0,0,0,14,0
+16,16 Players,,,,,990,802,35,143,410,256,23,802,17,9,52.9,6,35.3,476,2439,1283,27,29,8,17,8,596,58

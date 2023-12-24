@@ -1,0 +1,19 @@
+,Unnamed: 0_level_0,Unnamed: 1_level_0,Unnamed: 2_level_0,Unnamed: 3_level_0,Unnamed: 4_level_0,Unnamed: 5_level_0,Unnamed: 6_level_0,Pass Types,Pass Types,Pass Types,Pass Types,Pass Types,Pass Types,Pass Types,Pass Types,Corner Kicks,Corner Kicks,Corner Kicks,Outcomes,Outcomes,Outcomes
+,Player,#,Nation,Pos,Age,Min,Att,Live,Dead,FK,TB,Sw,Crs,TI,CK,In,Out,Str,Cmp,Off,Blocks
+0,Kai Havertz,29.0,de GER,"FW,CM",23-140,90,40,36,4,0,0,1,0,0,0,0,0,0,35,0,1
+1,Mason Mount,19.0,eng ENG,"LM,AM",23-292,90,58,50,8,3,0,0,5,1,4,0,4,0,49,0,4
+2,Conor Gallagher,23.0,eng ENG,"AM,RM",22-265,78,32,32,0,0,0,0,3,0,0,0,0,0,27,0,2
+3,Hakim Ziyech,22.0,ma MAR,RM,29-224,12,10,9,1,1,0,0,1,0,0,0,0,0,7,0,1
+4,Mateo Kovačić,8.0,hr CRO,"CM,DM",28-176,90,64,63,1,1,1,0,0,0,0,0,0,0,51,0,0
+5,Ruben Loftus-Cheek,12.0,eng ENG,"RB,CM",26-279,90,56,49,7,4,0,0,1,3,0,0,0,0,51,0,1
+6,Raheem Sterling,17.0,eng ENG,"WB,RW",27-325,62,28,25,3,0,0,0,4,0,3,3,0,0,15,0,6
+7,Pierre-Emerick Aubameyang,9.0,ga GAB,"FW,LW,RW",33-133,28,7,6,1,0,0,0,1,0,0,0,0,0,7,0,0
+8,Christian Pulisic,10.0,us USA,"WB,LW,RW",24-041,78,21,21,0,0,0,0,1,0,0,0,0,0,16,0,1
+9,Armando Broja,18.0,al ALB,FW,21-049,12,6,6,0,0,0,0,0,0,0,0,0,0,4,0,0
+10,Marc Cucurella,32.0,es ESP,"CB,LB",24-099,63,44,30,14,1,0,0,0,13,0,0,0,0,36,0,1
+11,Ben Chilwell,21.0,eng ENG,LB,25-312,27,25,19,6,1,0,1,2,5,0,0,0,0,22,0,0
+12,Thiago Silva,6.0,br BRA,CB,38-037,90,63,60,3,2,0,0,0,1,0,0,0,0,57,0,2
+13,Trevoh Chalobah,14.0,eng ENG,CB,23-116,90,62,60,2,2,0,0,0,0,0,0,0,0,59,0,0
+14,Kepa Arrizabalaga,1.0,es ESP,GK,28-026,45,16,10,6,0,0,0,0,0,0,0,0,0,14,0,0
+15,Edouard Mendy,16.0,sn SEN,GK,30-242,45,27,23,4,1,0,0,0,0,0,0,0,0,23,0,0
+16,16 Players,,,,,990,559,499,60,16,1,2,18,23,7,3,4,0,473,0,19

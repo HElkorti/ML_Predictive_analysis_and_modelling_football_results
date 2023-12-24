@@ -1,0 +1,17 @@
+,Unnamed: 0_level_0,Unnamed: 1_level_0,Unnamed: 2_level_0,Unnamed: 3_level_0,Unnamed: 4_level_0,Unnamed: 5_level_0,Unnamed: 6_level_0,Pass Types,Pass Types,Pass Types,Pass Types,Pass Types,Pass Types,Pass Types,Pass Types,Corner Kicks,Corner Kicks,Corner Kicks,Outcomes,Outcomes,Outcomes
+,Player,#,Nation,Pos,Age,Min,Att,Live,Dead,FK,TB,Sw,Crs,TI,CK,In,Out,Str,Cmp,Off,Blocks
+0,Gabriel Jesus,9.0,br BRA,FW,25-189,89,21,18,3,0,0,2,0,0,0,0,0,0,19,0,0
+1,Eddie Nketiah,14.0,eng ENG,FW,23-132,1,2,2,0,0,0,0,0,0,0,0,0,0,1,0,0
+2,Gabriel Martinelli,11.0,br BRA,"LW,LM",21-113,90,33,31,2,0,0,0,2,0,2,1,0,0,24,0,2
+3,Bukayo Saka,7.0,eng ENG,"RW,RM",21-034,89,24,22,2,0,0,0,2,0,2,2,0,0,18,0,0
+4,Fabio Vieira,21.0,pt POR,RM,22-132,1,2,1,1,1,0,0,0,0,0,0,0,0,2,0,0
+5,Granit Xhaka,34.0,ch SUI,"LM,CM",30-012,90,35,34,1,0,0,0,1,1,0,0,0,0,25,0,1
+6,Thomas Partey,5.0,gh GHA,CM,29-118,90,45,42,3,3,0,0,0,0,0,0,0,0,42,0,0
+7,Martin Ødegaard,8.0,no NOR,RM,23-296,81,23,21,2,2,2,0,1,0,0,0,0,0,17,0,0
+8,Kieran Tierney,3.0,sct SCO,LB,25-126,9,6,5,1,0,0,0,0,1,0,0,0,0,4,0,0
+9,Takehiro Tomiyasu,18.0,jp JPN,"LB,CB",23-338,90,56,49,6,1,1,0,2,5,0,0,0,0,43,1,1
+10,Gabriel Dos Santos,6.0,br BRA,CB,24-294,90,55,52,3,3,0,0,0,0,0,0,0,0,47,0,0
+11,William Saliba,12.0,fr FRA,CB,21-199,90,50,47,3,3,0,0,0,0,0,0,0,0,42,0,0
+12,Ben White,4.0,eng ENG,RB,25-001,90,39,28,9,2,0,0,1,7,0,0,0,0,19,2,1
+13,Aaron Ramsdale,1.0,eng ENG,GK,24-148,90,26,21,5,1,0,2,0,0,0,0,0,0,13,0,0
+14,14 Players,,,,,990,417,373,41,16,3,4,9,14,4,3,0,0,316,3,5

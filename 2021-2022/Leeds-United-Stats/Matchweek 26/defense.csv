@@ -1,0 +1,17 @@
+,Unnamed: 0_level_0,Unnamed: 1_level_0,Unnamed: 2_level_0,Unnamed: 3_level_0,Unnamed: 4_level_0,Unnamed: 5_level_0,Tackles,Tackles,Tackles,Tackles,Tackles,Challenges,Challenges,Challenges,Challenges,Blocks,Blocks,Blocks,Unnamed: 18_level_0,Unnamed: 19_level_0,Unnamed: 20_level_0,Unnamed: 21_level_0
+,Player,#,Nation,Pos,Age,Min,Tkl,TklW,Def 3rd,Mid 3rd,Att 3rd,Tkl,Att,Tkl%,Lost,Blocks,Sh,Pass,Int,Tkl+Int,Clr,Err
+0,Rodrigo,19.0,es ESP,FW,30-351,90,2,1,0,1,1,0,0,,0,0,0,0,0,2,0,0
+1,Jack Harrison,22.0,eng ENG,LW,25-092,45,0,0,0,0,0,0,1,0.0,1,1,0,1,0,0,0,0
+2,Raphinha,10.0,br BRA,RM,25-068,45,2,1,2,0,0,1,3,33.3,2,0,0,0,0,2,1,0
+3,Daniel James,20.0,wls WAL,"LM,RW",24-102,90,0,0,0,0,0,0,1,0.0,1,1,1,0,1,1,0,0
+4,Mateusz Klich,43.0,pl POL,"CM,AM",31-252,90,3,2,1,2,0,1,2,50.0,1,0,0,0,1,4,2,0
+5,Robin Koch,5.0,de GER,DM,25-218,30,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,0
+6,Junior Firpo,3.0,es ESP,LB,25-182,60,4,3,1,2,1,2,2,100.0,0,2,1,1,3,7,2,0
+7,Adam Forshaw,4.0,eng ENG,"CM,DM",30-135,90,5,2,1,3,1,1,6,16.7,5,3,0,3,2,7,0,0
+8,Stuart Dallas,15.0,nir NIR,"RB,LB",30-307,90,3,0,2,1,0,2,3,66.7,1,1,1,0,6,9,2,0
+9,Pascal Struijk,21.0,nl NED,"CB,DM",22-193,90,0,0,0,0,0,0,1,0.0,1,1,1,0,2,2,3,1
+10,Diego Llorente,14.0,es ESP,CB,28-188,45,1,1,1,0,0,1,1,100.0,0,0,0,0,0,1,3,0
+11,Joe Gelhardt,30.0,eng ENG,FW,19-292,45,2,1,0,0,2,1,2,50.0,1,3,0,3,0,2,0,0
+12,Luke Ayling,2.0,eng ENG,"CB,RB",30-179,90,2,1,2,0,0,1,3,33.3,2,0,0,0,2,4,3,0
+13,Illan Meslier,1.0,fr FRA,GK,21-355,90,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,0
+14,14 Players,,,,,990,24,12,10,9,5,10,25,40.0,15,12,4,8,17,41,16,1

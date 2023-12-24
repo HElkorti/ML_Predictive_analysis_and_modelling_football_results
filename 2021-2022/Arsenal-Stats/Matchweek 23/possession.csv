@@ -1,0 +1,15 @@
+,Unnamed: 0_level_0,Unnamed: 1_level_0,Unnamed: 2_level_0,Unnamed: 3_level_0,Unnamed: 4_level_0,Unnamed: 5_level_0,Touches,Touches,Touches,Touches,Touches,Touches,Touches,Take-Ons,Take-Ons,Take-Ons,Take-Ons,Take-Ons,Carries,Carries,Carries,Carries,Carries,Carries,Carries,Carries,Receiving,Receiving
+,Player,#,Nation,Pos,Age,Min,Touches,Def Pen,Def 3rd,Mid 3rd,Att 3rd,Att Pen,Live,Att,Succ,Succ%,Tkld,Tkld%,Carries,TotDist,PrgDist,PrgC,1/3,CPA,Mis,Dis,Rec,PrgR
+0,Alexandre Lacazette,9.0,fr FRA,FW,30-240,90,28,0,0,14,14,6,28,2,2,100.0,0,0.0,14,59,29,1,1,1,1,0,23,6
+1,Gabriel Martinelli,35.0,br BRA,LM,20-219,90,55,2,6,8,41,7,55,0,0,,0,,39,321,178,8,3,5,0,2,40,14
+2,Emile Smith Rowe,10.0,eng ENG,CM,21-179,76,48,1,5,14,29,5,48,1,0,0.0,1,100.0,31,127,74,3,2,2,0,0,40,6
+3,Eddie Nketiah,30.0,eng ENG,FW,22-238,14,11,0,0,3,8,2,11,2,1,50.0,1,50.0,9,86,63,3,3,2,0,0,10,1
+4,Martin Ødegaard,8.0,no NOR,CM,23-037,90,62,1,5,26,31,2,62,0,0,,0,,37,189,65,1,2,1,1,3,41,2
+5,Bukayo Saka,7.0,eng ENG,RM,20-140,90,59,2,5,19,37,11,59,11,5,45.5,6,54.5,41,325,184,7,3,5,3,1,45,21
+6,Albert Sambi Lokonga,23.0,be BEL,"DM,CM",22-093,90,70,3,14,49,8,0,70,0,0,,0,,42,195,87,0,1,0,0,0,47,0
+7,Kieran Tierney,3.0,sct SCO,LB,24-232,90,99,3,15,51,33,3,99,0,0,,0,,73,315,194,4,0,0,0,0,76,8
+8,Gabriel Dos Santos,6.0,br BRA,CB,24-035,90,105,9,41,50,14,4,105,0,0,,0,,81,455,326,2,3,1,2,1,81,3
+9,Rob Holding,16.0,eng ENG,CB,26-125,90,101,4,47,49,5,1,101,0,0,,0,,71,188,130,2,0,0,0,2,79,0
+10,Ben White,4.0,eng ENG,RB,24-107,90,107,0,20,59,28,1,107,0,0,,0,,74,296,191,4,3,1,1,1,76,0
+11,Aaron Ramsdale,32.0,eng ENG,GK,23-254,90,40,31,40,0,0,0,40,0,0,,0,,30,112,76,0,0,0,0,0,23,0
+12,12 Players,,,,,990,785,56,198,342,248,42,785,16,8,50.0,8,50.0,542,2668,1597,35,21,18,8,10,581,61

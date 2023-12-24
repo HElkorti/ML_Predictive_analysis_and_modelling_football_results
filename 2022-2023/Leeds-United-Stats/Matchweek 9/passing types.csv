@@ -1,0 +1,19 @@
+,Unnamed: 0_level_0,Unnamed: 1_level_0,Unnamed: 2_level_0,Unnamed: 3_level_0,Unnamed: 4_level_0,Unnamed: 5_level_0,Unnamed: 6_level_0,Pass Types,Pass Types,Pass Types,Pass Types,Pass Types,Pass Types,Pass Types,Pass Types,Corner Kicks,Corner Kicks,Corner Kicks,Outcomes,Outcomes,Outcomes
+,Player,#,Nation,Pos,Age,Min,Att,Live,Dead,FK,TB,Sw,Crs,TI,CK,In,Out,Str,Cmp,Off,Blocks
+0,Rodrigo,19.0,es ESP,FW,31-210,67,17,16,1,0,0,0,1,0,0,0,0,0,12,0,1
+1,Patrick Bamford,9.0,eng ENG,FW,29-027,23,2,2,0,0,0,0,0,0,0,0,0,0,1,0,0
+2,Luis Sinisterra,23.0,co COL,LW,23-107,47,20,20,0,0,0,2,1,0,0,0,0,0,15,0,2
+3,Jack Harrison,11.0,eng ENG,"RW,CM",25-316,78,22,18,4,3,0,0,3,1,0,0,0,0,13,0,0
+4,Crysencio Summerville,10.0,nl NED,CM,20-337,12,4,4,0,0,0,0,0,0,0,0,0,0,2,0,0
+5,Brenden Aaronson,7.0,us USA,"AM,CM",21-345,78,17,16,1,0,0,0,1,0,1,0,1,0,13,0,0
+6,Mateusz Klich,43.0,pl POL,CM,32-111,12,5,3,2,1,0,0,1,0,1,1,0,0,2,0,0
+7,Marc Roca,8.0,es ESP,DM,25-310,57,39,38,1,0,0,1,0,1,0,0,0,0,29,0,0
+8,Junior Firpo,3.0,es ESP,LB,26-041,33,14,12,2,0,0,0,0,2,0,0,0,0,4,0,0
+9,Tyler Adams,12.0,us USA,"DM,CM",23-230,90,43,39,4,3,0,0,0,1,0,0,0,0,35,0,0
+10,Pascal Struijk,21.0,nl NED,"LB,CB",23-052,90,45,40,5,2,0,1,2,3,0,0,0,0,34,0,0
+11,Liam Cooper,6.0,sct SCO,CB,31-033,90,49,49,0,0,0,0,0,0,0,0,0,0,39,0,0
+12,Robin Koch,5.0,de GER,CB,26-077,90,49,48,1,1,0,0,0,0,0,0,0,0,37,0,0
+13,Rasmus Nissen,25.0,dk DEN,RB,25-083,67,47,35,12,0,0,0,1,12,0,0,0,0,33,0,1
+14,Luke Ayling,2.0,eng ENG,RB,31-038,23,3,3,0,0,0,0,0,0,0,0,0,0,1,0,0
+15,Illan Meslier,1.0,fr FRA,GK,22-214,90,39,27,12,4,0,0,0,0,0,0,0,0,25,0,0
+16,16 Players,,,,,947,415,370,45,14,0,4,10,20,2,1,1,0,295,0,4

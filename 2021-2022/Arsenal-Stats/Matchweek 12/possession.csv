@@ -1,0 +1,17 @@
+,Unnamed: 0_level_0,Unnamed: 1_level_0,Unnamed: 2_level_0,Unnamed: 3_level_0,Unnamed: 4_level_0,Unnamed: 5_level_0,Touches,Touches,Touches,Touches,Touches,Touches,Touches,Take-Ons,Take-Ons,Take-Ons,Take-Ons,Take-Ons,Carries,Carries,Carries,Carries,Carries,Carries,Carries,Carries,Receiving,Receiving
+,Player,#,Nation,Pos,Age,Min,Touches,Def Pen,Def 3rd,Mid 3rd,Att 3rd,Att Pen,Live,Att,Succ,Succ%,Tkld,Tkld%,Carries,TotDist,PrgDist,PrgC,1/3,CPA,Mis,Dis,Rec,PrgR
+0,Pierre-Emerick Aubameyang,14.0,ga GAB,FW,32-155,90,19,0,2,11,6,1,19,0,0,,0,,10,30,21,1,0,0,1,0,14,4
+1,Alexandre Lacazette,9.0,fr FRA,FW,30-176,66,23,0,3,13,7,0,23,1,1,100.0,0,0.0,15,64,43,2,0,0,1,0,15,3
+2,Martin Ødegaard,8.0,no NOR,FW,22-338,24,16,0,2,10,4,0,16,0,0,,0,,12,35,14,0,1,0,0,0,13,2
+3,Emile Smith Rowe,10.0,eng ENG,LM,21-115,90,28,1,6,13,9,0,28,2,0,0.0,2,100.0,21,100,38,2,0,0,1,1,21,1
+4,Albert Sambi Lokonga,23.0,be BEL,CM,22-029,52,36,4,23,11,2,0,36,1,1,100.0,0,0.0,20,69,6,0,0,0,0,1,27,0
+5,Ainsley Maitland-Niles,15.0,eng ENG,CM,24-083,38,21,1,5,14,2,0,21,0,0,,0,,12,29,15,0,0,0,0,1,17,1
+6,Thomas Partey,5.0,gh GHA,CM,28-160,83,45,3,20,25,2,0,45,4,3,75.0,1,25.0,31,139,41,1,0,0,1,0,36,0
+7,Mohamed Elneny,25.0,eg EGY,CM,29-132,7,10,0,3,6,1,0,10,0,0,,0,,6,23,4,0,0,0,1,0,8,0
+8,Bukayo Saka,7.0,eng ENG,RM,20-076,90,40,2,5,18,17,3,40,1,1,100.0,0,0.0,24,155,96,5,3,1,4,3,30,9
+9,Nuno Tavares,20.0,pt POR,LB,21-298,90,65,5,40,17,8,1,65,3,2,66.7,1,33.3,31,131,34,1,0,0,3,0,32,2
+10,Gabriel Dos Santos,6.0,br BRA,CB,23-336,90,60,23,47,13,0,0,60,1,1,100.0,0,0.0,38,133,72,0,0,0,0,0,39,0
+11,Ben White,4.0,eng ENG,CB,24-043,90,58,12,37,20,1,0,58,1,0,0.0,1,100.0,23,76,27,0,0,0,2,0,28,0
+12,Takehiro Tomiyasu,18.0,jp JPN,RB,23-015,90,55,4,14,26,15,0,55,1,0,0.0,1,100.0,26,76,15,0,0,0,2,2,27,2
+13,Aaron Ramsdale,32.0,eng ENG,GK,23-190,90,42,33,42,0,0,0,42,0,0,,0,,25,124,71,0,0,0,0,0,21,0
+14,14 Players,,,,,990,518,88,249,197,74,5,518,15,9,60.0,6,40.0,294,1184,497,12,4,1,16,8,328,24

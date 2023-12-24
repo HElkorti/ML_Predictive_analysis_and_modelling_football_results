@@ -1,0 +1,17 @@
+,Unnamed: 0_level_0,Unnamed: 1_level_0,Unnamed: 2_level_0,Unnamed: 3_level_0,Unnamed: 4_level_0,Unnamed: 5_level_0,Unnamed: 6_level_0,Pass Types,Pass Types,Pass Types,Pass Types,Pass Types,Pass Types,Pass Types,Pass Types,Corner Kicks,Corner Kicks,Corner Kicks,Outcomes,Outcomes,Outcomes
+,Player,#,Nation,Pos,Age,Min,Att,Live,Dead,FK,TB,Sw,Crs,TI,CK,In,Out,Str,Cmp,Off,Blocks
+0,Daniel James,20.0,wls WAL,FW,24-105,60,9,7,2,0,0,0,0,0,0,0,0,0,7,0,0
+1,Joe Gelhardt,30.0,eng ENG,FW,19-295,30,5,3,2,0,0,0,0,0,0,0,0,0,4,0,0
+2,Jack Harrison,22.0,eng ENG,LM,25-095,90,30,29,0,0,0,0,4,0,0,0,0,0,19,1,0
+3,Rodrigo,19.0,es ESP,CM,30-354,45,17,15,2,0,0,0,0,0,0,0,0,0,13,0,0
+4,Tyler Roberts,11.0,wls WAL,CM,23-042,45,13,13,0,0,0,0,0,0,0,0,0,0,10,0,1
+5,Mateusz Klich,43.0,pl POL,CM,31-255,45,17,17,0,0,1,1,0,0,0,0,0,0,12,0,0
+6,Jamie Shackleton,46.0,eng ENG,RB,22-138,45,25,24,1,0,0,0,0,1,0,0,0,0,20,0,0
+7,Raphinha,10.0,br BRA,RM,25-071,90,24,23,1,0,0,2,1,1,0,0,0,0,12,0,0
+8,Adam Forshaw,4.0,eng ENG,DM,30-138,90,55,52,2,2,0,0,0,0,0,0,0,0,43,1,1
+9,Junior Firpo,3.0,es ESP,LB,25-185,90,41,35,5,0,0,0,0,5,0,0,0,0,34,1,0
+10,Pascal Struijk,21.0,nl NED,CB,22-196,90,40,37,2,2,0,1,0,0,0,0,0,0,30,1,0
+11,Luke Ayling,2.0,eng ENG,CB,30-182,90,55,53,1,1,0,0,0,0,0,0,0,0,45,1,0
+12,Stuart Dallas,15.0,nir NIR,"CM,RB",30-310,90,36,31,4,0,0,0,1,4,0,0,0,0,25,1,1
+13,Illan Meslier,1.0,fr FRA,GK,21-358,90,46,35,11,1,0,0,0,0,0,0,0,0,28,0,0
+14,14 Players,,,,,990,413,374,33,6,1,4,6,11,0,0,0,0,302,6,3

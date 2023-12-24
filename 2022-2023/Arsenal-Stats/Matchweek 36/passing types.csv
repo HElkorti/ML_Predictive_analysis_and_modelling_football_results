@@ -1,0 +1,19 @@
+,Unnamed: 0_level_0,Unnamed: 1_level_0,Unnamed: 2_level_0,Unnamed: 3_level_0,Unnamed: 4_level_0,Unnamed: 5_level_0,Unnamed: 6_level_0,Pass Types,Pass Types,Pass Types,Pass Types,Pass Types,Pass Types,Pass Types,Pass Types,Corner Kicks,Corner Kicks,Corner Kicks,Outcomes,Outcomes,Outcomes
+,Player,#,Nation,Pos,Age,Min,Att,Live,Dead,FK,TB,Sw,Crs,TI,CK,In,Out,Str,Cmp,Off,Blocks
+0,Gabriel Jesus,9.0,br BRA,FW,26-041,76,13,11,2,0,0,0,0,0,0,0,0,0,7,0,1
+1,Eddie Nketiah,14.0,eng ENG,FW,23-349,14,5,3,2,0,0,0,0,0,0,0,0,0,5,0,0
+2,Gabriel Martinelli,11.0,br BRA,LW,21-330,19,3,2,1,0,0,0,1,0,1,1,0,0,2,0,0
+3,Leandro Trossard,19.0,be BEL,"LW,LM",28-161,71,19,15,3,2,0,0,3,0,1,1,0,0,14,1,2
+4,Bukayo Saka,7.0,eng ENG,RW,21-251,90,30,27,3,0,0,0,4,0,3,3,0,0,20,0,0
+5,Granit Xhaka,34.0,ch SUI,LM,30-229,59,24,24,0,0,0,0,0,0,0,0,0,0,19,0,1
+6,Reiss Nelson,24.0,eng ENG,LW,23-155,31,7,7,0,0,0,0,0,0,0,0,0,0,5,0,0
+7,Jorginho,20.0,it ITA,CM,31-145,59,29,27,2,2,0,0,0,0,0,0,0,0,25,0,1
+8,Thomas Partey,5.0,gh GHA,CM,29-335,31,21,20,1,1,0,0,0,0,0,0,0,0,18,0,0
+9,Martin Ødegaard,8.0,no NOR,RM,24-148,76,29,28,1,1,0,0,0,0,0,0,0,0,21,0,1
+10,Emile Smith Rowe,10.0,eng ENG,RM,22-290,14,8,8,0,0,0,0,0,0,0,0,0,0,7,0,0
+11,Kieran Tierney,3.0,sct SCO,LB,25-343,90,32,26,6,1,0,0,1,5,0,0,0,0,23,0,1
+12,Gabriel Dos Santos,6.0,br BRA,CB,25-146,90,39,33,6,5,0,0,0,0,0,0,0,0,30,0,1
+13,Jakub Kiwior,15.0,pl POL,CB,23-088,90,48,45,3,3,0,1,0,0,0,0,0,0,41,0,0
+14,Ben White,4.0,eng ENG,RB,25-218,90,42,33,9,3,0,0,2,6,0,0,0,0,35,0,0
+15,Aaron Ramsdale,1.0,eng ENG,GK,25-000,90,38,31,7,3,0,0,0,0,0,0,0,0,20,0,0
+16,16 Players,,,,,990,387,340,46,21,0,1,11,11,5,5,0,0,292,1,8

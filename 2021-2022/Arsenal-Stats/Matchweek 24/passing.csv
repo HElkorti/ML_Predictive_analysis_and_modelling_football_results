@@ -1,0 +1,17 @@
+,Unnamed: 0_level_0,Unnamed: 1_level_0,Unnamed: 2_level_0,Unnamed: 3_level_0,Unnamed: 4_level_0,Unnamed: 5_level_0,Total,Total,Total,Total,Total,Short,Short,Short,Medium,Medium,Medium,Long,Long,Long,Unnamed: 20_level_0,Unnamed: 21_level_0,Unnamed: 22_level_0,Unnamed: 23_level_0,Unnamed: 24_level_0,Unnamed: 25_level_0,Unnamed: 26_level_0,Unnamed: 27_level_0
+,Player,#,Nation,Pos,Age,Min,Cmp,Att,Cmp%,TotDist,PrgDist,Cmp,Att,Cmp%,Cmp,Att,Cmp%,Cmp,Att,Cmp%,Ast,xAG,xA,KP,1/3,PPA,CrsPA,PrgP
+0,Alexandre Lacazette,9.0,fr FRA,FW,30-258,80,9,11,81.8,157,40,5,5,100.0,3,4,75.0,1,1,100.0,1,0.8,0.0,2,2,0,0,2
+1,Eddie Nketiah,30.0,eng ENG,FW,22-256,10,0,2,0.0,0,0,0,1,0.0,0,1,0.0,0,0,,0,0.0,0.0,0,0,0,0,0
+2,Gabriel Martinelli,35.0,br BRA,LW,20-237,68,13,22,59.1,258,48,5,8,62.5,4,7,57.1,3,4,75.0,0,0.0,0.0,0,0,2,1,2
+3,Bukayo Saka,7.0,eng ENG,RW,20-158,70,17,22,77.3,199,35,13,16,81.3,4,4,100.0,0,0,,0,0.3,0.2,2,1,0,0,2
+4,Rob Holding,16.0,eng ENG,CB,26-143,20,0,0,,0,0,0,0,,0,0,,0,0,,0,0.0,0.0,0,0,0,0,0
+5,Martin Ødegaard,8.0,no NOR,AM,23-055,67,36,43,83.7,615,123,16,21,76.2,17,18,94.4,2,3,66.7,0,0.1,0.2,2,1,4,0,7
+6,Emile Smith Rowe,10.0,eng ENG,"CM,AM",21-197,23,3,5,60.0,76,0,0,1,0.0,3,3,100.0,0,1,0.0,0,0.0,0.0,0,0,0,0,0
+7,Granit Xhaka,34.0,ch SUI,"DM,CM",29-136,90,33,40,82.5,578,124,12,13,92.3,19,25,76.0,2,2,100.0,0,0.0,0.0,0,4,0,0,8
+8,Thomas Partey,5.0,gh GHA,"DM,CM",28-242,90,36,44,81.8,745,240,13,16,81.3,16,18,88.9,7,8,87.5,0,0.0,0.0,0,6,0,0,6
+9,Kieran Tierney,3.0,sct SCO,LB,24-250,90,33,47,70.2,589,273,13,16,81.3,17,20,85.0,2,9,22.2,0,0.0,0.0,0,3,0,0,5
+10,Gabriel Dos Santos,6.0,br BRA,CB,24-053,90,38,44,86.4,668,313,20,20,100.0,15,17,88.2,3,6,50.0,0,0.4,0.1,2,2,1,0,3
+11,Ben White,4.0,eng ENG,CB,24-125,90,23,30,76.7,345,222,15,17,88.2,8,10,80.0,0,3,0.0,0,0.3,0.3,1,1,0,0,1
+12,Cédric Soares,17.0,pt POR,RB,30-163,90,41,53,77.4,688,318,19,21,90.5,18,20,90.0,2,7,28.6,0,0.0,0.0,0,2,2,2,4
+13,Aaron Ramsdale,32.0,eng ENG,GK,23-272,90,14,32,43.8,309,191,3,3,100.0,7,7,100.0,4,22,18.2,0,0.0,0.0,0,0,0,0,0
+14,14 Players,,,,,968,296,395,74.9,5227,1927,134,158,84.8,131,154,85.1,26,66,39.4,1,2.0,0.9,9,22,9,3,40

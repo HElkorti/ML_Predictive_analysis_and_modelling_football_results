@@ -1,0 +1,17 @@
+,Unnamed: 0_level_0,Unnamed: 1_level_0,Unnamed: 2_level_0,Unnamed: 3_level_0,Unnamed: 4_level_0,Unnamed: 5_level_0,Touches,Touches,Touches,Touches,Touches,Touches,Touches,Take-Ons,Take-Ons,Take-Ons,Take-Ons,Take-Ons,Carries,Carries,Carries,Carries,Carries,Carries,Carries,Carries,Receiving,Receiving
+,Player,#,Nation,Pos,Age,Min,Touches,Def Pen,Def 3rd,Mid 3rd,Att 3rd,Att Pen,Live,Att,Succ,Succ%,Tkld,Tkld%,Carries,TotDist,PrgDist,PrgC,1/3,CPA,Mis,Dis,Rec,PrgR
+0,Timo Werner,11.0,de GER,FW,24-225,89,32,0,0,16,17,6,32,3,2,66.7,1,33.3,26,163,116,4,2,2,2,0,24,7
+1,Tammy Abraham,9.0,eng ENG,FW,23-015,1,1,0,0,1,0,0,1,0,0,,0,,0,0,0,0,0,0,0,0,0,0
+2,Mason Mount,19.0,eng ENG,LW,21-281,71,34,0,4,13,17,6,34,1,0,0.0,1,100.0,18,39,7,0,0,0,3,3,25,7
+3,Hakim Ziyech,22.0,ma MAR,"RW,RM",27-212,19,19,0,0,9,10,0,19,0,0,,0,,13,83,7,0,0,0,2,0,14,2
+4,Christian Pulisic,10.0,us USA,"RW,LW",22-029,86,53,2,15,20,19,5,53,6,2,33.3,4,66.7,24,131,72,2,3,0,6,0,29,4
+5,Reece James,24.0,eng ENG,"CM,LW",20-314,4,5,0,0,3,2,0,5,0,0,,0,,4,5,1,0,0,0,0,0,4,0
+6,Kai Havertz,29.0,de GER,"AM,LM",21-128,90,73,1,8,38,28,4,73,2,1,50.0,1,50.0,56,283,80,3,2,1,9,2,62,7
+7,N'Golo Kanté,7.0,fr FRA,"DM,CM",29-202,90,63,1,16,33,14,0,63,0,0,,0,,31,121,46,1,1,0,1,0,37,0
+8,Jorginho,5.0,it ITA,DM,28-302,90,73,1,23,43,7,0,73,1,1,100.0,0,0.0,46,136,78,0,2,0,0,1,48,1
+9,Ben Chilwell,21.0,eng ENG,LB,23-301,90,101,4,40,35,26,3,101,1,1,100.0,0,0.0,66,345,203,5,5,1,4,0,66,4
+10,Kurt Zouma,15.0,fr FRA,CB,25-356,90,87,19,51,34,2,2,87,0,0,,0,,51,134,56,0,0,0,0,0,57,1
+11,Andreas Christensen,4.0,dk DEN,CB,24-190,90,78,15,49,28,1,1,78,0,0,,0,,52,204,59,0,0,0,0,0,54,0
+12,César Azpilicueta,28.0,es ESP,RB,31-050,90,98,1,43,45,13,1,98,0,0,,0,,57,160,114,2,2,0,1,0,58,3
+13,Kepa Arrizabalaga,1.0,es ESP,GK,26-014,90,34,32,34,0,0,0,34,0,0,,0,,17,56,38,0,0,0,2,0,17,0
+14,14 Players,,,,,990,751,76,283,318,156,28,751,14,7,50.0,7,50.0,461,1860,877,17,17,4,30,6,495,36

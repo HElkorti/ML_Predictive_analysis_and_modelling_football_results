@@ -1,0 +1,17 @@
+,Unnamed: 0_level_0,Unnamed: 1_level_0,Unnamed: 2_level_0,Unnamed: 3_level_0,Unnamed: 4_level_0,Unnamed: 5_level_0,Unnamed: 6_level_0,Pass Types,Pass Types,Pass Types,Pass Types,Pass Types,Pass Types,Pass Types,Pass Types,Corner Kicks,Corner Kicks,Corner Kicks,Outcomes,Outcomes,Outcomes
+,Player,#,Nation,Pos,Age,Min,Att,Live,Dead,FK,TB,Sw,Crs,TI,CK,In,Out,Str,Cmp,Off,Blocks
+0,Danny Welbeck,18.0,eng ENG,"FW,AM",31-085,67,5,5,0,0,0,0,0,0,0,0,0,0,3,0,0
+1,Evan Ferguson,58.0,ie IRL,AM,17-123,23,6,6,0,0,0,0,1,0,0,0,0,0,5,0,0
+2,Neal Maupay,9.0,fr FRA,FW,25-189,90,20,14,6,1,0,0,0,1,0,0,0,0,19,0,0
+3,Alexis Mac Allister,10.0,ar ARG,"LM,CM",23-057,90,53,48,5,2,1,0,3,1,2,1,0,0,48,0,0
+4,Yves Bissouma,8.0,ml MLI,CM,25-173,90,68,66,2,2,0,0,0,0,0,0,0,0,60,0,0
+5,Adam Lallana,14.0,eng ENG,CM,33-285,54,29,29,0,0,0,0,0,0,0,0,0,0,24,0,0
+6,Leandro Trossard,11.0,be BEL,AM,27-077,36,22,20,1,0,0,3,2,1,0,0,0,0,16,1,0
+7,Jakub Moder,15.0,pl POL,RM,22-318,54,33,32,1,1,0,0,4,0,0,0,0,0,22,0,4
+8,Solly March,20.0,eng ENG,WB,27-214,36,27,25,2,0,0,0,5,1,1,0,1,0,20,0,2
+9,Marc Cucurella,3.0,es ESP,"LB,CB",23-212,90,86,78,8,2,0,2,7,5,1,1,0,0,66,0,4
+10,Joël Veltman,34.0,nl NED,CB,30-035,90,101,91,10,3,0,0,1,7,0,0,0,0,87,0,1
+11,Shane Duffy,24.0,ie IRL,CB,30-049,90,84,81,3,3,0,2,0,0,0,0,0,0,74,0,0
+12,Tariq Lamptey,2.0,gh GHA,"RB,WB",21-142,90,64,58,6,0,0,0,11,6,0,0,0,0,47,0,1
+13,Robert Sánchez,1.0,es ESP,GK,24-093,90,42,37,5,1,0,0,0,0,0,0,0,0,31,0,1
+14,14 Players,,,,,990,640,590,49,15,1,7,34,22,4,2,1,0,522,1,13

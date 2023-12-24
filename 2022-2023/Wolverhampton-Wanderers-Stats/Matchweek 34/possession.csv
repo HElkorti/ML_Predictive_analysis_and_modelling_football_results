@@ -1,0 +1,19 @@
+,Unnamed: 0_level_0,Unnamed: 1_level_0,Unnamed: 2_level_0,Unnamed: 3_level_0,Unnamed: 4_level_0,Unnamed: 5_level_0,Touches,Touches,Touches,Touches,Touches,Touches,Touches,Take-Ons,Take-Ons,Take-Ons,Take-Ons,Take-Ons,Carries,Carries,Carries,Carries,Carries,Carries,Carries,Carries,Receiving,Receiving
+,Player,#,Nation,Pos,Age,Min,Touches,Def Pen,Def 3rd,Mid 3rd,Att 3rd,Att Pen,Live,Att,Succ,Succ%,Tkld,Tkld%,Carries,TotDist,PrgDist,PrgC,1/3,CPA,Mis,Dis,Rec,PrgR
+0,Diego Costa,29.0,es ESP,FW,34-204,45,10,0,0,7,3,0,10,0,0,,0,,1,4,0,0,0,0,0,0,3,0
+1,Nathan Collins,4.0,ie IRL,CB,21-364,45,33,7,27,6,0,0,33,1,1,100.0,0,0.0,19,53,23,0,0,0,0,1,22,0
+2,Pedro Neto,7.0,pt POR,"RW,RM,FW",23-051,82,35,1,3,12,21,4,35,5,2,40.0,3,60.0,22,183,97,3,3,2,1,0,26,6
+3,Adama Traoré,37.0,es ESP,RW,27-094,8,4,0,2,2,0,0,4,2,1,50.0,1,50.0,2,17,3,0,0,0,1,0,3,0
+4,Matheus Nunes,27.0,pt POR,"RM,LM,LW",24-245,90,48,1,13,29,7,1,48,1,0,0.0,1,100.0,31,190,100,1,2,0,2,1,32,3
+5,Mario Lemina,5.0,ga GAB,"CM,CB",29-240,90,45,2,17,23,5,0,45,1,1,100.0,0,0.0,23,125,77,0,0,0,0,0,30,0
+6,Rúben Neves,8.0,pt POR,CM,26-047,90,55,2,14,28,14,0,55,1,0,0.0,1,100.0,33,108,52,0,0,0,0,0,34,0
+7,João Gomes,35.0,br BRA,"CM,RM",22-076,45,21,1,2,11,8,0,21,0,0,,0,,12,66,8,0,1,0,0,2,13,0
+8,Toti Gomes,24.0,pt POR,CB,24-103,45,25,2,12,12,1,1,25,1,1,100.0,0,0.0,16,70,40,0,0,0,0,0,17,0
+9,Hugo Bueno,64.0,es ESP,"LM,LB",20-223,90,47,2,11,19,17,0,47,0,0,,0,,24,119,54,3,0,0,1,1,26,2
+10,Max Kilman,23.0,eng ENG,CB,25-341,90,46,3,31,15,2,1,46,1,1,100.0,0,0.0,31,159,60,0,0,0,0,0,28,0
+11,Craig Dawson,15.0,eng ENG,CB,32-358,45,33,3,16,16,1,0,33,0,0,,0,,20,81,26,0,0,0,0,0,26,0
+12,Hwang Hee-chan,11.0,kr KOR,FW,27-093,45,20,1,2,9,9,2,20,1,1,100.0,0,0.0,6,61,32,2,1,0,1,0,10,2
+13,Nélson Semedo,22.0,pt POR,RB,29-164,44,26,2,6,10,10,2,26,3,1,33.3,1,33.3,14,81,54,1,0,1,0,1,15,2
+14,Daniel Podence,10.0,pt POR,LW,27-190,46,17,1,2,7,9,2,17,2,0,0.0,1,50.0,13,89,34,2,2,2,2,1,15,4
+15,José Sá,1.0,pt POR,GK,30-102,90,43,40,43,0,0,0,43,0,0,,0,,25,137,83,0,0,0,0,0,25,0
+16,16 Players,,,,,990,508,68,201,206,107,13,508,19,9,47.4,8,42.1,292,1543,743,12,9,5,8,7,325,19

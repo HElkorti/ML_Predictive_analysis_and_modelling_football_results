@@ -1,0 +1,19 @@
+,Unnamed: 0_level_0,Unnamed: 1_level_0,Unnamed: 2_level_0,Unnamed: 3_level_0,Unnamed: 4_level_0,Unnamed: 5_level_0,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Aerial Duels,Aerial Duels,Aerial Duels
+,Player,#,Nation,Pos,Age,Min,CrdY,CrdR,2CrdY,Fls,Fld,Off,Crs,Int,TklW,PKwon,PKcon,OG,Recov,Won,Lost,Won%
+0,Ollie Watkins,11.0,eng ENG,FW,27-141,86,0,0,0,1,1,0,0,1,0,1,0,0,0,1,0,100.0
+1,Jhon Durán,22.0,co COL,FW,19-158,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3,0.0
+2,Jacob Ramsey,41.0,eng ENG,LW,21-357,90,0,0,0,1,3,0,0,0,0,0,0,0,7,0,1,0.0
+3,Leon Bailey,31.0,jm JAM,RW,25-284,52,0,0,0,0,1,0,2,0,0,0,0,0,3,0,2,0.0
+4,Ashley Young,18.0,eng ENG,"LB,RW",37-315,38,1,0,0,0,0,0,2,3,2,0,0,0,0,1,0,100.0
+5,John McGinn,7.0,sct SCO,"AM,RW",28-214,90,0,0,0,1,3,0,0,0,1,0,0,0,4,0,0,
+6,Douglas Luiz,6.0,br BRA,DM,25-011,86,0,0,0,0,0,0,4,0,3,0,0,0,6,1,0,100.0
+7,Leander Dendoncker,32.0,be BEL,DM,28-035,4,0,0,0,0,0,0,0,2,0,0,0,0,2,0,0,
+8,Boubacar Kamara,44.0,fr FRA,DM,23-178,90,0,0,0,6,2,0,0,1,2,0,0,0,6,1,1,50.0
+9,Lucas Digne,27.0,fr FRA,LB,29-304,52,1,0,0,1,0,0,2,0,1,0,0,0,3,1,0,100.0
+10,Álex Moreno,15.0,es ESP,LB,29-346,12,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,
+11,Emi Buendía,10.0,ar ARG,AM,26-146,26,0,0,0,0,2,0,0,0,1,0,0,0,5,1,2,33.3
+12,Tyrone Mings,5.0,eng ENG,CB,30-068,90,1,0,0,1,1,1,0,5,1,0,0,0,4,0,2,0.0
+13,Ezri Konsa,4.0,eng ENG,CB,25-209,90,1,0,0,0,3,0,0,2,1,0,0,0,1,0,1,0.0
+14,Matty Cash,2.0,pl POL,RB,25-286,90,0,0,0,2,0,0,0,1,3,0,0,0,6,0,1,0.0
+15,Emiliano Martínez,1.0,ar ARG,GK,30-260,90,1,0,0,0,0,0,0,0,0,0,0,0,3,1,0,100.0
+16,16 Players,,,,,990,5,0,0,13,16,1,11,15,15,1,0,0,50,7,13,35.0

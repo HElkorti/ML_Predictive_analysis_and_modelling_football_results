@@ -1,0 +1,17 @@
+,Unnamed: 0_level_0,Unnamed: 1_level_0,Unnamed: 2_level_0,Unnamed: 3_level_0,Unnamed: 4_level_0,Unnamed: 5_level_0,Touches,Touches,Touches,Touches,Touches,Touches,Touches,Take-Ons,Take-Ons,Take-Ons,Take-Ons,Take-Ons,Carries,Carries,Carries,Carries,Carries,Carries,Carries,Carries,Receiving,Receiving
+,Player,#,Nation,Pos,Age,Min,Touches,Def Pen,Def 3rd,Mid 3rd,Att 3rd,Att Pen,Live,Att,Succ,Succ%,Tkld,Tkld%,Carries,TotDist,PrgDist,PrgC,1/3,CPA,Mis,Dis,Rec,PrgR
+0,Joshua King,7.0,no NOR,FW,30-000,90,34,2,5,13,16,5,34,1,0,0.0,1,100.0,25,154,88,5,2,3,3,4,30,10
+1,João Pedro,10.0,br BRA,LW,20-111,90,41,0,5,18,19,5,41,4,2,50.0,2,50.0,28,187,65,0,4,0,2,6,37,11
+2,Emmanuel Dennis,25.0,ng NGA,RW,24-061,83,35,1,4,19,14,5,35,10,6,60.0,4,40.0,21,188,100,3,2,1,2,3,27,6
+3,Cucho,29.0,co COL,RW,22-270,7,8,0,1,5,2,0,8,1,0,0.0,1,100.0,4,15,4,0,0,0,0,0,7,2
+4,Juraj Kucka,33.0,sk SVK,LM,34-323,76,43,4,14,23,6,2,43,1,0,0.0,1,100.0,13,52,15,0,1,0,4,0,20,1
+5,Tom Cleverley,8.0,eng ENG,LM,32-156,14,7,0,1,5,1,0,7,0,0,,0,,2,3,3,0,0,0,0,0,5,0
+6,Edo Kayembe,39.0,cd COD,CM,23-226,90,73,5,23,43,7,0,73,2,1,50.0,1,50.0,29,182,107,2,0,0,0,1,36,0
+7,Moussa Sissoko,19.0,fr FRA,RM,32-152,90,36,4,8,24,4,2,36,1,1,100.0,0,0.0,10,50,9,1,2,0,2,2,19,5
+8,Hassane Kamara,14.0,ci CIV,LB,27-316,90,71,3,40,25,8,1,71,2,2,100.0,0,0.0,26,188,103,4,2,0,0,0,30,1
+9,Samir Santos,22.0,br BRA,CB,27-041,90,54,7,39,14,1,1,54,0,0,,0,,20,76,13,0,1,1,0,1,36,0
+10,Craig Cathcart,15.0,nir NIR,CB,32-343,90,58,12,38,18,2,2,58,0,0,,0,,16,42,16,0,0,0,1,0,34,0
+11,Jeremy Ngakia,2.0,eng ENG,RB,21-130,65,36,4,19,13,4,0,36,0,0,,0,,10,64,44,1,0,0,1,0,12,1
+12,Kiko Femenía,21.0,es ESP,RB,30-347,25,29,1,7,13,9,0,29,0,0,,0,,12,59,34,1,2,0,0,0,15,3
+13,Ben Foster,1.0,eng ENG,GK,38-287,90,30,23,29,1,0,0,30,0,0,,0,,8,31,17,0,0,0,0,0,14,0
+14,14 Players,,,,,990,555,66,233,234,93,23,555,22,12,54.5,10,45.5,224,1291,618,17,16,5,15,17,322,40

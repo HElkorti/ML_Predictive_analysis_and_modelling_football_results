@@ -1,0 +1,16 @@
+,Unnamed: 0_level_0,Unnamed: 1_level_0,Unnamed: 2_level_0,Unnamed: 3_level_0,Unnamed: 4_level_0,Unnamed: 5_level_0,Touches,Touches,Touches,Touches,Touches,Touches,Touches,Take-Ons,Take-Ons,Take-Ons,Take-Ons,Take-Ons,Carries,Carries,Carries,Carries,Carries,Carries,Carries,Carries,Receiving,Receiving
+,Player,#,Nation,Pos,Age,Min,Touches,Def Pen,Def 3rd,Mid 3rd,Att 3rd,Att Pen,Live,Att,Succ,Succ%,Tkld,Tkld%,Carries,TotDist,PrgDist,PrgC,1/3,CPA,Mis,Dis,Rec,PrgR
+0,Maxwel Cornet,20.0,ci CIV,FW,25-054,83,22,2,4,7,11,2,22,1,1,100.0,0,0.0,11,22,12,0,0,0,3,1,16,8
+1,Matěj Vydra,27.0,cz CZE,FW,29-203,7,2,0,0,0,2,2,2,0,0,,0,,1,3,3,0,0,0,0,0,1,1
+2,Chris Wood,9.0,nz NZL,FW,29-348,78,13,0,0,8,5,1,13,0,0,,0,,6,10,4,0,1,0,1,0,13,2
+3,Jay Rodriguez,19.0,eng ENG,FW,32-114,12,3,1,2,1,0,0,3,0,0,,0,,1,2,1,0,0,0,0,0,1,0
+4,Dwight McNeil,11.0,eng ENG,LM,21-363,90,49,0,8,23,22,2,49,3,2,66.7,1,33.3,25,181,75,3,1,0,6,1,29,3
+5,Josh Brownhill,8.0,eng ENG,CM,25-336,90,30,3,10,13,7,1,30,1,1,100.0,0,0.0,14,53,30,1,1,1,1,0,16,1
+6,Ashley Westwood,18.0,eng ENG,CM,31-233,90,58,1,8,40,10,1,58,1,0,0.0,1,100.0,25,40,10,0,0,0,3,0,32,2
+7,Jóhann Berg Guðmundsson,7.0,is ISL,RM,31-024,90,49,2,9,27,13,2,49,2,1,50.0,1,50.0,22,87,41,1,1,0,2,0,29,5
+8,Charlie Taylor,3.0,eng ENG,LB,28-063,90,58,3,19,29,10,0,58,0,0,,0,,30,128,47,3,0,0,0,0,32,4
+9,Ben Mee,6.0,eng ENG,CB,32-060,90,55,5,21,27,8,4,55,1,0,0.0,1,100.0,25,78,30,0,1,0,1,0,26,1
+10,James Tarkowski,5.0,eng ENG,CB,29-001,90,44,8,23,16,5,4,44,0,0,,0,,13,26,10,0,0,0,0,0,18,0
+11,Matthew Lowton,2.0,eng ENG,RB,32-164,90,51,2,15,30,6,0,51,0,0,,0,,16,63,41,2,1,0,0,0,18,0
+12,Nick Pope,1.0,eng ENG,GK,29-215,90,22,18,21,1,0,0,22,0,0,,0,,10,45,38,0,0,0,0,0,8,0
+13,13 Players,,,,,990,456,45,140,222,99,19,456,9,5,55.6,4,44.4,199,738,342,10,6,1,17,2,239,27

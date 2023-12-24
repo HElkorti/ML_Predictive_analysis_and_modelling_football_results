@@ -1,0 +1,17 @@
+,Unnamed: 0_level_0,Unnamed: 1_level_0,Unnamed: 2_level_0,Unnamed: 3_level_0,Unnamed: 4_level_0,Unnamed: 5_level_0,Touches,Touches,Touches,Touches,Touches,Touches,Touches,Take-Ons,Take-Ons,Take-Ons,Take-Ons,Take-Ons,Carries,Carries,Carries,Carries,Carries,Carries,Carries,Carries,Receiving,Receiving
+,Player,#,Nation,Pos,Age,Min,Touches,Def Pen,Def 3rd,Mid 3rd,Att 3rd,Att Pen,Live,Att,Succ,Succ%,Tkld,Tkld%,Carries,TotDist,PrgDist,PrgC,1/3,CPA,Mis,Dis,Rec,PrgR
+0,Alexandre Lacazette,9.0,fr FRA,FW,30-272,90,39,0,4,11,27,11,39,5,3,60.0,2,40.0,28,250,85,1,0,2,0,3,32,9
+1,Gabriel Martinelli,35.0,br BRA,LW,20-251,70,35,0,0,15,21,7,35,1,1,100.0,0,0.0,24,142,68,3,1,2,2,2,26,7
+2,Nicolas Pépé,19.0,ci CIV,"WB,LW",26-271,20,20,0,1,6,13,3,20,2,1,50.0,1,50.0,14,55,19,1,0,1,1,0,14,4
+3,Bukayo Saka,7.0,eng ENG,"RW,WB",20-172,90,37,0,1,7,29,14,37,3,2,66.7,1,33.3,27,194,136,6,1,6,0,1,32,21
+4,Martin Ødegaard,8.0,no NOR,AM,23-069,90,52,0,0,24,28,2,52,4,3,75.0,1,25.0,32,179,88,3,2,1,1,2,35,7
+5,Granit Xhaka,34.0,ch SUI,"DM,CM",29-150,90,61,0,3,39,22,3,61,2,2,100.0,0,0.0,31,149,54,2,1,0,1,1,35,5
+6,Thomas Partey,5.0,gh GHA,"DM,CM",28-256,90,64,1,6,43,15,1,64,4,3,75.0,1,25.0,43,166,83,1,3,0,2,1,50,1
+7,Kieran Tierney,3.0,sct SCO,"LB,CB",24-264,89,80,3,21,43,16,1,80,1,0,0.0,1,100.0,40,256,157,4,3,0,0,0,47,2
+8,Nuno Tavares,20.0,pt POR,CB,22-029,1,7,0,2,5,1,0,7,2,1,50.0,1,50.0,3,51,45,1,1,0,0,0,3,0
+9,Gabriel Dos Santos,6.0,br BRA,CB,24-067,90,81,7,39,41,2,1,81,0,0,,0,,51,294,198,0,0,0,0,0,51,0
+10,Ben White,4.0,eng ENG,CB,24-139,90,83,3,25,55,3,2,83,1,0,0.0,1,100.0,59,313,225,2,0,0,0,1,57,2
+11,Cédric Soares,17.0,pt POR,RB,30-177,75,53,0,9,29,15,0,53,0,0,,0,,36,135,59,1,0,0,1,1,37,2
+12,Eddie Nketiah,30.0,eng ENG,"FW,RB",22-270,15,9,0,0,5,4,2,9,2,2,100.0,0,0.0,7,29,16,0,0,0,3,0,5,1
+13,Aaron Ramsdale,32.0,eng ENG,GK,23-286,90,30,17,30,0,0,0,30,0,0,,0,,22,100,45,0,0,0,0,0,19,0
+14,14 Players,,,,,990,651,31,141,323,196,47,651,27,18,66.7,9,33.3,417,2313,1278,25,12,12,11,12,443,61

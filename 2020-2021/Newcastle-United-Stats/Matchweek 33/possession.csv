@@ -1,0 +1,17 @@
+,Unnamed: 0_level_0,Unnamed: 1_level_0,Unnamed: 2_level_0,Unnamed: 3_level_0,Unnamed: 4_level_0,Unnamed: 5_level_0,Touches,Touches,Touches,Touches,Touches,Touches,Touches,Take-Ons,Take-Ons,Take-Ons,Take-Ons,Take-Ons,Carries,Carries,Carries,Carries,Carries,Carries,Carries,Carries,Receiving,Receiving
+,Player,#,Nation,Pos,Age,Min,Touches,Def Pen,Def 3rd,Mid 3rd,Att 3rd,Att Pen,Live,Att,Succ,Succ%,Tkld,Tkld%,Carries,TotDist,PrgDist,PrgC,1/3,CPA,Mis,Dis,Rec,PrgR
+0,Joelinton,9.0,br BRA,FW,24-253,59,30,0,4,20,6,4,30,2,0,0.0,2,100.0,18,127,58,3,1,1,3,0,22,2
+1,Callum Wilson,13.0,eng ENG,FW,29-056,31,7,0,0,2,5,2,7,0,0,,0,,6,59,40,2,2,1,1,0,6,3
+2,Allan Saint-Maximin,10.0,fr FRA,FW,24-043,90,46,1,5,26,17,3,46,12,8,66.7,4,33.3,35,262,135,5,2,1,7,6,32,4
+3,Jonjo Shelvey,8.0,eng ENG,"CM,CB",29-056,90,55,9,31,23,3,0,55,1,0,0.0,1,100.0,38,176,96,1,0,0,0,0,35,0
+4,Sean Longstaff,36.0,eng ENG,CM,23-176,90,48,1,21,22,5,1,48,0,0,,0,,25,74,33,0,0,0,0,2,27,2
+5,Miguel Almirón,24.0,py PAR,CM,27-073,84,34,0,14,13,7,0,34,5,1,20.0,4,80.0,29,201,19,0,2,0,3,1,25,3
+6,Dwight Gayle,12.0,eng ENG,CM,30-189,6,2,0,0,0,2,1,2,0,0,,0,,0,0,0,0,0,0,0,0,1,1
+7,Matt Ritchie,11.0,sct SCO,LB,31-226,90,42,1,12,21,9,2,42,2,2,100.0,0,0.0,23,143,88,2,0,0,0,0,26,3
+8,Paul Dummett,3.0,wls WAL,CB,29-210,90,43,9,32,10,1,0,43,0,0,,0,,25,113,64,0,0,0,1,0,28,0
+9,Ciaran Clark,2.0,ie IRL,CB,31-210,63,31,12,28,3,0,0,31,0,0,,0,,22,87,28,0,0,0,0,0,21,0
+10,Joe Willock,28.0,eng ENG,CM,21-247,27,12,0,5,5,2,2,12,1,1,100.0,0,0.0,9,29,14,0,0,0,0,0,9,1
+11,Federico Fernández,18.0,ar ARG,CB,32-062,90,60,18,41,12,8,2,60,0,0,,0,,26,107,73,0,0,0,1,0,29,1
+12,Jacob Murphy,23.0,eng ENG,RB,26-059,90,65,1,27,30,10,1,65,2,2,100.0,0,0.0,31,203,129,5,0,1,0,1,32,5
+13,Martin Dúbravka,1.0,sk SVK,GK,32-099,90,42,42,42,0,0,0,42,0,0,,0,,24,146,57,0,0,0,0,0,10,0
+14,14 Players,,,,,990,517,94,262,187,75,18,517,25,14,56.0,11,44.0,311,1727,834,18,7,4,16,10,303,25

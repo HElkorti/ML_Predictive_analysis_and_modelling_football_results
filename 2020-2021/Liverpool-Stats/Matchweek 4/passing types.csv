@@ -1,0 +1,17 @@
+,Unnamed: 0_level_0,Unnamed: 1_level_0,Unnamed: 2_level_0,Unnamed: 3_level_0,Unnamed: 4_level_0,Unnamed: 5_level_0,Unnamed: 6_level_0,Pass Types,Pass Types,Pass Types,Pass Types,Pass Types,Pass Types,Pass Types,Pass Types,Corner Kicks,Corner Kicks,Corner Kicks,Outcomes,Outcomes,Outcomes
+,Player,#,Nation,Pos,Age,Min,Att,Live,Dead,FK,TB,Sw,Crs,TI,CK,In,Out,Str,Cmp,Off,Blocks
+0,Roberto Firmino,9.0,br BRA,FW,29-002,67,29,24,5,0,0,0,0,1,0,0,0,0,20,0,2
+1,James Milner,7.0,eng ENG,RM,34-274,23,20,18,2,1,0,0,3,0,1,1,0,0,15,0,1
+2,Diogo Jota,20.0,pt POR,LW,23-305,90,42,42,0,0,0,0,1,0,0,0,0,0,34,0,0
+3,Mohamed Salah,11.0,eg EGY,RW,28-111,90,40,39,1,0,2,1,0,0,0,0,0,0,36,0,1
+4,Georginio Wijnaldum,5.0,nl NED,"LM,CM",29-328,90,57,57,0,0,0,0,0,0,0,0,0,0,48,0,0
+5,Fabinho,3.0,br BRA,"CM,CB",26-347,90,74,72,2,1,0,0,0,1,0,0,0,0,65,0,1
+6,Naby Keïta,8.0,gn GUI,RM,25-237,45,31,30,1,0,0,0,0,0,0,0,0,0,28,0,0
+7,Takumi Minamino,18.0,jp JPN,"FW,RM",25-262,45,23,21,2,0,0,0,0,0,0,0,0,0,16,0,3
+8,Andrew Robertson,26.0,sct SCO,LB,26-207,90,107,88,19,1,0,1,11,14,4,0,3,0,85,0,4
+9,Virgil van Dijk,4.0,nl NED,CB,29-088,90,92,90,1,1,0,2,0,0,0,0,0,0,82,1,0
+10,Joe Gomez,12.0,eng ENG,CB,23-134,60,63,62,1,1,0,3,0,0,0,0,0,0,56,0,0
+11,Curtis Jones,17.0,eng ENG,LM,19-248,30,17,17,0,0,0,0,0,0,0,0,0,0,15,0,0
+12,Trent Alexander-Arnold,66.0,eng ENG,RB,21-363,90,78,62,16,2,0,3,5,12,2,0,1,0,63,0,2
+13,Adrián,13.0,es ESP,GK,33-275,90,35,29,6,1,0,0,0,0,0,0,0,0,28,0,0
+14,14 Players,,,,,990,708,651,56,8,2,10,20,28,7,1,4,0,591,1,14

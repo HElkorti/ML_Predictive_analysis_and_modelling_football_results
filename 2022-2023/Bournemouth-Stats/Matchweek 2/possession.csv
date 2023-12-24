@@ -1,0 +1,18 @@
+,Unnamed: 0_level_0,Unnamed: 1_level_0,Unnamed: 2_level_0,Unnamed: 3_level_0,Unnamed: 4_level_0,Unnamed: 5_level_0,Touches,Touches,Touches,Touches,Touches,Touches,Touches,Take-Ons,Take-Ons,Take-Ons,Take-Ons,Take-Ons,Carries,Carries,Carries,Carries,Carries,Carries,Carries,Carries,Receiving,Receiving
+,Player,#,Nation,Pos,Age,Min,Touches,Def Pen,Def 3rd,Mid 3rd,Att 3rd,Att Pen,Live,Att,Succ,Succ%,Tkld,Tkld%,Carries,TotDist,PrgDist,PrgC,1/3,CPA,Mis,Dis,Rec,PrgR
+0,Kieffer Moore,21.0,wls WAL,FW,30-005,89,30,1,2,24,4,2,30,0,0,,0,,7,6,1,0,0,0,2,1,21,1
+1,Jamal Lowe,18.0,jm JAM,FW,28-023,1,0,0,0,0,0,0,0,0,0,,0,,0,0,0,0,0,0,0,0,0,0
+2,Ryan Christie,10.0,sct SCO,AM,27-172,62,19,2,8,8,3,1,19,3,3,100.0,0,0.0,9,40,14,0,0,0,1,0,10,2
+3,Junior Stanislas,19.0,eng ENG,AM,32-260,28,10,0,2,4,4,0,10,0,0,,0,,6,44,12,0,1,0,0,0,10,0
+4,Marcus Tavernier,16.0,eng ENG,AM,23-144,79,26,0,8,14,5,0,26,4,2,50.0,2,50.0,21,95,51,2,0,0,1,2,22,1
+5,Marcos Senesi,25.0,ar ARG,CB,25-095,11,11,6,10,1,0,0,11,0,0,,0,,8,36,15,0,0,0,0,0,10,0
+6,Ben Pearson,22.0,eng ENG,CM,27-221,90,40,1,18,20,2,0,40,0,0,,0,,15,61,21,0,0,0,0,0,30,0
+7,Lewis Cook,4.0,eng ENG,CM,25-191,63,25,2,14,8,3,0,25,1,0,0.0,1,100.0,8,48,9,0,0,0,0,0,14,0
+8,Philip Billing,29.0,dk DEN,"CM,AM",26-063,27,10,0,4,5,1,0,10,0,0,,0,,6,32,18,0,1,0,0,0,8,1
+9,Jack Stacey,17.0,eng ENG,WB,26-129,90,32,5,19,9,4,0,32,1,1,100.0,0,0.0,15,69,43,2,1,0,0,0,18,2
+10,Adam Smith,15.0,eng ENG,WB,31-106,90,47,4,30,8,9,2,47,1,0,0.0,1,100.0,21,87,57,1,1,0,0,0,26,1
+11,Lloyd Kelly,5.0,eng ENG,CB,23-311,90,48,10,38,9,1,0,48,0,0,,0,,20,60,30,0,0,0,1,0,34,0
+12,Jefferson Lerma,8.0,co COL,"CB,CM",27-292,90,58,20,52,6,0,0,58,0,0,,0,,34,112,38,0,0,0,1,0,46,0
+13,Chris Mepham,6.0,wls WAL,CB,24-281,90,46,11,39,8,0,0,46,0,0,,0,,27,99,54,0,1,1,0,1,37,0
+14,Mark Travers,1.0,ie IRL,GK,23-087,90,40,39,40,0,0,0,40,0,0,,0,,14,56,30,0,0,0,0,0,12,0
+15,15 Players,,,,,990,442,101,284,124,36,5,442,10,6,60.0,4,40.0,211,845,393,5,5,1,6,4,298,8

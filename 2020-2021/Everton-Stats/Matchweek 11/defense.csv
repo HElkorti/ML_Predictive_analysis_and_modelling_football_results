@@ -1,0 +1,17 @@
+,Unnamed: 0_level_0,Unnamed: 1_level_0,Unnamed: 2_level_0,Unnamed: 3_level_0,Unnamed: 4_level_0,Unnamed: 5_level_0,Tackles,Tackles,Tackles,Tackles,Tackles,Challenges,Challenges,Challenges,Challenges,Blocks,Blocks,Blocks,Unnamed: 18_level_0,Unnamed: 19_level_0,Unnamed: 20_level_0,Unnamed: 21_level_0
+,Player,#,Nation,Pos,Age,Min,Tkl,TklW,Def 3rd,Mid 3rd,Att 3rd,Tkl,Att,Tkl%,Lost,Blocks,Sh,Pass,Int,Tkl+Int,Clr,Err
+0,Dominic Calvert-Lewin,9.0,eng ENG,FW,23-264,90,0,0,0,0,0,0,0,,0,1,1,0,0,0,1,0
+1,Richarlison,7.0,br BRA,"LW,AM",23-209,90,0,0,0,0,0,0,1,0.0,1,0,0,0,0,0,1,0
+2,James Rodríguez,19.0,co COL,"RW,AM",29-146,90,2,2,0,2,0,0,5,0.0,5,1,0,1,1,3,0,0
+3,Fabian Delph,8.0,eng ENG,LM,31-014,28,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,0
+4,André Gomes,21.0,pt POR,"LM,DM",27-128,62,0,0,0,0,0,0,2,0.0,2,1,0,1,0,0,0,0
+5,Allan,6.0,br BRA,CM,29-332,88,2,1,1,1,0,0,4,0.0,4,3,1,2,1,3,2,0
+6,Cenk Tosun,14.0,tr TUR,FW,29-181,2,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,0
+7,Abdoulaye Doucouré,16.0,ml MLI,"RM,CM",27-339,80,1,1,1,0,0,0,2,0.0,2,0,0,0,0,1,3,0
+8,Gylfi Sigurðsson,10.0,is ISL,"RM,DM",31-088,10,1,0,1,0,0,1,1,100.0,0,0,0,0,0,1,0,0
+9,Alex Iwobi,17.0,ng NGA,"RB,RM",24-216,90,3,2,2,1,0,2,4,50.0,2,0,0,0,1,4,0,0
+10,Michael Keane,5.0,eng ENG,CB,27-329,90,0,0,0,0,0,0,0,,0,0,0,0,2,2,9,0
+11,Yerry Mina,13.0,co COL,CB,26-073,90,5,4,3,2,0,2,2,100.0,0,0,0,0,4,9,3,0
+12,Ben Godfrey,22.0,eng ENG,"LB,CB",22-325,90,5,5,1,4,0,3,4,75.0,1,2,1,1,3,8,2,0
+13,Jordan Pickford,1.0,eng ENG,GK,26-273,90,0,0,0,0,0,0,0,,0,0,0,0,0,0,1,0
+14,14 Players,,,,,990,19,15,9,10,0,8,25,32.0,17,8,3,5,12,31,22,0

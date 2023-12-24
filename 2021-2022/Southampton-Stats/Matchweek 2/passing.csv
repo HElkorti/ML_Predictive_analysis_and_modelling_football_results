@@ -1,0 +1,17 @@
+,Unnamed: 0_level_0,Unnamed: 1_level_0,Unnamed: 2_level_0,Unnamed: 3_level_0,Unnamed: 4_level_0,Unnamed: 5_level_0,Total,Total,Total,Total,Total,Short,Short,Short,Medium,Medium,Medium,Long,Long,Long,Unnamed: 20_level_0,Unnamed: 21_level_0,Unnamed: 22_level_0,Unnamed: 23_level_0,Unnamed: 24_level_0,Unnamed: 25_level_0,Unnamed: 26_level_0,Unnamed: 27_level_0
+,Player,#,Nation,Pos,Age,Min,Cmp,Att,Cmp%,TotDist,PrgDist,Cmp,Att,Cmp%,Cmp,Att,Cmp%,Cmp,Att,Cmp%,Ast,xAG,xA,KP,1/3,PPA,CrsPA,PrgP
+0,Adam Armstrong,9.0,eng ENG,FW,24-193,90,10,16,62.5,109,15,6,9,66.7,3,4,75.0,0,0,,0,0.0,0.0,1,0,0,0,1
+1,Che Adams,10.0,sct SCO,FW,25-040,90,10,22,45.5,186,52,4,8,50.0,3,7,42.9,2,3,66.7,0,0.4,0.2,2,0,1,0,2
+2,Moussa Djenepo,19.0,ml MLI,LM,23-068,69,11,17,64.7,172,93,4,6,66.7,7,11,63.6,0,0,,0,0.0,0.0,1,1,0,0,3
+3,Ibrahima Diallo,27.0,fr FRA,CM,22-167,21,11,13,84.6,144,21,7,7,100.0,3,3,100.0,0,1,0.0,0,0.0,0.0,0,1,0,0,0
+4,James Ward-Prowse,8.0,eng ENG,CM,26-294,90,35,51,68.6,535,128,20,21,95.2,11,14,78.6,3,11,27.3,0,0.1,0.1,1,3,0,0,2
+5,Oriol Romeu,6.0,es ESP,CM,29-332,90,25,36,69.4,348,97,14,17,82.4,10,13,76.9,0,1,0.0,0,0.0,0.0,0,1,0,0,2
+6,Theo Walcott,32.0,eng ENG,RM,32-159,45,2,3,66.7,33,10,1,1,100.0,1,1,100.0,0,0,,0,0.0,0.0,0,0,0,0,0
+7,Jan Bednarek,35.0,pl POL,CB,25-132,45,12,15,80.0,222,71,4,4,100.0,7,10,70.0,1,1,100.0,0,0.0,0.0,0,1,0,0,0
+8,Romain Perraud,15.0,fr FRA,LB,23-334,78,10,23,43.5,172,55,2,3,66.7,8,15,53.3,0,4,0.0,0,0.0,0.0,0,0,0,0,1
+9,Kyle Walker-Peters,2.0,eng ENG,LB,24-131,12,9,9,100.0,159,68,4,4,100.0,3,3,100.0,1,1,100.0,0,0.0,0.0,0,1,1,0,1
+10,Mohammed Salisu,22.0,gh GHA,CB,22-127,90,27,34,79.4,530,237,5,6,83.3,21,22,95.5,0,4,0.0,0,0.0,0.0,0,3,0,0,3
+11,Jack Stephens,5.0,eng ENG,"CB,RB",27-207,90,22,35,62.9,394,95,8,8,100.0,14,16,87.5,0,9,0.0,0,0.0,0.0,0,1,0,0,2
+12,Valentino Livramento,21.0,eng ENG,"RB,RM",18-283,90,25,31,80.6,434,136,14,15,93.3,9,12,75.0,2,4,50.0,0,0.0,0.0,0,1,0,0,2
+13,Alex McCarthy,1.0,eng ENG,GK,31-262,90,7,24,29.2,315,299,0,0,,3,3,100.0,4,21,19.0,0,0.0,0.0,0,1,0,0,0
+14,14 Players,,,,,990,216,329,65.7,3753,1377,93,109,85.3,103,134,76.9,13,60,21.7,0,0.6,0.4,5,14,2,0,19

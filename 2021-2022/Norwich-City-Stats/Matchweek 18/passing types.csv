@@ -1,0 +1,17 @@
+,Unnamed: 0_level_0,Unnamed: 1_level_0,Unnamed: 2_level_0,Unnamed: 3_level_0,Unnamed: 4_level_0,Unnamed: 5_level_0,Unnamed: 6_level_0,Pass Types,Pass Types,Pass Types,Pass Types,Pass Types,Pass Types,Pass Types,Pass Types,Corner Kicks,Corner Kicks,Corner Kicks,Outcomes,Outcomes,Outcomes
+,Player,#,Nation,Pos,Age,Min,Att,Live,Dead,FK,TB,Sw,Crs,TI,CK,In,Out,Str,Cmp,Off,Blocks
+0,Teemu Pukki,22.0,fi FIN,FW,31-289,90,18,15,3,0,0,0,1,0,0,0,0,0,16,0,1
+1,Milot Rashica,17.0,xk KVX,LW,25-198,71,17,14,2,1,0,0,5,0,1,1,0,0,8,1,0
+2,Christos Tzolis,18.0,gr GRE,LW,19-347,19,2,2,0,0,0,0,0,0,0,0,0,0,2,0,0
+3,Przemysław Płacheta,11.0,pl POL,RW,23-295,64,19,18,1,0,0,0,2,0,1,1,0,0,12,0,0
+4,Kieran Dowell,10.0,eng ENG,RW,24-094,26,6,6,0,0,0,0,0,0,0,0,0,0,5,0,0
+5,Adam Idah,35.0,ie IRL,AM,20-335,74,21,21,0,0,0,0,4,0,0,0,0,0,13,0,2
+6,Jon Rowe,46.0,eng ENG,AM,18-257,16,2,2,0,0,0,0,0,0,0,0,0,0,1,0,0
+7,Kenny McLean,23.0,sct SCO,DM,30-004,90,39,37,2,2,0,0,2,0,0,0,0,0,27,0,1
+8,Pierre Lees-Melou,20.0,fr FRA,DM,28-232,90,41,41,0,0,0,0,0,0,0,0,0,0,31,0,1
+9,Brandon Williams,21.0,eng ENG,LB,21-131,90,50,43,7,2,0,0,2,5,0,0,0,0,39,0,2
+10,Ben Gibson,4.0,eng ENG,CB,28-362,90,45,44,0,0,0,0,0,0,0,0,0,0,30,1,1
+11,Grant Hanley,5.0,sct SCO,CB,30-053,90,30,29,1,1,0,0,0,0,0,0,0,0,26,0,0
+12,Max Aarons,2.0,eng ENG,RB,22-008,90,40,32,8,1,0,0,0,7,0,0,0,0,26,0,0
+13,Tim Krul,1.0,nl NED,GK,33-284,90,43,28,14,6,0,0,0,0,0,0,0,0,30,1,0
+14,14 Players,,,,,990,373,332,38,13,0,0,16,12,2,2,0,0,266,3,8

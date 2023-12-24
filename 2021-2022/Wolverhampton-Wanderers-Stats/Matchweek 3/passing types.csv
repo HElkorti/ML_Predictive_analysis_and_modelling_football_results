@@ -1,0 +1,17 @@
+,Unnamed: 0_level_0,Unnamed: 1_level_0,Unnamed: 2_level_0,Unnamed: 3_level_0,Unnamed: 4_level_0,Unnamed: 5_level_0,Unnamed: 6_level_0,Pass Types,Pass Types,Pass Types,Pass Types,Pass Types,Pass Types,Pass Types,Pass Types,Corner Kicks,Corner Kicks,Corner Kicks,Outcomes,Outcomes,Outcomes
+,Player,#,Nation,Pos,Age,Min,Att,Live,Dead,FK,TB,Sw,Crs,TI,CK,In,Out,Str,Cmp,Off,Blocks
+0,Raúl Jiménez,9.0,mx MEX,FW,30-116,90,38,36,2,0,0,0,0,0,0,0,0,0,27,0,1
+1,Adama Traoré,37.0,es ESP,LW,25-216,86,31,31,0,0,0,0,5,0,0,0,0,0,23,0,2
+2,Fábio Silva,17.0,pt POR,LW,19-041,4,2,2,0,0,0,0,0,0,0,0,0,0,0,0,0
+3,Francisco Trincão,11.0,pt POR,RW,21-243,69,33,32,1,0,0,0,1,0,1,0,1,0,26,0,2
+4,Daniel Podence,10.0,pt POR,RW,25-312,21,5,5,0,0,0,1,1,0,0,0,0,0,3,0,0
+5,Fernando Marçal,5.0,br BRA,LM,32-191,90,55,47,5,0,0,0,4,5,0,0,0,0,39,3,2
+6,João Moutinho,28.0,pt POR,CM,34-355,90,54,44,9,5,0,1,6,0,4,1,1,1,42,1,0
+7,Rúben Neves,8.0,pt POR,CM,24-169,90,65,62,2,2,1,1,0,0,0,0,0,0,53,1,1
+8,Nélson Semedo,22.0,pt POR,RM,27-286,90,46,40,6,0,0,0,1,6,0,0,0,0,37,0,2
+9,Romain Saïss,27.0,ma MAR,CB,31-156,90,43,42,1,1,0,1,0,0,0,0,0,0,33,0,0
+10,Conor Coady,16.0,eng ENG,CB,28-185,86,33,32,1,1,0,0,0,0,0,0,0,0,30,0,0
+11,Morgan Gibbs-White,18.0,eng ENG,CB,21-214,4,4,4,0,0,0,0,0,0,0,0,0,0,3,0,1
+12,Max Kilman,23.0,eng ENG,CB,24-098,90,36,36,0,0,0,0,0,0,0,0,0,0,34,0,0
+13,José Sá,1.0,pt POR,GK,28-224,90,23,15,8,4,0,0,0,0,0,0,0,0,18,0,0
+14,14 Players,,,,,990,468,428,35,13,1,4,18,11,5,1,2,1,368,5,11

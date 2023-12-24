@@ -1,0 +1,17 @@
+,Unnamed: 0_level_0,Unnamed: 1_level_0,Unnamed: 2_level_0,Unnamed: 3_level_0,Unnamed: 4_level_0,Unnamed: 5_level_0,Unnamed: 6_level_0,Pass Types,Pass Types,Pass Types,Pass Types,Pass Types,Pass Types,Pass Types,Pass Types,Corner Kicks,Corner Kicks,Corner Kicks,Outcomes,Outcomes,Outcomes
+,Player,#,Nation,Pos,Age,Min,Att,Live,Dead,FK,TB,Sw,Crs,TI,CK,In,Out,Str,Cmp,Off,Blocks
+0,Patrick Bamford,9.0,eng ENG,FW,27-245,78,17,15,2,0,0,0,0,0,0,0,0,0,11,0,1
+1,Rodrigo,20.0,es ESP,FW,30-063,12,9,9,0,0,0,0,0,0,0,0,0,0,6,0,0
+2,Jack Harrison,22.0,eng ENG,"LM,RM",24-169,90,49,44,4,1,0,0,9,1,2,2,0,0,35,1,2
+3,Mateusz Klich,43.0,pl POL,CM,30-329,89,49,47,2,2,0,0,2,0,0,0,0,0,39,0,1
+4,Kalvin Phillips,23.0,eng ENG,CM,25-157,1,6,6,0,0,0,0,1,0,0,0,0,0,5,0,0
+5,Tyler Roberts,11.0,wls WAL,CM,22-116,57,21,21,0,0,0,0,1,0,0,0,0,0,14,0,0
+6,Raphinha,18.0,br BRA,LM,24-145,33,13,12,1,0,0,0,1,0,1,0,0,0,12,0,0
+7,Stuart Dallas,15.0,nir NIR,"RM,CM",30-019,90,59,52,7,2,0,0,9,0,5,4,0,0,40,0,2
+8,Robin Koch,5.0,de GER,DM,24-295,90,35,35,0,0,0,0,0,0,0,0,0,0,29,0,1
+9,Ezgjan Alioski,10.0,mk MKD,LB,29-085,90,60,47,13,0,0,3,3,13,0,0,0,0,47,0,3
+10,Pascal Struijk,21.0,nl NED,CB,21-270,90,44,41,3,3,0,2,0,0,0,0,0,0,37,0,0
+11,Diego Llorente,14.0,es ESP,CB,27-265,90,44,44,0,0,0,0,0,0,0,0,0,0,36,0,2
+12,Luke Ayling,2.0,eng ENG,RB,29-256,90,57,49,8,1,0,1,2,7,0,0,0,0,46,0,1
+13,Illan Meslier,1.0,fr FRA,GK,21-067,90,34,25,9,3,0,0,0,0,0,0,0,0,26,0,0
+14,14 Players,,,,,990,497,447,49,12,0,6,28,21,8,6,0,0,383,1,13

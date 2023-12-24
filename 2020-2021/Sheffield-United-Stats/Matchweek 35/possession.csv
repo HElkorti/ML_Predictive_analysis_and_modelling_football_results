@@ -1,0 +1,17 @@
+,Unnamed: 0_level_0,Unnamed: 1_level_0,Unnamed: 2_level_0,Unnamed: 3_level_0,Unnamed: 4_level_0,Unnamed: 5_level_0,Touches,Touches,Touches,Touches,Touches,Touches,Touches,Take-Ons,Take-Ons,Take-Ons,Take-Ons,Take-Ons,Carries,Carries,Carries,Carries,Carries,Carries,Carries,Carries,Receiving,Receiving
+,Player,#,Nation,Pos,Age,Min,Touches,Def Pen,Def 3rd,Mid 3rd,Att 3rd,Att Pen,Live,Att,Succ,Succ%,Tkld,Tkld%,Carries,TotDist,PrgDist,PrgC,1/3,CPA,Mis,Dis,Rec,PrgR
+0,David McGoldrick,17.0,ie IRL,FW,33-160,90,42,1,3,20,19,3,42,4,1,25.0,3,75.0,18,71,21,1,1,0,7,2,31,8
+1,Oliver Burke,14.0,sct SCO,FW,24-031,64,11,0,0,6,5,2,11,1,0,0.0,1,100.0,6,14,1,0,0,0,2,2,9,1
+2,Daniel Jebbison,38.0,eng ENG,FW,17-268,26,5,0,2,2,1,1,5,0,0,,0,,3,7,0,0,0,0,1,0,5,1
+3,John Fleck,4.0,sct SCO,"CM,LM",29-257,90,50,3,12,27,12,0,50,3,2,66.7,1,33.3,22,125,49,0,1,0,1,1,30,2
+4,Oliver Norwood,16.0,nir NIR,CM,30-026,90,89,7,24,53,12,0,89,1,1,100.0,0,0.0,49,193,84,0,1,1,0,0,60,1
+5,Sander Berge,8.0,no NOR,CM,23-083,59,18,0,2,11,6,3,18,1,1,100.0,0,0.0,13,72,18,1,1,1,1,3,16,5
+6,Ben Osborn,23.0,eng ENG,"CM,AM",26-276,31,22,0,2,11,10,0,22,0,0,,0,,13,46,21,0,0,0,2,1,15,2
+7,Enda Stevens,3.0,ie IRL,"WB,LB",30-303,90,52,3,18,25,9,0,52,4,2,50.0,2,50.0,16,111,86,2,2,0,4,1,28,1
+8,George Baldock,2.0,gr GRE,"WB,RB",28-060,90,68,8,17,25,28,4,68,3,1,33.3,2,66.7,31,186,84,6,1,3,1,1,35,9
+9,Kean Bryan,29.0,eng ENG,CB,24-188,79,63,4,32,31,1,0,63,0,0,,0,,42,206,127,0,0,0,0,0,43,1
+10,John Lundstram,7.0,eng ENG,RM,27-079,11,6,0,1,2,3,1,6,0,0,,0,,3,18,0,0,0,0,0,1,5,2
+11,John Egan,12.0,ie IRL,CB,28-200,90,68,7,44,23,1,1,68,0,0,,0,,39,244,159,0,0,0,0,0,40,0
+12,Chris Basham,6.0,eng ENG,CB,32-292,90,54,4,18,29,7,1,54,1,1,100.0,0,0.0,35,151,109,1,0,0,1,0,39,2
+13,Aaron Ramsdale,1.0,eng ENG,GK,22-359,90,34,29,34,0,0,0,34,0,0,,0,,18,124,103,0,0,0,0,0,11,0
+14,14 Players,,,,,990,582,66,209,265,114,16,582,18,9,50.0,9,50.0,308,1568,862,11,7,5,20,12,367,35

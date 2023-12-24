@@ -1,0 +1,19 @@
+,Unnamed: 0_level_0,Unnamed: 1_level_0,Unnamed: 2_level_0,Unnamed: 3_level_0,Unnamed: 4_level_0,Unnamed: 5_level_0,Unnamed: 6_level_0,Pass Types,Pass Types,Pass Types,Pass Types,Pass Types,Pass Types,Pass Types,Pass Types,Corner Kicks,Corner Kicks,Corner Kicks,Outcomes,Outcomes,Outcomes
+,Player,#,Nation,Pos,Age,Min,Att,Live,Dead,FK,TB,Sw,Crs,TI,CK,In,Out,Str,Cmp,Off,Blocks
+0,Brennan Johnson,20.0,wls WAL,"FW,RW",21-271,90,9,8,1,0,0,0,1,0,0,0,0,0,5,0,0
+1,Danilo,28.0,br BRA,AM,21-295,57,8,8,0,0,0,0,0,0,0,0,0,0,4,0,1
+2,André Ayew,34.0,gh GHA,"FW,LW",33-063,33,9,9,0,0,0,0,0,0,0,0,0,0,5,0,0
+3,Morgan Gibbs-White,10.0,eng ENG,AM,23-022,90,19,18,1,1,0,1,1,0,0,0,0,0,13,0,1
+4,Jack Colback,8.0,eng ENG,LM,33-117,57,6,5,1,0,0,0,0,0,0,0,0,0,3,0,1
+5,Neco Williams,7.0,wls WAL,"RM,RB",21-311,33,15,13,2,0,0,0,1,2,0,0,0,0,13,0,1
+6,Jonjo Shelvey,6.0,eng ENG,CM,30-356,71,19,19,0,0,0,0,0,0,0,0,0,0,15,0,0
+7,Orel Mangala,5.0,be BEL,"DM,CM",24-337,19,13,13,0,0,0,0,0,0,0,0,0,0,9,0,1
+8,Remo Freuler,23.0,ch SUI,"RM,LM,DM",30-309,90,17,17,0,0,0,0,0,0,0,0,0,0,13,0,1
+9,Renan Lodi,32.0,br BRA,LB,24-316,78,10,6,4,0,0,0,1,4,0,0,0,0,4,0,0
+10,Harry Toffolo,15.0,eng ENG,LB,27-183,12,4,4,0,0,0,0,0,0,0,0,0,0,2,0,0
+11,Felipe,38.0,br BRA,CB,33-278,90,21,21,0,0,0,0,0,0,0,0,0,0,11,0,0
+12,Joe Worrall,4.0,eng ENG,CB,26-039,90,44,44,0,0,0,0,0,0,0,0,0,0,34,0,0
+13,Serge Aurier,24.0,ci CIV,RB,30-056,78,28,24,3,0,0,0,0,3,0,0,0,0,18,1,0
+14,Chris Wood,39.0,nz NZL,FW,31-073,12,5,5,0,0,0,0,0,0,0,0,0,0,2,0,0
+15,Keylor Navas,12.0,cr CRC,GK,36-065,90,48,27,20,5,0,0,0,0,0,0,0,0,29,1,0
+16,16 Players,,,,,990,275,241,32,6,0,1,4,9,0,0,0,0,180,2,6

@@ -1,0 +1,17 @@
+,Unnamed: 0_level_0,Unnamed: 1_level_0,Unnamed: 2_level_0,Unnamed: 3_level_0,Unnamed: 4_level_0,Unnamed: 5_level_0,Unnamed: 6_level_0,Pass Types,Pass Types,Pass Types,Pass Types,Pass Types,Pass Types,Pass Types,Pass Types,Corner Kicks,Corner Kicks,Corner Kicks,Outcomes,Outcomes,Outcomes
+,Player,#,Nation,Pos,Age,Min,Att,Live,Dead,FK,TB,Sw,Crs,TI,CK,In,Out,Str,Cmp,Off,Blocks
+0,Pierre-Emerick Aubameyang,14.0,ga GAB,FW,31-318,77,24,23,1,0,0,0,1,0,0,0,0,0,23,0,0
+1,Nicolas Pépé,19.0,ci CIV,LW,25-338,13,12,12,0,0,0,0,0,0,0,0,0,0,10,0,1
+2,Gabriel Martinelli,35.0,br BRA,"LW,FW",19-318,90,41,41,0,0,0,1,4,0,0,0,0,0,35,0,0
+3,Willian,12.0,br BRA,RW,32-266,90,60,53,7,1,0,0,8,0,6,2,2,0,50,0,0
+4,Martin Ødegaard,11.0,no NOR,AM,22-136,84,62,59,3,2,0,0,3,0,1,1,0,0,55,0,0
+5,Thomas Partey,18.0,gh GHA,CM,27-323,6,17,16,1,1,0,0,0,0,0,0,0,0,14,0,0
+6,Dani Ceballos,8.0,es ESP,"DM,LM",24-268,90,87,87,0,0,1,1,1,0,0,0,0,0,75,0,1
+7,Mohamed Elneny,25.0,eg EGY,"DM,RM",28-295,90,57,57,0,0,0,0,0,0,0,0,0,0,56,0,0
+8,Granit Xhaka,34.0,ch SUI,LB,28-217,90,99,92,7,1,0,1,0,6,0,0,0,0,91,0,1
+9,Gabriel Dos Santos,6.0,br BRA,CB,23-134,90,68,67,1,1,0,0,0,0,0,0,0,0,63,0,0
+10,David Luiz,23.0,br BRA,CB,34-010,52,35,34,1,1,0,2,0,0,0,0,0,0,31,0,0
+11,Calum Chambers,21.0,eng ENG,CB,26-102,38,28,27,1,1,0,1,0,0,0,0,0,0,26,0,0
+12,Héctor Bellerín,2.0,es ESP,RB,26-044,90,60,54,5,0,0,1,0,5,0,0,0,0,57,1,1
+13,Mathew Ryan,33.0,au AUS,GK,29-024,90,30,24,6,2,0,0,0,0,0,0,0,0,27,0,0
+14,14 Players,,,,,990,680,646,33,10,1,7,17,11,7,3,2,0,613,1,4

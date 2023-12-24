@@ -1,0 +1,19 @@
+,Unnamed: 0_level_0,Unnamed: 1_level_0,Unnamed: 2_level_0,Unnamed: 3_level_0,Unnamed: 4_level_0,Unnamed: 5_level_0,Unnamed: 6_level_0,Pass Types,Pass Types,Pass Types,Pass Types,Pass Types,Pass Types,Pass Types,Pass Types,Corner Kicks,Corner Kicks,Corner Kicks,Outcomes,Outcomes,Outcomes
+,Player,#,Nation,Pos,Age,Min,Att,Live,Dead,FK,TB,Sw,Crs,TI,CK,In,Out,Str,Cmp,Off,Blocks
+0,Kelechi Iheanacho,14.0,ng NGA,FW,26-124,66,12,11,1,0,0,0,0,0,0,0,0,0,9,0,0
+1,Jamie Vardy,9.0,eng ENG,FW,36-024,24,7,7,0,0,0,0,0,0,0,0,0,0,3,0,0
+2,Harvey Barnes,7.0,eng ENG,"LW,LM",25-057,90,20,19,0,0,0,0,1,0,0,0,0,0,13,1,0
+3,Tetê,37.0,br BRA,RW,22-354,82,31,28,2,0,0,0,3,0,0,0,0,0,22,1,1
+4,Çağlar Söyüncü,4.0,tr TUR,"AM,CB",26-257,8,2,2,0,0,0,0,0,0,0,0,0,0,0,0,0
+5,James Maddison,10.0,eng ENG,AM,26-073,66,21,21,0,0,1,0,0,0,0,0,0,0,12,0,0
+6,Dennis Praet,26.0,be BEL,"RW,RM",28-266,24,6,6,0,0,0,0,1,0,0,0,0,0,3,0,2
+7,Kiernan Dewsbury-Hall,22.0,eng ENG,DM,24-151,66,32,31,0,0,0,1,0,0,0,0,0,0,23,1,1
+8,Nampalys Mendy,24.0,sn SEN,"DM,CM",30-226,24,4,4,0,0,0,0,0,0,0,0,0,0,3,0,0
+9,Youri Tielemans,8.0,be BEL,"DM,CM",25-273,90,51,47,4,4,1,0,0,0,0,0,0,0,45,0,3
+10,Victor Bernth Kristiansen,16.0,dk DEN,LB,20-050,80,40,27,12,1,1,0,4,8,3,3,0,0,21,1,2
+11,Luke Thomas,33.0,eng ENG,LB,21-239,10,3,2,0,0,0,0,0,0,0,0,0,0,1,1,0
+12,Wout Faes,3.0,be BEL,CB,24-307,90,29,29,0,0,0,0,0,0,0,0,0,0,23,0,0
+13,Harry Souttar,15.0,au AUS,CB,24-105,90,35,31,2,2,0,0,0,0,0,0,0,0,27,2,1
+14,Timothy Castagne,27.0,be BEL,RB,27-061,90,52,40,11,1,0,0,1,10,0,0,0,0,44,1,1
+15,Danny Ward,1.0,wls WAL,GK,29-227,90,28,17,11,3,0,0,0,0,0,0,0,0,19,0,0
+16,16 Players,,,,,990,373,322,43,11,3,1,10,18,3,3,0,0,268,8,11

@@ -1,0 +1,19 @@
+,Unnamed: 0_level_0,Unnamed: 1_level_0,Unnamed: 2_level_0,Unnamed: 3_level_0,Unnamed: 4_level_0,Unnamed: 5_level_0,Tackles,Tackles,Tackles,Tackles,Tackles,Challenges,Challenges,Challenges,Challenges,Blocks,Blocks,Blocks,Unnamed: 18_level_0,Unnamed: 19_level_0,Unnamed: 20_level_0,Unnamed: 21_level_0
+,Player,#,Nation,Pos,Age,Min,Tkl,TklW,Def 3rd,Mid 3rd,Att 3rd,Tkl,Att,Tkl%,Lost,Blocks,Sh,Pass,Int,Tkl+Int,Clr,Err
+0,Chris Wood,39.0,nz NZL,FW,31-045,74,0,0,0,0,0,0,0,,0,2,1,1,1,1,0,0
+1,Sam Surridge,16.0,eng ENG,FW,24-177,16,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,0
+2,Brennan Johnson,20.0,wls WAL,FW,21-243,90,1,1,0,0,1,0,0,,0,2,0,2,0,1,0,0
+3,Morgan Gibbs-White,10.0,eng ENG,AM,22-359,90,1,0,0,0,1,1,1,100.0,0,0,0,0,1,2,1,0
+4,Orel Mangala,5.0,be BEL,LM,24-309,59,0,0,0,0,0,0,0,,0,1,1,0,0,0,0,0
+5,Gustavo Scarpa,31.0,br BRA,LM,29-016,31,2,0,2,0,0,1,1,100.0,0,0,0,0,0,2,1,0
+6,Remo Freuler,23.0,ch SUI,"RM,CM",30-281,90,1,1,0,1,0,1,1,100.0,0,1,0,1,2,3,1,0
+7,Ryan Yates,22.0,eng ENG,RM,25-061,44,1,0,1,0,0,1,1,100.0,0,1,0,1,0,1,2,0
+8,Danilo,28.0,br BRA,CM,21-267,46,4,2,3,1,0,1,2,50.0,1,0,0,0,0,4,3,0
+9,Renan Lodi,32.0,br BRA,LB,24-288,90,3,3,2,1,0,2,2,100.0,0,0,0,0,3,6,5,0
+10,Willy Boly,30.0,ci CIV,CB,31-352,74,0,0,0,0,0,0,0,,0,4,1,3,3,3,1,0
+11,Scott McKenna,26.0,sct SCO,CB,26-070,16,0,0,0,0,0,0,0,,0,0,0,0,0,0,2,0
+12,Joe Worrall,4.0,eng ENG,CB,26-011,90,5,1,4,1,0,3,3,100.0,0,2,2,0,0,5,2,0
+13,Serge Aurier,24.0,ci CIV,RB,30-028,74,2,2,1,1,0,1,1,100.0,0,1,0,1,1,3,2,0
+14,Neco Williams,7.0,wls WAL,RB,21-283,16,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,0
+15,Wayne Hennessey,13.0,wls WAL,GK,35-362,90,1,0,1,0,0,1,1,100.0,0,0,0,0,0,1,1,0
+16,16 Players,,,,,990,21,10,14,5,2,12,13,92.3,1,14,5,9,11,32,21,0

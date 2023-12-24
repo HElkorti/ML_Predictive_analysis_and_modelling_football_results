@@ -1,0 +1,17 @@
+,Unnamed: 0_level_0,Unnamed: 1_level_0,Unnamed: 2_level_0,Unnamed: 3_level_0,Unnamed: 4_level_0,Unnamed: 5_level_0,Unnamed: 6_level_0,Pass Types,Pass Types,Pass Types,Pass Types,Pass Types,Pass Types,Pass Types,Pass Types,Corner Kicks,Corner Kicks,Corner Kicks,Outcomes,Outcomes,Outcomes
+,Player,#,Nation,Pos,Age,Min,Att,Live,Dead,FK,TB,Sw,Crs,TI,CK,In,Out,Str,Cmp,Off,Blocks
+0,Dominic Calvert-Lewin,9.0,eng ENG,FW,24-046,90,26,26,0,0,0,0,0,0,0,0,0,0,17,0,0
+1,Richarlison,7.0,br BRA,"LW,RW",23-356,90,26,26,0,0,0,0,1,0,0,0,0,0,20,0,3
+2,Alex Iwobi,17.0,ng NGA,RW,24-363,75,26,26,0,0,0,0,2,0,0,0,0,0,21,0,0
+3,Bernard,20.0,br BRA,AM,28-235,15,11,11,0,0,0,0,1,0,0,0,0,0,9,0,0
+4,Gylfi Sigurðsson,10.0,is ISL,"AM,LW",31-235,81,31,25,6,3,0,0,3,0,0,0,0,0,26,0,1
+5,Joshua King,11.0,no NOR,AM,29-106,9,4,4,0,0,0,0,0,0,0,0,0,0,3,0,1
+6,André Gomes,21.0,pt POR,DM,27-275,69,42,41,0,0,0,0,0,0,0,0,0,0,35,1,0
+7,Fabian Delph,8.0,eng ENG,DM,31-161,21,17,17,0,0,0,0,1,0,0,0,0,0,14,0,0
+8,Allan,6.0,br BRA,DM,30-113,90,49,47,2,2,0,0,0,0,0,0,0,0,42,0,0
+9,Lucas Digne,12.0,fr FRA,LB,27-285,90,62,46,16,1,0,0,9,12,3,3,0,0,47,0,3
+10,Mason Holgate,4.0,eng ENG,CB,24-191,90,47,46,1,0,0,0,0,1,0,0,0,0,33,0,1
+11,Ben Godfrey,22.0,eng ENG,CB,23-106,90,39,39,0,0,0,0,0,0,0,0,0,0,36,0,0
+12,Séamus Coleman,23.0,ie IRL,RB,32-202,90,42,34,7,1,0,0,1,6,0,0,0,0,35,1,0
+13,Jordan Pickford,1.0,eng ENG,GK,27-055,90,40,27,13,8,0,1,0,0,0,0,0,0,29,0,0
+14,14 Players,,,,,990,462,415,45,15,0,1,18,19,3,3,0,0,367,2,9

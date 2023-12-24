@@ -1,0 +1,17 @@
+,Unnamed: 0_level_0,Unnamed: 1_level_0,Unnamed: 2_level_0,Unnamed: 3_level_0,Unnamed: 4_level_0,Unnamed: 5_level_0,Touches,Touches,Touches,Touches,Touches,Touches,Touches,Take-Ons,Take-Ons,Take-Ons,Take-Ons,Take-Ons,Carries,Carries,Carries,Carries,Carries,Carries,Carries,Carries,Receiving,Receiving
+,Player,#,Nation,Pos,Age,Min,Touches,Def Pen,Def 3rd,Mid 3rd,Att 3rd,Att Pen,Live,Att,Succ,Succ%,Tkld,Tkld%,Carries,TotDist,PrgDist,PrgC,1/3,CPA,Mis,Dis,Rec,PrgR
+0,Kelechi Iheanacho,14.0,ng NGA,FW,25-168,85,38,0,3,13,22,7,38,5,3,60.0,2,40.0,19,154,55,1,2,2,3,0,26,8
+1,Patson Daka,29.0,zm ZAM,FW,23-162,5,4,0,0,2,2,0,4,1,0,0.0,1,100.0,2,5,0,0,0,0,1,0,1,0
+2,Harvey Barnes,7.0,eng ENG,LW,24-101,90,33,1,6,9,19,3,33,1,0,0.0,1,100.0,22,84,51,1,1,1,2,0,26,8
+3,James Maddison,10.0,eng ENG,RW,25-117,90,55,0,7,27,21,0,55,2,2,100.0,0,0.0,31,147,52,1,0,0,2,0,48,4
+4,Kiernan Dewsbury-Hall,22.0,eng ENG,AM,23-195,78,57,2,12,29,18,0,57,1,1,100.0,0,0.0,28,293,210,6,5,0,5,0,40,4
+5,Boubakary Soumaré,42.0,fr FRA,LM,23-021,12,9,5,7,1,1,0,9,0,0,,0,,1,1,0,0,0,0,1,0,3,1
+6,Nampalys Mendy,24.0,sn SEN,"DM,CM",29-270,90,59,4,16,39,4,0,59,0,0,,0,,45,302,201,3,2,0,0,0,48,0
+7,Youri Tielemans,8.0,be BEL,"DM,RM",24-317,90,70,8,24,31,15,0,70,2,2,100.0,0,0.0,40,151,60,1,3,0,1,2,55,1
+8,Timothy Castagne,27.0,be BEL,LB,26-105,63,46,2,19,16,11,0,46,0,0,,0,,26,147,80,1,0,0,2,0,26,3
+9,Jonny Evans,6.0,nir NIR,CB,34-076,27,17,1,12,5,0,0,17,0,0,,0,,9,31,0,0,0,0,0,0,10,0
+10,Çağlar Söyüncü,4.0,tr TUR,CB,25-301,90,70,16,45,25,0,0,70,0,0,,0,,39,172,74,0,0,0,0,0,41,0
+11,Daniel Amartey,18.0,gh GHA,"CB,RB",27-089,90,82,18,42,39,1,0,82,0,0,,0,,52,243,126,0,0,0,0,0,58,0
+12,James Justin,2.0,eng ENG,"RB,LB",24-025,90,80,4,30,28,23,5,80,1,1,100.0,0,0.0,39,155,59,1,1,0,0,2,50,6
+13,Kasper Schmeichel,1.0,dk DEN,GK,35-135,90,45,42,45,0,0,0,45,0,0,,0,,25,133,75,0,0,0,0,0,22,0
+14,14 Players,,,,,990,665,103,268,264,137,15,665,13,9,69.2,4,30.8,378,2018,1043,15,14,3,17,4,454,35

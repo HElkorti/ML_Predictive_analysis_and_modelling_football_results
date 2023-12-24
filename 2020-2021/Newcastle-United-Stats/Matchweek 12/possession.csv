@@ -1,0 +1,17 @@
+,Unnamed: 0_level_0,Unnamed: 1_level_0,Unnamed: 2_level_0,Unnamed: 3_level_0,Unnamed: 4_level_0,Unnamed: 5_level_0,Touches,Touches,Touches,Touches,Touches,Touches,Touches,Take-Ons,Take-Ons,Take-Ons,Take-Ons,Take-Ons,Carries,Carries,Carries,Carries,Carries,Carries,Carries,Carries,Receiving,Receiving
+,Player,#,Nation,Pos,Age,Min,Touches,Def Pen,Def 3rd,Mid 3rd,Att 3rd,Att Pen,Live,Att,Succ,Succ%,Tkld,Tkld%,Carries,TotDist,PrgDist,PrgC,1/3,CPA,Mis,Dis,Rec,PrgR
+0,Joelinton,9.0,br BRA,"FW,LM",24-120,90,43,1,7,23,13,3,43,3,1,33.3,2,66.7,15,62,16,1,0,0,4,2,31,3
+1,Callum Wilson,13.0,eng ENG,FW,28-289,90,29,0,1,13,15,2,29,2,2,100.0,0,0.0,18,142,26,1,0,2,4,3,28,4
+2,Matt Ritchie,11.0,sct SCO,"LM,LB",31-093,90,46,2,15,20,12,0,46,0,0,,0,,20,125,87,3,5,0,2,0,24,4
+3,Jonjo Shelvey,8.0,eng ENG,CM,28-289,90,73,2,19,43,11,0,73,1,1,100.0,0,0.0,40,242,118,1,2,0,1,0,51,1
+4,Sean Longstaff,36.0,eng ENG,CM,23-043,90,58,2,12,38,8,1,58,0,0,,0,,24,102,31,0,0,0,1,0,42,2
+5,Miguel Almirón,24.0,py PAR,RM,26-306,85,48,2,7,30,13,3,48,3,1,33.3,2,66.7,27,272,131,5,2,1,2,3,36,5
+6,DeAndre Yedlin,22.0,us USA,RB,27-156,5,4,0,2,2,0,0,4,0,0,,0,,0,0,0,0,0,0,0,0,1,0
+7,Jamal Lewis,15.0,nir NIR,LB,22-322,68,46,5,20,23,4,0,46,3,0,0.0,3,100.0,23,236,155,5,3,0,0,1,20,1
+8,Dwight Gayle,12.0,eng ENG,FW,30-056,22,13,0,1,4,8,5,13,0,0,,0,,4,8,4,0,0,0,0,0,8,2
+9,Ciaran Clark,2.0,ie IRL,CB,31-077,90,48,11,33,14,1,1,48,1,1,100.0,0,0.0,13,75,12,0,0,0,0,0,27,0
+10,Isaac Hayden,14.0,eng ENG,CB,25-265,90,46,9,31,14,1,1,46,0,0,,0,,14,48,11,0,0,0,0,1,20,0
+11,Emil Krafth,17.0,se SWE,RB,26-132,79,63,1,18,29,16,2,63,1,1,100.0,0,0.0,29,148,70,1,3,1,0,1,42,4
+12,Jacob Murphy,23.0,eng ENG,"RM,RB",25-292,11,13,1,3,1,9,0,13,0,0,,0,,2,4,1,0,0,0,0,0,4,0
+13,Karl Darlow,26.0,eng ENG,GK,30-065,90,31,31,31,0,0,0,31,0,0,,0,,13,65,36,0,0,0,0,0,12,0
+14,14 Players,,,,,990,561,67,200,254,111,18,561,14,7,50.0,7,50.0,242,1529,698,17,15,4,14,11,346,26

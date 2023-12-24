@@ -1,0 +1,17 @@
+,Unnamed: 0_level_0,Unnamed: 1_level_0,Unnamed: 2_level_0,Unnamed: 3_level_0,Unnamed: 4_level_0,Unnamed: 5_level_0,Unnamed: 6_level_0,Pass Types,Pass Types,Pass Types,Pass Types,Pass Types,Pass Types,Pass Types,Pass Types,Corner Kicks,Corner Kicks,Corner Kicks,Outcomes,Outcomes,Outcomes
+,Player,#,Nation,Pos,Age,Min,Att,Live,Dead,FK,TB,Sw,Crs,TI,CK,In,Out,Str,Cmp,Off,Blocks
+0,Sam Surridge,16.0,eng ENG,FW,24-009,62,11,11,0,0,0,0,1,0,0,0,0,0,5,0,0
+1,Taiwo Awoniyi,9.0,ng NGA,"AM,FW",24-359,28,4,4,0,0,0,0,0,0,0,0,0,0,3,0,0
+2,Brennan Johnson,20.0,wls WAL,"FW,LW",21-075,90,15,14,1,0,0,0,1,0,1,1,0,0,6,0,2
+3,Jesse Lingard,11.0,eng ENG,AM,29-234,90,27,22,5,1,0,0,1,1,0,0,0,0,25,0,0
+4,Jack Colback,8.0,eng ENG,"CM,DM",32-286,90,25,24,1,1,0,0,0,0,0,0,0,0,22,0,0
+5,Lewis O'Brien,14.0,eng ENG,CM,23-296,74,26,25,1,1,0,0,0,0,0,0,0,0,20,0,0
+6,Orel Mangala,5.0,be BEL,"DM,CM",24-141,16,8,8,0,0,0,0,0,0,0,0,0,0,7,0,0
+7,Harry Toffolo,15.0,eng ENG,"WB,LB",26-352,90,49,39,10,0,0,0,4,10,0,0,0,0,24,0,3
+8,Neco Williams,7.0,wls WAL,"WB,RB",21-115,90,41,28,13,3,0,0,2,10,0,0,0,0,31,0,0
+9,Scott McKenna,26.0,sct SCO,CB,25-267,90,29,25,4,0,0,0,0,4,0,0,0,0,22,0,0
+10,Moussa Niakhate,19.0,sn SEN,CB,26-151,82,26,24,2,2,0,0,0,0,0,0,0,0,21,0,1
+11,Alex Mighten,17.0,eng ENG,RW,20-117,8,1,1,0,0,0,0,0,0,0,0,0,0,1,0,0
+12,Joe Worrall,4.0,eng ENG,CB,25-208,90,35,34,1,0,0,0,0,1,0,0,0,0,29,0,0
+13,Dean Henderson,1.0,eng ENG,GK,25-147,90,45,30,15,3,0,0,0,0,0,0,0,0,27,0,0
+14,14 Players,,,,,990,342,289,53,11,0,0,9,26,1,1,0,0,243,0,6

@@ -1,0 +1,17 @@
+,Unnamed: 0_level_0,Unnamed: 1_level_0,Unnamed: 2_level_0,Unnamed: 3_level_0,Unnamed: 4_level_0,Unnamed: 5_level_0,Unnamed: 6_level_0,Pass Types,Pass Types,Pass Types,Pass Types,Pass Types,Pass Types,Pass Types,Pass Types,Corner Kicks,Corner Kicks,Corner Kicks,Outcomes,Outcomes,Outcomes
+,Player,#,Nation,Pos,Age,Min,Att,Live,Dead,FK,TB,Sw,Crs,TI,CK,In,Out,Str,Cmp,Off,Blocks
+0,Jamie Vardy,9.0,eng ENG,FW,33-302,90,12,11,1,0,0,0,1,0,0,0,0,0,8,0,1
+1,James Maddison,10.0,eng ENG,AM,23-351,71,48,41,7,2,0,0,6,0,5,0,4,0,38,0,0
+2,Harvey Barnes,15.0,eng ENG,"RM,AM",22-335,19,10,10,0,0,0,0,0,0,0,0,0,0,7,0,0
+3,Dennis Praet,26.0,be BEL,AM,26-178,79,51,51,0,0,1,0,4,0,0,0,0,0,42,0,0
+4,Wes Morgan,5.0,jm JAM,CB,36-292,11,4,4,0,0,0,0,0,0,0,0,0,0,4,0,0
+5,Nampalys Mendy,24.0,sn SEN,CM,28-138,90,63,63,0,0,0,0,0,0,0,0,0,0,59,0,0
+6,Youri Tielemans,8.0,be BEL,CM,23-185,90,76,73,3,2,0,0,2,0,1,0,1,0,69,0,2
+7,Luke Thomas,33.0,eng ENG,WB,19-151,45,19,17,2,0,0,0,2,2,0,0,0,0,10,0,1
+8,Marc Albrighton,11.0,eng ENG,"WB,RB",30-356,45,24,22,2,0,0,0,3,2,0,0,0,0,15,0,1
+9,James Justin,2.0,eng ENG,"WB,LM",22-259,90,58,58,0,0,0,0,5,0,0,0,0,0,40,0,0
+10,Christian Fuchs,28.0,at AUT,"CB,LB",34-215,90,65,54,11,1,0,0,1,10,0,0,0,0,46,0,2
+11,Jonny Evans,6.0,nir NIR,CB,32-310,90,37,37,0,0,1,0,0,0,0,0,0,0,27,0,0
+12,Wesley Fofana,3.0,fr FRA,CB,19-327,90,50,46,4,0,0,1,0,4,0,0,0,0,44,0,0
+13,Kasper Schmeichel,1.0,dk DEN,GK,34-003,90,19,11,8,1,0,0,0,0,0,0,0,0,13,0,0
+14,14 Players,,,,,990,536,498,38,6,2,1,24,18,6,0,5,0,422,0,7

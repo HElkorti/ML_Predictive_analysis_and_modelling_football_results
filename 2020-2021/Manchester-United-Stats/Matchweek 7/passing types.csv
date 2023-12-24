@@ -1,0 +1,17 @@
+,Unnamed: 0_level_0,Unnamed: 1_level_0,Unnamed: 2_level_0,Unnamed: 3_level_0,Unnamed: 4_level_0,Unnamed: 5_level_0,Unnamed: 6_level_0,Pass Types,Pass Types,Pass Types,Pass Types,Pass Types,Pass Types,Pass Types,Pass Types,Corner Kicks,Corner Kicks,Corner Kicks,Outcomes,Outcomes,Outcomes
+,Player,#,Nation,Pos,Age,Min,Att,Live,Dead,FK,TB,Sw,Crs,TI,CK,In,Out,Str,Cmp,Off,Blocks
+0,Marcus Rashford,10.0,eng ENG,FW,23-001,90,30,25,4,1,1,0,1,1,1,0,1,0,24,1,1
+1,Mason Greenwood,11.0,eng ENG,FW,19-031,74,28,28,0,0,0,0,0,0,0,0,0,0,21,0,0
+2,Edinson Cavani,7.0,uy URU,FW,33-261,16,4,4,0,0,0,0,0,0,0,0,0,0,2,0,0
+3,Bruno Fernandes,18.0,pt POR,AM,26-054,74,45,36,8,3,0,1,4,2,2,1,1,0,30,1,2
+4,Donny van de Beek,34.0,nl NED,AM,23-197,16,12,12,0,0,0,0,0,0,0,0,0,0,10,0,0
+5,Paul Pogba,6.0,fr FRA,LM,27-231,90,42,41,1,1,0,0,2,0,0,0,0,0,35,0,0
+6,Scott McTominay,39.0,sct SCO,RM,23-329,90,47,46,1,0,0,0,1,1,0,0,0,0,39,0,0
+7,Fred,17.0,br BRA,DM,27-241,61,54,53,0,0,0,0,0,0,0,0,0,0,45,1,0
+8,Nemanja Matić,31.0,rs SRB,DM,32-092,29,32,30,2,2,0,0,0,0,0,0,0,0,29,0,0
+9,Luke Shaw,23.0,eng ENG,LB,25-112,90,64,49,15,3,0,0,8,9,3,0,3,0,52,0,0
+10,Harry Maguire,5.0,eng ENG,CB,27-241,90,67,64,2,2,0,0,0,0,0,0,0,0,61,1,0
+11,Victor Lindelöf,2.0,se SWE,CB,26-107,90,96,95,1,1,0,0,0,0,0,0,0,0,90,0,2
+12,Aaron Wan-Bissaka,29.0,eng ENG,RB,22-341,90,70,62,8,0,0,0,2,8,0,0,0,0,58,0,1
+13,David de Gea,1.0,es ESP,GK,29-360,90,24,15,9,0,0,0,0,0,0,0,0,0,16,0,0
+14,14 Players,,,,,990,615,560,51,13,1,1,18,21,6,1,5,0,512,4,6

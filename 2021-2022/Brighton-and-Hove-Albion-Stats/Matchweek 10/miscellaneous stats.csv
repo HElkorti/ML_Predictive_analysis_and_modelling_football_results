@@ -1,0 +1,17 @@
+,Unnamed: 0_level_0,Unnamed: 1_level_0,Unnamed: 2_level_0,Unnamed: 3_level_0,Unnamed: 4_level_0,Unnamed: 5_level_0,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Aerial Duels,Aerial Duels,Aerial Duels
+,Player,#,Nation,Pos,Age,Min,CrdY,CrdR,2CrdY,Fls,Fld,Off,Crs,Int,TklW,PKwon,PKcon,OG,Recov,Won,Lost,Won%
+0,Leandro Trossard,11.0,be BEL,FW,26-330,90,0,0,0,0,0,2,0,0,0,0,0,0,2,0,0,
+1,Jakub Moder,15.0,pl POL,LW,22-206,65,0,0,0,0,0,0,1,1,1,0,0,0,4,1,5,16.7
+2,Tariq Lamptey,2.0,gh GHA,RW,21-030,25,1,0,0,0,0,0,1,0,0,0,0,0,2,1,0,100.0
+3,Solly March,20.0,eng ENG,"RW,LW",27-102,90,0,0,0,1,0,2,5,2,0,0,0,0,6,0,2,0.0
+4,Adam Lallana,14.0,eng ENG,AM,33-173,76,0,0,0,0,0,0,0,2,1,0,0,0,3,1,0,100.0
+5,Pascal Groß,13.0,de GER,AM,30-137,14,0,0,0,0,2,0,3,0,0,0,0,0,2,0,1,0.0
+6,Yves Bissouma,8.0,ml MLI,DM,25-061,59,0,0,0,0,0,0,0,3,0,0,0,0,7,1,0,100.0
+7,Alexis Mac Allister,10.0,ar ARG,DM,22-310,31,0,0,0,0,1,0,0,0,2,0,0,0,3,0,1,0.0
+8,Enock Mwepu,12.0,zm ZAM,DM,23-302,90,0,0,0,1,2,1,0,2,3,0,0,0,3,0,1,0.0
+9,Marc Cucurella,3.0,es ESP,LB,23-100,90,0,0,0,0,0,0,1,1,0,0,0,0,10,0,0,
+10,Lewis Dunk,5.0,eng ENG,CB,29-343,90,0,0,0,0,0,0,0,1,0,0,0,0,11,4,0,100.0
+11,Shane Duffy,24.0,ie IRL,CB,29-302,90,1,0,0,1,0,0,0,1,1,0,0,0,4,2,1,66.7
+12,Joël Veltman,34.0,nl NED,RB,29-288,90,0,0,0,2,2,0,0,3,2,0,0,0,4,1,0,100.0
+13,Robert Sánchez,1.0,es ESP,GK,23-346,90,0,0,0,0,0,0,0,0,0,0,0,0,4,0,0,
+14,14 Players,,,,,990,2,0,0,5,7,5,11,16,10,0,0,0,65,11,11,50.0

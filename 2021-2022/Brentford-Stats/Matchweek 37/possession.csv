@@ -1,0 +1,17 @@
+,Unnamed: 0_level_0,Unnamed: 1_level_0,Unnamed: 2_level_0,Unnamed: 3_level_0,Unnamed: 4_level_0,Unnamed: 5_level_0,Touches,Touches,Touches,Touches,Touches,Touches,Touches,Take-Ons,Take-Ons,Take-Ons,Take-Ons,Take-Ons,Carries,Carries,Carries,Carries,Carries,Carries,Carries,Carries,Receiving,Receiving
+,Player,#,Nation,Pos,Age,Min,Touches,Def Pen,Def 3rd,Mid 3rd,Att 3rd,Att Pen,Live,Att,Succ,Succ%,Tkld,Tkld%,Carries,TotDist,PrgDist,PrgC,1/3,CPA,Mis,Dis,Rec,PrgR
+0,Ivan Toney,17.0,eng ENG,FW,26-060,90,29,0,1,9,19,7,29,0,0,,0,,12,40,11,0,0,0,5,1,23,5
+1,Yoane Wissa,11.0,cd COD,"LW,FW",25-254,74,25,0,0,11,14,3,25,1,1,100.0,0,0.0,10,39,21,0,0,0,1,0,21,8
+2,Mads Roerslev,30.0,dk DEN,"FW,CB",22-325,16,9,2,6,2,1,0,9,0,0,,0,,4,23,0,0,0,0,0,0,4,0
+3,Bryan Mbeumo,19.0,cm CMR,"RW,WB,FW",22-281,90,49,0,9,7,33,2,49,0,0,,0,,27,254,151,7,2,0,4,0,40,14
+4,Christian Eriksen,21.0,dk DEN,"CM,LM",30-090,90,90,0,13,44,34,1,90,0,0,,0,,62,328,250,4,4,0,1,0,75,5
+5,Christian Nørgaard,6.0,dk DEN,"CM,CB",28-066,90,84,3,26,42,17,0,84,0,0,,0,,45,159,92,0,2,0,2,1,57,0
+6,Mathias Jensen,8.0,dk DEN,"CM,RM",26-134,90,65,2,17,31,18,4,65,0,0,,0,,36,180,110,2,3,0,0,1,44,5
+7,Rico Henry,3.0,eng ENG,"WB,LB",24-311,90,84,2,20,21,43,8,84,3,3,100.0,0,0.0,45,284,180,6,2,2,1,1,59,20
+8,Mads Bech Sørensen,29.0,dk DEN,CB,23-128,45,33,1,15,18,0,0,33,0,0,,0,,21,113,88,0,0,0,0,0,26,1
+9,Vitaly Janelt,27.0,de GER,CB,24-005,45,65,0,23,17,25,1,65,1,1,100.0,0,0.0,41,246,185,3,6,0,0,0,59,6
+10,Pontus Jansson,18.0,se SWE,CB,31-091,90,67,11,38,27,2,1,67,0,0,,0,,33,124,79,0,0,0,0,0,47,0
+11,Kristoffer Ajer,20.0,no NOR,"RB,CB",24-028,58,53,4,21,23,9,0,53,0,0,,0,,31,212,150,3,2,0,1,0,31,1
+12,Josh Dasilva,10.0,eng ENG,"CM,WB",23-204,32,17,0,3,3,11,3,17,3,3,100.0,0,0.0,12,149,124,5,3,3,0,1,15,3
+13,David Raya,1.0,es ESP,GK,26-242,90,52,37,49,3,0,0,52,0,0,,0,,32,156,105,0,0,0,0,0,30,0
+14,14 Players,,,,,990,722,62,241,258,226,30,722,8,8,100.0,0,0.0,411,2307,1546,30,24,5,15,5,531,68

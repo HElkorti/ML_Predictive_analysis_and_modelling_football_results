@@ -1,0 +1,17 @@
+,Unnamed: 0_level_0,Unnamed: 1_level_0,Unnamed: 2_level_0,Unnamed: 3_level_0,Unnamed: 4_level_0,Unnamed: 5_level_0,Touches,Touches,Touches,Touches,Touches,Touches,Touches,Take-Ons,Take-Ons,Take-Ons,Take-Ons,Take-Ons,Carries,Carries,Carries,Carries,Carries,Carries,Carries,Carries,Receiving,Receiving
+,Player,#,Nation,Pos,Age,Min,Touches,Def Pen,Def 3rd,Mid 3rd,Att 3rd,Att Pen,Live,Att,Succ,Succ%,Tkld,Tkld%,Carries,TotDist,PrgDist,PrgC,1/3,CPA,Mis,Dis,Rec,PrgR
+0,Teemu Pukki,22.0,fi FIN,FW,31-260,90,20,0,2,7,11,3,20,1,0,0.0,1,100.0,4,30,0,0,0,0,2,2,8,4
+1,Todd Cantwell,14.0,eng ENG,LW,23-290,60,23,0,4,13,6,1,23,1,1,100.0,0,0.0,15,55,36,1,0,0,0,0,18,4
+2,Adam Idah,35.0,ie IRL,LW,20-306,30,21,2,5,7,9,2,21,1,0,0.0,1,100.0,10,65,1,0,0,0,0,1,13,5
+3,Przemysław Płacheta,11.0,pl POL,RW,23-266,74,37,2,12,11,16,1,37,5,4,80.0,1,20.0,25,255,149,5,2,0,2,4,25,9
+4,Kieran Dowell,10.0,eng ENG,RW,24-065,16,12,0,2,3,7,0,12,0,0,,0,,3,13,0,0,0,0,0,0,3,0
+5,Kenny McLean,23.0,sct SCO,LM,29-340,90,26,2,4,12,10,3,26,0,0,,0,,17,52,17,0,0,0,0,0,23,5
+6,Jakob Sørensen,19.0,dk DEN,"CB,CM",23-286,90,69,13,31,34,5,2,69,0,0,,0,,32,149,56,0,0,0,0,1,36,1
+7,Billy Gilmour,8.0,sct SCO,RM,20-186,90,78,3,16,42,20,0,78,0,0,,0,,37,213,87,3,0,0,1,1,51,1
+8,Brandon Williams,21.0,eng ENG,LB,21-102,90,72,5,25,40,7,1,72,2,2,100.0,0,0.0,46,324,206,5,2,1,2,1,50,1
+9,Ben Gibson,4.0,eng ENG,CB,28-333,90,81,11,46,33,2,1,81,1,1,100.0,0,0.0,53,168,71,0,0,0,0,0,64,0
+10,Ozan Kabak,15.0,tr TUR,CB,21-264,44,41,5,24,17,0,0,41,0,0,,0,,30,130,55,0,0,0,0,0,33,0
+11,Sam Byram,3.0,eng ENG,CM,28-089,46,25,2,8,12,5,0,25,0,0,,0,,9,62,19,0,0,0,1,0,11,1
+12,Max Aarons,2.0,eng ENG,RB,21-344,90,87,9,31,38,18,0,87,2,0,0.0,2,100.0,46,268,157,3,2,0,0,2,51,2
+13,Tim Krul,1.0,nl NED,GK,33-255,90,29,23,29,0,0,0,29,0,0,,0,,19,142,107,0,0,0,0,0,14,0
+14,14 Players,,,,,990,621,77,239,269,116,14,621,13,8,61.5,5,38.5,346,1926,961,17,6,1,8,12,400,33

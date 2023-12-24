@@ -1,0 +1,17 @@
+,Unnamed: 0_level_0,Unnamed: 1_level_0,Unnamed: 2_level_0,Unnamed: 3_level_0,Unnamed: 4_level_0,Unnamed: 5_level_0,Unnamed: 6_level_0,Pass Types,Pass Types,Pass Types,Pass Types,Pass Types,Pass Types,Pass Types,Pass Types,Corner Kicks,Corner Kicks,Corner Kicks,Outcomes,Outcomes,Outcomes
+,Player,#,Nation,Pos,Age,Min,Att,Live,Dead,FK,TB,Sw,Crs,TI,CK,In,Out,Str,Cmp,Off,Blocks
+0,Dominic Calvert-Lewin,9.0,eng ENG,FW,25-217,72,11,10,1,0,0,0,0,0,0,0,0,0,6,0,0
+1,Neal Maupay,20.0,fr FRA,FW,26-066,18,6,6,0,0,0,0,0,0,0,0,0,0,4,0,1
+2,Demarai Gray,11.0,jm JAM,LW,26-113,78,20,18,2,1,0,0,3,0,1,1,0,0,15,0,0
+3,Dwight McNeil,7.0,eng ENG,LW,22-331,12,5,5,0,0,0,0,0,0,0,0,0,0,3,0,0
+4,Anthony Gordon,10.0,eng ENG,RW,21-237,90,23,22,1,0,0,0,1,0,0,0,0,0,17,0,0
+5,Amadou Onana,8.0,be BEL,LM,21-064,90,36,34,1,1,1,1,1,0,0,0,0,0,28,1,0
+6,Idrissa Gana Gueye,27.0,sn SEN,CM,33-023,90,67,64,2,2,0,0,0,0,0,0,0,0,57,1,1
+7,Alex Iwobi,17.0,ng NGA,RM,26-169,72,28,26,1,0,0,1,1,1,0,0,0,0,21,1,1
+8,James Garner,37.0,eng ENG,RM,21-220,18,18,17,1,0,0,1,1,0,1,1,0,0,14,0,1
+9,Vitaliy Mykolenko,19.0,ua UKR,LB,23-143,90,56,39,17,0,0,1,1,17,0,0,0,0,40,0,2
+10,James Tarkowski,2.0,eng ENG,CB,29-334,90,53,52,1,1,0,0,0,0,0,0,0,0,42,0,0
+11,Conor Coady,30.0,eng ENG,CB,29-236,90,46,44,2,1,0,0,0,1,0,0,0,0,40,0,0
+12,Séamus Coleman,23.0,ie IRL,RB,34-008,90,51,40,11,0,0,0,0,11,0,0,0,0,44,0,2
+13,Jordan Pickford,1.0,eng ENG,GK,28-226,90,38,23,15,3,0,0,0,0,0,0,0,0,19,0,0
+14,14 Players,,,,,990,458,400,55,9,1,4,8,30,2,2,0,0,350,3,8

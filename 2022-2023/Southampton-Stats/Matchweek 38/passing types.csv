@@ -1,0 +1,19 @@
+,Unnamed: 0_level_0,Unnamed: 1_level_0,Unnamed: 2_level_0,Unnamed: 3_level_0,Unnamed: 4_level_0,Unnamed: 5_level_0,Unnamed: 6_level_0,Pass Types,Pass Types,Pass Types,Pass Types,Pass Types,Pass Types,Pass Types,Pass Types,Corner Kicks,Corner Kicks,Corner Kicks,Outcomes,Outcomes,Outcomes
+,Player,#,Nation,Pos,Age,Min,Att,Live,Dead,FK,TB,Sw,Crs,TI,CK,In,Out,Str,Cmp,Off,Blocks
+0,Kamaldeen Sulemana,20.0,gh GHA,FW,21-102,85,12,11,1,0,0,0,0,0,0,0,0,0,6,0,1
+1,Dominic Ballard,53.0,eng ENG,"LM,FW",18-057,5,3,2,1,0,0,0,0,1,0,0,0,0,2,0,0
+2,Mohamed Elyounoussi,24.0,no NOR,LW,28-297,63,19,18,1,1,0,0,2,0,0,0,0,0,12,0,0
+3,Stuart Armstrong,17.0,sct SCO,"DM,CM",31-059,27,8,5,3,0,0,0,2,0,1,0,1,0,5,0,0
+4,Theo Walcott,32.0,eng ENG,RW,34-073,76,14,14,0,0,1,0,3,0,0,0,0,0,10,0,0
+5,Valentino Livramento,21.0,eng ENG,"RB,RW",20-197,14,8,6,2,0,0,0,0,2,0,0,0,0,6,0,0
+6,Carlos Alcaraz,26.0,ar ARG,"AM,CM",20-179,90,25,23,2,1,0,1,0,0,0,0,0,0,21,0,1
+7,Roméo Lavia,45.0,be BEL,DM,19-142,62,22,22,0,0,0,0,0,0,0,0,0,0,19,0,0
+8,Adam Armstrong,9.0,eng ENG,"LW,FW,DM",26-107,28,2,2,0,0,0,0,0,0,0,0,0,0,1,0,0
+9,James Ward-Prowse,8.0,eng ENG,DM,28-208,86,33,27,6,4,0,0,0,0,1,0,0,0,29,0,1
+10,Samuel Amo-Ameyaw,75.0,eng ENG,RM,16-314,4,6,6,0,0,0,0,0,0,0,0,0,0,5,0,0
+11,Kyle Walker-Peters,2.0,eng ENG,LB,26-045,90,32,25,7,0,0,0,0,7,0,0,0,0,26,0,1
+12,Lyanco,4.0,br BRA,CB,26-116,90,28,26,2,1,0,1,0,1,0,0,0,0,20,0,0
+13,Jan Bednarek,35.0,pl POL,CB,27-046,90,28,28,0,0,0,0,0,0,0,0,0,0,24,0,0
+14,James Bree,14.0,eng ENG,"RB,CB",25-229,90,27,22,5,0,0,0,0,5,0,0,0,0,22,0,1
+15,Alex McCarthy,1.0,eng ENG,GK,33-176,90,36,24,12,2,0,0,0,0,0,0,0,0,17,0,0
+16,16 Players,,,,,990,303,261,42,9,1,2,7,16,2,0,1,0,225,0,5

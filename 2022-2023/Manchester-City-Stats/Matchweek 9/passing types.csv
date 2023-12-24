@@ -1,0 +1,19 @@
+,Unnamed: 0_level_0,Unnamed: 1_level_0,Unnamed: 2_level_0,Unnamed: 3_level_0,Unnamed: 4_level_0,Unnamed: 5_level_0,Unnamed: 6_level_0,Pass Types,Pass Types,Pass Types,Pass Types,Pass Types,Pass Types,Pass Types,Pass Types,Corner Kicks,Corner Kicks,Corner Kicks,Outcomes,Outcomes,Outcomes
+,Player,#,Nation,Pos,Age,Min,Att,Live,Dead,FK,TB,Sw,Crs,TI,CK,In,Out,Str,Cmp,Off,Blocks
+0,Erling Haaland,9.0,no NOR,FW,22-073,90,23,19,4,0,1,0,0,0,0,0,0,0,17,0,0
+1,Jack Grealish,10.0,eng ENG,LW,27-022,74,35,35,0,0,0,0,1,0,0,0,0,0,28,0,2
+2,Cole Palmer,80.0,eng ENG,LM,20-149,16,7,7,0,0,0,0,1,0,0,0,0,0,7,0,0
+3,Phil Foden,47.0,eng ENG,RW,22-127,74,24,22,2,1,0,0,2,0,1,0,1,0,22,0,1
+4,Riyad Mahrez,26.0,dz ALG,RM,31-223,16,4,4,0,0,0,0,0,0,0,0,0,0,3,0,0
+5,Bernardo Silva,20.0,pt POR,"LM,CM",28-053,90,56,55,1,1,1,1,1,0,0,0,0,0,50,0,1
+6,İlkay Gündoğan,8.0,de GER,CM,31-343,74,32,32,0,0,0,1,0,0,0,0,0,0,30,0,0
+7,Aymeric Laporte,14.0,es ESP,CB,28-128,16,20,20,0,0,0,0,0,0,0,0,0,0,18,0,0
+8,Kevin De Bruyne,17.0,be BEL,RM,31-096,74,34,28,6,3,0,0,3,0,3,2,0,0,28,0,0
+9,Julián Álvarez,19.0,ar ARG,FW,22-244,16,8,8,0,0,0,0,0,0,0,0,0,0,5,0,1
+10,João Cancelo,7.0,pt POR,"RB,LB",28-128,90,70,62,8,2,0,1,0,6,0,0,0,0,61,0,0
+11,Nathan Aké,6.0,nl NED,"CB,LB",27-226,90,67,66,0,0,0,3,0,0,0,0,0,0,58,1,1
+12,Manuel Akanji,25.0,ch SUI,CB,27-075,90,73,73,0,0,0,0,0,0,0,0,0,0,71,0,0
+13,Kyle Walker,2.0,eng ENG,RB,32-127,40,26,23,3,0,0,0,0,3,0,0,0,0,24,0,0
+14,Sergio Gómez,21.0,es ESP,"LB,CM",22-028,50,27,23,4,1,0,0,2,2,1,0,1,0,22,0,1
+15,Ederson,31.0,br BRA,GK,29-046,90,70,62,8,0,0,0,0,0,0,0,0,0,62,0,0
+16,16 Players,,,,,990,576,539,36,8,2,6,10,11,5,2,2,0,506,1,7

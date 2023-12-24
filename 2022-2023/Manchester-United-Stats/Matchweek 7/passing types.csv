@@ -1,0 +1,17 @@
+,Unnamed: 0_level_0,Unnamed: 1_level_0,Unnamed: 2_level_0,Unnamed: 3_level_0,Unnamed: 4_level_0,Unnamed: 5_level_0,Unnamed: 6_level_0,Pass Types,Pass Types,Pass Types,Pass Types,Pass Types,Pass Types,Pass Types,Pass Types,Corner Kicks,Corner Kicks,Corner Kicks,Outcomes,Outcomes,Outcomes
+,Player,#,Nation,Pos,Age,Min,Att,Live,Dead,FK,TB,Sw,Crs,TI,CK,In,Out,Str,Cmp,Off,Blocks
+0,Wout Weghorst,27.0,nl NED,FW,30-164,68,20,20,0,0,0,0,0,0,0,0,0,0,14,0,1
+1,Scott McTominay,39.0,sct SCO,FW,26-041,22,6,6,0,0,0,0,1,0,0,0,0,0,5,0,0
+2,Marcus Rashford,10.0,eng ENG,LW,25-079,90,32,30,2,0,0,0,0,1,0,0,0,0,24,0,3
+3,Antony,21.0,br BRA,RW,22-328,69,31,31,0,0,0,0,0,0,0,0,0,0,26,0,3
+4,Alejandro Garnacho,49.0,ar ARG,RW,18-201,21,8,8,0,0,0,1,0,0,0,0,0,0,8,0,0
+5,Bruno Fernandes,8.0,pt POR,AM,28-132,90,76,73,3,1,1,0,3,0,1,0,1,0,56,0,3
+6,Christian Eriksen,14.0,dk DEN,DM,30-338,82,62,61,1,0,0,1,1,0,1,1,0,0,56,0,0
+7,Fred,17.0,br BRA,DM,29-319,8,12,12,0,0,0,0,1,0,0,0,0,0,8,0,0
+8,Casemiro,18.0,br BRA,DM,30-329,90,70,69,1,1,0,0,0,0,0,0,0,0,47,0,1
+9,Luke Shaw,23.0,eng ENG,LB,27-190,90,67,56,11,2,0,0,4,8,1,1,0,0,52,0,3
+10,Lisandro Martínez,6.0,ar ARG,CB,25-000,90,98,95,3,1,0,0,0,0,0,0,0,0,88,0,0
+11,Raphaël Varane,19.0,fr FRA,CB,29-268,90,83,80,3,2,0,0,0,1,0,0,0,0,71,0,0
+12,Aaron Wan-Bissaka,29.0,eng ENG,RB,25-053,90,70,62,8,0,0,0,5,8,0,0,0,0,56,0,1
+13,David de Gea,1.0,es ESP,GK,32-072,90,28,26,2,1,0,0,0,0,0,0,0,0,24,0,0
+14,14 Players,,,,,990,663,629,34,8,1,2,15,18,3,2,1,0,535,0,15

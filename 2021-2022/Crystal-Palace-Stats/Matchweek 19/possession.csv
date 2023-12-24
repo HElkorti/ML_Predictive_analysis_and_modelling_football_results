@@ -1,0 +1,17 @@
+,Unnamed: 0_level_0,Unnamed: 1_level_0,Unnamed: 2_level_0,Unnamed: 3_level_0,Unnamed: 4_level_0,Unnamed: 5_level_0,Touches,Touches,Touches,Touches,Touches,Touches,Touches,Take-Ons,Take-Ons,Take-Ons,Take-Ons,Take-Ons,Carries,Carries,Carries,Carries,Carries,Carries,Carries,Carries,Receiving,Receiving
+,Player,#,Nation,Pos,Age,Min,Touches,Def Pen,Def 3rd,Mid 3rd,Att 3rd,Att Pen,Live,Att,Succ,Succ%,Tkld,Tkld%,Carries,TotDist,PrgDist,PrgC,1/3,CPA,Mis,Dis,Rec,PrgR
+0,Odsonne Édouard,22.0,fr FRA,FW,23-344,62,26,0,3,13,10,1,26,1,0,0.0,1,100.0,18,68,32,2,0,0,1,2,19,2
+1,Jean-Philippe Mateta,14.0,fr FRA,FW,24-181,28,12,0,2,5,5,0,12,0,0,,0,,5,5,1,0,0,0,0,0,7,0
+2,Wilfried Zaha,11.0,ci CIV,LW,29-046,36,28,0,0,17,11,1,28,2,0,0.0,2,100.0,23,115,43,1,3,0,3,1,23,3
+3,Jordan Ayew,9.0,gh GHA,RW,30-106,90,36,0,5,21,11,2,36,3,1,33.3,2,66.7,32,174,77,3,2,0,3,5,33,4
+4,Will Hughes,12.0,eng ENG,LM,26-253,90,48,4,10,31,7,0,48,0,0,,0,,32,110,44,0,0,0,1,0,27,0
+5,Cheikhou Kouyaté,8.0,sn SEN,CM,32-005,90,41,2,9,24,9,0,41,1,1,100.0,0,0.0,28,73,41,1,0,0,0,1,27,0
+6,Conor Gallagher,23.0,eng ENG,RM,21-323,75,36,0,6,15,15,1,36,3,0,0.0,3,100.0,27,96,26,0,1,0,1,2,27,4
+7,Jeffrey Schlupp,15.0,gh GHA,RM,29-003,15,7,1,3,3,1,1,7,2,1,50.0,1,50.0,4,42,7,1,0,1,1,0,3,0
+8,Tyrick Mitchell,3.0,eng ENG,LB,22-116,81,70,5,32,30,8,0,70,3,1,33.3,2,66.7,50,217,147,0,2,0,1,0,44,1
+9,Nathan Ferguson,36.0,eng ENG,LB,21-081,9,5,0,4,1,0,0,5,0,0,,0,,1,5,0,0,0,0,0,0,1,0
+10,James Tomkins,5.0,eng ENG,CB,32-272,90,51,6,26,23,2,2,51,0,0,,0,,40,91,33,0,0,0,2,0,42,0
+11,Joachim Andersen,16.0,dk DEN,CB,25-209,90,64,15,43,20,1,0,64,0,0,,0,,41,144,61,0,0,0,0,0,45,0
+12,Joel Ward,2.0,eng ENG,RB,32-058,90,68,5,24,32,13,0,68,3,2,66.7,1,33.3,43,114,61,0,0,0,1,0,45,1
+13,Jack Butland,1.0,eng ENG,GK,28-291,90,36,33,36,0,0,0,36,0,0,,0,,20,118,45,0,0,0,0,0,10,0
+14,14 Players,,,,,936,528,71,203,235,93,8,528,18,6,33.3,12,66.7,364,1372,618,8,8,1,14,11,353,15

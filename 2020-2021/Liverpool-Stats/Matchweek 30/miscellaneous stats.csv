@@ -1,0 +1,17 @@
+,Unnamed: 0_level_0,Unnamed: 1_level_0,Unnamed: 2_level_0,Unnamed: 3_level_0,Unnamed: 4_level_0,Unnamed: 5_level_0,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Aerial Duels,Aerial Duels,Aerial Duels
+,Player,#,Nation,Pos,Age,Min,CrdY,CrdR,2CrdY,Fls,Fld,Off,Crs,Int,TklW,PKwon,PKcon,OG,Recov,Won,Lost,Won%
+0,Roberto Firmino,9.0,br BRA,"FW,AM",29-183,77,0,0,0,0,1,0,1,0,0,0,0,0,3,0,1,0.0
+1,Georginio Wijnaldum,5.0,nl NED,RM,30-143,13,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,
+2,Sadio Mané,10.0,sn SEN,LW,28-358,90,0,0,0,0,3,2,3,0,2,0,0,0,5,0,3,0.0
+3,Mohamed Salah,11.0,eg EGY,RW,28-292,90,0,0,0,2,1,0,0,0,0,0,0,0,5,0,1,0.0
+4,James Milner,7.0,eng ENG,"LM,LB",35-089,90,0,0,0,0,1,0,2,0,0,0,0,0,4,2,1,66.7
+5,Fabinho,3.0,br BRA,"CM,DM",27-162,90,0,0,0,3,1,0,1,1,4,0,0,0,5,2,0,100.0
+6,Thiago Alcántara,6.0,es ESP,"RM,DM,LM",29-357,90,0,0,0,2,1,0,0,0,2,0,0,0,10,3,4,42.9
+7,Andrew Robertson,26.0,sct SCO,LB,27-023,60,0,0,0,0,0,1,5,0,3,0,0,0,7,1,2,33.3
+8,Diogo Jota,20.0,pt POR,FW,24-120,30,1,0,0,1,2,0,1,0,0,0,0,0,1,1,0,100.0
+9,Ozan Kabak,19.0,tr TUR,CB,21-009,83,0,0,0,1,0,0,0,0,0,0,0,0,4,3,0,100.0
+10,Rhys Williams,46.0,eng ENG,CB,20-059,7,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,
+11,Nathaniel Phillips,47.0,eng ENG,CB,24-013,90,0,0,0,1,0,0,1,2,0,0,0,0,5,6,1,85.7
+12,Trent Alexander-Arnold,66.0,eng ENG,RB,22-178,90,0,0,0,0,0,0,7,3,0,0,0,0,5,1,0,100.0
+13,Alisson,1.0,br BRA,GK,28-183,90,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,
+14,14 Players,,,,,990,1,0,0,10,10,3,21,6,11,0,0,0,57,19,13,59.4

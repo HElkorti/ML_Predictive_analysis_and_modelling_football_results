@@ -1,0 +1,15 @@
+,Unnamed: 0_level_0,Unnamed: 1_level_0,Unnamed: 2_level_0,Unnamed: 3_level_0,Unnamed: 4_level_0,Unnamed: 5_level_0,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Aerial Duels,Aerial Duels,Aerial Duels
+,Player,#,Nation,Pos,Age,Min,CrdY,CrdR,2CrdY,Fls,Fld,Off,Crs,Int,TklW,PKwon,PKcon,OG,Recov,Won,Lost,Won%
+0,Erling Haaland,9.0,no NOR,FW,22-114,90,1,0,0,1,0,1,0,0,0,0,0,0,0,4,2,66.7
+1,Phil Foden,47.0,eng ENG,"LW,LB",22-168,90,0,0,0,1,0,0,11,0,0,0,0,0,5,3,2,60.0
+2,Bernardo Silva,20.0,pt POR,"RW,DM",28-094,90,0,0,0,1,0,0,1,0,2,0,0,0,9,0,0,
+3,İlkay Gündoğan,8.0,de GER,"LM,AM",32-019,90,0,0,0,1,1,0,0,1,0,0,0,0,5,0,0,
+4,Rodri,16.0,es ESP,"CM,DM",26-143,90,0,0,0,1,1,0,1,0,3,0,0,0,9,4,2,66.7
+5,Kevin De Bruyne,17.0,be BEL,"RM,RW",31-137,90,0,0,0,1,1,0,16,0,1,0,0,0,3,0,2,0.0
+6,João Cancelo,7.0,pt POR,LB,28-169,85,1,0,0,2,0,1,5,0,0,0,0,0,4,1,2,33.3
+7,Julián Álvarez,19.0,ar ARG,LW,22-285,5,0,0,0,1,0,0,0,0,0,0,0,0,1,1,0,100.0
+8,Aymeric Laporte,14.0,es ESP,CB,28-169,90,0,0,0,0,2,0,2,1,0,0,0,0,2,6,2,75.0
+9,Manuel Akanji,25.0,ch SUI,CB,27-116,90,0,0,0,0,1,0,0,0,0,0,0,0,6,1,5,16.7
+10,John Stones,5.0,eng ENG,RB,28-168,90,0,0,0,0,0,0,2,1,1,0,0,0,2,2,3,40.0
+11,Ederson,31.0,br BRA,GK,29-087,90,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,
+12,12 Players,,,,,990,2,0,0,9,6,2,38,3,7,0,0,0,47,22,20,52.4

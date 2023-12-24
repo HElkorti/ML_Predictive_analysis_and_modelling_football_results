@@ -1,0 +1,17 @@
+,Unnamed: 0_level_0,Unnamed: 1_level_0,Unnamed: 2_level_0,Unnamed: 3_level_0,Unnamed: 4_level_0,Unnamed: 5_level_0,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Aerial Duels,Aerial Duels,Aerial Duels
+,Player,#,Nation,Pos,Age,Min,CrdY,CrdR,2CrdY,Fls,Fld,Off,Crs,Int,TklW,PKwon,PKcon,OG,Recov,Won,Lost,Won%
+0,Sergio Agüero,10.0,ar ARG,FW,32-270,60,0,0,0,1,1,0,0,1,0,0,0,0,1,0,0,
+1,Gabriel Jesus,9.0,br BRA,FW,23-330,30,0,0,0,2,0,2,0,0,1,0,0,0,1,0,0,
+2,Ferrán Torres,21.0,es ESP,LW,20-364,64,0,0,0,1,1,0,0,1,0,0,0,0,3,0,2,0.0
+3,Phil Foden,47.0,eng ENG,LW,20-275,26,0,0,0,1,1,0,3,0,1,0,0,0,2,0,0,
+4,Riyad Mahrez,26.0,dz ALG,RW,30-006,90,0,0,0,1,2,0,4,0,1,0,0,0,4,0,0,
+5,İlkay Gündoğan,8.0,de GER,LM,30-126,88,0,0,0,0,0,0,0,0,0,0,0,0,4,0,1,0.0
+6,Rodri,16.0,es ESP,LM,24-250,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
+7,Fernandinho,25.0,br BRA,CM,35-299,90,1,0,0,2,2,0,0,5,0,0,0,0,9,5,1,83.3
+8,Kevin De Bruyne,17.0,be BEL,RM,29-244,90,0,0,0,0,0,0,5,1,2,0,0,0,4,0,2,0.0
+9,Oleksandr Zinchenko,11.0,ua UKR,LB,24-074,90,0,0,0,0,0,0,4,4,0,0,0,0,10,1,1,50.0
+10,Rúben Dias,3.0,pt POR,CB,23-289,90,0,0,0,0,1,0,0,1,0,0,0,0,7,2,1,66.7
+11,John Stones,5.0,eng ENG,CB,26-275,90,0,0,0,0,1,0,0,1,0,0,0,0,4,4,0,100.0
+12,Kyle Walker,2.0,eng ENG,RB,30-275,90,0,0,0,0,0,0,1,0,2,0,0,0,2,0,1,0.0
+13,Ederson,31.0,br BRA,GK,27-194,90,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0.0
+14,14 Players,,,,,990,1,0,0,8,10,2,17,14,7,0,0,0,51,12,10,54.5

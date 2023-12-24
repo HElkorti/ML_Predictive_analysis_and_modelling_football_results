@@ -1,0 +1,17 @@
+,Unnamed: 0_level_0,Unnamed: 1_level_0,Unnamed: 2_level_0,Unnamed: 3_level_0,Unnamed: 4_level_0,Unnamed: 5_level_0,Unnamed: 6_level_0,Pass Types,Pass Types,Pass Types,Pass Types,Pass Types,Pass Types,Pass Types,Pass Types,Corner Kicks,Corner Kicks,Corner Kicks,Outcomes,Outcomes,Outcomes
+,Player,#,Nation,Pos,Age,Min,Att,Live,Dead,FK,TB,Sw,Crs,TI,CK,In,Out,Str,Cmp,Off,Blocks
+0,Edinson Cavani,21.0,uy URU,FW,34-230,56,22,22,0,0,0,0,0,0,0,0,0,0,17,0,0
+1,Cristiano Ronaldo,7.0,pt POR,FW,36-239,34,14,13,1,0,0,0,1,1,0,0,0,0,12,0,1
+2,Anthony Martial,9.0,fr FRA,LW,25-301,56,40,40,0,0,0,0,2,0,0,0,0,0,34,0,2
+3,Jadon Sancho,25.0,eng ENG,LW,21-191,34,22,21,1,0,1,0,1,1,0,0,0,0,19,0,1
+4,Mason Greenwood,11.0,eng ENG,RW,20-001,90,57,57,0,0,0,2,2,0,0,0,0,0,45,0,3
+5,Bruno Fernandes,18.0,pt POR,AM,27-024,90,95,80,13,1,0,2,9,4,6,0,5,0,70,2,1
+6,Fred,17.0,br BRA,DM,28-211,69,71,68,3,3,0,0,1,0,0,0,0,0,62,0,1
+7,Paul Pogba,6.0,fr FRA,DM,28-201,21,23,23,0,0,0,0,0,0,0,0,0,0,17,0,2
+8,Scott McTominay,39.0,sct SCO,DM,24-298,90,70,70,0,0,0,1,2,0,0,0,0,0,62,0,1
+9,Luke Shaw,23.0,eng ENG,LB,26-082,90,107,84,23,0,0,0,6,19,4,0,4,0,92,0,2
+10,Raphaël Varane,19.0,fr FRA,CB,28-160,90,75,74,1,1,0,0,0,0,0,0,0,0,66,0,0
+11,Victor Lindelöf,2.0,se SWE,CB,27-077,90,72,70,2,2,0,1,0,0,0,0,0,0,68,0,0
+12,Aaron Wan-Bissaka,29.0,eng ENG,RB,23-310,90,76,68,8,1,0,0,4,7,0,0,0,0,65,0,2
+13,David de Gea,1.0,es ESP,GK,30-329,90,19,10,9,2,0,0,0,0,0,0,0,0,18,0,0
+14,14 Players,,,,,990,763,700,61,10,1,6,28,32,10,0,9,0,647,2,16

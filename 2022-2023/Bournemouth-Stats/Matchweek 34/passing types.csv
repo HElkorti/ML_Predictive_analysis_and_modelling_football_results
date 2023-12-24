@@ -1,0 +1,19 @@
+,Unnamed: 0_level_0,Unnamed: 1_level_0,Unnamed: 2_level_0,Unnamed: 3_level_0,Unnamed: 4_level_0,Unnamed: 5_level_0,Unnamed: 6_level_0,Pass Types,Pass Types,Pass Types,Pass Types,Pass Types,Pass Types,Pass Types,Pass Types,Corner Kicks,Corner Kicks,Corner Kicks,Outcomes,Outcomes,Outcomes
+,Player,#,Nation,Pos,Age,Min,Att,Live,Dead,FK,TB,Sw,Crs,TI,CK,In,Out,Str,Cmp,Off,Blocks
+0,Dominic Solanke,9.0,eng ENG,FW,25-228,88,16,14,1,0,0,0,1,0,0,0,0,0,8,1,2
+1,Jack Stacey,17.0,eng ENG,FW,27-024,2,4,3,1,0,0,0,0,1,0,0,0,0,2,0,0
+2,Ryan Christie,10.0,sct SCO,LW,28-067,90,29,28,1,0,0,0,1,0,1,1,0,0,24,0,1
+3,Dango Ouattara,11.0,bf BFA,RW,21-078,90,24,23,1,0,0,0,2,0,1,0,0,0,12,0,2
+4,Philip Billing,29.0,dk DEN,AM,26-323,61,19,19,0,0,0,0,1,0,0,0,0,0,11,0,2
+5,Kieffer Moore,21.0,wls WAL,AM,30-265,21,4,4,0,0,0,0,0,0,0,0,0,0,0,0,0
+6,Antoine Semenyo,24.0,gh GHA,AM,23-113,8,2,2,0,0,0,0,0,0,0,0,0,0,1,0,1
+7,Jefferson Lerma,8.0,co COL,DM,28-187,90,53,49,3,3,0,0,0,0,0,0,0,0,42,1,1
+8,Joe Rothwell,14.0,eng ENG,DM,28-109,72,36,33,3,2,0,0,0,0,0,0,0,0,29,0,2
+9,Lewis Cook,4.0,eng ENG,DM,26-086,18,7,7,0,0,0,0,1,0,0,0,0,0,7,0,0
+10,Matías Viña,18.0,uy URU,LB,25-172,61,24,15,9,2,0,0,0,7,0,0,0,0,19,0,0
+11,Jaidon Anthony,32.0,eng ENG,LB,23-150,29,8,6,2,0,0,0,0,2,0,0,0,0,6,0,0
+12,Lloyd Kelly,5.0,eng ENG,CB,24-206,90,41,41,0,0,0,0,0,0,0,0,0,0,36,0,0
+13,Marcos Senesi,25.0,ar ARG,CB,25-355,90,51,51,0,0,0,0,1,0,0,0,0,0,44,0,0
+14,Adam Smith,15.0,eng ENG,RB,32-001,90,47,35,12,1,0,0,1,11,0,0,0,0,34,0,1
+15,Neto,13.0,br BRA,GK,33-285,90,41,25,16,7,0,0,0,0,0,0,0,0,19,0,0
+16,16 Players,,,,,990,406,355,49,15,0,0,8,21,2,1,0,0,294,2,12

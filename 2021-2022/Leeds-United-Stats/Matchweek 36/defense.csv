@@ -1,0 +1,17 @@
+,Unnamed: 0_level_0,Unnamed: 1_level_0,Unnamed: 2_level_0,Unnamed: 3_level_0,Unnamed: 4_level_0,Unnamed: 5_level_0,Tackles,Tackles,Tackles,Tackles,Tackles,Challenges,Challenges,Challenges,Challenges,Blocks,Blocks,Blocks,Unnamed: 18_level_0,Unnamed: 19_level_0,Unnamed: 20_level_0,Unnamed: 21_level_0
+,Player,#,Nation,Pos,Age,Min,Tkl,TklW,Def 3rd,Mid 3rd,Att 3rd,Tkl,Att,Tkl%,Lost,Blocks,Sh,Pass,Int,Tkl+Int,Clr,Err
+0,Joe Gelhardt,30.0,eng ENG,FW,20-004,28,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,0
+1,Pascal Struijk,21.0,nl NED,CB,22-270,62,3,3,3,0,0,2,2,100.0,0,0,0,0,0,3,5,0
+2,Jack Harrison,22.0,eng ENG,"CM,LW",25-169,90,3,2,3,0,0,0,1,0.0,1,1,0,1,0,3,0,0
+3,Raphinha,10.0,br BRA,"RB,RW",25-145,59,1,0,1,0,0,0,3,0.0,3,0,0,0,0,1,1,0
+4,Rodrigo,19.0,es ESP,FW,31-063,31,0,0,0,0,0,0,1,0.0,1,1,0,1,0,0,0,0
+5,Daniel James,20.0,wls WAL,"RB,FW,AM",24-179,90,4,3,1,2,1,3,3,100.0,0,2,0,2,0,4,3,0
+6,Kalvin Phillips,23.0,eng ENG,"CM,DM",26-157,90,5,1,3,1,1,2,3,66.7,1,0,0,0,0,5,0,0
+7,Mateusz Klich,43.0,pl POL,"DM,CM",31-329,45,1,1,1,0,0,0,2,0.0,2,0,0,0,0,1,0,0
+8,Lewis Bate,26.0,eng ENG,CM,19-191,45,0,0,0,0,0,0,2,0.0,2,1,0,1,0,0,0,0
+9,Junior Firpo,3.0,es ESP,LB,25-259,90,5,4,4,1,0,3,7,42.9,4,1,0,1,1,6,2,0
+10,Diego Llorente,14.0,es ESP,CB,28-265,90,1,0,1,0,0,1,2,50.0,1,1,1,0,1,2,5,0
+11,Robin Koch,5.0,de GER,CB,25-295,90,0,0,0,0,0,0,0,,0,3,1,2,0,0,6,0
+12,Luke Ayling,2.0,eng ENG,RB,30-256,26,1,1,1,0,0,1,1,100.0,0,0,0,0,0,1,1,0
+13,Illan Meslier,1.0,fr FRA,GK,22-067,90,0,0,0,0,0,0,0,,0,0,0,0,0,0,2,1
+14,14 Players,,,,,926,24,15,18,4,2,12,27,44.4,15,10,2,8,2,26,25,1

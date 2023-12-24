@@ -1,0 +1,18 @@
+,Unnamed: 0_level_0,Unnamed: 1_level_0,Unnamed: 2_level_0,Unnamed: 3_level_0,Unnamed: 4_level_0,Unnamed: 5_level_0,Touches,Touches,Touches,Touches,Touches,Touches,Touches,Take-Ons,Take-Ons,Take-Ons,Take-Ons,Take-Ons,Carries,Carries,Carries,Carries,Carries,Carries,Carries,Carries,Receiving,Receiving
+,Player,#,Nation,Pos,Age,Min,Touches,Def Pen,Def 3rd,Mid 3rd,Att 3rd,Att Pen,Live,Att,Succ,Succ%,Tkld,Tkld%,Carries,TotDist,PrgDist,PrgC,1/3,CPA,Mis,Dis,Rec,PrgR
+0,Carlos Vinícius,30.0,br BRA,FW,27-198,90,28,0,0,13,16,5,28,0,0,,0,,16,46,10,0,1,1,6,2,21,6
+1,Neeskens Kebano,7.0,cd COD,LW,30-213,88,36,1,5,12,20,1,36,1,0,0.0,0,0.0,23,155,100,3,2,0,1,2,24,11
+2,Shane Duffy,5.0,ie IRL,FW,30-281,2,2,0,0,2,0,0,2,0,0,,0,,0,0,0,0,0,0,1,0,1,0
+3,Daniel James,21.0,wls WAL,RW,24-333,76,33,1,3,11,19,2,33,1,1,100.0,0,0.0,15,114,61,2,0,0,2,0,19,1
+4,Harry Wilson,8.0,wls WAL,"RW,CM",25-201,14,9,0,2,4,3,0,9,0,0,,0,,8,42,13,0,1,0,0,1,7,2
+5,Andreas Pereira,18.0,br BRA,AM,26-281,76,43,0,4,23,16,4,43,1,0,0.0,0,0.0,24,147,26,0,3,1,3,1,28,8
+6,Josh Onomah,25.0,eng ENG,"AM,CM",25-165,14,10,0,3,3,4,0,10,1,0,0.0,1,100.0,5,38,24,1,0,0,1,1,5,0
+7,João Palhinha,26.0,pt POR,"DM,CB",27-092,90,71,1,11,57,3,0,71,0,0,,0,,40,160,64,0,1,0,0,1,52,0
+8,Harrison Reed,6.0,eng ENG,DM,27-255,70,50,3,9,30,11,2,50,0,0,,0,,18,69,26,0,1,0,0,1,32,3
+9,Tom Cairney,10.0,sct SCO,"DM,CM",31-262,20,21,0,4,12,6,3,21,0,0,,0,,18,146,72,2,2,1,2,0,18,1
+10,Antonee Robinson,33.0,us USA,"LB,WB",25-062,90,82,2,38,28,18,1,82,2,0,0.0,1,50.0,37,271,193,5,4,1,2,0,42,4
+11,Tim Ream,13.0,us USA,CB,35-004,90,82,11,42,39,1,0,82,0,0,,0,,56,314,231,1,1,0,1,1,60,0
+12,Tosin Adarabioyo,4.0,eng ENG,CB,25-015,90,74,14,34,38,2,0,74,0,0,,0,,43,300,230,2,2,0,1,0,50,0
+13,Bobby Reid,14.0,jm JAM,"RB,WB",29-249,90,68,4,21,33,14,0,68,0,0,,0,,33,149,66,2,1,0,1,0,44,3
+14,Bernd Leno,17.0,de GER,GK,30-219,90,33,31,33,0,0,0,33,0,0,,0,,17,64,26,0,0,0,0,0,16,0
+15,15 Players,,,,,990,642,68,209,305,133,18,642,6,1,16.7,2,33.3,353,2015,1142,18,19,4,21,10,419,39

@@ -1,0 +1,17 @@
+,Unnamed: 0_level_0,Unnamed: 1_level_0,Unnamed: 2_level_0,Unnamed: 3_level_0,Unnamed: 4_level_0,Unnamed: 5_level_0,Unnamed: 6_level_0,Pass Types,Pass Types,Pass Types,Pass Types,Pass Types,Pass Types,Pass Types,Pass Types,Corner Kicks,Corner Kicks,Corner Kicks,Outcomes,Outcomes,Outcomes
+,Player,#,Nation,Pos,Age,Min,Att,Live,Dead,FK,TB,Sw,Crs,TI,CK,In,Out,Str,Cmp,Off,Blocks
+0,Jamie Vardy,9.0,eng ENG,FW,33-253,90,13,11,2,0,0,0,0,0,0,0,0,0,9,0,1
+1,Harvey Barnes,15.0,eng ENG,LM,22-286,89,40,40,0,0,0,0,1,0,0,0,0,0,32,0,1
+2,Wes Morgan,5.0,jm JAM,"LM,CB",36-243,1,1,1,0,0,0,0,0,0,0,0,0,0,1,0,0
+3,Dennis Praet,26.0,be BEL,CM,26-129,82,51,51,0,0,0,0,3,0,0,0,0,0,43,0,2
+4,Marc Albrighton,11.0,eng ENG,"RM,CM",30-307,8,4,4,0,0,0,0,1,0,0,0,0,0,2,0,0
+5,Youri Tielemans,8.0,be BEL,CM,23-136,90,98,83,15,3,0,1,12,0,12,5,1,0,77,0,2
+6,Ayoze Pérez,17.0,es ESP,RM,27-053,61,22,22,0,0,0,0,0,0,0,0,0,0,17,0,1
+7,James Maddison,10.0,eng ENG,"RM,CM,FW",23-302,29,20,15,5,1,0,0,2,0,3,0,1,0,20,0,0
+8,Nampalys Mendy,24.0,sn SEN,DM,28-089,90,91,91,0,0,0,0,0,0,0,0,0,0,83,0,0
+9,James Justin,2.0,eng ENG,LB,22-210,90,77,68,9,1,0,1,5,8,0,0,0,0,66,0,1
+10,Çağlar Söyüncü,4.0,tr TUR,CB,24-120,90,70,66,4,3,0,2,0,1,0,0,0,0,59,0,0
+11,Wilfred Ndidi,25.0,ng NGA,CB,23-279,90,62,61,1,1,0,1,0,0,0,0,0,0,49,0,0
+12,Timothy Castagne,27.0,be BEL,RB,24-290,90,71,65,6,1,0,0,4,5,0,0,0,0,56,0,1
+13,Kasper Schmeichel,1.0,dk DEN,GK,33-320,90,46,33,13,4,0,0,0,0,0,0,0,0,32,0,0
+14,14 Players,,,,,990,666,611,55,14,0,5,28,14,15,5,2,0,546,0,9

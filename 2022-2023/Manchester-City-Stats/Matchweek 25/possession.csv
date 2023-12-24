@@ -1,0 +1,19 @@
+,Unnamed: 0_level_0,Unnamed: 1_level_0,Unnamed: 2_level_0,Unnamed: 3_level_0,Unnamed: 4_level_0,Unnamed: 5_level_0,Touches,Touches,Touches,Touches,Touches,Touches,Touches,Take-Ons,Take-Ons,Take-Ons,Take-Ons,Take-Ons,Carries,Carries,Carries,Carries,Carries,Carries,Carries,Carries,Receiving,Receiving
+,Player,#,Nation,Pos,Age,Min,Touches,Def Pen,Def 3rd,Mid 3rd,Att 3rd,Att Pen,Live,Att,Succ,Succ%,Tkld,Tkld%,Carries,TotDist,PrgDist,PrgC,1/3,CPA,Mis,Dis,Rec,PrgR
+0,Erling Haaland,9.0,no NOR,FW,22-219,71,30,2,4,15,11,4,30,0,0,,0,,13,98,50,3,0,1,1,2,22,7
+1,Máximo Perrone,32.0,ar ARG,CM,20-049,19,22,0,4,12,6,2,22,0,0,,0,,8,20,7,0,0,0,0,0,19,1
+2,Jack Grealish,10.0,eng ENG,LW,27-168,71,47,3,13,20,16,3,47,6,2,33.3,1,16.7,30,288,117,2,3,0,0,0,35,7
+3,Riyad Mahrez,26.0,dz ALG,RW,32-004,19,19,0,2,11,6,1,19,1,1,100.0,0,0.0,10,39,21,1,0,1,1,0,11,5
+4,Phil Foden,47.0,eng ENG,"RW,LW",22-273,90,82,0,8,27,47,11,82,6,2,33.3,3,50.0,49,222,63,2,2,2,1,0,61,19
+5,İlkay Gündoğan,8.0,de GER,CM,32-124,54,41,0,5,22,14,3,41,0,0,,0,,24,126,42,2,0,1,1,4,40,7
+6,Sergio Gómez,21.0,es ESP,CM,22-174,36,37,1,7,23,7,0,37,1,0,0.0,1,100.0,24,140,83,1,2,0,0,0,32,2
+7,Julián Álvarez,19.0,ar ARG,"CM,FW",23-025,90,41,1,5,19,17,5,41,2,2,100.0,0,0.0,24,153,48,2,0,0,1,1,27,4
+8,Rodri,16.0,es ESP,DM,26-248,54,71,3,14,44,13,0,71,0,0,,0,,46,218,139,1,1,0,1,0,57,1
+9,Kalvin Phillips,4.0,eng ENG,DM,27-085,36,47,3,14,27,6,3,47,0,0,,0,,24,114,43,0,0,0,0,0,35,0
+10,Rico Lewis,82.0,eng ENG,DM,18-096,90,89,2,16,47,27,3,89,1,0,0.0,1,100.0,57,264,131,1,1,0,1,2,71,4
+11,Nathan Aké,6.0,nl NED,LB,28-007,79,75,2,22,39,14,1,75,0,0,,0,,38,148,39,2,1,0,1,0,56,3
+12,Kyle Walker,2.0,eng ENG,RB,32-273,11,13,0,5,8,0,0,13,0,0,,0,,8,36,17,0,0,0,0,0,11,0
+13,Rúben Dias,3.0,pt POR,"CB,LB",25-287,90,146,18,56,86,4,2,146,1,1,100.0,0,0.0,100,624,475,1,1,0,0,0,111,0
+14,Manuel Akanji,25.0,ch SUI,"RB,CB",27-221,90,106,7,36,61,9,1,106,0,0,,0,,62,252,118,0,1,0,0,0,83,0
+15,Ederson,31.0,br BRA,GK,29-192,90,35,30,35,0,0,0,35,0,0,,0,,21,179,102,0,0,0,0,0,19,0
+16,16 Players,,,,,990,901,72,246,461,197,39,901,18,8,44.4,6,33.3,538,2921,1495,18,12,5,8,9,690,60

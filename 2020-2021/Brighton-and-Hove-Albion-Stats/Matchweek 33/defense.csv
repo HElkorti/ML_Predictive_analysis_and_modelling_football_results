@@ -1,0 +1,17 @@
+,Unnamed: 0_level_0,Unnamed: 1_level_0,Unnamed: 2_level_0,Unnamed: 3_level_0,Unnamed: 4_level_0,Unnamed: 5_level_0,Tackles,Tackles,Tackles,Tackles,Tackles,Challenges,Challenges,Challenges,Challenges,Blocks,Blocks,Blocks,Unnamed: 18_level_0,Unnamed: 19_level_0,Unnamed: 20_level_0,Unnamed: 21_level_0
+,Player,#,Nation,Pos,Age,Min,Tkl,TklW,Def 3rd,Mid 3rd,Att 3rd,Tkl,Att,Tkl%,Lost,Blocks,Sh,Pass,Int,Tkl+Int,Clr,Err
+0,Danny Welbeck,18.0,eng ENG,FW,30-149,90,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,0
+1,Neal Maupay,9.0,fr FRA,"FW,AM",24-253,90,1,1,0,1,0,1,1,100.0,0,0,0,0,1,2,1,0
+2,Leandro Trossard,11.0,be BEL,"AM,WB,CM",26-141,81,0,0,0,0,0,0,0,,0,1,0,1,1,1,0,0
+3,José Izquierdo,19.0,co COL,WB,28-291,9,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,0
+4,Yves Bissouma,8.0,ml MLI,CM,24-237,90,3,2,1,2,0,0,0,,0,0,0,0,2,5,0,0
+5,Adam Lallana,14.0,eng ENG,CM,32-349,90,1,0,1,0,0,0,2,0.0,2,0,0,0,0,1,0,0
+6,Jakub Moder,15.0,pl POL,"WB,CM",22-017,66,2,0,0,2,0,0,2,0.0,2,2,0,2,1,3,0,0
+7,Aaron Connolly,7.0,ie IRL,"WB,FW",21-086,24,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,0
+8,Pascal Groß,13.0,de GER,WB,29-313,66,1,0,1,0,0,1,4,25.0,3,1,0,1,1,2,1,0
+9,Alireza Jahanbakhsh,16.0,ir IRN,WB,27-256,24,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,0
+10,Joël Veltman,34.0,nl NED,CB,29-099,90,2,1,1,0,1,1,1,100.0,0,0,0,0,1,3,2,0
+11,Lewis Dunk,5.0,eng ENG,CB,29-154,90,0,0,0,0,0,0,1,0.0,1,1,1,0,0,0,4,0
+12,Adam Webster,4.0,eng ENG,CB,26-110,90,0,0,0,0,0,0,1,0.0,1,4,2,2,1,1,4,0
+13,Robert Sánchez,26.0,es ESP,GK,23-157,90,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,0
+14,14 Players,,,,,990,10,4,4,5,1,3,12,25.0,9,9,3,6,8,18,12,0

@@ -1,0 +1,17 @@
+,Unnamed: 0_level_0,Unnamed: 1_level_0,Unnamed: 2_level_0,Unnamed: 3_level_0,Unnamed: 4_level_0,Unnamed: 5_level_0,Unnamed: 6_level_0,Pass Types,Pass Types,Pass Types,Pass Types,Pass Types,Pass Types,Pass Types,Pass Types,Corner Kicks,Corner Kicks,Corner Kicks,Outcomes,Outcomes,Outcomes
+,Player,#,Nation,Pos,Age,Min,Att,Live,Dead,FK,TB,Sw,Crs,TI,CK,In,Out,Str,Cmp,Off,Blocks
+0,Dominic Calvert-Lewin,9.0,eng ENG,FW,23-230,90,19,19,0,0,0,0,0,0,0,0,0,0,16,0,0
+1,André Gomes,21.0,pt POR,AM,27-094,59,31,31,0,0,0,0,1,0,0,0,0,0,23,0,0
+2,Bernard,20.0,br BRA,AM,28-054,31,28,27,1,0,0,0,1,1,0,0,0,0,26,0,0
+3,Gylfi Sigurðsson,10.0,is ISL,"AM,LM",31-054,90,50,39,11,2,0,0,7,2,4,2,0,2,36,0,0
+4,Fabian Delph,8.0,eng ENG,"LM,LB",30-346,90,111,107,4,1,0,0,6,3,0,0,0,0,99,0,2
+5,Allan,6.0,br BRA,"CM,DM",29-298,90,62,58,4,3,0,0,0,1,0,0,0,0,59,0,2
+6,Abdoulaye Doucouré,16.0,ml MLI,"RM,RB",27-305,90,69,69,0,0,0,1,0,0,0,0,0,0,62,0,1
+7,Niels Nkounkou,18.0,fr FRA,LB,20-000,68,31,27,4,0,0,0,4,4,0,0,0,0,26,0,1
+8,Cenk Tosun,14.0,tr TUR,FW,29-147,22,5,4,1,0,0,0,0,1,0,0,0,0,3,0,1
+9,Michael Keane,5.0,eng ENG,CB,27-295,90,99,99,0,0,0,0,0,0,0,0,0,0,90,0,0
+10,Yerry Mina,13.0,co COL,CB,26-039,90,70,69,1,1,0,1,0,0,0,0,0,0,69,0,0
+11,Jonjoe Kenny,2.0,eng ENG,RB,23-231,76,52,39,13,2,0,0,6,11,0,0,0,0,41,0,3
+12,Alex Iwobi,17.0,ng NGA,RM,24-182,14,12,12,0,0,1,0,2,0,0,0,0,0,8,0,0
+13,Robin Olsen,33.0,se SWE,GK,30-298,90,21,17,4,1,0,0,0,0,0,0,0,0,19,0,0
+14,14 Players,,,,,990,660,617,43,10,1,2,27,23,4,2,0,2,577,0,10

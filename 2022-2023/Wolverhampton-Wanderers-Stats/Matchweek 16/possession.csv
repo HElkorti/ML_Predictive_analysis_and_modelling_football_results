@@ -1,0 +1,17 @@
+,Unnamed: 0_level_0,Unnamed: 1_level_0,Unnamed: 2_level_0,Unnamed: 3_level_0,Unnamed: 4_level_0,Unnamed: 5_level_0,Touches,Touches,Touches,Touches,Touches,Touches,Touches,Take-Ons,Take-Ons,Take-Ons,Take-Ons,Take-Ons,Carries,Carries,Carries,Carries,Carries,Carries,Carries,Carries,Receiving,Receiving
+,Player,#,Nation,Pos,Age,Min,Touches,Def Pen,Def 3rd,Mid 3rd,Att 3rd,Att Pen,Live,Att,Succ,Succ%,Tkld,Tkld%,Carries,TotDist,PrgDist,PrgC,1/3,CPA,Mis,Dis,Rec,PrgR
+0,Gonçalo Guedes,17.0,pt POR,"FW,LW,AM",25-348,90,41,0,3,13,27,6,41,2,1,50.0,1,50.0,24,249,77,5,3,1,3,1,28,10
+1,Adama Traoré,37.0,es ESP,"FW,RW,AM",26-291,90,34,0,5,14,17,4,34,6,3,50.0,2,33.3,22,203,78,4,3,1,2,2,25,4
+2,João Moutinho,28.0,pt POR,CM,36-065,67,39,0,16,17,7,0,39,0,0,,0,,22,94,35,0,1,0,0,0,26,1
+3,Daniel Podence,10.0,pt POR,FW,27-022,23,13,0,0,5,9,2,13,0,0,,0,,6,24,15,0,1,0,0,0,7,3
+4,Rúben Neves,8.0,pt POR,"CM,RM",25-244,90,53,4,14,33,7,0,53,0,0,,0,,26,108,66,1,1,0,1,2,32,0
+5,Boubacar Traoré,6.0,ml MLI,CM,21-084,90,28,0,2,21,7,1,28,2,2,100.0,0,0.0,18,122,65,1,1,0,0,0,20,0
+6,Hugo Bueno,64.0,es ESP,"LB,WB",20-055,90,56,3,25,19,12,2,56,2,2,100.0,0,0.0,24,216,135,6,3,1,2,0,26,1
+7,Toti Gomes,24.0,pt POR,CB,23-300,79,46,10,30,15,1,0,46,0,0,,0,,26,72,27,0,0,0,0,0,29,0
+8,Matheus Nunes,27.0,pt POR,LM,24-077,11,5,0,0,2,3,0,5,1,0,0.0,1,100.0,4,55,45,2,1,0,0,0,3,0
+9,Max Kilman,23.0,eng ENG,CB,25-173,90,39,10,24,16,0,0,39,1,1,100.0,0,0.0,20,108,29,0,0,0,1,0,24,0
+10,Nathan Collins,4.0,ie IRL,CB,21-196,90,47,5,20,18,9,0,47,0,0,,0,,33,198,102,2,4,0,0,0,36,1
+11,Nélson Semedo,22.0,pt POR,RB,28-361,67,39,4,13,16,12,0,39,1,0,0.0,1,100.0,20,141,69,1,1,0,1,0,22,3
+12,Dexter Lembikisa,81.0,jm JAM,"RB,WB",19-008,23,13,0,3,7,3,0,13,0,0,,0,,7,29,21,2,0,0,0,0,8,3
+13,José Sá,1.0,pt POR,GK,29-299,90,23,21,23,0,0,0,23,0,0,,0,,9,106,39,0,0,0,0,0,6,0
+14,14 Players,,,,,990,476,57,178,196,114,15,476,15,9,60.0,5,33.3,261,1725,803,24,19,3,10,5,292,26

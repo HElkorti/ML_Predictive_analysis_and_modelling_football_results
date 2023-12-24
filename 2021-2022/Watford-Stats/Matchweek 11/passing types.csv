@@ -1,0 +1,17 @@
+,Unnamed: 0_level_0,Unnamed: 1_level_0,Unnamed: 2_level_0,Unnamed: 3_level_0,Unnamed: 4_level_0,Unnamed: 5_level_0,Unnamed: 6_level_0,Pass Types,Pass Types,Pass Types,Pass Types,Pass Types,Pass Types,Pass Types,Pass Types,Corner Kicks,Corner Kicks,Corner Kicks,Outcomes,Outcomes,Outcomes
+,Player,#,Nation,Pos,Age,Min,Att,Live,Dead,FK,TB,Sw,Crs,TI,CK,In,Out,Str,Cmp,Off,Blocks
+0,Joshua King,7.0,no NOR,FW,29-296,90,17,14,2,0,0,0,0,0,0,0,0,0,12,1,0
+1,Emmanuel Dennis,25.0,ng NGA,"LM,LW",23-357,73,19,19,0,0,0,0,1,0,0,0,0,0,9,0,1
+2,Cucho,29.0,co COL,"LW,WB",22-201,17,14,13,1,1,0,0,5,0,0,0,0,0,6,0,0
+3,Ozan Tufan,18.0,tr TUR,CM,26-229,61,23,20,3,1,0,0,2,0,2,1,0,0,16,0,1
+4,João Pedro,10.0,br BRA,"AM,CM",20-042,29,10,10,0,0,0,0,1,0,0,0,0,0,8,0,0
+5,Juraj Kucka,33.0,sk SVK,"CM,DM",34-254,88,29,28,1,0,0,0,0,1,0,0,0,0,16,0,1
+6,Ismaila Sarr,23.0,sn SEN,"RM,RW,CM",23-255,90,16,16,0,0,0,0,1,0,0,0,0,0,10,0,1
+7,Moussa Sissoko,19.0,fr FRA,"DM,CB",32-083,90,27,25,2,1,0,0,1,1,0,0,0,0,20,0,0
+8,Danny Rose,3.0,eng ENG,"LB,WB",31-128,90,44,29,15,2,0,0,2,13,0,0,0,0,31,0,0
+9,Nicolas Nkoulou,13.0,cm CMR,CB,31-225,90,37,37,0,0,0,0,0,0,0,0,0,0,34,0,1
+10,Craig Cathcart,15.0,nir NIR,CB,32-274,89,35,35,0,0,0,0,0,0,0,0,0,0,32,0,0
+11,Ashley Fletcher,17.0,eng ENG,FW,26-036,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+12,Kiko Femenía,21.0,es ESP,"RB,CB",30-278,90,50,40,9,1,0,0,2,8,0,0,0,0,40,1,1
+13,Ben Foster,1.0,eng ENG,GK,38-218,90,40,32,7,3,0,0,0,0,0,0,0,0,20,1,0
+14,14 Players,,,,,988,361,318,40,9,0,0,15,23,2,1,0,0,254,3,6

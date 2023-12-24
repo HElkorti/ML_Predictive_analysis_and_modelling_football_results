@@ -1,0 +1,17 @@
+,Unnamed: 0_level_0,Unnamed: 1_level_0,Unnamed: 2_level_0,Unnamed: 3_level_0,Unnamed: 4_level_0,Unnamed: 5_level_0,Unnamed: 6_level_0,Pass Types,Pass Types,Pass Types,Pass Types,Pass Types,Pass Types,Pass Types,Pass Types,Corner Kicks,Corner Kicks,Corner Kicks,Outcomes,Outcomes,Outcomes
+,Player,#,Nation,Pos,Age,Min,Att,Live,Dead,FK,TB,Sw,Crs,TI,CK,In,Out,Str,Cmp,Off,Blocks
+0,Alexandre Lacazette,9.0,fr FRA,FW,30-192,84,15,15,0,0,0,0,0,0,0,0,0,0,11,0,2
+1,Pierre-Emerick Aubameyang,14.0,ga GAB,FW,32-171,6,2,2,0,0,0,0,0,0,0,0,0,0,1,0,0
+2,Gabriel Martinelli,35.0,br BRA,LW,20-171,70,18,14,3,0,0,0,3,0,3,3,0,0,9,1,0
+3,Eddie Nketiah,30.0,eng ENG,LW,22-190,20,11,11,0,0,0,0,0,0,0,0,0,0,8,0,0
+4,Bukayo Saka,7.0,eng ENG,RW,20-092,90,34,34,0,0,0,0,2,0,0,0,0,0,32,0,1
+5,Martin Ødegaard,8.0,no NOR,AM,22-354,90,66,60,6,3,1,1,2,0,0,0,0,0,59,0,2
+6,Granit Xhaka,34.0,ch SUI,DM,29-070,90,70,69,1,1,0,0,0,0,0,0,0,0,54,0,1
+7,Thomas Partey,5.0,gh GHA,DM,28-176,90,77,75,2,2,1,0,0,0,0,0,0,0,69,0,0
+8,Kieran Tierney,3.0,sct SCO,LB,24-184,64,42,34,8,0,0,0,4,8,0,0,0,0,34,0,2
+9,Nuno Tavares,20.0,pt POR,LB,21-314,26,26,20,6,0,0,1,0,6,0,0,0,0,18,0,2
+10,Gabriel Dos Santos,6.0,br BRA,CB,23-352,90,79,76,3,3,0,0,0,0,0,0,0,0,71,0,0
+11,Ben White,4.0,eng ENG,CB,24-059,90,66,66,0,0,0,1,0,0,0,0,0,0,56,0,0
+12,Takehiro Tomiyasu,18.0,jp JPN,RB,23-031,90,84,77,7,1,0,0,4,6,0,0,0,0,62,0,2
+13,Aaron Ramsdale,32.0,eng ENG,GK,23-206,90,42,32,10,3,0,0,0,0,0,0,0,0,31,0,0
+14,14 Players,,,,,990,632,585,46,13,2,3,15,20,3,3,0,0,515,1,12

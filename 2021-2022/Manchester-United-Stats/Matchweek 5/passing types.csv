@@ -1,0 +1,17 @@
+,Unnamed: 0_level_0,Unnamed: 1_level_0,Unnamed: 2_level_0,Unnamed: 3_level_0,Unnamed: 4_level_0,Unnamed: 5_level_0,Unnamed: 6_level_0,Pass Types,Pass Types,Pass Types,Pass Types,Pass Types,Pass Types,Pass Types,Pass Types,Corner Kicks,Corner Kicks,Corner Kicks,Outcomes,Outcomes,Outcomes
+,Player,#,Nation,Pos,Age,Min,Att,Live,Dead,FK,TB,Sw,Crs,TI,CK,In,Out,Str,Cmp,Off,Blocks
+0,Cristiano Ronaldo,7.0,pt POR,FW,36-226,90,28,27,1,0,1,0,0,0,0,0,0,0,23,0,2
+1,Paul Pogba,6.0,fr FRA,LW,28-188,72,39,39,0,0,0,2,0,0,0,0,0,0,35,0,0
+2,Jesse Lingard,14.0,eng ENG,RW,28-278,18,15,15,0,0,0,0,2,0,0,0,0,0,13,0,0
+3,Mason Greenwood,11.0,eng ENG,RW,19-353,72,40,39,1,1,0,0,2,0,0,0,0,0,35,0,2
+4,Jadon Sancho,25.0,eng ENG,LW,21-178,18,21,21,0,0,0,0,1,0,0,0,0,0,17,0,1
+5,Bruno Fernandes,18.0,pt POR,AM,27-011,90,80,76,4,1,2,3,9,1,1,0,1,0,59,0,1
+6,Fred,17.0,br BRA,DM,28-198,87,78,78,0,0,0,0,0,0,0,0,0,0,69,0,1
+7,Nemanja Matić,31.0,rs SRB,DM,33-049,3,8,8,0,0,0,0,0,0,0,0,0,0,7,0,0
+8,Scott McTominay,39.0,sct SCO,DM,24-285,90,59,59,0,0,1,0,1,0,0,0,0,0,54,0,0
+9,Luke Shaw,23.0,eng ENG,LB,26-069,90,70,54,16,1,0,0,16,5,10,7,3,0,57,0,1
+10,Harry Maguire,5.0,eng ENG,CB,28-198,90,49,48,1,0,0,0,0,1,0,0,0,0,43,0,0
+11,Raphaël Varane,19.0,fr FRA,CB,28-147,90,93,91,2,2,0,0,0,0,0,0,0,0,87,0,2
+12,Aaron Wan-Bissaka,29.0,eng ENG,RB,23-297,90,71,66,5,0,0,0,2,5,0,0,0,0,64,0,0
+13,David de Gea,1.0,es ESP,GK,30-316,90,24,15,9,2,0,0,0,0,0,0,0,0,23,0,0
+14,14 Players,,,,,990,675,636,39,7,4,5,33,12,11,7,4,0,586,0,10

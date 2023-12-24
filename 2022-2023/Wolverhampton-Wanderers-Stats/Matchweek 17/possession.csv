@@ -1,0 +1,19 @@
+,Unnamed: 0_level_0,Unnamed: 1_level_0,Unnamed: 2_level_0,Unnamed: 3_level_0,Unnamed: 4_level_0,Unnamed: 5_level_0,Touches,Touches,Touches,Touches,Touches,Touches,Touches,Take-Ons,Take-Ons,Take-Ons,Take-Ons,Take-Ons,Carries,Carries,Carries,Carries,Carries,Carries,Carries,Carries,Receiving,Receiving
+,Player,#,Nation,Pos,Age,Min,Touches,Def Pen,Def 3rd,Mid 3rd,Att 3rd,Att Pen,Live,Att,Succ,Succ%,Tkld,Tkld%,Carries,TotDist,PrgDist,PrgC,1/3,CPA,Mis,Dis,Rec,PrgR
+0,Diego Costa,29.0,es ESP,FW,34-080,90,20,0,3,10,7,2,20,0,0,,0,,10,49,17,0,0,0,1,1,15,3
+1,Daniel Podence,10.0,pt POR,LW,27-066,72,39,1,5,13,22,2,39,7,4,57.1,3,42.9,25,172,94,4,2,1,1,3,23,4
+2,Gonçalo Guedes,17.0,pt POR,"AM,LW",26-027,18,6,0,2,3,1,0,6,1,1,100.0,0,0.0,4,6,6,0,0,0,1,0,4,0
+3,Hwang Hee-chan,11.0,kr KOR,RW,26-334,59,21,0,3,8,10,1,21,1,0,0.0,1,100.0,13,57,27,1,0,0,2,1,15,4
+4,Adama Traoré,37.0,es ESP,"RW,AM",26-335,31,15,0,0,4,11,2,15,1,0,0.0,1,100.0,14,73,36,2,0,1,1,0,16,4
+5,João Moutinho,28.0,pt POR,"LM,RM",36-109,77,32,0,5,18,9,0,32,0,0,,0,,15,36,10,0,0,0,1,1,24,1
+6,Toti Gomes,24.0,pt POR,CB,23-344,13,9,4,5,3,1,1,9,0,0,,0,,2,2,0,0,0,0,0,0,3,0
+7,Rúben Neves,8.0,pt POR,CM,25-288,90,54,3,20,26,10,0,54,0,0,,0,,28,97,34,0,2,0,2,1,34,0
+8,Joseph Hodge,59.0,ie IRL,RM,20-103,58,36,2,13,15,8,0,36,0,0,,0,,11,16,6,0,0,0,0,0,18,0
+9,Matheus Nunes,27.0,pt POR,"LM,CM",24-121,32,15,1,5,7,3,0,15,0,0,,0,,9,90,66,0,1,0,1,0,7,1
+10,Hugo Bueno,64.0,es ESP,LB,20-099,58,49,0,22,10,19,2,49,3,1,33.3,2,66.7,25,91,44,1,1,0,3,2,28,5
+11,Rayan Aït Nouri,3.0,dz ALG,"LB,WB",21-203,32,23,1,8,9,6,1,23,2,1,50.0,1,50.0,11,43,13,0,0,0,1,0,8,2
+12,Max Kilman,23.0,eng ENG,CB,25-217,90,55,12,32,23,0,0,55,0,0,,0,,27,106,54,0,0,0,2,0,36,0
+13,Nathan Collins,4.0,ie IRL,CB,21-240,90,59,9,33,23,3,0,59,0,0,,0,,27,143,102,0,0,0,2,0,36,0
+14,Nélson Semedo,22.0,pt POR,"RB,WB",29-040,90,57,1,14,24,19,2,57,0,0,,0,,26,106,49,1,1,0,2,0,27,4
+15,José Sá,1.0,pt POR,GK,29-343,90,31,30,31,0,0,0,31,0,0,,0,,18,132,83,0,0,0,0,0,11,0
+16,16 Players,,,,,990,521,64,201,196,129,13,521,15,7,46.7,8,53.3,265,1219,641,9,7,2,20,9,305,28

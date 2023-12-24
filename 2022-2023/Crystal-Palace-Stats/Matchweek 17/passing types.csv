@@ -1,0 +1,19 @@
+,Unnamed: 0_level_0,Unnamed: 1_level_0,Unnamed: 2_level_0,Unnamed: 3_level_0,Unnamed: 4_level_0,Unnamed: 5_level_0,Unnamed: 6_level_0,Pass Types,Pass Types,Pass Types,Pass Types,Pass Types,Pass Types,Pass Types,Pass Types,Corner Kicks,Corner Kicks,Corner Kicks,Outcomes,Outcomes,Outcomes
+,Player,#,Nation,Pos,Age,Min,Att,Live,Dead,FK,TB,Sw,Crs,TI,CK,In,Out,Str,Cmp,Off,Blocks
+0,Wilfried Zaha,11.0,ci CIV,"LW,FW",30-046,90,11,10,1,1,0,0,0,0,0,0,0,0,9,0,0
+1,Eberechi Eze,10.0,eng ENG,"LW,DM",24-180,59,30,28,2,2,0,0,1,0,0,0,0,0,23,0,0
+2,Chris Richards,26.0,us USA,DM,22-273,31,8,8,0,0,0,0,0,0,0,0,0,0,4,0,0
+3,Jordan Ayew,9.0,gh GHA,"FW,RW",31-106,90,27,27,0,0,0,0,1,0,0,0,0,0,17,0,0
+4,Jeffrey Schlupp,15.0,gh GHA,"LB,LM",30-003,82,40,34,6,1,0,0,0,5,0,0,0,0,26,0,0
+5,Jaïro Riedewald,44.0,nl NED,LB,26-108,8,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+6,Cheick Doucouré,28.0,ml MLI,"DM,CM",22-352,83,34,34,0,0,0,0,0,0,0,0,0,0,30,0,0
+7,Luka Milivojević,4.0,rs SRB,DM,31-263,7,2,1,1,1,0,0,1,0,0,0,0,0,2,0,0
+8,Michael Olise,7.0,fr FRA,"RW,RM",21-014,83,30,22,8,3,0,1,1,0,1,1,0,0,24,0,0
+9,Will Hughes,19.0,eng ENG,RW,27-253,7,2,1,1,1,0,0,1,0,0,0,0,0,1,0,0
+10,Tyrick Mitchell,3.0,eng ENG,LB,23-116,33,17,14,3,0,0,0,0,3,0,0,0,0,11,0,2
+11,James Tomkins,5.0,eng ENG,CB,33-272,56,65,62,3,3,0,0,0,0,0,0,0,0,58,0,0
+12,Joachim Andersen,16.0,dk DEN,CB,26-209,90,50,47,2,2,0,2,0,0,0,0,0,0,36,1,2
+13,Nathaniel Clyne,17.0,eng ENG,RB,31-265,66,24,23,1,0,0,0,0,1,0,0,0,0,16,0,0
+14,Joel Ward,2.0,eng ENG,RB,33-058,24,9,7,2,0,0,0,0,2,0,0,0,0,6,0,0
+15,Vicente Guaita,13.0,es ESP,GK,35-350,90,44,36,8,3,0,0,0,0,0,0,0,0,30,0,0
+16,16 Players,,,,,899,393,354,38,17,0,3,5,11,1,1,0,0,293,1,4

@@ -1,0 +1,19 @@
+,Unnamed: 0_level_0,Unnamed: 1_level_0,Unnamed: 2_level_0,Unnamed: 3_level_0,Unnamed: 4_level_0,Unnamed: 5_level_0,Unnamed: 6_level_0,Pass Types,Pass Types,Pass Types,Pass Types,Pass Types,Pass Types,Pass Types,Pass Types,Corner Kicks,Corner Kicks,Corner Kicks,Outcomes,Outcomes,Outcomes
+,Player,#,Nation,Pos,Age,Min,Att,Live,Dead,FK,TB,Sw,Crs,TI,CK,In,Out,Str,Cmp,Off,Blocks
+0,Kai Havertz,29.0,de GER,FW,23-348,63,38,33,5,1,0,0,0,0,1,0,0,0,34,0,1
+1,João Félix,11.0,pt POR,"FW,AM",23-196,27,16,13,3,1,1,0,0,0,0,0,0,0,12,0,1
+2,Mykhailo Mudryk,15.0,ua UKR,LW,22-140,63,17,16,1,0,0,0,2,1,0,0,0,0,15,0,0
+3,Christian Pulisic,10.0,us USA,LW,24-249,27,6,6,0,0,0,0,1,0,0,0,0,0,5,0,0
+4,Noni Madueke,31.0,eng ENG,RW,21-076,81,33,33,0,0,0,0,3,0,0,0,0,0,28,0,2
+5,Hakim Ziyech,22.0,ma MAR,RW,30-067,9,6,6,0,0,0,0,0,0,0,0,0,0,5,0,0
+6,Conor Gallagher,23.0,eng ENG,LM,23-108,81,37,37,0,0,0,0,1,0,0,0,0,0,32,0,1
+7,David Datro Fofana,27.0,ci CIV,FW,20-154,9,3,3,0,0,0,0,0,0,0,0,0,0,3,0,0
+8,Enzo Fernández,5.0,ar ARG,"CM,DM",22-128,90,103,99,4,4,1,0,1,0,0,0,0,0,94,0,2
+9,Carney Chukwuemeka,30.0,eng ENG,RM,19-217,81,59,59,0,0,0,1,0,0,0,0,0,0,55,0,1
+10,Ruben Loftus-Cheek,12.0,eng ENG,DM,27-122,9,8,8,0,0,0,0,0,0,0,0,0,0,8,0,0
+11,Lewis Hall,67.0,eng ENG,LB,18-259,90,48,41,7,0,0,0,3,4,3,2,0,0,43,0,1
+12,Trevoh Chalobah,14.0,eng ENG,CB,23-324,90,77,77,0,0,0,0,0,0,0,0,0,0,65,0,1
+13,Wesley Fofana,33.0,fr FRA,CB,22-159,90,95,92,3,3,0,1,0,0,0,0,0,0,88,0,0
+14,César Azpilicueta,28.0,es ESP,RB,33-270,90,59,53,6,1,0,0,3,5,0,0,0,0,54,0,1
+15,Kepa Arrizabalaga,1.0,es ESP,GK,28-234,90,43,37,6,2,0,0,0,0,0,0,0,0,40,0,0
+16,16 Players,,,,,990,648,613,35,12,2,2,14,10,4,2,0,0,581,0,11

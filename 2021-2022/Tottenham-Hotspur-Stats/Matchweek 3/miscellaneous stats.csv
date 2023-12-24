@@ -1,0 +1,16 @@
+,Unnamed: 0_level_0,Unnamed: 1_level_0,Unnamed: 2_level_0,Unnamed: 3_level_0,Unnamed: 4_level_0,Unnamed: 5_level_0,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Aerial Duels,Aerial Duels,Aerial Duels
+,Player,#,Nation,Pos,Age,Min,CrdY,CrdR,2CrdY,Fls,Fld,Off,Crs,Int,TklW,PKwon,PKcon,OG,Recov,Won,Lost,Won%
+0,Harry Kane,10.0,eng ENG,FW,28-032,90,1,0,0,1,1,1,1,0,0,0,0,0,1,0,3,0.0
+1,Steven Bergwijn,23.0,nl NED,LW,23-325,67,0,0,0,0,2,0,3,1,0,0,0,0,3,0,0,
+2,Lucas Moura,27.0,br BRA,RW,29-016,23,0,0,0,0,1,0,0,0,0,0,0,0,1,1,1,50.0
+3,Son Heung-min,7.0,kr KOR,"RW,LW",29-052,87,0,0,0,1,0,1,10,0,0,0,0,0,3,1,0,100.0
+4,Bryan Gil,11.0,es ESP,LW,20-199,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
+5,Dele Alli,20.0,eng ENG,"LM,AM",25-140,90,1,0,0,2,2,0,2,0,2,0,0,0,3,1,0,100.0
+6,Oliver Skipp,29.0,eng ENG,"CM,DM",20-347,90,1,0,0,2,4,0,0,1,1,0,0,0,7,0,0,
+7,Pierre Højbjerg,5.0,dk DEN,"RM,DM",26-024,90,0,0,0,0,0,0,1,1,2,0,0,0,9,1,0,100.0
+8,Sergio Reguilón,3.0,es ESP,LB,24-256,90,0,0,0,2,0,0,3,3,4,0,0,0,5,0,0,
+9,Eric Dier,15.0,eng ENG,CB,27-226,90,0,0,0,0,0,0,0,0,0,0,0,0,1,2,3,40.0
+10,Davinson Sánchez,6.0,co COL,CB,25-078,90,0,0,0,0,2,0,0,3,1,0,0,0,2,3,3,50.0
+11,Japhet Tanganga,25.0,eng ENG,RB,22-151,90,0,0,0,0,1,0,5,0,1,0,0,0,3,2,0,100.0
+12,Hugo Lloris,1.0,fr FRA,GK,34-246,90,0,0,0,0,1,0,0,0,0,0,0,0,2,0,0,
+13,13 Players,,,,,990,3,0,0,8,14,2,25,9,11,0,0,0,40,11,10,52.4

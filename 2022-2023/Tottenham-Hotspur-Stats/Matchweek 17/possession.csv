@@ -1,0 +1,16 @@
+,Unnamed: 0_level_0,Unnamed: 1_level_0,Unnamed: 2_level_0,Unnamed: 3_level_0,Unnamed: 4_level_0,Unnamed: 5_level_0,Touches,Touches,Touches,Touches,Touches,Touches,Touches,Take-Ons,Take-Ons,Take-Ons,Take-Ons,Take-Ons,Carries,Carries,Carries,Carries,Carries,Carries,Carries,Carries,Receiving,Receiving
+,Player,#,Nation,Pos,Age,Min,Touches,Def Pen,Def 3rd,Mid 3rd,Att 3rd,Att Pen,Live,Att,Succ,Succ%,Tkld,Tkld%,Carries,TotDist,PrgDist,PrgC,1/3,CPA,Mis,Dis,Rec,PrgR
+0,Harry Kane,10.0,eng ENG,FW,29-151,90,32,1,2,11,19,5,32,0,0,,0,,18,70,25,1,1,0,0,1,23,7
+1,Son Heung-min,7.0,kr KOR,LW,30-171,90,53,0,3,24,26,0,53,5,2,40.0,2,40.0,42,293,211,8,7,0,5,4,44,12
+2,Dejan Kulusevski,21.0,se SWE,RW,22-245,90,64,0,8,25,33,5,64,7,6,85.7,1,14.3,42,271,110,3,2,2,5,3,42,12
+3,Ivan Perišić,14.0,hr CRO,LM,33-327,90,66,2,12,31,23,3,66,1,1,100.0,0,0.0,37,150,64,3,0,0,4,0,34,6
+4,Pierre Højbjerg,5.0,dk DEN,CM,27-143,90,88,3,22,44,23,2,88,2,2,100.0,0,0.0,54,319,135,2,3,1,1,2,60,4
+5,Yves Bissouma,38.0,ml MLI,CM,26-118,90,70,2,10,44,16,0,70,0,0,,0,,42,193,52,0,1,0,3,0,46,0
+6,Matt Doherty,2.0,ie IRL,RM,30-344,90,82,3,15,35,32,5,82,1,0,0.0,1,100.0,41,134,56,2,0,0,1,1,51,8
+7,Clément Lenglet,34.0,fr FRA,CB,27-192,89,73,6,29,35,9,1,73,0,0,,0,,54,346,257,4,3,0,1,0,50,2
+8,Ben Davies,33.0,wls WAL,CB,29-246,1,1,0,0,1,0,0,1,0,0,,0,,0,0,0,0,0,0,0,0,1,0
+9,Eric Dier,15.0,eng ENG,CB,28-345,90,79,6,39,37,4,1,79,0,0,,0,,48,309,211,1,1,0,2,0,45,0
+10,Japhet Tanganga,25.0,eng ENG,CB,23-270,66,44,3,17,26,1,0,44,1,1,100.0,0,0.0,31,156,82,0,1,0,3,1,27,1
+11,Davinson Sánchez,6.0,co COL,CB,26-197,24,23,0,5,14,4,0,23,0,0,,0,,15,103,55,0,1,0,0,0,15,0
+12,Fraser Forster,20.0,eng ENG,GK,34-284,90,25,24,25,0,0,0,25,0,0,,0,,13,96,59,0,0,0,0,0,7,0
+13,13 Players,,,,,990,700,50,187,327,190,22,700,17,12,70.6,4,23.5,437,2440,1317,24,20,3,25,12,445,52

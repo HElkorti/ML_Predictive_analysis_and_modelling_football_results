@@ -1,0 +1,17 @@
+,Unnamed: 0_level_0,Unnamed: 1_level_0,Unnamed: 2_level_0,Unnamed: 3_level_0,Unnamed: 4_level_0,Unnamed: 5_level_0,Unnamed: 6_level_0,Pass Types,Pass Types,Pass Types,Pass Types,Pass Types,Pass Types,Pass Types,Pass Types,Corner Kicks,Corner Kicks,Corner Kicks,Outcomes,Outcomes,Outcomes
+,Player,#,Nation,Pos,Age,Min,Att,Live,Dead,FK,TB,Sw,Crs,TI,CK,In,Out,Str,Cmp,Off,Blocks
+0,Sergio Agüero,10.0,ar ARG,FW,32-305,62,18,17,1,0,0,0,0,0,0,0,0,0,14,0,1
+1,Raheem Sterling,7.0,eng ENG,LW,26-116,28,6,6,0,0,0,0,0,0,0,0,0,0,6,0,0
+2,Gabriel Jesus,9.0,br BRA,"LW,FW",24-000,90,24,23,1,1,0,0,3,0,0,0,0,0,18,0,1
+3,Riyad Mahrez,26.0,dz ALG,RW,30-041,78,31,29,2,1,0,0,2,0,1,1,0,0,26,0,1
+4,Ferrán Torres,21.0,es ESP,RW,21-033,12,1,1,0,0,0,0,0,0,0,0,0,0,1,0,0
+5,Kevin De Bruyne,17.0,be BEL,AM,29-279,87,60,59,1,1,1,1,4,0,0,0,0,0,44,0,2
+6,Phil Foden,47.0,eng ENG,AM,20-310,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+7,Rodri,16.0,es ESP,DM,24-285,90,65,64,1,1,0,0,3,0,0,0,0,0,57,0,0
+8,Fernandinho,25.0,br BRA,DM,35-334,90,41,37,3,3,0,0,0,0,0,0,0,0,33,1,0
+9,Benjamin Mendy,22.0,fr FRA,LB,26-260,90,58,47,11,1,0,0,2,10,0,0,0,0,46,0,1
+10,Aymeric Laporte,14.0,es ESP,CB,26-311,90,82,80,2,1,0,0,0,1,0,0,0,0,74,0,1
+11,Rúben Dias,3.0,pt POR,CB,23-324,90,115,112,3,3,0,0,0,0,0,0,0,0,109,0,1
+12,Kyle Walker,2.0,eng ENG,RB,30-310,90,89,81,8,1,0,3,4,7,0,0,0,0,81,0,3
+13,Ederson,31.0,br BRA,GK,27-229,90,24,19,5,2,0,0,0,0,0,0,0,0,19,0,0
+14,14 Players,,,,,990,614,575,38,15,1,4,18,18,1,1,0,0,528,1,11

@@ -1,0 +1,18 @@
+,Unnamed: 0_level_0,Unnamed: 1_level_0,Unnamed: 2_level_0,Unnamed: 3_level_0,Unnamed: 4_level_0,Unnamed: 5_level_0,Touches,Touches,Touches,Touches,Touches,Touches,Touches,Take-Ons,Take-Ons,Take-Ons,Take-Ons,Take-Ons,Carries,Carries,Carries,Carries,Carries,Carries,Carries,Carries,Receiving,Receiving
+,Player,#,Nation,Pos,Age,Min,Touches,Def Pen,Def 3rd,Mid 3rd,Att 3rd,Att Pen,Live,Att,Succ,Succ%,Tkld,Tkld%,Carries,TotDist,PrgDist,PrgC,1/3,CPA,Mis,Dis,Rec,PrgR
+0,Anthony Gordon,10.0,eng ENG,"FW,LW",21-170,90,32,0,2,16,14,4,32,1,1,100.0,0,0.0,11,132,76,2,1,0,3,0,18,4
+1,Demarai Gray,11.0,jm JAM,"LW,RW",26-046,80,35,0,3,15,17,4,35,4,1,25.0,3,75.0,19,115,38,2,0,1,4,3,22,6
+2,Amadou Onana,8.0,be BEL,DM,20-362,10,8,0,2,3,3,2,8,3,2,66.7,1,33.3,5,37,25,1,0,1,0,0,7,1
+3,Dwight McNeil,7.0,eng ENG,RW,22-264,63,29,0,3,10,16,2,29,4,1,25.0,3,75.0,13,47,16,0,1,0,0,0,18,3
+4,Salomón Rondón,33.0,ve VEN,FW,32-331,27,8,0,0,3,5,1,8,0,0,,0,,3,5,2,0,0,0,0,0,6,2
+5,Vitaliy Mykolenko,19.0,ua UKR,"LM,LB",23-076,90,61,2,18,25,18,2,61,1,0,0.0,1,100.0,33,159,100,2,2,0,1,0,40,3
+6,Alex Iwobi,17.0,ng NGA,"CM,RW",26-102,90,57,4,19,26,13,0,57,1,0,0.0,0,0.0,30,114,74,0,2,0,3,0,40,1
+7,Abdoulaye Doucouré,16.0,ml MLI,CM,29-224,34,12,0,3,6,3,1,12,0,0,,0,,4,20,7,0,0,0,0,1,6,0
+8,Tom Davies,26.0,eng ENG,"CM,DM",24-044,56,33,2,11,19,3,1,33,0,0,,0,,11,69,30,0,0,0,3,1,18,0
+9,Nathan Patterson,3.0,sct SCO,"RM,RB",20-301,90,42,5,12,13,17,1,42,2,1,50.0,1,50.0,14,78,36,1,0,0,1,0,14,2
+10,James Tarkowski,2.0,eng ENG,CB,29-267,90,60,8,31,25,4,4,60,0,0,,0,,22,82,37,0,0,0,1,0,32,0
+11,Conor Coady,30.0,eng ENG,CB,29-169,80,61,15,35,26,0,0,61,1,0,0.0,1,100.0,37,194,112,0,0,0,0,0,41,0
+12,Dele Alli,20.0,eng ENG,AM,26-124,10,4,0,0,2,2,1,4,0,0,,0,,2,4,1,0,0,0,2,0,1,1
+13,Mason Holgate,4.0,eng ENG,CB,25-295,90,51,5,19,28,4,1,51,1,1,100.0,0,0.0,20,90,67,1,1,0,1,0,31,1
+14,Jordan Pickford,1.0,eng ENG,GK,28-159,90,36,23,34,2,0,0,36,0,0,,0,,18,89,62,0,0,0,0,0,17,0
+15,15 Players,,,,,990,529,64,192,219,119,24,529,18,7,38.9,10,55.6,242,1235,683,9,7,2,19,5,311,24

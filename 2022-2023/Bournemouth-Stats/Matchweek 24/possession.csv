@@ -1,0 +1,19 @@
+,Unnamed: 0_level_0,Unnamed: 1_level_0,Unnamed: 2_level_0,Unnamed: 3_level_0,Unnamed: 4_level_0,Unnamed: 5_level_0,Touches,Touches,Touches,Touches,Touches,Touches,Touches,Take-Ons,Take-Ons,Take-Ons,Take-Ons,Take-Ons,Carries,Carries,Carries,Carries,Carries,Carries,Carries,Carries,Receiving,Receiving
+,Player,#,Nation,Pos,Age,Min,Touches,Def Pen,Def 3rd,Mid 3rd,Att 3rd,Att Pen,Live,Att,Succ,Succ%,Tkld,Tkld%,Carries,TotDist,PrgDist,PrgC,1/3,CPA,Mis,Dis,Rec,PrgR
+0,Dominic Solanke,9.0,eng ENG,FW,25-157,90,42,3,6,18,19,6,42,2,0,0.0,2,100.0,24,197,60,1,2,1,9,5,29,10
+1,Marcus Tavernier,16.0,eng ENG,LW,23-333,56,22,2,9,11,4,1,22,2,2,100.0,0,0.0,16,95,64,0,0,0,4,1,15,0
+2,Jaidon Anthony,32.0,eng ENG,LW,23-079,34,18,1,2,7,9,1,18,0,0,,0,,11,64,24,1,1,1,3,0,10,3
+3,Dango Ouattara,11.0,bf BFA,RW,21-007,57,26,3,7,9,10,3,26,0,0,,0,,11,66,31,2,0,1,2,1,16,3
+4,Antoine Semenyo,24.0,gh GHA,RW,23-042,33,16,1,4,4,8,0,16,1,0,0.0,0,0.0,13,76,20,0,1,0,2,2,13,3
+5,Hamed Junior Traorè,22.0,ci CIV,AM,23-002,80,43,1,6,19,18,1,43,5,4,80.0,1,20.0,30,167,101,4,2,0,0,2,25,3
+6,Chris Mepham,6.0,wls WAL,AM,25-105,10,10,3,5,4,1,0,10,0,0,,0,,0,0,0,0,0,0,0,0,2,0
+7,Philip Billing,29.0,dk DEN,DM,26-252,90,44,7,16,21,7,0,44,0,0,,0,,18,85,56,0,0,0,0,0,21,0
+8,Jefferson Lerma,8.0,co COL,DM,28-116,45,20,5,11,8,1,0,20,0,0,,0,,9,38,18,0,0,0,0,0,10,1
+9,Joe Rothwell,14.0,eng ENG,DM,28-038,45,8,0,3,5,0,0,8,0,0,,0,,6,12,4,0,0,0,0,0,5,0
+10,Jordan Zemura,33.0,zw ZIM,LB,23-096,84,36,0,13,16,7,0,36,2,1,50.0,0,0.0,15,93,61,0,1,0,1,0,14,4
+11,Matías Viña,18.0,uy URU,LB,25-101,6,7,3,4,1,2,0,7,1,1,100.0,0,0.0,3,7,1,0,0,0,0,0,2,1
+12,Marcos Senesi,25.0,ar ARG,CB,25-284,90,56,13,30,23,3,0,56,0,0,,0,,30,181,113,0,1,0,0,0,24,0
+13,Jack Stephens,3.0,eng ENG,CB,29-022,90,46,17,27,18,1,1,46,1,1,100.0,0,0.0,17,96,51,1,0,0,0,0,18,0
+14,Adam Smith,15.0,eng ENG,RB,31-295,90,33,7,10,16,7,0,33,1,0,0.0,1,100.0,7,12,2,0,0,0,0,1,7,0
+15,Neto,13.0,br BRA,GK,33-214,90,33,26,32,1,0,0,33,0,0,,0,,13,73,50,0,0,0,0,0,6,0
+16,16 Players,,,,,990,460,92,185,181,97,13,460,15,9,60.0,4,26.7,223,1262,656,9,8,3,21,12,217,28

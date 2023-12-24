@@ -1,0 +1,17 @@
+,Unnamed: 0_level_0,Unnamed: 1_level_0,Unnamed: 2_level_0,Unnamed: 3_level_0,Unnamed: 4_level_0,Unnamed: 5_level_0,Unnamed: 6_level_0,Pass Types,Pass Types,Pass Types,Pass Types,Pass Types,Pass Types,Pass Types,Pass Types,Corner Kicks,Corner Kicks,Corner Kicks,Outcomes,Outcomes,Outcomes
+,Player,#,Nation,Pos,Age,Min,Att,Live,Dead,FK,TB,Sw,Crs,TI,CK,In,Out,Str,Cmp,Off,Blocks
+0,Billy Sharp,10.0,eng ENG,FW,34-363,85,13,13,0,0,0,0,2,0,0,0,0,0,8,0,2
+1,Oliver Burke,14.0,sct SCO,FW,23-301,5,2,2,0,0,0,0,0,0,0,0,0,0,1,0,0
+2,David McGoldrick,17.0,ie IRL,"CM,FW",33-065,90,43,42,1,0,0,0,0,1,0,0,0,0,34,0,0
+3,John Fleck,4.0,sct SCO,CM,29-162,90,88,80,8,2,0,0,10,0,5,5,0,0,67,0,1
+4,Oliver Norwood,16.0,nir NIR,CM,29-296,45,38,35,3,1,0,1,2,0,2,2,0,0,35,0,0
+5,Oliver McBurnie,9.0,sct SCO,FW,24-243,45,25,25,0,0,0,0,1,0,0,0,0,0,12,0,2
+6,John Lundstram,7.0,eng ENG,CM,26-350,90,76,72,4,1,0,3,5,0,2,1,1,0,62,0,1
+7,Jayden Bogle,20.0,eng ENG,WB,20-190,90,32,26,6,0,0,0,0,6,0,0,0,0,30,0,1
+8,George Baldock,2.0,gr GRE,WB,27-330,43,19,13,6,0,0,0,1,6,0,0,0,0,16,0,0
+9,Max Lowe,13.0,eng ENG,WB,23-267,47,29,28,1,0,0,0,4,1,0,0,0,0,21,0,0
+10,Ethan Ampadu,22.0,wls WAL,CB,20-141,90,99,94,5,1,0,1,0,4,0,0,0,0,83,0,1
+11,John Egan,12.0,ie IRL,CB,28-105,90,77,75,2,1,0,0,0,1,0,0,0,0,66,0,0
+12,Chris Basham,6.0,eng ENG,CB,32-197,90,87,76,11,2,0,1,2,9,0,0,0,0,75,0,0
+13,Aaron Ramsdale,1.0,eng ENG,GK,22-264,90,23,15,8,3,0,0,0,0,0,0,0,0,14,0,0
+14,14 Players,,,,,990,651,596,55,11,0,6,27,28,9,8,1,0,524,0,8

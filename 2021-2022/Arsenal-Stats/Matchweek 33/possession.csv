@@ -1,0 +1,16 @@
+,Unnamed: 0_level_0,Unnamed: 1_level_0,Unnamed: 2_level_0,Unnamed: 3_level_0,Unnamed: 4_level_0,Unnamed: 5_level_0,Touches,Touches,Touches,Touches,Touches,Touches,Touches,Take-Ons,Take-Ons,Take-Ons,Take-Ons,Take-Ons,Carries,Carries,Carries,Carries,Carries,Carries,Carries,Carries,Receiving,Receiving
+,Player,#,Nation,Pos,Age,Min,Touches,Def Pen,Def 3rd,Mid 3rd,Att 3rd,Att Pen,Live,Att,Succ,Succ%,Tkld,Tkld%,Carries,TotDist,PrgDist,PrgC,1/3,CPA,Mis,Dis,Rec,PrgR
+0,Eddie Nketiah,30.0,eng ENG,FW,22-321,90,32,4,4,9,19,5,32,3,2,66.7,1,33.3,15,99,34,1,1,0,2,1,22,9
+1,Bukayo Saka,7.0,eng ENG,"LW,RW",20-223,90,61,3,6,13,42,5,61,5,2,40.0,3,60.0,39,266,93,2,3,0,2,1,41,17
+2,Gabriel Martinelli,35.0,br BRA,"RW,LW,FW",20-302,90,57,0,3,7,47,8,57,3,1,33.3,2,66.7,35,219,90,3,1,2,3,1,41,11
+3,Martin Ødegaard,8.0,no NOR,"AM,CM",23-120,90,81,0,5,25,51,2,81,1,1,100.0,0,0.0,50,337,133,3,5,0,1,1,60,8
+4,Granit Xhaka,34.0,ch SUI,"DM,CB",29-201,90,98,4,7,51,41,2,98,2,2,100.0,0,0.0,60,331,168,3,4,0,1,1,75,7
+5,Albert Sambi Lokonga,23.0,be BEL,DM,22-176,90,98,1,6,58,34,0,98,0,0,,0,,77,445,214,4,2,0,1,0,88,1
+6,Nuno Tavares,20.0,pt POR,"LB,LW",22-080,69,63,2,12,26,25,2,63,0,0,,0,,38,282,171,6,3,1,0,0,50,10
+7,Nicolas Pépé,19.0,ci CIV,FW,26-322,21,15,0,0,2,13,2,15,2,2,100.0,0,0.0,12,55,17,1,0,0,0,1,14,6
+8,Gabriel Dos Santos,6.0,br BRA,CB,24-118,90,101,4,40,57,7,1,101,0,0,,0,,81,543,394,2,1,0,0,1,75,1
+9,Ben White,4.0,eng ENG,CB,24-190,90,88,5,31,50,7,0,88,0,0,,0,,52,409,287,2,0,0,2,0,60,0
+10,Cédric Soares,17.0,pt POR,RB,30-228,59,71,1,11,29,31,0,71,1,1,100.0,0,0.0,43,218,128,2,5,0,2,0,47,4
+11,Emile Smith Rowe,10.0,eng ENG,CM,21-262,31,23,1,2,4,17,3,23,0,0,,0,,11,53,31,1,1,0,0,1,15,4
+12,Aaron Ramsdale,32.0,eng ENG,GK,23-337,90,42,21,39,3,0,0,42,0,0,,0,,30,164,126,0,0,0,0,0,25,0
+13,13 Players,,,,,990,830,46,166,334,334,30,830,17,11,64.7,6,35.3,543,3421,1886,30,26,3,14,8,613,78

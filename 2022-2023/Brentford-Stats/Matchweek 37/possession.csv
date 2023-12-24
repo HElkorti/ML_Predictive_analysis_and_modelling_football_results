@@ -1,0 +1,19 @@
+,Unnamed: 0_level_0,Unnamed: 1_level_0,Unnamed: 2_level_0,Unnamed: 3_level_0,Unnamed: 4_level_0,Unnamed: 5_level_0,Touches,Touches,Touches,Touches,Touches,Touches,Touches,Take-Ons,Take-Ons,Take-Ons,Take-Ons,Take-Ons,Carries,Carries,Carries,Carries,Carries,Carries,Carries,Carries,Receiving,Receiving
+,Player,#,Nation,Pos,Age,Min,Touches,Def Pen,Def 3rd,Mid 3rd,Att 3rd,Att Pen,Live,Att,Succ,Succ%,Tkld,Tkld%,Carries,TotDist,PrgDist,PrgC,1/3,CPA,Mis,Dis,Rec,PrgR
+0,Yoane Wissa,11.0,cd COD,FW,26-259,88,26,0,3,6,17,4,26,2,1,50.0,0,0.0,22,126,44,3,1,1,3,1,25,8
+1,Josh Dasilva,10.0,eng ENG,FW,24-209,2,1,0,1,1,0,0,1,0,0,,0,,1,2,0,0,0,0,0,0,1,0
+2,Kevin Schade,9.0,de GER,LW,21-174,77,27,2,5,10,12,4,27,2,1,50.0,1,50.0,18,120,70,4,1,3,0,2,20,7
+3,Mathias Jørgensen,13.0,dk DEN,CB,33-027,13,5,1,5,0,0,0,5,0,0,,0,,0,0,0,0,0,0,0,0,1,0
+4,Bryan Mbeumo,19.0,cm CMR,"RW,FW",23-286,90,43,4,5,15,23,8,43,1,0,0.0,1,100.0,22,93,21,1,0,1,3,1,22,4
+5,Mathias Jensen,8.0,dk DEN,LM,27-139,71,64,0,15,32,17,0,64,0,0,,0,,42,156,74,0,1,0,2,1,41,3
+6,Shandon Baptiste,26.0,gd GRN,"CM,LM",25-042,19,6,0,2,1,3,0,6,0,0,,0,,0,0,0,0,0,0,0,0,0,0
+7,Vitaly Janelt,27.0,de GER,CM,25-010,90,44,4,15,25,4,0,44,0,0,,0,,25,133,65,0,0,0,2,0,26,0
+8,Frank Onyeka,15.0,ng NGA,RM,25-139,45,21,1,4,11,7,1,21,4,2,50.0,2,50.0,14,80,22,1,1,0,1,0,11,2
+9,Mikkel Damsgaard,24.0,dk DEN,"RM,CM",22-321,45,18,0,2,9,7,1,18,0,0,,0,,8,26,11,0,0,0,0,1,12,1
+10,Rico Henry,3.0,eng ENG,LB,25-316,90,61,8,23,18,20,0,61,1,1,100.0,0,0.0,38,242,116,3,3,0,4,0,35,2
+11,Ben Mee,16.0,eng ENG,CB,33-241,90,57,14,40,14,4,4,57,1,1,100.0,0,0.0,36,168,124,0,0,0,0,0,35,0
+12,Ethan Pinnock,5.0,jm JAM,CB,29-356,90,40,11,25,12,3,3,40,0,0,,0,,20,96,52,0,0,0,1,0,21,0
+13,Aaron Hickey,2.0,sct SCO,RB,20-344,88,42,0,20,16,6,0,42,1,0,0.0,1,100.0,25,119,66,3,0,0,0,1,27,1
+14,Mads Roerslev,30.0,dk DEN,RB,23-330,2,4,0,3,1,0,0,4,0,0,,0,,0,0,0,0,0,0,0,0,0,0
+15,David Raya,1.0,es ESP,GK,27-247,90,54,42,53,1,0,0,54,0,0,,0,,32,219,125,0,0,0,0,0,25,0
+16,16 Players,,,,,990,513,87,221,172,123,25,513,12,6,50.0,5,41.7,303,1580,790,15,7,5,16,7,302,28

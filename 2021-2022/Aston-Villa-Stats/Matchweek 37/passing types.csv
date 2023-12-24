@@ -1,0 +1,17 @@
+,Unnamed: 0_level_0,Unnamed: 1_level_0,Unnamed: 2_level_0,Unnamed: 3_level_0,Unnamed: 4_level_0,Unnamed: 5_level_0,Unnamed: 6_level_0,Pass Types,Pass Types,Pass Types,Pass Types,Pass Types,Pass Types,Pass Types,Pass Types,Corner Kicks,Corner Kicks,Corner Kicks,Outcomes,Outcomes,Outcomes
+,Player,#,Nation,Pos,Age,Min,Att,Live,Dead,FK,TB,Sw,Crs,TI,CK,In,Out,Str,Cmp,Off,Blocks
+0,Danny Ings,20.0,eng ENG,FW,29-296,70,9,9,0,0,0,1,0,0,0,0,0,0,6,0,0
+1,Emi Buendía,10.0,ar ARG,AM,25-141,20,20,19,1,0,2,0,1,0,0,0,0,0,17,0,0
+2,Ollie Watkins,11.0,eng ENG,FW,26-136,90,16,15,1,0,0,0,0,0,0,0,0,0,12,0,0
+3,Philippe Coutinho,23.0,br BRA,AM,29-337,90,67,65,2,1,0,0,0,1,0,0,0,0,58,0,1
+4,John McGinn,7.0,sct SCO,"LM,RM",27-209,90,49,46,2,2,0,2,0,0,0,0,0,0,37,1,1
+5,Marvelous Nakamba,19.0,zw ZIM,CM,28-116,65,33,33,0,0,0,1,0,0,0,0,0,0,28,0,1
+6,Jacob Ramsey,41.0,eng ENG,LM,20-352,25,19,19,0,0,0,0,0,0,0,0,0,0,16,0,0
+7,Douglas Luiz,6.0,br BRA,"RM,CM",24-006,90,58,50,8,4,0,0,3,3,1,1,0,0,52,0,1
+8,Lucas Digne,27.0,fr FRA,LB,28-299,90,69,58,11,1,0,1,5,10,0,0,0,0,55,0,1
+9,Tyrone Mings,5.0,eng ENG,CB,29-063,90,43,40,3,2,0,0,0,1,0,0,0,0,36,0,1
+10,Ezri Konsa,4.0,eng ENG,CB,24-204,49,24,22,2,2,0,0,0,0,0,0,0,0,20,0,0
+11,Calum Chambers,16.0,eng ENG,CB,27-115,41,19,18,1,1,0,0,0,0,0,0,0,0,16,0,1
+12,Matty Cash,2.0,pl POL,RB,24-281,90,56,49,7,0,0,1,2,7,0,0,0,0,38,0,3
+13,Emiliano Martínez,1.0,ar ARG,GK,29-255,90,23,14,9,2,0,0,0,0,0,0,0,0,20,0,0
+14,14 Players,,,,,990,505,457,47,15,2,6,11,22,1,1,0,0,411,1,10

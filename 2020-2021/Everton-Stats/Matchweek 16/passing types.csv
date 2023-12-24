@@ -1,0 +1,17 @@
+,Unnamed: 0_level_0,Unnamed: 1_level_0,Unnamed: 2_level_0,Unnamed: 3_level_0,Unnamed: 4_level_0,Unnamed: 5_level_0,Unnamed: 6_level_0,Pass Types,Pass Types,Pass Types,Pass Types,Pass Types,Pass Types,Pass Types,Pass Types,Corner Kicks,Corner Kicks,Corner Kicks,Outcomes,Outcomes,Outcomes
+,Player,#,Nation,Pos,Age,Min,Att,Live,Dead,FK,TB,Sw,Crs,TI,CK,In,Out,Str,Cmp,Off,Blocks
+0,Richarlison,7.0,br BRA,FW,23-283,90,19,19,0,0,0,0,1,0,0,0,0,0,12,0,0
+1,Gylfi Sigurðsson,10.0,is ISL,FW,31-162,90,33,29,4,0,0,0,0,0,0,0,0,0,29,0,2
+2,Lucas Digne,12.0,fr FRA,LM,27-212,90,19,18,1,1,0,0,5,0,0,0,0,0,11,0,0
+3,Tom Davies,26.0,eng ENG,CM,22-232,68,19,19,0,0,0,0,0,0,0,0,0,0,14,0,4
+4,James Rodríguez,19.0,co COL,CM,29-220,22,14,12,2,1,0,1,1,1,0,0,0,0,9,0,0
+5,Abdoulaye Doucouré,16.0,ml MLI,CM,28-047,90,34,32,2,2,0,0,1,0,0,0,0,0,23,0,0
+6,Alex Iwobi,17.0,ng NGA,RM,24-290,68,20,20,0,0,0,0,1,0,0,0,0,0,18,0,0
+7,Joshua King,11.0,no NOR,RM,29-033,22,5,5,0,0,0,0,1,0,0,0,0,0,1,0,0
+8,Ben Godfrey,22.0,eng ENG,LB,23-033,90,23,21,2,0,0,0,0,2,0,0,0,0,20,0,0
+9,Michael Keane,5.0,eng ENG,CB,28-037,90,42,42,0,0,0,0,0,0,0,0,0,0,35,0,0
+10,Yerry Mina,13.0,co COL,CB,26-147,17,4,4,0,0,0,0,0,0,0,0,0,0,2,0,0
+11,Séamus Coleman,23.0,ie IRL,RB,32-129,73,20,19,1,0,0,0,1,1,0,0,0,0,13,0,0
+12,Mason Holgate,4.0,eng ENG,"CB,RB",24-118,90,35,32,3,1,0,0,1,2,0,0,0,0,25,0,0
+13,Jordan Pickford,1.0,eng ENG,GK,26-347,90,49,35,14,3,0,2,0,0,0,0,0,0,30,0,0
+14,14 Players,,,,,990,336,307,29,8,0,3,12,6,0,0,0,0,242,0,6

@@ -1,0 +1,19 @@
+,Unnamed: 0_level_0,Unnamed: 1_level_0,Unnamed: 2_level_0,Unnamed: 3_level_0,Unnamed: 4_level_0,Unnamed: 5_level_0,Touches,Touches,Touches,Touches,Touches,Touches,Touches,Take-Ons,Take-Ons,Take-Ons,Take-Ons,Take-Ons,Carries,Carries,Carries,Carries,Carries,Carries,Carries,Carries,Receiving,Receiving
+,Player,#,Nation,Pos,Age,Min,Touches,Def Pen,Def 3rd,Mid 3rd,Att 3rd,Att Pen,Live,Att,Succ,Succ%,Tkld,Tkld%,Carries,TotDist,PrgDist,PrgC,1/3,CPA,Mis,Dis,Rec,PrgR
+0,Che Adams,10.0,sct SCO,FW,26-052,90,25,1,3,9,13,5,25,0,0,,0,,12,46,25,1,0,0,1,0,19,7
+1,Adam Armstrong,9.0,eng ENG,"LW,RW,FW",25-205,82,36,1,3,11,22,6,36,3,1,33.3,2,66.7,26,234,36,1,1,1,1,1,26,4
+2,Sekou Mara,18.0,fr FRA,RM,20-035,8,6,0,0,1,5,3,6,0,0,,0,,3,11,4,0,0,0,1,1,4,2
+3,Mohamed Elyounoussi,24.0,no NOR,RW,28-030,55,30,3,8,8,14,1,30,1,0,0.0,1,100.0,14,105,40,1,1,0,0,1,16,1
+4,Stuart Armstrong,17.0,sct SCO,"RM,DM",30-157,35,29,0,1,18,10,2,29,1,1,100.0,0,0.0,21,149,58,1,0,1,1,0,23,2
+5,Joe Aribo,7.0,ng NGA,AM,26-044,72,42,1,3,14,25,8,42,3,2,66.7,1,33.3,27,142,99,2,2,1,0,3,27,4
+6,Samuel Edozie,23.0,eng ENG,"LM,AM",19-218,18,10,0,1,2,7,2,10,3,3,100.0,0,0.0,10,93,54,3,1,2,1,1,9,2
+7,James Ward-Prowse,8.0,eng ENG,"DM,CM",27-306,90,95,3,20,52,23,0,95,1,1,100.0,0,0.0,54,147,45,0,0,0,2,0,52,1
+8,Ibrahima Diallo,27.0,fr FRA,DM,23-179,55,26,0,2,19,5,0,26,2,2,100.0,0,0.0,15,57,26,1,2,0,1,0,13,0
+9,Moussa Djenepo,19.0,ml MLI,"LB,LW",24-080,35,20,0,7,3,10,1,20,1,1,100.0,0,0.0,15,79,39,2,1,0,0,1,15,5
+10,Romain Perraud,15.0,fr FRA,LB,24-346,72,40,5,13,12,16,2,40,1,0,0.0,1,100.0,21,80,47,0,0,0,0,0,18,6
+11,Ainsley Maitland-Niles,3.0,eng ENG,"CM,LB",25-005,18,8,1,1,5,2,1,8,1,1,100.0,0,0.0,6,32,23,0,0,0,0,0,6,0
+12,Mohammed Salisu,22.0,gh GHA,CB,23-139,90,55,7,26,25,5,0,55,0,0,,0,,31,173,63,0,1,0,0,0,21,0
+13,Armel Bella Kotchap,37.0,de GER,CB,20-266,90,45,8,22,21,2,2,45,0,0,,0,,28,231,107,0,1,1,0,0,25,0
+14,Kyle Walker-Peters,2.0,eng ENG,RB,25-143,90,54,2,9,26,20,3,54,3,1,33.3,0,0.0,34,209,164,5,3,1,0,1,39,5
+15,Gavin Bazunu,31.0,ie IRL,GK,20-195,90,37,19,37,0,0,0,37,0,0,,0,,26,146,119,0,0,0,0,0,20,0
+16,16 Players,,,,,990,558,51,156,226,179,36,558,20,13,65.0,5,25.0,343,1934,949,17,13,7,8,9,333,39

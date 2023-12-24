@@ -1,0 +1,17 @@
+,Unnamed: 0_level_0,Unnamed: 1_level_0,Unnamed: 2_level_0,Unnamed: 3_level_0,Unnamed: 4_level_0,Unnamed: 5_level_0,Tackles,Tackles,Tackles,Tackles,Tackles,Challenges,Challenges,Challenges,Challenges,Blocks,Blocks,Blocks,Unnamed: 18_level_0,Unnamed: 19_level_0,Unnamed: 20_level_0,Unnamed: 21_level_0
+,Player,#,Nation,Pos,Age,Min,Tkl,TklW,Def 3rd,Mid 3rd,Att 3rd,Tkl,Att,Tkl%,Lost,Blocks,Sh,Pass,Int,Tkl+Int,Clr,Err
+0,Cristiano Ronaldo,7.0,pt POR,FW,36-332,90,1,1,0,0,1,1,1,100.0,0,0,0,0,0,1,2,0
+1,Edinson Cavani,21.0,uy URU,"AM,FW",34-323,90,1,1,0,1,0,1,2,50.0,1,1,0,1,0,1,0,0
+2,Jadon Sancho,25.0,eng ENG,"AM,WB",21-284,75,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,0
+3,Marcus Rashford,10.0,eng ENG,"WB,AM",24-064,15,1,1,1,0,0,1,2,50.0,1,0,0,0,1,2,0,0
+4,Mason Greenwood,11.0,eng ENG,AM,20-094,59,1,1,1,0,0,0,1,0.0,1,1,0,1,0,1,0,0
+5,Bruno Fernandes,18.0,pt POR,"CM,AM",27-117,31,0,0,0,0,0,0,0,,0,0,0,0,1,1,0,0
+6,Nemanja Matić,31.0,rs SRB,"CM,DM",33-155,90,4,0,2,2,0,2,4,50.0,2,2,1,1,3,7,1,0
+7,Scott McTominay,39.0,sct SCO,"CM,DM",25-026,90,2,0,0,2,0,2,5,40.0,3,3,1,2,0,2,2,0
+8,Luke Shaw,23.0,eng ENG,"CB,LB",26-175,90,0,0,0,0,0,0,0,,0,3,1,2,0,0,2,0
+9,Raphaël Varane,19.0,fr FRA,CB,28-253,90,3,2,2,1,0,2,4,50.0,2,0,0,0,2,5,4,0
+10,Phil Jones,4.0,eng ENG,CB,29-316,90,3,3,2,0,1,2,3,66.7,1,3,3,0,2,5,2,0
+11,Aaron Wan-Bissaka,29.0,eng ENG,"RB,WB",24-038,83,0,0,0,0,0,0,0,,0,2,0,2,3,3,2,0
+12,Anthony Elanga,36.0,se SWE,WB,19-251,7,1,1,1,0,0,1,2,50.0,1,1,0,1,0,1,0,0
+13,David de Gea,1.0,es ESP,GK,31-057,90,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,0
+14,14 Players,,,,,990,17,10,9,6,2,12,24,50.0,12,16,6,10,12,29,15,0

@@ -1,0 +1,17 @@
+,Unnamed: 0_level_0,Unnamed: 1_level_0,Unnamed: 2_level_0,Unnamed: 3_level_0,Unnamed: 4_level_0,Unnamed: 5_level_0,Unnamed: 6_level_0,Pass Types,Pass Types,Pass Types,Pass Types,Pass Types,Pass Types,Pass Types,Pass Types,Corner Kicks,Corner Kicks,Corner Kicks,Outcomes,Outcomes,Outcomes
+,Player,#,Nation,Pos,Age,Min,Att,Live,Dead,FK,TB,Sw,Crs,TI,CK,In,Out,Str,Cmp,Off,Blocks
+0,Kai Havertz,29.0,de GER,FW,22-162,61,23,22,1,0,0,0,0,0,0,0,0,0,19,0,1
+1,Christian Pulisic,10.0,us USA,FW,23-063,29,8,8,0,0,0,0,0,0,0,0,0,0,7,0,0
+2,Callum Hudson-Odoi,20.0,eng ENG,AM,21-013,90,31,31,0,0,0,0,2,0,0,0,0,0,24,0,0
+3,Mason Mount,19.0,eng ENG,AM,22-314,61,27,27,0,0,0,0,0,0,0,0,0,0,20,0,0
+4,Hakim Ziyech,22.0,ma MAR,AM,28-246,29,16,14,0,0,0,0,1,0,0,0,0,0,13,2,1
+5,Jorginho,5.0,it ITA,CM,29-335,76,61,59,2,2,2,0,0,0,0,0,0,0,53,0,1
+6,Ruben Loftus-Cheek,12.0,eng ENG,CM,25-301,14,12,12,0,0,0,0,0,0,0,0,0,0,12,0,0
+7,N'Golo Kanté,7.0,fr FRA,CM,30-236,90,71,71,0,0,1,1,0,0,0,0,0,0,60,0,0
+8,Ben Chilwell,21.0,eng ENG,WB,24-334,90,48,32,16,3,0,0,6,9,4,4,0,0,31,0,4
+9,Reece James,24.0,eng ENG,WB,21-347,90,83,67,16,0,0,0,3,15,1,1,0,0,67,0,4
+10,Antonio Rüdiger,2.0,de GER,CB,28-262,90,68,60,6,6,0,1,0,0,0,0,0,0,53,2,0
+11,Thiago Silva,6.0,br BRA,CB,37-059,90,94,92,2,2,0,0,0,0,0,0,0,0,91,0,0
+12,Trevoh Chalobah,14.0,eng ENG,CB,22-138,90,77,75,2,2,0,0,0,0,0,0,0,0,69,0,0
+13,Edouard Mendy,16.0,sn SEN,GK,29-264,90,32,27,5,1,0,0,0,0,0,0,0,0,27,0,0
+14,14 Players,,,,,990,651,597,50,16,3,2,12,24,5,5,0,0,546,4,11

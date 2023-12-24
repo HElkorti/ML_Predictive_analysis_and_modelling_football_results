@@ -1,0 +1,17 @@
+,Unnamed: 0_level_0,Unnamed: 1_level_0,Unnamed: 2_level_0,Unnamed: 3_level_0,Unnamed: 4_level_0,Unnamed: 5_level_0,Touches,Touches,Touches,Touches,Touches,Touches,Touches,Take-Ons,Take-Ons,Take-Ons,Take-Ons,Take-Ons,Carries,Carries,Carries,Carries,Carries,Carries,Carries,Carries,Receiving,Receiving
+,Player,#,Nation,Pos,Age,Min,Touches,Def Pen,Def 3rd,Mid 3rd,Att 3rd,Att Pen,Live,Att,Succ,Succ%,Tkld,Tkld%,Carries,TotDist,PrgDist,PrgC,1/3,CPA,Mis,Dis,Rec,PrgR
+0,Sadio Mané,10.0,sn SEN,"FW,LM,LW",29-315,90,45,0,0,18,28,12,45,4,2,50.0,2,50.0,28,208,105,3,2,1,3,1,39,11
+1,Luis Díaz,23.0,co COL,"LW,FW",25-037,89,54,0,1,20,33,11,54,3,0,0.0,3,100.0,34,164,90,7,1,6,1,2,47,17
+2,Takumi Minamino,18.0,jp JPN,AM,27-034,1,0,0,0,0,0,0,0,0,0,,0,,1,1,0,0,0,0,0,0,1,0
+3,Mohamed Salah,11.0,eg EGY,"RW,RM",29-249,90,62,1,4,17,44,19,62,7,4,57.1,3,42.9,43,341,204,10,3,8,1,2,46,16
+4,Naby Keïta,8.0,gn GUI,LM,27-009,61,62,2,2,32,28,1,62,1,1,100.0,0,0.0,36,237,146,2,3,0,1,0,50,1
+5,Divock Origi,27.0,be BEL,FW,26-307,29,9,0,0,4,5,1,9,1,0,0.0,1,100.0,6,45,9,0,0,0,1,0,7,1
+6,Jordan Henderson,14.0,eng ENG,"CM,DM",31-247,90,124,3,13,77,34,2,124,2,2,100.0,0,0.0,77,396,190,4,3,0,2,0,105,3
+7,Alex Oxlade-Chamberlain,15.0,eng ENG,RM,28-188,61,42,0,7,12,24,1,42,1,1,100.0,0,0.0,24,152,72,4,0,0,1,1,28,12
+8,Thiago Alcántara,6.0,es ESP,"CM,DM",30-314,29,52,0,8,33,12,1,52,3,2,66.7,1,33.3,30,131,72,0,1,0,0,0,42,3
+9,Kostas Tsimikas,21.0,gr GRE,LB,25-283,90,97,4,15,30,52,6,97,2,1,50.0,1,50.0,40,270,144,6,2,1,0,0,57,19
+10,Virgil van Dijk,4.0,nl NED,CB,30-226,90,102,10,34,62,6,2,102,1,1,100.0,0,0.0,53,277,207,1,1,0,1,0,69,0
+11,Joël Matip,32.0,cm CMR,CB,30-195,90,85,7,31,48,6,0,85,0,0,,0,,58,414,336,3,3,0,0,0,62,0
+12,Joe Gomez,12.0,eng ENG,RB,24-272,90,93,0,23,51,21,1,93,5,4,80.0,1,20.0,48,213,91,3,0,0,0,1,65,5
+13,Alisson,1.0,br BRA,GK,29-140,90,36,22,36,0,0,0,36,0,0,,0,,20,86,59,0,0,0,0,0,21,0
+14,14 Players,,,,,990,863,49,174,404,293,57,863,30,18,60.0,12,40.0,498,2935,1725,43,19,16,11,7,639,88

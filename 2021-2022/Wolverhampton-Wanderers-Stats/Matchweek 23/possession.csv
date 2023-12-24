@@ -1,0 +1,16 @@
+,Unnamed: 0_level_0,Unnamed: 1_level_0,Unnamed: 2_level_0,Unnamed: 3_level_0,Unnamed: 4_level_0,Unnamed: 5_level_0,Touches,Touches,Touches,Touches,Touches,Touches,Touches,Take-Ons,Take-Ons,Take-Ons,Take-Ons,Take-Ons,Carries,Carries,Carries,Carries,Carries,Carries,Carries,Carries,Receiving,Receiving
+,Player,#,Nation,Pos,Age,Min,Touches,Def Pen,Def 3rd,Mid 3rd,Att 3rd,Att Pen,Live,Att,Succ,Succ%,Tkld,Tkld%,Carries,TotDist,PrgDist,PrgC,1/3,CPA,Mis,Dis,Rec,PrgR
+0,Fábio Silva,17.0,pt POR,FW,19-187,74,26,1,2,16,9,1,26,2,1,50.0,1,50.0,10,68,41,1,3,0,5,2,20,4
+1,Adama Traoré,37.0,es ESP,FW,25-362,16,11,0,0,9,3,0,11,2,2,100.0,0,0.0,8,77,19,1,1,0,2,0,10,2
+2,Daniel Podence,10.0,pt POR,FW,26-093,89,47,0,6,21,21,0,47,2,1,50.0,1,50.0,31,145,54,1,2,0,1,1,33,2
+3,Francisco Trincão,11.0,pt POR,FW,22-024,1,2,0,0,1,1,0,2,0,0,,0,,2,4,3,0,0,0,0,0,1,0
+4,João Moutinho,28.0,pt POR,CM,35-136,90,86,5,16,53,17,1,86,0,0,,0,,30,122,56,1,1,0,1,1,50,2
+5,Rúben Neves,8.0,pt POR,CM,24-315,90,90,4,18,62,11,0,90,3,3,100.0,0,0.0,44,194,107,4,2,0,0,0,64,1
+6,Leander Dendoncker,32.0,be BEL,CM,26-282,90,45,2,6,29,10,1,45,1,1,100.0,0,0.0,23,75,35,1,0,0,1,0,29,4
+7,Rayan Aït Nouri,3.0,dz ALG,WB,20-230,90,63,7,24,19,21,0,63,5,3,60.0,2,40.0,17,78,54,2,1,0,5,2,30,4
+8,Nélson Semedo,22.0,pt POR,WB,28-067,90,62,6,10,26,26,6,62,4,2,50.0,2,50.0,26,193,139,3,4,1,2,3,35,9
+9,Toti Gomes,24.0,pt POR,CB,23-006,90,70,11,29,37,5,0,70,3,2,66.7,1,33.3,35,97,45,0,2,1,1,0,37,1
+10,Conor Coady,16.0,eng ENG,CB,28-331,90,49,9,25,25,0,0,49,0,0,,0,,28,92,24,0,0,0,0,0,29,0
+11,Max Kilman,23.0,eng ENG,CB,24-244,90,62,6,30,29,4,2,62,1,1,100.0,0,0.0,34,144,82,1,1,0,0,0,36,0
+12,José Sá,1.0,pt POR,GK,29-005,90,27,25,27,0,0,0,27,0,0,,0,,13,131,72,0,0,0,0,0,7,0
+13,13 Players,,,,,990,640,76,193,327,128,11,640,23,16,69.6,7,30.4,301,1420,731,15,17,2,18,9,381,29

@@ -1,0 +1,18 @@
+,Unnamed: 0_level_0,Unnamed: 1_level_0,Unnamed: 2_level_0,Unnamed: 3_level_0,Unnamed: 4_level_0,Unnamed: 5_level_0,Touches,Touches,Touches,Touches,Touches,Touches,Touches,Take-Ons,Take-Ons,Take-Ons,Take-Ons,Take-Ons,Carries,Carries,Carries,Carries,Carries,Carries,Carries,Carries,Receiving,Receiving
+,Player,#,Nation,Pos,Age,Min,Touches,Def Pen,Def 3rd,Mid 3rd,Att 3rd,Att Pen,Live,Att,Succ,Succ%,Tkld,Tkld%,Carries,TotDist,PrgDist,PrgC,1/3,CPA,Mis,Dis,Rec,PrgR
+0,Kelechi Iheanacho,14.0,ng NGA,FW,26-139,74,29,2,3,13,13,4,29,3,2,66.7,1,33.3,15,100,32,2,0,2,4,3,23,7
+1,Jamie Vardy,9.0,eng ENG,FW,36-039,16,3,0,0,1,2,0,3,1,0,0.0,1,100.0,1,9,0,0,0,0,0,0,2,2
+2,Harvey Barnes,7.0,eng ENG,LW,25-072,90,43,0,3,21,20,5,43,2,0,0.0,2,100.0,25,192,127,5,3,1,3,2,31,11
+3,Tetê,37.0,br BRA,RW,23-004,74,39,0,3,18,19,5,39,3,1,33.3,2,66.7,18,203,122,7,3,4,3,0,21,6
+4,Dennis Praet,26.0,be BEL,RW,28-281,16,13,1,4,4,6,4,13,1,0,0.0,1,100.0,4,22,7,0,0,0,0,0,7,0
+5,James Maddison,10.0,eng ENG,AM,26-088,90,47,0,6,19,22,3,47,6,2,33.3,3,50.0,27,125,55,2,0,1,1,2,34,8
+6,Nampalys Mendy,24.0,sn SEN,DM,30-241,58,37,2,12,20,5,0,37,1,0,0.0,0,0.0,17,54,11,0,0,0,1,0,22,0
+7,Boubakary Soumaré,42.0,fr FRA,DM,23-357,32,19,2,11,8,1,0,19,0,0,,0,,7,25,4,0,0,0,1,1,10,0
+8,Kiernan Dewsbury-Hall,22.0,eng ENG,DM,24-166,58,43,2,14,22,8,1,43,0,0,,0,,23,100,21,0,0,0,1,1,29,0
+9,Youri Tielemans,8.0,be BEL,DM,25-288,32,34,3,13,13,8,0,34,2,1,50.0,0,0.0,17,114,52,1,0,0,0,0,22,1
+10,Victor Bernth Kristiansen,16.0,dk DEN,LB,20-065,90,66,3,20,28,19,0,66,1,0,0.0,1,100.0,28,224,136,5,1,0,1,0,32,5
+11,Wout Faes,3.0,be BEL,CB,24-322,90,67,13,39,29,0,0,67,1,0,0.0,1,100.0,26,156,83,1,0,0,2,0,33,0
+12,Harry Souttar,15.0,au AUS,CB,24-120,90,68,11,35,28,5,4,68,1,0,0.0,0,0.0,34,272,192,3,1,0,1,0,43,0
+13,Timothy Castagne,27.0,be BEL,RB,27-076,90,60,10,27,16,18,3,60,4,2,50.0,2,50.0,17,199,79,4,3,3,2,0,27,5
+14,Danny Ward,1.0,wls WAL,GK,29-242,90,39,29,39,0,0,0,39,0,0,,0,,23,74,43,0,0,0,0,0,27,0
+15,15 Players,,,,,990,607,78,229,240,146,29,607,26,8,30.8,14,53.8,282,1869,964,30,11,11,20,9,363,45

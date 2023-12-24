@@ -1,0 +1,18 @@
+,Unnamed: 0_level_0,Unnamed: 1_level_0,Unnamed: 2_level_0,Unnamed: 3_level_0,Unnamed: 4_level_0,Unnamed: 5_level_0,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Aerial Duels,Aerial Duels,Aerial Duels
+,Player,#,Nation,Pos,Age,Min,CrdY,CrdR,2CrdY,Fls,Fld,Off,Crs,Int,TklW,PKwon,PKcon,OG,Recov,Won,Lost,Won%
+0,Patson Daka,20.0,zm ZAM,FW,23-330,90,0,0,0,0,1,0,0,1,0,0,0,0,0,1,4,20.0
+1,Kelechi Iheanacho,14.0,ng NGA,FW,25-336,71,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0.0
+2,Jamie Vardy,9.0,eng ENG,FW,35-236,19,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,
+3,Harvey Barnes,7.0,eng ENG,LM,24-269,45,0,0,0,1,0,0,0,0,0,0,0,0,1,1,1,50.0
+4,Timothy Castagne,27.0,be BEL,LB,26-273,45,0,0,0,0,0,1,1,0,0,0,0,0,1,2,0,100.0
+5,Youri Tielemans,8.0,be BEL,CM,25-120,71,0,0,0,1,1,0,1,1,1,0,0,0,3,2,0,100.0
+6,Daniel Amartey,18.0,gh GHA,CB,27-257,19,0,0,0,1,0,0,0,1,0,0,0,0,2,1,0,100.0
+7,Boubakary Soumaré,42.0,fr FRA,CM,23-189,71,0,0,0,0,0,0,0,2,0,0,0,0,3,0,0,
+8,Kiernan Dewsbury-Hall,22.0,eng ENG,CM,23-363,19,0,0,0,0,0,0,1,0,0,0,0,0,2,0,0,
+9,James Maddison,10.0,eng ENG,"CM,RM",25-285,90,0,0,0,1,2,1,1,1,2,0,0,0,1,1,1,50.0
+10,Luke Thomas,33.0,eng ENG,"CB,LB",21-086,90,1,0,0,1,1,0,0,1,1,0,0,1,6,0,1,0.0
+11,Jonny Evans,6.0,nir NIR,CB,34-244,90,0,0,0,0,0,0,0,3,1,0,0,0,4,1,1,50.0
+12,Wilfred Ndidi,25.0,ng NGA,"CB,CM",25-262,90,0,0,0,1,1,0,0,1,2,0,1,0,8,0,0,
+13,James Justin,2.0,eng ENG,RB,24-193,90,0,0,0,2,0,0,3,0,1,0,0,0,1,2,1,66.7
+14,Danny Ward,1.0,wls WAL,GK,29-074,90,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,
+15,15 Players,,,,,990,1,0,0,8,6,3,7,12,8,0,1,1,35,11,10,52.4

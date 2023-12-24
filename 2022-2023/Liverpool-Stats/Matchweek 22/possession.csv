@@ -1,0 +1,19 @@
+,Unnamed: 0_level_0,Unnamed: 1_level_0,Unnamed: 2_level_0,Unnamed: 3_level_0,Unnamed: 4_level_0,Unnamed: 5_level_0,Touches,Touches,Touches,Touches,Touches,Touches,Touches,Take-Ons,Take-Ons,Take-Ons,Take-Ons,Take-Ons,Carries,Carries,Carries,Carries,Carries,Carries,Carries,Carries,Receiving,Receiving
+,Player,#,Nation,Pos,Age,Min,Touches,Def Pen,Def 3rd,Mid 3rd,Att 3rd,Att Pen,Live,Att,Succ,Succ%,Tkld,Tkld%,Carries,TotDist,PrgDist,PrgC,1/3,CPA,Mis,Dis,Rec,PrgR
+0,Darwin Núñez,27.0,uy URU,FW,23-225,90,28,0,0,11,17,8,28,1,0,0.0,0,0.0,17,104,77,3,0,2,3,2,22,8
+1,Cody Gakpo,18.0,nl NED,"LW,LM",23-273,84,29,1,4,7,19,4,29,4,2,50.0,0,0.0,17,98,60,3,2,2,0,3,15,10
+2,Alex Oxlade-Chamberlain,15.0,eng ENG,LM,29-173,6,5,0,0,2,3,0,5,0,0,,0,,5,67,30,2,2,0,0,2,7,1
+3,Mohamed Salah,11.0,eg EGY,"RW,FW",30-234,90,38,0,3,14,21,8,38,1,0,0.0,1,100.0,23,102,52,1,0,1,4,1,27,9
+4,Thiago Alcántara,6.0,es ESP,"LM,CM",31-299,84,72,1,8,53,12,1,72,1,1,100.0,0,0.0,40,199,98,0,0,0,1,1,49,1
+5,James Milner,7.0,eng ENG,CM,37-031,6,8,1,4,3,1,0,8,0,0,,0,,4,24,8,0,0,0,0,0,5,0
+6,Stefan Bajcetic,43.0,es ESP,CM,18-105,75,53,0,11,33,10,0,53,4,1,25.0,1,25.0,31,178,76,2,0,0,0,2,41,0
+7,Harvey Elliott,19.0,eng ENG,RM,19-306,15,14,0,0,5,9,0,14,0,0,,0,,9,82,57,2,2,0,1,0,12,2
+8,Naby Keïta,8.0,gn GUI,RM,27-359,64,37,0,2,17,18,5,37,1,0,0.0,0,0.0,14,44,18,0,1,0,4,1,24,9
+9,Jordan Henderson,14.0,eng ENG,"CM,RM",32-232,26,29,0,3,18,8,0,29,0,0,,0,,15,60,7,0,0,0,0,0,20,0
+10,Andrew Robertson,26.0,sct SCO,LB,28-330,85,69,2,19,22,29,5,69,1,0,0.0,0,0.0,39,196,142,4,2,1,0,0,42,6
+11,Kostas Tsimikas,21.0,gr GRE,LB,26-268,5,10,1,1,3,6,0,10,0,0,,0,,2,6,4,0,0,0,1,0,4,0
+12,Joe Gomez,2.0,eng ENG,CB,25-257,90,108,6,43,60,5,1,108,0,0,,0,,64,332,144,1,3,0,0,0,70,0
+13,Joël Matip,32.0,cm CMR,CB,31-180,90,82,4,36,39,9,1,82,1,1,100.0,0,0.0,59,434,328,7,7,1,1,0,69,0
+14,Trent Alexander-Arnold,66.0,eng ENG,RB,24-120,90,104,1,20,44,40,1,104,1,0,0.0,1,100.0,58,278,128,2,3,0,2,1,62,2
+15,Alisson,1.0,br BRA,GK,30-125,90,37,25,34,3,0,0,37,0,0,,0,,23,95,49,0,0,0,0,0,25,0
+16,16 Players,,,,,990,723,42,188,334,207,34,723,15,5,33.3,3,20.0,420,2299,1278,27,22,7,17,13,494,48

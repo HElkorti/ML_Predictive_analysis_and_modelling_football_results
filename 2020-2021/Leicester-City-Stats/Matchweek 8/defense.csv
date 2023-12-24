@@ -1,0 +1,17 @@
+,Unnamed: 0_level_0,Unnamed: 1_level_0,Unnamed: 2_level_0,Unnamed: 3_level_0,Unnamed: 4_level_0,Unnamed: 5_level_0,Tackles,Tackles,Tackles,Tackles,Tackles,Challenges,Challenges,Challenges,Challenges,Blocks,Blocks,Blocks,Unnamed: 18_level_0,Unnamed: 19_level_0,Unnamed: 20_level_0,Unnamed: 21_level_0
+,Player,#,Nation,Pos,Age,Min,Tkl,TklW,Def 3rd,Mid 3rd,Att 3rd,Tkl,Att,Tkl%,Lost,Blocks,Sh,Pass,Int,Tkl+Int,Clr,Err
+0,Jamie Vardy,9.0,eng ENG,FW,33-302,90,0,0,0,0,0,0,1,0.0,1,0,0,0,0,0,1,0
+1,James Maddison,10.0,eng ENG,AM,23-351,71,4,1,0,3,1,2,4,50.0,2,0,0,0,0,4,0,0
+2,Harvey Barnes,15.0,eng ENG,"RM,AM",22-335,19,0,0,0,0,0,0,0,,0,2,0,2,0,0,0,0
+3,Dennis Praet,26.0,be BEL,AM,26-178,79,1,1,1,0,0,1,1,100.0,0,4,1,3,0,1,0,0
+4,Wes Morgan,5.0,jm JAM,CB,36-292,11,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,0
+5,Nampalys Mendy,24.0,sn SEN,CM,28-138,90,2,2,1,0,1,1,2,50.0,1,0,0,0,1,3,0,0
+6,Youri Tielemans,8.0,be BEL,CM,23-185,90,1,0,1,0,0,1,2,50.0,1,1,0,1,0,1,1,0
+7,Luke Thomas,33.0,eng ENG,WB,19-151,45,0,0,0,0,0,0,0,,0,2,0,2,0,0,0,0
+8,Marc Albrighton,11.0,eng ENG,"WB,RB",30-356,45,1,1,1,0,0,1,1,100.0,0,2,0,2,0,1,4,0
+9,James Justin,2.0,eng ENG,"WB,LM",22-259,90,3,2,2,1,0,0,0,,0,1,0,1,0,3,1,1
+10,Christian Fuchs,28.0,at AUT,"CB,LB",34-215,90,3,1,3,0,0,2,2,100.0,0,0,0,0,2,5,6,0
+11,Jonny Evans,6.0,nir NIR,CB,32-310,90,2,0,1,1,0,1,1,100.0,0,0,0,0,0,2,5,0
+12,Wesley Fofana,3.0,fr FRA,CB,19-327,90,3,2,3,0,0,1,2,50.0,1,0,0,0,2,5,3,0
+13,Kasper Schmeichel,1.0,dk DEN,GK,34-003,90,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,0
+14,14 Players,,,,,990,20,10,13,5,2,10,16,62.5,6,12,1,11,5,25,21,1

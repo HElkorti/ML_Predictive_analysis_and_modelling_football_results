@@ -1,0 +1,18 @@
+,Unnamed: 0_level_0,Unnamed: 1_level_0,Unnamed: 2_level_0,Unnamed: 3_level_0,Unnamed: 4_level_0,Unnamed: 5_level_0,Touches,Touches,Touches,Touches,Touches,Touches,Touches,Take-Ons,Take-Ons,Take-Ons,Take-Ons,Take-Ons,Carries,Carries,Carries,Carries,Carries,Carries,Carries,Carries,Receiving,Receiving
+,Player,#,Nation,Pos,Age,Min,Touches,Def Pen,Def 3rd,Mid 3rd,Att 3rd,Att Pen,Live,Att,Succ,Succ%,Tkld,Tkld%,Carries,TotDist,PrgDist,PrgC,1/3,CPA,Mis,Dis,Rec,PrgR
+0,Dominic Solanke,9.0,eng ENG,FW,25-213,90,35,0,3,14,18,2,35,2,0,0.0,1,50.0,25,168,14,1,0,0,4,3,27,5
+1,Philip Billing,29.0,dk DEN,"AM,RM",26-308,78,43,0,1,28,15,1,43,2,2,100.0,0,0.0,23,127,82,2,3,0,0,1,28,3
+2,Marcos Senesi,25.0,ar ARG,CB,25-340,12,4,2,3,1,0,0,4,0,0,,0,,0,0,0,0,0,0,0,0,0,0
+3,Ryan Christie,10.0,sct SCO,AM,28-052,65,41,4,6,19,17,4,41,2,1,50.0,0,0.0,33,207,127,6,4,4,4,1,28,3
+4,Jaidon Anthony,32.0,eng ENG,LM,23-135,25,12,0,1,7,4,1,12,2,1,50.0,1,50.0,6,36,25,1,1,1,0,1,7,0
+5,Jefferson Lerma,8.0,co COL,CM,28-172,90,48,2,10,32,7,1,48,0,0,,0,,29,104,18,0,1,0,0,0,28,0
+6,Joe Rothwell,14.0,eng ENG,CM,28-094,90,56,1,10,44,2,0,56,1,1,100.0,0,0.0,30,166,88,1,0,0,0,0,33,2
+7,Matías Viña,18.0,uy URU,WB,25-157,48,26,1,3,11,12,2,26,6,4,66.7,2,33.3,17,103,58,2,0,1,0,0,16,1
+8,Adam Smith,15.0,eng ENG,"RB,WB",31-351,42,17,3,6,10,1,0,17,1,0,0.0,0,0.0,6,11,3,0,0,0,0,0,7,1
+9,Marcus Tavernier,16.0,eng ENG,"WB,LB",24-024,78,61,5,18,20,24,4,61,5,2,40.0,3,60.0,30,162,45,3,0,3,1,3,34,2
+10,Dango Ouattara,11.0,bf BFA,RM,21-063,12,5,0,3,0,2,2,5,2,2,100.0,0,0.0,2,22,7,1,0,1,1,0,2,1
+11,Lloyd Kelly,5.0,eng ENG,"CB,LB",24-191,90,55,8,17,35,3,0,55,1,0,0.0,1,100.0,30,131,37,0,0,0,1,0,34,0
+12,Jack Stephens,3.0,eng ENG,CB,29-078,90,47,11,25,22,0,0,47,0,0,,0,,27,138,61,0,0,0,1,0,25,0
+13,Chris Mepham,6.0,wls WAL,CB,25-161,90,51,11,28,21,2,0,51,0,0,,0,,18,48,11,0,0,0,0,0,23,0
+14,Neto,13.0,br BRA,GK,33-270,90,41,38,40,1,0,0,41,0,0,,0,,18,164,137,0,0,0,0,0,10,0
+15,15 Players,,,,,990,542,86,174,265,107,17,542,24,13,54.2,8,33.3,294,1587,713,17,9,10,12,9,302,18

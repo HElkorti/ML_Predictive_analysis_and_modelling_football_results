@@ -1,0 +1,17 @@
+,Unnamed: 0_level_0,Unnamed: 1_level_0,Unnamed: 2_level_0,Unnamed: 3_level_0,Unnamed: 4_level_0,Unnamed: 5_level_0,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Aerial Duels,Aerial Duels,Aerial Duels
+,Player,#,Nation,Pos,Age,Min,CrdY,CrdR,2CrdY,Fls,Fld,Off,Crs,Int,TklW,PKwon,PKcon,OG,Recov,Won,Lost,Won%
+0,Callum Wilson,9.0,eng ENG,FW,31-075,72,1,0,0,0,2,0,0,0,1,0,0,0,2,1,2,33.3
+1,Allan Saint-Maximin,10.0,fr FRA,LW,26-062,18,0,0,0,2,0,0,2,0,0,0,0,0,1,1,0,100.0
+2,Alexander Isak,14.0,se SWE,"LW,AM,FW",23-234,90,0,0,0,1,1,1,0,1,1,1,0,0,2,0,0,
+3,Miguel Almirón,24.0,py PAR,RW,29-092,72,0,0,0,1,0,0,1,0,2,0,0,0,3,1,1,50.0
+4,Anthony Gordon,8.0,eng ENG,RW,22-078,18,0,0,0,0,2,0,0,0,0,0,0,0,1,0,0,
+5,Joe Willock,28.0,eng ENG,"LM,LW,AM",23-266,85,0,0,0,2,3,0,2,0,3,0,0,0,6,0,3,0.0
+6,Elliot Anderson,32.0,sct SCO,AM,20-188,5,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,
+7,Bruno Guimarães,39.0,br BRA,"DM,CM",25-178,90,1,0,0,1,1,0,0,3,0,0,0,0,5,2,0,100.0
+8,Joelinton,7.0,br BRA,"DM,RM",26-272,90,0,0,0,1,2,0,0,4,3,0,1,0,11,6,2,75.0
+9,Dan Burn,33.0,eng ENG,LB,31-004,90,0,0,0,1,1,0,0,1,2,0,0,0,5,2,1,66.7
+10,Sven Botman,4.0,nl NED,CB,23-121,90,0,0,0,1,0,0,0,1,0,0,0,0,4,1,1,50.0
+11,Fabian Schär,5.0,ch SUI,CB,31-144,90,0,0,0,0,1,1,0,2,0,0,0,0,3,3,1,75.0
+12,Kieran Trippier,2.0,eng ENG,RB,32-236,90,0,0,0,2,1,0,11,1,0,0,0,0,7,1,0,100.0
+13,Nick Pope,22.0,eng ENG,GK,31-024,90,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
+14,14 Players,,,,,990,2,0,0,14,14,2,16,13,12,1,1,0,50,18,11,62.1

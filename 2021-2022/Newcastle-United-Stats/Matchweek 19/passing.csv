@@ -1,0 +1,17 @@
+,Unnamed: 0_level_0,Unnamed: 1_level_0,Unnamed: 2_level_0,Unnamed: 3_level_0,Unnamed: 4_level_0,Unnamed: 5_level_0,Total,Total,Total,Total,Total,Short,Short,Short,Medium,Medium,Medium,Long,Long,Long,Unnamed: 20_level_0,Unnamed: 21_level_0,Unnamed: 22_level_0,Unnamed: 23_level_0,Unnamed: 24_level_0,Unnamed: 25_level_0,Unnamed: 26_level_0,Unnamed: 27_level_0
+,Player,#,Nation,Pos,Age,Min,Cmp,Att,Cmp%,TotDist,PrgDist,Cmp,Att,Cmp%,Cmp,Att,Cmp%,Cmp,Att,Cmp%,Ast,xAG,xA,KP,1/3,PPA,CrsPA,PrgP
+0,Callum Wilson,9.0,eng ENG,FW,29-303,44,0,1,0.0,0,0,0,1,0.0,0,0,,0,0,,0,0.0,0.0,0,0,0,0,0
+1,Jacob Murphy,23.0,eng ENG,LW,26-306,46,12,21,57.1,172,79,4,7,57.1,4,7,57.1,1,3,33.3,0,0.0,0.0,1,2,1,0,3
+2,Allan Saint-Maximin,10.0,fr FRA,"LW,FW",24-290,82,9,14,64.3,129,43,6,7,85.7,2,3,66.7,1,3,33.3,0,0.0,0.0,0,0,0,0,1
+3,Dwight Gayle,34.0,eng ENG,FW,31-071,8,4,5,80.0,30,0,4,4,100.0,0,1,0.0,0,0,,0,0.0,0.0,1,0,0,0,0
+4,Ryan Fraser,21.0,sct SCO,RW,27-306,74,8,19,42.1,72,8,5,8,62.5,2,4,50.0,0,2,0.0,0,0.0,0.0,0,0,0,0,0
+5,Miguel Almirón,24.0,py PAR,RW,27-320,16,5,7,71.4,89,47,3,4,75.0,1,1,100.0,1,2,50.0,0,0.0,0.0,0,0,0,0,0
+6,Joelinton,7.0,br BRA,CM,25-135,90,29,39,74.4,435,189,17,21,81.0,9,12,75.0,2,4,50.0,0,0.2,0.0,4,4,2,0,8
+7,Jonjo Shelvey,8.0,eng ENG,CM,29-303,90,23,31,74.2,487,138,8,10,80.0,7,9,77.8,7,10,70.0,0,0.0,0.0,0,2,0,0,2
+8,Sean Longstaff,36.0,eng ENG,CM,24-058,90,16,23,69.6,265,118,8,12,66.7,4,7,57.1,2,2,100.0,1,0.1,0.1,1,1,2,0,3
+9,Javier Manquillo,19.0,es ESP,LB,27-236,90,23,31,74.2,284,144,14,19,73.7,6,9,66.7,1,1,100.0,0,0.0,0.0,1,1,0,0,0
+10,Jamaal Lascelles,6.0,eng ENG,CB,28-046,90,9,16,56.3,124,40,5,7,71.4,3,8,37.5,0,0,,0,0.0,0.0,0,1,0,0,2
+11,Fabian Schär,5.0,ch SUI,CB,30-007,90,16,27,59.3,323,180,5,6,83.3,7,10,70.0,3,10,30.0,0,0.0,0.0,0,0,0,0,2
+12,Emil Krafth,17.0,se SWE,RB,27-147,90,24,35,68.6,312,206,15,17,88.2,8,12,66.7,0,2,0.0,0,0.8,0.5,1,2,0,0,1
+13,Martin Dúbravka,1.0,sk SVK,GK,32-346,90,14,32,43.8,588,509,1,1,100.0,5,6,83.3,8,25,32.0,0,0.0,0.0,0,1,0,0,0
+14,14 Players,,,,,990,192,301,63.8,3310,1701,95,124,76.6,58,89,65.2,26,64,40.6,1,1.1,0.6,9,14,5,0,22

@@ -1,0 +1,17 @@
+,Unnamed: 0_level_0,Unnamed: 1_level_0,Unnamed: 2_level_0,Unnamed: 3_level_0,Unnamed: 4_level_0,Unnamed: 5_level_0,Touches,Touches,Touches,Touches,Touches,Touches,Touches,Take-Ons,Take-Ons,Take-Ons,Take-Ons,Take-Ons,Carries,Carries,Carries,Carries,Carries,Carries,Carries,Carries,Receiving,Receiving
+,Player,#,Nation,Pos,Age,Min,Touches,Def Pen,Def 3rd,Mid 3rd,Att 3rd,Att Pen,Live,Att,Succ,Succ%,Tkld,Tkld%,Carries,TotDist,PrgDist,PrgC,1/3,CPA,Mis,Dis,Rec,PrgR
+0,Cristiano Ronaldo,7.0,pt POR,FW,37-086,90,83,1,8,38,38,5,82,1,0,0.0,1,100.0,59,268,187,9,7,2,3,1,75,10
+1,Bruno Fernandes,18.0,pt POR,"LW,CM",27-236,90,100,3,17,56,27,4,100,0,0,,0,,72,336,165,6,3,1,2,0,82,4
+2,Anthony Elanga,36.0,se SWE,RW,20-005,74,38,2,6,9,23,1,38,1,0,0.0,1,100.0,26,61,11,0,0,0,1,1,32,8
+3,Edinson Cavani,21.0,uy URU,FW,35-077,16,10,2,3,5,2,0,10,0,0,,0,,5,5,1,0,0,0,0,0,6,1
+4,Juan Mata,8.0,es ESP,AM,34-004,74,70,0,9,43,18,1,70,1,1,100.0,0,0.0,49,236,92,1,2,0,1,0,61,2
+5,Phil Jones,4.0,eng ENG,CB,30-070,16,16,3,11,5,0,0,16,0,0,,0,,8,28,7,0,0,0,0,0,10,0
+6,Nemanja Matić,31.0,rs SRB,DM,33-274,70,91,4,22,56,13,0,91,0,0,,0,,66,272,134,1,1,0,0,2,81,0
+7,Fred,17.0,br BRA,"CM,DM",29-058,20,22,0,5,16,1,0,22,1,0,0.0,1,100.0,15,70,22,0,0,0,1,0,16,0
+8,Scott McTominay,39.0,sct SCO,"DM,CM",25-145,90,95,9,19,57,21,1,95,1,1,100.0,0,0.0,66,374,145,0,4,0,2,1,73,2
+9,Alex Telles,27.0,br BRA,"LB,WB",29-138,90,77,6,24,33,20,0,77,3,2,66.7,1,33.3,49,194,119,2,0,0,1,0,54,2
+10,Raphaël Varane,19.0,fr FRA,CB,29-007,90,69,13,38,29,2,1,69,0,0,,0,,55,204,69,0,1,0,0,0,56,0
+11,Victor Lindelöf,2.0,se SWE,CB,27-289,90,54,8,30,24,0,0,54,0,0,,0,,37,197,83,0,0,0,0,0,41,0
+12,Diogo Dalot,20.0,pt POR,"RB,WB",23-045,90,88,10,37,37,14,0,88,0,0,,0,,56,223,131,1,2,0,0,0,61,0
+13,David de Gea,1.0,es ESP,GK,31-176,90,34,34,34,0,0,0,34,0,0,,0,,21,101,48,0,0,0,0,0,17,0
+14,14 Players,,,,,990,847,95,263,408,179,13,846,8,4,50.0,4,50.0,584,2569,1214,20,20,3,11,5,665,29

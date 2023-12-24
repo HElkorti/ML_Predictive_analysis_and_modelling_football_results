@@ -1,0 +1,17 @@
+,Unnamed: 0_level_0,Unnamed: 1_level_0,Unnamed: 2_level_0,Unnamed: 3_level_0,Unnamed: 4_level_0,Unnamed: 5_level_0,Tackles,Tackles,Tackles,Tackles,Tackles,Challenges,Challenges,Challenges,Challenges,Blocks,Blocks,Blocks,Unnamed: 18_level_0,Unnamed: 19_level_0,Unnamed: 20_level_0,Unnamed: 21_level_0
+,Player,#,Nation,Pos,Age,Min,Tkl,TklW,Def 3rd,Mid 3rd,Att 3rd,Tkl,Att,Tkl%,Lost,Blocks,Sh,Pass,Int,Tkl+Int,Clr,Err
+0,Cristiano Ronaldo,7.0,pt POR,FW,36-300,87,0,0,0,0,0,0,0,,0,0,0,0,0,0,1,0
+1,Anthony Martial,9.0,fr FRA,FW,25-362,3,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,0
+2,Jadon Sancho,25.0,eng ENG,"LW,RW",21-252,90,3,2,3,0,0,1,4,25.0,3,2,0,2,0,3,0,1
+3,Marcus Rashford,10.0,eng ENG,RW,24-032,78,0,0,0,0,0,0,0,,0,1,1,0,0,0,1,0
+4,Jesse Lingard,14.0,eng ENG,LW,28-352,12,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,0
+5,Bruno Fernandes,18.0,pt POR,AM,27-085,89,2,1,1,0,1,0,3,0.0,3,2,0,2,0,2,0,0
+6,Donny van de Beek,34.0,nl NED,AM,24-228,1,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,0
+7,Fred,17.0,br BRA,DM,28-272,90,1,0,1,0,0,0,3,0.0,3,1,1,0,4,5,2,0
+8,Scott McTominay,39.0,sct SCO,DM,24-359,90,6,4,4,2,0,0,1,0.0,1,2,0,2,1,7,3,0
+9,Alex Telles,27.0,br BRA,LB,28-352,90,2,2,2,0,0,2,3,66.7,1,1,0,1,1,3,1,0
+10,Harry Maguire,5.0,eng ENG,CB,28-272,90,1,1,1,0,0,1,1,100.0,0,2,1,1,0,1,5,0
+11,Victor Lindelöf,2.0,se SWE,CB,27-138,90,0,0,0,0,0,0,0,,0,1,1,0,1,1,3,0
+12,Diogo Dalot,20.0,pt POR,RB,22-259,90,3,3,2,0,1,1,4,25.0,3,0,0,0,2,5,3,0
+13,David de Gea,1.0,es ESP,GK,31-025,90,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,0
+14,14 Players,,,,,990,18,13,14,2,2,5,19,26.3,14,12,4,8,9,27,19,1

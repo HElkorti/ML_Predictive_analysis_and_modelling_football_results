@@ -1,0 +1,17 @@
+,Unnamed: 0_level_0,Unnamed: 1_level_0,Unnamed: 2_level_0,Unnamed: 3_level_0,Unnamed: 4_level_0,Unnamed: 5_level_0,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Expected,Expected,Expected,SCA,SCA,Passes,Passes,Passes,Passes,Carries,Carries,Take-Ons,Take-Ons
+,Player,#,Nation,Pos,Age,Min,Gls,Ast,PK,PKatt,Sh,SoT,CrdY,CrdR,Touches,Tkl,Int,Blocks,xG,npxG,xAG,SCA,GCA,Cmp,Att,Cmp%,PrgP,Carries,PrgC,Att,Succ
+0,Jamie Vardy,9.0,eng ENG,FW,34-251,90,1,0,0,0,3,1,0,0,20,0,0,0,1.1,1.1,0.1,4,0,13,15,86.7,1,6,2,0,0
+1,Harvey Barnes,7.0,eng ENG,"LW,LM",23-284,90,0,0,0,0,1,1,0,0,59,0,0,2,0.0,0.0,0.2,5,0,38,49,77.6,1,37,5,2,1
+2,James Maddison,10.0,eng ENG,RW,24-300,45,0,0,0,0,1,0,0,0,19,1,0,0,0.0,0.0,0.0,0,0,8,15,53.3,1,9,1,1,0
+3,Ademola Lookman,37.0,ng NGA,"RW,RM",23-334,45,0,0,0,0,2,0,0,0,28,0,0,0,0.1,0.1,0.1,4,0,14,18,77.8,4,16,0,4,4
+4,Boubakary Soumaré,42.0,fr FRA,LM,22-204,74,0,0,0,0,1,1,0,0,42,0,1,0,0.0,0.0,0.0,2,0,31,37,83.8,2,24,1,2,2
+5,Kelechi Iheanacho,14.0,ng NGA,FW,24-351,16,0,0,0,0,0,0,0,0,6,0,0,0,0.0,0.0,0.0,1,0,3,4,75.0,0,3,1,0,0
+6,Wilfred Ndidi,25.0,ng NGA,CM,24-277,90,0,0,0,0,0,0,1,0,71,3,4,1,0.0,0.0,0.0,1,0,47,59,79.7,6,32,1,2,1
+7,Youri Tielemans,8.0,be BEL,"RM,CM",24-135,90,0,1,0,0,5,0,0,0,85,3,0,2,0.1,0.1,1.1,4,1,60,71,84.5,12,44,1,1,1
+8,Ryan Bertrand,5.0,eng ENG,LB,32-045,67,0,0,0,0,0,0,0,0,52,0,1,0,0.0,0.0,0.0,0,0,38,49,77.6,3,24,0,0,0
+9,Timothy Castagne,27.0,be BEL,LB,25-288,23,0,0,0,0,0,0,0,0,33,1,0,0,0.0,0.0,0.0,0,0,26,32,81.3,6,15,2,1,1
+10,Jannik Vestergaard,23.0,dk DEN,CB,29-047,90,0,0,0,0,0,0,0,0,96,3,1,1,0.0,0.0,0.0,0,0,83,85,97.6,3,68,1,0,0
+11,Çağlar Söyüncü,4.0,tr TUR,CB,25-119,90,0,0,0,0,1,0,0,0,72,2,0,0,0.2,0.2,0.0,0,0,58,66,87.9,4,49,0,0,0
+12,Ricardo Pereira,21.0,pt POR,RB,27-348,90,0,0,0,0,0,0,0,0,95,4,3,4,0.0,0.0,0.1,4,1,64,80,80.0,9,40,5,3,2
+13,Kasper Schmeichel,1.0,dk DEN,GK,34-318,90,0,0,0,0,0,0,0,0,26,0,0,0,0.0,0.0,0.0,0,0,18,24,75.0,0,9,0,0,0
+14,14 Players,,,,,990,1,1,0,0,14,3,1,0,704,17,10,10,1.6,1.6,1.5,25,2,501,604,82.9,52,376,20,16,12

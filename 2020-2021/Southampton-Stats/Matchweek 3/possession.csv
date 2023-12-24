@@ -1,0 +1,16 @@
+,Unnamed: 0_level_0,Unnamed: 1_level_0,Unnamed: 2_level_0,Unnamed: 3_level_0,Unnamed: 4_level_0,Unnamed: 5_level_0,Touches,Touches,Touches,Touches,Touches,Touches,Touches,Take-Ons,Take-Ons,Take-Ons,Take-Ons,Take-Ons,Carries,Carries,Carries,Carries,Carries,Carries,Carries,Carries,Receiving,Receiving
+,Player,#,Nation,Pos,Age,Min,Touches,Def Pen,Def 3rd,Mid 3rd,Att 3rd,Att Pen,Live,Att,Succ,Succ%,Tkld,Tkld%,Carries,TotDist,PrgDist,PrgC,1/3,CPA,Mis,Dis,Rec,PrgR
+0,Danny Ings,9.0,eng ENG,FW,28-065,90,49,2,11,26,12,4,49,2,2,100.0,0,0.0,28,158,104,4,3,1,3,0,29,3
+1,Che Adams,10.0,sct SCO,FW,24-075,76,31,3,4,16,11,3,31,0,0,,0,,13,17,2,0,1,0,3,2,20,3
+2,Michael Obafemi,14.0,ie IRL,FW,20-082,14,5,1,1,4,0,0,5,0,0,,0,,3,3,1,0,0,0,0,2,2,1
+3,Moussa Djenepo,12.0,ml MLI,LM,22-103,76,41,0,4,26,12,0,41,2,1,50.0,1,50.0,27,87,40,1,2,0,3,1,29,4
+4,Nathan Tella,23.0,ng NGA,LM,21-083,14,7,0,1,5,1,0,7,0,0,,0,,4,63,0,0,1,0,2,1,4,1
+5,Oriol Romeu,6.0,es ESP,CM,29-002,90,94,3,12,81,1,0,94,0,0,,0,,50,204,67,0,0,0,2,0,57,1
+6,James Ward-Prowse,8.0,eng ENG,CM,25-330,90,67,2,13,49,5,0,67,0,0,,0,,33,86,25,0,0,0,0,0,42,1
+7,Stuart Armstrong,17.0,sct SCO,RM,28-180,90,57,1,5,33,19,3,57,2,0,0.0,2,100.0,32,184,79,5,2,0,6,4,38,5
+8,Ryan Bertrand,3.0,eng ENG,LB,31-052,90,77,3,17,42,19,1,77,0,0,,0,,41,135,64,2,1,0,0,0,46,3
+9,Jannik Vestergaard,4.0,dk DEN,CB,28-054,90,70,11,28,42,1,0,70,0,0,,0,,28,149,57,0,0,0,0,0,27,0
+10,Jan Bednarek,35.0,pl POL,CB,24-167,90,57,12,31,25,1,1,57,0,0,,0,,21,59,20,0,0,0,0,0,21,0
+11,Kyle Walker-Peters,2.0,eng ENG,RB,23-166,90,62,0,15,42,5,0,62,2,0,0.0,2,100.0,30,92,45,0,1,0,0,0,33,1
+12,Alex McCarthy,1.0,eng ENG,GK,30-298,90,35,26,35,0,0,0,35,1,1,100.0,0,0.0,22,130,85,0,0,0,0,0,17,0
+13,13 Players,,,,,990,652,64,177,391,87,12,652,9,4,44.4,5,55.6,332,1367,589,12,11,1,19,10,365,23

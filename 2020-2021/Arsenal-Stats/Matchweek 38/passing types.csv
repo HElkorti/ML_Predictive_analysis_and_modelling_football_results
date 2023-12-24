@@ -1,0 +1,17 @@
+,Unnamed: 0_level_0,Unnamed: 1_level_0,Unnamed: 2_level_0,Unnamed: 3_level_0,Unnamed: 4_level_0,Unnamed: 5_level_0,Unnamed: 6_level_0,Pass Types,Pass Types,Pass Types,Pass Types,Pass Types,Pass Types,Pass Types,Pass Types,Corner Kicks,Corner Kicks,Corner Kicks,Outcomes,Outcomes,Outcomes
+,Player,#,Nation,Pos,Age,Min,Att,Live,Dead,FK,TB,Sw,Crs,TI,CK,In,Out,Str,Cmp,Off,Blocks
+0,Pierre-Emerick Aubameyang,14.0,ga GAB,FW,31-339,78,21,20,1,0,0,0,1,0,0,0,0,0,15,0,1
+1,Alexandre Lacazette,9.0,fr FRA,FW,29-360,12,4,4,0,0,0,0,0,0,0,0,0,0,4,0,0
+2,Emile Smith Rowe,32.0,eng ENG,LW,20-299,73,36,36,0,0,0,0,0,0,0,0,0,0,32,0,3
+3,Bukayo Saka,7.0,eng ENG,LW,19-260,17,7,7,0,0,0,0,0,0,0,0,0,0,6,0,1
+4,Nicolas Pépé,19.0,ci CIV,RW,25-359,90,35,35,0,0,0,0,2,0,0,0,0,0,31,0,2
+5,Martin Ødegaard,11.0,no NOR,AM,22-157,85,58,45,13,1,1,0,8,1,11,5,2,0,46,0,1
+6,Gabriel Martinelli,35.0,br BRA,AM,19-339,5,4,4,0,0,0,0,0,0,0,0,0,0,1,0,1
+7,Granit Xhaka,34.0,ch SUI,DM,28-238,90,89,87,2,1,0,2,0,1,0,0,0,0,80,0,0
+8,Thomas Partey,18.0,gh GHA,DM,27-344,90,64,62,1,1,0,0,0,0,0,0,0,0,59,1,0
+9,Kieran Tierney,3.0,sct SCO,LB,23-352,90,41,34,7,2,0,0,5,5,0,0,0,0,32,0,1
+10,Gabriel Dos Santos,6.0,br BRA,CB,23-155,90,75,72,2,2,0,0,0,0,0,0,0,0,66,1,1
+11,Rob Holding,16.0,eng ENG,CB,25-245,90,66,65,1,0,0,0,0,1,0,0,0,0,60,0,0
+12,Calum Chambers,21.0,eng ENG,RB,26-123,90,73,65,8,1,1,0,5,7,0,0,0,0,60,0,1
+13,Bernd Leno,1.0,de GER,GK,29-080,90,39,31,8,0,0,0,0,0,0,0,0,0,35,0,0
+14,14 Players,,,,,990,612,567,43,8,2,2,21,15,11,5,2,0,527,2,12

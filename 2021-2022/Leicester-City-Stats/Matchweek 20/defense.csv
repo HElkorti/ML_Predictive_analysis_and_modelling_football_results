@@ -1,0 +1,17 @@
+,Unnamed: 0_level_0,Unnamed: 1_level_0,Unnamed: 2_level_0,Unnamed: 3_level_0,Unnamed: 4_level_0,Unnamed: 5_level_0,Tackles,Tackles,Tackles,Tackles,Tackles,Challenges,Challenges,Challenges,Challenges,Blocks,Blocks,Blocks,Unnamed: 18_level_0,Unnamed: 19_level_0,Unnamed: 20_level_0,Unnamed: 21_level_0
+,Player,#,Nation,Pos,Age,Min,Tkl,TklW,Def 3rd,Mid 3rd,Att 3rd,Tkl,Att,Tkl%,Lost,Blocks,Sh,Pass,Int,Tkl+Int,Clr,Err
+0,Kelechi Iheanacho,14.0,ng NGA,FW,25-086,55,0,0,0,0,0,0,1,0.0,1,1,0,1,0,0,0,0
+1,Youri Tielemans,8.0,be BEL,"RM,FW",24-235,35,1,0,1,0,0,0,0,,0,0,0,0,0,1,1,0
+2,Jamie Vardy,9.0,eng ENG,FW,34-351,90,0,0,0,0,0,0,0,,0,0,0,0,1,1,1,0
+3,James Maddison,10.0,eng ENG,AM,25-035,67,1,1,1,0,0,0,1,0.0,1,0,0,0,1,2,0,0
+4,Marc Albrighton,11.0,eng ENG,RB,32-040,23,0,0,0,0,0,0,2,0.0,2,1,0,1,1,1,0,0
+5,Kiernan Dewsbury-Hall,22.0,eng ENG,"LM,CM",23-113,90,1,1,1,0,0,1,4,25.0,3,2,1,1,4,5,3,0
+6,Boubakary Soumaré,42.0,fr FRA,CM,22-304,90,1,1,1,0,0,0,0,,0,1,0,1,1,2,2,0
+7,Hamza Choudhury,20.0,eng ENG,RM,24-088,55,1,0,1,0,0,1,2,50.0,1,0,0,0,3,4,0,0
+8,Ademola Lookman,37.0,ng NGA,"LM,RM",24-069,35,1,0,1,0,0,1,1,100.0,0,1,0,1,1,2,0,0
+9,Luke Thomas,33.0,eng ENG,LB,20-201,90,2,0,2,0,0,1,2,50.0,1,3,0,3,6,8,7,0
+10,Wilfred Ndidi,25.0,ng NGA,CB,25-012,90,5,3,3,2,0,2,4,50.0,2,1,0,1,5,10,6,0
+11,Daniel Amartey,18.0,gh GHA,CB,27-007,90,2,1,2,0,0,2,2,100.0,0,4,4,0,4,6,9,0
+12,Timothy Castagne,27.0,be BEL,"RB,CB",26-023,90,2,2,1,0,1,0,0,,0,1,0,1,4,6,9,0
+13,Kasper Schmeichel,1.0,dk DEN,GK,35-053,90,0,0,0,0,0,0,0,,0,0,0,0,0,0,1,0
+14,14 Players,,,,,990,17,9,14,2,1,8,19,42.1,11,15,5,10,31,48,39,0

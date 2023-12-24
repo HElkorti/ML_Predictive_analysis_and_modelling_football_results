@@ -1,0 +1,19 @@
+,Unnamed: 0_level_0,Unnamed: 1_level_0,Unnamed: 2_level_0,Unnamed: 3_level_0,Unnamed: 4_level_0,Unnamed: 5_level_0,Unnamed: 6_level_0,Pass Types,Pass Types,Pass Types,Pass Types,Pass Types,Pass Types,Pass Types,Pass Types,Corner Kicks,Corner Kicks,Corner Kicks,Outcomes,Outcomes,Outcomes
+,Player,#,Nation,Pos,Age,Min,Att,Live,Dead,FK,TB,Sw,Crs,TI,CK,In,Out,Str,Cmp,Off,Blocks
+0,Raheem Sterling,17.0,eng ENG,"FW,LW",27-241,90,27,27,0,0,2,0,0,0,0,0,0,0,19,0,1
+1,Kai Havertz,29.0,de GER,LW,23-056,74,23,22,1,1,0,0,0,0,0,0,0,0,19,0,0
+2,Armando Broja,18.0,al ALB,FW,20-330,16,4,4,0,0,0,0,0,0,0,0,0,0,2,0,0
+3,Mason Mount,19.0,eng ENG,RW,23-208,64,30,28,2,0,0,0,2,1,0,0,0,0,26,0,1
+4,Christian Pulisic,10.0,us USA,RW,23-322,26,4,4,0,0,0,0,0,0,0,0,0,0,3,0,0
+5,Ben Chilwell,21.0,eng ENG,LM,25-228,64,33,27,6,0,0,0,2,4,2,1,0,0,27,0,1
+6,Ruben Loftus-Cheek,12.0,eng ENG,RM,26-195,26,12,11,1,0,0,0,0,1,0,0,0,0,9,0,0
+7,Jorginho,5.0,it ITA,CM,30-229,89,72,71,1,1,1,0,0,0,0,0,0,0,60,0,2
+8,Conor Gallagher,23.0,eng ENG,CM,22-181,1,2,2,0,0,0,0,0,0,0,0,0,0,2,0,0
+9,N'Golo Kanté,7.0,fr FRA,CM,31-130,90,72,71,0,0,0,0,1,0,0,0,0,0,61,1,2
+10,Reece James,24.0,eng ENG,"RM,CB,LM",22-241,90,89,63,26,5,0,0,17,8,13,9,1,0,69,0,1
+11,Kalidou Koulibaly,26.0,sn SEN,CB,31-047,74,58,57,1,1,0,0,0,0,0,0,0,0,51,0,0
+12,Marc Cucurella,32.0,es ESP,LM,24-015,16,21,17,3,1,0,0,2,1,1,0,1,0,17,1,0
+13,Thiago Silva,6.0,br BRA,CB,37-318,90,76,75,1,1,0,0,0,0,0,0,0,0,67,0,0
+14,César Azpilicueta,28.0,es ESP,CB,32-343,90,68,64,4,2,0,0,1,2,0,0,0,0,60,0,0
+15,Edouard Mendy,16.0,sn SEN,GK,30-158,90,25,18,7,0,0,0,0,0,0,0,0,0,24,0,0
+16,16 Players,,,,,990,616,561,53,12,3,0,25,17,16,10,2,0,516,2,8

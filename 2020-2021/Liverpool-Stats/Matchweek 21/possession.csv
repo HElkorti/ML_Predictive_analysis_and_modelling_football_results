@@ -1,0 +1,17 @@
+,Unnamed: 0_level_0,Unnamed: 1_level_0,Unnamed: 2_level_0,Unnamed: 3_level_0,Unnamed: 4_level_0,Unnamed: 5_level_0,Touches,Touches,Touches,Touches,Touches,Touches,Touches,Take-Ons,Take-Ons,Take-Ons,Take-Ons,Take-Ons,Carries,Carries,Carries,Carries,Carries,Carries,Carries,Carries,Receiving,Receiving
+,Player,#,Nation,Pos,Age,Min,Touches,Def Pen,Def 3rd,Mid 3rd,Att 3rd,Att Pen,Live,Att,Succ,Succ%,Tkld,Tkld%,Carries,TotDist,PrgDist,PrgC,1/3,CPA,Mis,Dis,Rec,PrgR
+0,Divock Origi,27.0,be BEL,FW,25-288,79,41,1,4,18,20,7,41,1,0,0.0,1,100.0,33,136,94,2,3,1,2,3,37,11
+1,Alex Oxlade-Chamberlain,15.0,eng ENG,LW,27-169,11,7,0,0,6,1,1,7,0,0,,0,,4,15,6,0,0,0,0,0,7,1
+2,Mohamed Salah,11.0,eg EGY,"FW,RW",28-230,90,57,1,2,32,23,5,57,2,1,50.0,1,50.0,39,144,81,1,2,0,0,2,50,16
+3,Xherdan Shaqiri,23.0,ch SUI,AM,29-113,68,50,0,3,27,21,2,50,1,1,100.0,0,0.0,42,173,53,1,1,0,1,1,43,5
+4,Roberto Firmino,9.0,br BRA,"FW,AM",29-121,22,29,0,1,23,5,1,29,0,0,,0,,19,63,18,0,1,0,0,1,27,1
+5,James Milner,7.0,eng ENG,LM,35-027,56,64,1,8,39,17,2,64,1,0,0.0,1,100.0,45,240,149,1,1,1,1,1,54,9
+6,Curtis Jones,17.0,eng ENG,LM,20-001,34,38,1,5,27,7,1,38,3,2,66.7,1,33.3,27,114,54,2,1,1,0,0,33,3
+7,Georginio Wijnaldum,5.0,nl NED,CM,30-081,90,87,1,10,73,6,1,87,1,1,100.0,0,0.0,57,292,115,1,1,0,0,0,64,0
+8,Thiago Alcántara,6.0,es ESP,RM,29-295,90,116,2,15,84,17,2,116,1,0,0.0,1,100.0,80,367,187,3,1,1,2,0,96,2
+9,Andrew Robertson,26.0,sct SCO,LB,26-326,90,103,5,21,51,32,1,103,1,0,0.0,1,100.0,74,282,147,1,2,0,1,0,81,5
+10,Jordan Henderson,14.0,eng ENG,CB,30-228,90,97,5,32,66,0,0,97,0,0,,0,,76,369,226,1,1,0,0,0,76,0
+11,Nathaniel Phillips,47.0,eng ENG,CB,23-316,90,83,6,26,56,2,0,83,1,1,100.0,0,0.0,60,307,191,1,2,0,0,0,64,0
+12,Trent Alexander-Arnold,66.0,eng ENG,RB,22-116,90,86,2,15,46,25,2,86,3,2,66.7,1,33.3,62,178,100,2,1,1,2,0,64,5
+13,Alisson,1.0,br BRA,GK,28-121,90,40,28,40,0,0,0,40,0,0,,0,,26,96,41,0,0,0,0,0,22,0
+14,14 Players,,,,,990,898,53,182,548,176,25,898,15,8,53.3,7,46.7,644,2776,1462,16,17,5,9,8,718,58

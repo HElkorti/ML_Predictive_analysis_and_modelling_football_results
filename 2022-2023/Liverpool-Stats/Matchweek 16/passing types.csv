@@ -1,0 +1,19 @@
+,Unnamed: 0_level_0,Unnamed: 1_level_0,Unnamed: 2_level_0,Unnamed: 3_level_0,Unnamed: 4_level_0,Unnamed: 5_level_0,Unnamed: 6_level_0,Pass Types,Pass Types,Pass Types,Pass Types,Pass Types,Pass Types,Pass Types,Pass Types,Corner Kicks,Corner Kicks,Corner Kicks,Outcomes,Outcomes,Outcomes
+,Player,#,Nation,Pos,Age,Min,Att,Live,Dead,FK,TB,Sw,Crs,TI,CK,In,Out,Str,Cmp,Off,Blocks
+0,Roberto Firmino,9.0,br BRA,FW,31-041,74,46,46,0,0,0,0,2,0,0,0,0,0,40,0,1
+1,Alex Oxlade-Chamberlain,15.0,eng ENG,FW,29-089,16,5,5,0,0,0,1,0,0,0,0,0,0,5,0,0
+2,Darwin Núñez,27.0,uy URU,LW,23-141,86,27,27,0,0,0,1,2,0,0,0,0,0,19,0,0
+3,Fabio Carvalho,28.0,pt POR,LW,20-074,4,5,5,0,0,0,0,0,0,0,0,0,0,4,0,0
+4,Mohamed Salah,11.0,eg EGY,RW,30-150,90,25,25,0,0,1,0,0,0,0,0,0,0,14,0,1
+5,Thiago Alcántara,6.0,es ESP,LM,31-215,90,100,100,0,0,0,0,1,0,0,0,0,0,92,0,2
+6,Fabinho,3.0,br BRA,CM,29-020,90,71,69,2,2,0,0,0,0,0,0,0,0,65,0,0
+7,Harvey Elliott,19.0,eng ENG,RM,19-222,67,50,48,2,0,2,0,1,0,0,0,0,0,41,0,0
+8,James Milner,7.0,eng ENG,RM,36-312,23,14,14,0,0,0,0,0,0,0,0,0,0,11,0,0
+9,Andrew Robertson,26.0,sct SCO,LB,28-246,85,79,69,10,1,0,1,9,6,3,1,2,0,60,0,3
+10,Kostas Tsimikas,21.0,gr GRE,LB,26-184,5,9,4,5,0,0,0,3,3,2,0,2,0,7,0,0
+11,Virgil van Dijk,4.0,nl NED,CB,31-127,90,82,78,4,3,0,0,0,1,0,0,0,0,74,0,0
+12,Joe Gomez,2.0,eng ENG,"CB,RB",25-173,90,76,75,1,0,0,0,0,1,0,0,0,0,68,0,0
+13,Trent Alexander-Arnold,66.0,eng ENG,RB,24-036,86,86,73,13,2,0,0,5,10,1,0,1,0,72,0,0
+14,Nathaniel Phillips,47.0,eng ENG,CB,25-236,4,3,3,0,0,0,0,0,0,0,0,0,0,3,0,0
+15,Alisson,1.0,br BRA,GK,30-041,90,40,29,11,2,0,0,0,0,0,0,0,0,36,0,0
+16,16 Players,,,,,990,718,670,48,10,3,3,23,21,6,1,5,0,611,0,7

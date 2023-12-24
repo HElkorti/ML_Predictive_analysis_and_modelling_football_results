@@ -1,0 +1,17 @@
+,Unnamed: 0_level_0,Unnamed: 1_level_0,Unnamed: 2_level_0,Unnamed: 3_level_0,Unnamed: 4_level_0,Unnamed: 5_level_0,Unnamed: 6_level_0,Pass Types,Pass Types,Pass Types,Pass Types,Pass Types,Pass Types,Pass Types,Pass Types,Corner Kicks,Corner Kicks,Corner Kicks,Outcomes,Outcomes,Outcomes
+,Player,#,Nation,Pos,Age,Min,Att,Live,Dead,FK,TB,Sw,Crs,TI,CK,In,Out,Str,Cmp,Off,Blocks
+0,Jamie Vardy,9.0,eng ENG,FW,34-257,90,21,18,3,0,0,0,2,0,0,0,0,0,14,0,1
+1,Harvey Barnes,7.0,eng ENG,LW,23-290,90,38,38,0,0,0,0,2,0,0,0,0,0,32,0,0
+2,Ademola Lookman,37.0,ng NGA,RW,23-340,77,37,37,0,0,0,1,5,0,0,0,0,0,26,0,0
+3,James Maddison,10.0,eng ENG,AM,24-306,13,9,7,2,0,0,0,1,0,2,0,0,0,7,0,0
+4,Boubakary Soumaré,42.0,fr FRA,LM,22-210,61,44,44,0,0,0,1,1,0,0,0,0,0,39,0,0
+5,Kelechi Iheanacho,14.0,ng NGA,AM,24-357,29,10,10,0,0,1,0,0,0,0,0,0,0,7,0,1
+6,Wilfred Ndidi,25.0,ng NGA,"CM,DM",24-283,90,60,60,0,0,0,1,0,0,0,0,0,0,48,0,0
+7,Youri Tielemans,8.0,be BEL,"RM,DM",24-141,90,77,69,8,6,2,1,2,2,0,0,0,0,66,0,0
+8,Ryan Bertrand,5.0,eng ENG,LB,32-051,90,89,69,20,1,0,0,9,13,6,3,2,1,69,0,4
+9,Jannik Vestergaard,23.0,dk DEN,CB,29-053,90,76,74,2,2,0,1,0,0,0,0,0,0,64,0,0
+10,Çağlar Söyüncü,4.0,tr TUR,CB,25-125,90,71,68,2,1,0,0,0,1,0,0,0,0,60,1,0
+11,Ricardo Pereira,21.0,pt POR,RB,27-354,45,30,25,5,0,0,0,0,5,0,0,0,0,27,0,0
+12,Timothy Castagne,27.0,be BEL,RB,25-294,45,38,32,6,0,0,0,3,6,0,0,0,0,33,0,2
+13,Kasper Schmeichel,1.0,dk DEN,GK,34-324,90,37,28,9,2,0,0,0,0,0,0,0,0,27,0,0
+14,14 Players,,,,,990,637,579,57,12,3,5,25,27,8,3,2,1,519,1,8

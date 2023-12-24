@@ -1,0 +1,19 @@
+,Unnamed: 0_level_0,Unnamed: 1_level_0,Unnamed: 2_level_0,Unnamed: 3_level_0,Unnamed: 4_level_0,Unnamed: 5_level_0,Unnamed: 6_level_0,Pass Types,Pass Types,Pass Types,Pass Types,Pass Types,Pass Types,Pass Types,Pass Types,Corner Kicks,Corner Kicks,Corner Kicks,Outcomes,Outcomes,Outcomes
+,Player,#,Nation,Pos,Age,Min,Att,Live,Dead,FK,TB,Sw,Crs,TI,CK,In,Out,Str,Cmp,Off,Blocks
+0,Carlos Vinícius,30.0,br BRA,FW,28-007,90,16,16,0,0,1,0,0,0,0,0,0,0,12,0,0
+1,Manor Solomon,11.0,il ISR,LW,23-251,90,32,31,0,0,0,0,2,0,0,0,0,0,26,1,0
+2,Bobby Reid,14.0,jm JAM,RW,30-058,68,24,24,0,0,0,0,1,0,0,0,0,0,17,0,0
+3,Daniel James,21.0,wls WAL,RW,25-142,22,6,6,0,0,0,0,0,0,0,0,0,0,5,0,0
+4,Andreas Pereira,18.0,br BRA,AM,27-090,81,30,22,8,4,0,4,4,0,3,1,1,0,24,0,0
+5,Saša Lukić,28.0,rs SRB,AM,26-231,9,8,8,0,0,0,0,0,0,0,0,0,0,8,0,0
+6,João Palhinha,26.0,pt POR,DM,27-266,87,32,31,1,1,0,0,0,0,0,0,0,0,30,0,0
+7,Harry Wilson,8.0,wls WAL,DM,26-010,3,4,4,0,0,0,0,0,0,0,0,0,0,3,0,1
+8,Harrison Reed,6.0,eng ENG,DM,28-064,68,34,32,2,0,0,1,0,0,0,0,0,0,30,0,0
+9,Tom Cairney,10.0,sct SCO,DM,32-071,22,15,15,0,0,0,0,1,0,0,0,0,0,13,0,0
+10,Antonee Robinson,33.0,us USA,LB,25-236,90,67,58,9,0,0,0,6,9,0,0,0,0,54,0,2
+11,Tim Ream,13.0,us USA,CB,35-178,90,72,67,5,2,0,1,0,1,0,0,0,0,65,0,1
+12,Issa Diop,31.0,fr FRA,CB,26-082,90,85,82,3,3,0,0,0,0,0,0,0,0,70,0,1
+13,Kenny Tete,2.0,nl NED,RB,27-174,81,46,39,7,1,0,0,3,6,0,0,0,0,36,0,1
+14,Cédric Soares,12.0,pt POR,RB,31-213,9,11,9,2,0,0,0,1,2,0,0,0,0,9,0,0
+15,Bernd Leno,17.0,de GER,GK,31-028,90,53,42,11,5,0,0,0,0,0,0,0,0,44,0,0
+16,16 Players,,,,,990,535,486,48,16,1,6,18,18,3,1,1,0,446,1,6

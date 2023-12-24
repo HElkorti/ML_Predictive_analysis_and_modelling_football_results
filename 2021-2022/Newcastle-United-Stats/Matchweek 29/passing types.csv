@@ -1,0 +1,17 @@
+,Unnamed: 0_level_0,Unnamed: 1_level_0,Unnamed: 2_level_0,Unnamed: 3_level_0,Unnamed: 4_level_0,Unnamed: 5_level_0,Unnamed: 6_level_0,Pass Types,Pass Types,Pass Types,Pass Types,Pass Types,Pass Types,Pass Types,Pass Types,Corner Kicks,Corner Kicks,Corner Kicks,Outcomes,Outcomes,Outcomes
+,Player,#,Nation,Pos,Age,Min,Att,Live,Dead,FK,TB,Sw,Crs,TI,CK,In,Out,Str,Cmp,Off,Blocks
+0,Chris Wood,20.0,nz NZL,FW,30-096,90,18,17,0,0,0,0,0,0,0,0,0,0,6,1,1
+1,Jacob Murphy,23.0,eng ENG,"LM,RM",27-017,89,13,11,1,0,0,0,1,0,1,1,0,0,5,1,1
+2,Ryan Fraser,21.0,sct SCO,RM,28-017,1,1,0,1,0,0,0,0,1,0,0,0,0,1,0,0
+3,Sean Longstaff,36.0,eng ENG,CM,24-134,90,25,23,2,0,0,1,0,0,0,0,0,0,17,0,2
+4,Bruno Guimarães,39.0,br BRA,CM,24-117,90,24,22,2,2,0,1,1,0,0,0,0,0,14,0,2
+5,Miguel Almirón,24.0,py PAR,RM,28-031,68,18,17,0,0,0,0,1,0,0,0,0,0,12,1,1
+6,Allan Saint-Maximin,10.0,fr FRA,LM,25-001,22,5,4,0,0,0,0,0,0,0,0,0,0,3,1,1
+7,Matt Targett,13.0,eng ENG,LB,26-176,90,35,17,18,4,0,1,5,13,1,1,0,0,27,0,1
+8,Dan Burn,33.0,eng ENG,CB,29-308,90,16,16,0,0,0,0,0,0,0,0,0,0,12,0,1
+9,Fabian Schär,5.0,ch SUI,CB,30-083,90,30,23,6,6,0,0,0,0,0,0,0,0,15,1,0
+10,Jamaal Lascelles,6.0,eng ENG,CB,28-122,90,14,14,0,0,0,0,0,0,0,0,0,0,6,0,0
+11,Javier Manquillo,19.0,es ESP,RB,27-312,89,23,15,8,0,0,0,1,8,0,0,0,0,13,0,2
+12,Dwight Gayle,34.0,eng ENG,RB,31-147,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+13,Martin Dúbravka,1.0,sk SVK,GK,33-057,90,26,9,16,7,0,0,0,0,0,0,0,0,18,1,0
+14,14 Players,,,,,990,248,188,54,19,0,3,9,22,2,2,0,0,149,6,12

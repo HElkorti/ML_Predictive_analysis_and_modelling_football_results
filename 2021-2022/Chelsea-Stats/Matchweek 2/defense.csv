@@ -1,0 +1,17 @@
+,Unnamed: 0_level_0,Unnamed: 1_level_0,Unnamed: 2_level_0,Unnamed: 3_level_0,Unnamed: 4_level_0,Unnamed: 5_level_0,Tackles,Tackles,Tackles,Tackles,Tackles,Challenges,Challenges,Challenges,Challenges,Blocks,Blocks,Blocks,Unnamed: 18_level_0,Unnamed: 19_level_0,Unnamed: 20_level_0,Unnamed: 21_level_0
+,Player,#,Nation,Pos,Age,Min,Tkl,TklW,Def 3rd,Mid 3rd,Att 3rd,Tkl,Att,Tkl%,Lost,Blocks,Sh,Pass,Int,Tkl+Int,Clr,Err
+0,Romelu Lukaku,9.0,be BEL,FW,28-101,90,0,0,0,0,0,0,0,,0,0,0,0,0,0,2,0
+1,Kai Havertz,29.0,de GER,AM,22-072,89,0,0,0,0,0,0,0,,0,1,0,1,0,0,2,0
+2,Timo Werner,11.0,de GER,AM,25-169,1,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,0
+3,Mason Mount,19.0,eng ENG,AM,22-224,81,1,0,0,1,0,0,1,0.0,1,0,0,0,0,1,2,0
+4,Hakim Ziyech,22.0,ma MAR,AM,28-156,9,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,0
+5,Mateo Kovačić,8.0,hr CRO,CM,27-108,71,1,0,1,0,0,0,1,0.0,1,0,0,0,0,1,0,0
+6,N'Golo Kanté,7.0,fr FRA,CM,30-146,19,1,1,0,0,1,1,2,50.0,1,0,0,0,1,2,0,0
+7,Jorginho,5.0,it ITA,CM,29-245,90,2,1,1,1,0,1,4,25.0,3,1,0,1,1,3,2,0
+8,Marcos Alonso,3.0,es ESP,WB,30-237,90,0,0,0,0,0,0,1,0.0,1,0,0,0,4,4,3,0
+9,Reece James,24.0,eng ENG,WB,21-257,90,3,2,3,0,0,2,3,66.7,1,0,0,0,1,4,3,0
+10,Antonio Rüdiger,2.0,de GER,CB,28-172,90,0,0,0,0,0,0,1,0.0,1,0,0,0,0,0,4,0
+11,Andreas Christensen,4.0,dk DEN,CB,25-134,90,0,0,0,0,0,0,0,,0,2,0,2,1,1,4,0
+12,César Azpilicueta,28.0,es ESP,CB,31-359,90,3,1,2,1,0,0,0,,0,2,1,1,2,5,2,0
+13,Edouard Mendy,16.0,sn SEN,GK,29-174,90,0,0,0,0,0,0,0,,0,0,0,0,0,0,2,0
+14,14 Players,,,,,990,11,5,7,3,1,4,13,30.8,9,6,1,5,10,21,26,0

@@ -1,0 +1,17 @@
+,Unnamed: 0_level_0,Unnamed: 1_level_0,Unnamed: 2_level_0,Unnamed: 3_level_0,Unnamed: 4_level_0,Unnamed: 5_level_0,Unnamed: 6_level_0,Pass Types,Pass Types,Pass Types,Pass Types,Pass Types,Pass Types,Pass Types,Pass Types,Corner Kicks,Corner Kicks,Corner Kicks,Outcomes,Outcomes,Outcomes
+,Player,#,Nation,Pos,Age,Min,Att,Live,Dead,FK,TB,Sw,Crs,TI,CK,In,Out,Str,Cmp,Off,Blocks
+0,Danny Welbeck,18.0,eng ENG,FW,31-260,90,9,9,0,0,0,0,0,0,0,0,0,0,8,0,0
+1,Pascal Groß,13.0,de GER,"FW,AM",31-059,90,48,41,7,0,0,4,9,1,5,3,2,0,31,0,0
+2,Adam Lallana,14.0,eng ENG,AM,34-095,64,26,26,0,0,0,0,0,0,0,0,0,0,22,0,0
+3,Enock Mwepu,8.0,zm ZAM,"AM,FW",24-224,26,12,12,0,0,0,0,1,0,0,0,0,0,9,0,0
+4,Moisés Caicedo,25.0,ec ECU,CM,20-284,90,42,42,0,0,0,0,0,0,0,0,0,0,33,0,0
+5,Alexis Mac Allister,10.0,ar ARG,CM,23-232,90,53,51,2,2,0,0,0,0,0,0,0,0,46,0,1
+6,Leandro Trossard,11.0,be BEL,WB,27-252,74,34,33,1,0,0,0,3,1,0,0,0,0,21,0,2
+7,Tariq Lamptey,2.0,gh GHA,WB,21-317,16,4,4,0,0,0,0,1,0,0,0,0,0,3,0,0
+8,Solly March,7.0,eng ENG,WB,28-024,73,39,36,3,0,0,1,5,1,2,1,0,0,21,0,3
+9,Kaoru Mitoma,22.0,jp JPN,WB,25-085,17,8,7,1,0,0,0,0,1,0,0,0,0,6,0,0
+10,Adam Webster,4.0,eng ENG,CB,27-221,90,36,28,8,0,0,0,0,8,0,0,0,0,27,0,0
+11,Lewis Dunk,5.0,eng ENG,CB,30-265,90,32,30,2,2,0,0,0,0,0,0,0,0,26,0,0
+12,Joël Veltman,34.0,nl NED,CB,30-210,90,51,40,11,0,0,0,0,11,0,0,0,0,43,0,0
+13,Robert Sánchez,1.0,es ESP,GK,24-268,90,26,15,10,6,0,0,0,0,0,0,0,0,13,1,0
+14,14 Players,,,,,990,420,374,45,10,0,5,19,23,7,4,2,0,309,1,6

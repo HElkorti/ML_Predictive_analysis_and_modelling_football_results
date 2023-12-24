@@ -1,0 +1,16 @@
+,Unnamed: 0_level_0,Unnamed: 1_level_0,Unnamed: 2_level_0,Unnamed: 3_level_0,Unnamed: 4_level_0,Unnamed: 5_level_0,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Aerial Duels,Aerial Duels,Aerial Duels
+,Player,#,Nation,Pos,Age,Min,CrdY,CrdR,2CrdY,Fls,Fld,Off,Crs,Int,TklW,PKwon,PKcon,OG,Recov,Won,Lost,Won%
+0,Neal Maupay,9.0,fr FRA,FW,24-241,86,0,0,0,1,1,0,0,0,1,0,0,0,2,0,2,0.0
+1,Alireza Jahanbakhsh,16.0,ir IRN,RW,27-244,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
+2,Danny Welbeck,18.0,eng ENG,"AM,FW",30-137,90,0,0,0,1,1,0,0,0,1,0,0,0,3,1,4,20.0
+3,Leandro Trossard,11.0,be BEL,"AM,LW",26-129,90,0,0,0,2,1,0,1,2,0,0,0,0,5,0,0,
+4,Yves Bissouma,8.0,ml MLI,"CM,DM",24-225,90,0,0,0,1,1,0,2,0,2,0,0,0,4,1,0,100.0
+5,Adam Lallana,14.0,eng ENG,"CM,DM",32-337,90,0,0,0,1,0,0,0,2,2,0,0,0,9,0,1,0.0
+6,Jakub Moder,15.0,pl POL,WB,22-005,86,0,0,0,3,1,0,2,0,4,0,0,0,5,2,1,66.7
+7,Dan Burn,33.0,eng ENG,LB,28-338,4,0,0,0,0,0,0,0,0,0,0,0,0,1,2,1,66.7
+8,Pascal Groß,13.0,de GER,"WB,AM",29-301,90,0,0,0,1,1,0,10,2,1,0,0,0,6,1,4,20.0
+9,Joël Veltman,34.0,nl NED,"CB,RB",29-087,90,0,0,0,0,1,0,1,2,0,0,0,0,10,2,1,66.7
+10,Lewis Dunk,5.0,eng ENG,CB,29-142,90,1,0,0,2,0,0,0,0,1,0,0,0,11,1,1,50.0
+11,Ben White,3.0,eng ENG,CB,23-186,90,0,0,0,0,0,0,0,3,0,0,0,0,4,1,0,100.0
+12,Robert Sánchez,26.0,es ESP,GK,23-145,90,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
+13,13 Players,,,,,990,1,0,0,12,7,0,16,11,12,0,0,0,60,11,15,42.3

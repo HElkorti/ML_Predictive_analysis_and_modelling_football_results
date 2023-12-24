@@ -1,0 +1,17 @@
+,Unnamed: 0_level_0,Unnamed: 1_level_0,Unnamed: 2_level_0,Unnamed: 3_level_0,Unnamed: 4_level_0,Unnamed: 5_level_0,Touches,Touches,Touches,Touches,Touches,Touches,Touches,Take-Ons,Take-Ons,Take-Ons,Take-Ons,Take-Ons,Carries,Carries,Carries,Carries,Carries,Carries,Carries,Carries,Receiving,Receiving
+,Player,#,Nation,Pos,Age,Min,Touches,Def Pen,Def 3rd,Mid 3rd,Att 3rd,Att Pen,Live,Att,Succ,Succ%,Tkld,Tkld%,Carries,TotDist,PrgDist,PrgC,1/3,CPA,Mis,Dis,Rec,PrgR
+0,Michail Antonio,9.0,jm JAM,FW,31-203,90,39,2,3,15,22,5,39,4,1,25.0,3,75.0,28,178,50,1,1,2,5,3,34,8
+1,Pablo Fornals,8.0,es ESP,LW,25-237,90,63,0,12,25,26,5,63,1,0,0.0,1,100.0,30,180,87,2,1,0,2,0,39,10
+2,Jarrod Bowen,20.0,eng ENG,RW,24-301,89,57,2,6,23,30,8,57,4,1,25.0,3,75.0,33,181,60,1,1,1,4,2,37,8
+3,Andriy Yarmolenko,7.0,ua UKR,RM,31-359,1,1,0,0,1,0,0,1,0,0,,0,,0,0,0,0,0,0,0,0,1,0
+4,Saïd Benrahma,22.0,dz ALG,AM,26-068,86,41,0,2,15,25,3,41,3,2,66.7,1,33.3,32,203,106,4,3,1,0,0,33,8
+5,Manuel Lanzini,10.0,ar ARG,"AM,CM",28-244,4,4,0,1,2,1,0,4,0,0,,0,,1,9,0,0,0,0,0,1,5,0
+6,Declan Rice,41.0,eng ENG,DM,22-276,90,92,4,19,63,12,1,92,7,3,42.9,4,57.1,58,474,314,5,4,0,0,0,59,1
+7,Tomáš Souček,28.0,cz CZE,DM,26-232,78,58,3,10,35,13,2,58,2,1,50.0,1,50.0,37,151,68,1,1,0,1,0,42,4
+8,Craig Dawson,15.0,eng ENG,"DM,CB",31-164,12,7,1,3,3,1,1,7,0,0,,0,,4,15,8,0,0,0,0,0,4,0
+9,Aaron Cresswell,3.0,eng ENG,LB,31-306,90,118,8,24,66,28,0,118,0,0,,0,,62,341,124,2,1,0,1,0,75,5
+10,Angelo Ogbonna,21.0,it ITA,CB,33-147,90,64,3,27,34,3,3,64,0,0,,0,,34,151,64,0,0,0,0,0,46,0
+11,Kurt Zouma,4.0,fr FRA,CB,26-355,90,58,8,28,30,1,1,58,0,0,,0,,39,172,80,0,0,0,0,0,39,0
+12,Ben Johnson,31.0,eng ENG,RB,21-266,90,80,2,18,47,16,2,80,0,0,,0,,42,152,73,1,1,0,1,0,50,8
+13,Łukasz Fabiański,1.0,pl POL,GK,36-182,90,29,29,29,0,0,0,29,0,0,,0,,15,84,63,0,0,0,0,0,11,0
+14,14 Players,,,,,990,711,62,182,359,178,31,711,21,8,38.1,13,61.9,415,2291,1097,17,13,4,14,6,475,52

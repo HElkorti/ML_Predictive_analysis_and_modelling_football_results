@@ -1,0 +1,17 @@
+,Unnamed: 0_level_0,Unnamed: 1_level_0,Unnamed: 2_level_0,Unnamed: 3_level_0,Unnamed: 4_level_0,Unnamed: 5_level_0,Unnamed: 6_level_0,Pass Types,Pass Types,Pass Types,Pass Types,Pass Types,Pass Types,Pass Types,Pass Types,Corner Kicks,Corner Kicks,Corner Kicks,Outcomes,Outcomes,Outcomes
+,Player,#,Nation,Pos,Age,Min,Att,Live,Dead,FK,TB,Sw,Crs,TI,CK,In,Out,Str,Cmp,Off,Blocks
+0,Teemu Pukki,22.0,fi FIN,FW,31-173,90,12,10,2,0,0,0,0,0,0,0,0,0,8,0,0
+1,Milot Rashica,17.0,xk KVX,LW,25-082,87,28,24,3,0,0,1,6,1,2,1,1,0,16,1,1
+2,Adam Idah,35.0,ie IRL,FW,20-219,3,3,3,0,0,0,0,0,0,0,0,0,0,2,0,0
+3,Josh Sargent,24.0,us USA,RW,21-210,69,18,18,0,0,0,0,2,0,0,0,0,0,14,0,1
+4,Christos Tzolis,18.0,gr GRE,"RW,AM",19-231,21,10,9,1,0,0,0,0,1,0,0,0,0,7,0,1
+5,Kenny McLean,23.0,sct SCO,"LM,DM",29-253,90,30,29,1,0,0,1,3,1,0,0,0,0,25,0,0
+6,Mathias Normann,16.0,no NOR,CM,25-113,69,34,28,6,3,1,3,0,3,0,0,0,0,24,0,1
+7,Todd Cantwell,14.0,eng ENG,"CM,AM",23-203,21,14,13,1,0,0,0,0,0,0,0,0,0,12,0,0
+8,Billy Gilmour,8.0,sct SCO,"RM,DM",20-099,90,56,50,6,3,1,1,5,0,2,0,2,0,42,0,1
+9,Brandon Williams,21.0,eng ENG,LB,21-015,90,40,37,3,0,0,0,1,3,0,0,0,0,27,0,0
+10,Grant Hanley,5.0,sct SCO,CB,29-302,90,42,41,1,1,0,0,0,0,0,0,0,0,40,0,0
+11,Ozan Kabak,15.0,tr TUR,CB,21-177,90,57,55,2,2,0,0,0,0,0,0,0,0,49,0,0
+12,Max Aarons,2.0,eng ENG,RB,21-257,90,47,30,17,2,0,0,2,15,0,0,0,0,38,0,1
+13,Tim Krul,1.0,nl NED,GK,33-168,90,33,27,6,2,0,0,0,0,0,0,0,0,28,0,0
+14,14 Players,,,,,990,424,374,49,13,2,6,19,24,4,1,3,0,332,1,6

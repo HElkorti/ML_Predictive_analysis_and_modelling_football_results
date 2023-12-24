@@ -1,0 +1,17 @@
+,Unnamed: 0_level_0,Unnamed: 1_level_0,Unnamed: 2_level_0,Unnamed: 3_level_0,Unnamed: 4_level_0,Unnamed: 5_level_0,Touches,Touches,Touches,Touches,Touches,Touches,Touches,Take-Ons,Take-Ons,Take-Ons,Take-Ons,Take-Ons,Carries,Carries,Carries,Carries,Carries,Carries,Carries,Carries,Receiving,Receiving
+,Player,#,Nation,Pos,Age,Min,Touches,Def Pen,Def 3rd,Mid 3rd,Att 3rd,Att Pen,Live,Att,Succ,Succ%,Tkld,Tkld%,Carries,TotDist,PrgDist,PrgC,1/3,CPA,Mis,Dis,Rec,PrgR
+0,Che Adams,10.0,sct SCO,FW,24-240,90,22,0,4,8,10,2,22,1,1,100.0,0,0.0,9,44,8,0,1,0,0,1,14,1
+1,Nathan Redmond,11.0,eng ENG,"FW,LM",27-004,90,25,0,1,13,13,3,25,1,1,100.0,0,0.0,17,139,74,4,3,2,2,0,16,4
+2,Moussa Djenepo,12.0,ml MLI,LM,22-268,45,21,0,1,9,11,2,21,0,0,,0,,12,44,22,1,2,0,3,0,14,4
+3,Nathan Tella,23.0,ng NGA,"FW,RM",21-248,45,12,0,2,5,5,1,12,1,1,100.0,0,0.0,6,68,45,1,0,0,1,1,5,1
+4,Jack Stephens,5.0,eng ENG,CM,27-042,62,29,1,8,20,2,1,29,1,0,0.0,1,100.0,16,26,5,0,0,0,2,1,15,0
+5,Ibrahima Diallo,27.0,fr FRA,CM,22-002,28,36,1,9,25,3,0,36,1,1,100.0,0,0.0,27,100,60,1,1,0,2,0,29,0
+6,James Ward-Prowse,8.0,eng ENG,CM,26-129,90,82,2,17,46,20,1,81,1,1,100.0,0,0.0,45,130,57,0,2,0,0,0,60,0
+7,Stuart Armstrong,17.0,sct SCO,RM,28-345,71,37,2,4,19,14,2,37,2,1,50.0,1,50.0,23,84,36,1,1,0,1,1,23,5
+8,Caleb Watts,65.0,au AUS,LM,19-053,19,7,0,0,6,1,0,7,0,0,,0,,6,25,13,0,1,0,0,1,7,1
+9,Mohammed Salisu,22.0,gh GHA,LB,21-327,90,59,1,12,36,11,0,59,0,0,,0,,34,148,83,3,0,0,1,0,32,2
+10,Jannik Vestergaard,4.0,dk DEN,CB,28-219,90,76,15,42,33,1,1,76,0,0,,0,,60,270,89,1,0,0,0,0,63,0
+11,Jan Bednarek,35.0,pl POL,CB,24-332,90,86,17,50,35,1,0,86,0,0,,0,,63,182,54,0,0,0,0,0,62,0
+12,Ryan Bertrand,3.0,eng ENG,RB,31-217,90,52,3,20,26,6,1,52,0,0,,0,,36,78,23,0,0,0,0,1,37,3
+13,Alex McCarthy,1.0,eng ENG,GK,31-097,90,52,38,52,0,0,0,52,0,0,,0,,34,66,34,0,0,0,1,0,36,0
+14,14 Players,,,,,990,596,80,222,281,98,14,595,8,6,75.0,2,25.0,388,1404,603,12,11,2,13,6,413,21

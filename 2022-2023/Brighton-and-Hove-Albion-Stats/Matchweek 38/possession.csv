@@ -1,0 +1,19 @@
+,Unnamed: 0_level_0,Unnamed: 1_level_0,Unnamed: 2_level_0,Unnamed: 3_level_0,Unnamed: 4_level_0,Unnamed: 5_level_0,Touches,Touches,Touches,Touches,Touches,Touches,Touches,Take-Ons,Take-Ons,Take-Ons,Take-Ons,Take-Ons,Carries,Carries,Carries,Carries,Carries,Carries,Carries,Carries,Receiving,Receiving
+,Player,#,Nation,Pos,Age,Min,Touches,Def Pen,Def 3rd,Mid 3rd,Att 3rd,Att Pen,Live,Att,Succ,Succ%,Tkld,Tkld%,Carries,TotDist,PrgDist,PrgC,1/3,CPA,Mis,Dis,Rec,PrgR
+0,Evan Ferguson,28.0,ie IRL,FW,18-221,90,19,0,2,8,9,3,19,1,0,0.0,0,0.0,15,62,29,2,0,2,3,3,17,5
+1,Deniz Undav,21.0,de GER,FW,26-313,88,25,0,1,16,8,3,25,2,2,100.0,0,0.0,12,76,62,2,1,0,1,1,20,4
+2,Jack Hinshelwood,71.0,eng ENG,FW,18-047,2,5,0,2,2,1,1,5,0,0,,0,,2,2,2,0,0,0,0,0,3,1
+3,Julio César Enciso,20.0,py PAR,LM,19-125,64,28,0,3,9,16,6,28,0,0,,0,,13,116,78,4,1,4,3,1,17,7
+4,Kaoru Mitoma,22.0,jp JPN,LM,26-008,26,19,0,1,6,12,4,19,3,2,66.7,1,33.3,11,129,73,4,1,2,2,1,15,3
+5,Alexis Mac Allister,10.0,ar ARG,CM,24-155,90,64,3,19,35,11,0,64,3,0,0.0,3,100.0,35,144,58,1,2,0,3,1,45,1
+6,Yasin Ayari,26.0,se SWE,CM,19-234,45,16,0,3,11,3,0,16,1,0,0.0,0,0.0,8,35,19,0,0,0,1,0,12,0
+7,Moisés Caicedo,25.0,ec ECU,CM,21-207,45,42,4,15,22,5,0,42,0,0,,0,,17,88,53,2,0,0,0,0,25,0
+8,Facundo Buonanotte,40.0,ar ARG,RM,18-156,90,18,1,4,8,6,0,18,2,0,0.0,1,50.0,13,83,39,2,0,0,1,0,12,2
+9,Pascal Groß,13.0,de GER,"RB,LB",31-347,90,58,5,18,29,12,1,58,3,3,100.0,0,0.0,24,165,85,1,1,0,1,0,30,2
+10,Levi Colwill,6.0,eng ENG,CB,20-091,90,83,17,51,31,1,0,83,0,0,,0,,45,200,135,0,0,0,2,1,55,0
+11,Adam Webster,4.0,eng ENG,CB,28-144,64,49,8,30,19,0,0,49,0,0,,0,,37,180,43,0,0,0,1,0,39,0
+12,Jan Paul van Hecke,29.0,nl NED,CB,22-354,26,28,6,18,9,1,0,28,0,0,,0,,15,77,44,0,0,0,0,0,19,0
+13,Joël Veltman,34.0,nl NED,RB,31-133,45,22,1,6,15,2,0,22,0,0,,0,,13,78,22,0,0,0,0,1,12,1
+14,Pervis Estupiñán,30.0,ec ECU,LB,25-127,45,32,2,10,14,8,1,32,1,1,100.0,0,0.0,13,32,17,1,0,1,0,0,18,7
+15,Jason Steele,23.0,eng ENG,GK,32-283,90,41,38,41,0,0,0,41,0,0,,0,,25,96,59,0,0,0,0,0,26,0
+16,16 Players,,,,,990,549,85,224,234,95,19,549,16,8,50.0,5,31.3,298,1563,818,19,6,9,18,9,365,33

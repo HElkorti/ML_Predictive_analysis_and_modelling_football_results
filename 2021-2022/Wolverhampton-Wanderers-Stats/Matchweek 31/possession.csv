@@ -1,0 +1,17 @@
+,Unnamed: 0_level_0,Unnamed: 1_level_0,Unnamed: 2_level_0,Unnamed: 3_level_0,Unnamed: 4_level_0,Unnamed: 5_level_0,Touches,Touches,Touches,Touches,Touches,Touches,Touches,Take-Ons,Take-Ons,Take-Ons,Take-Ons,Take-Ons,Carries,Carries,Carries,Carries,Carries,Carries,Carries,Carries,Receiving,Receiving
+,Player,#,Nation,Pos,Age,Min,Touches,Def Pen,Def 3rd,Mid 3rd,Att 3rd,Att Pen,Live,Att,Succ,Succ%,Tkld,Tkld%,Carries,TotDist,PrgDist,PrgC,1/3,CPA,Mis,Dis,Rec,PrgR
+0,Fábio Silva,17.0,pt POR,FW,19-257,89,24,0,5,6,13,3,24,2,1,50.0,1,50.0,10,121,99,4,2,2,2,3,13,2
+1,Chiquinho,20.0,pt POR,AM,22-056,1,0,0,0,0,0,0,0,0,0,,0,,0,0,0,0,0,0,0,0,0,0
+2,Daniel Podence,10.0,pt POR,AM,26-163,67,41,0,10,21,11,2,41,2,2,100.0,0,0.0,25,175,80,3,1,0,2,1,31,4
+3,Hwang Hee-chan,26.0,kr KOR,"AM,FW",26-066,23,13,0,1,8,5,2,13,1,0,0.0,1,100.0,9,90,58,3,1,1,1,0,10,1
+4,Francisco Trincão,11.0,pt POR,AM,22-094,74,35,0,6,18,12,4,35,5,3,60.0,2,40.0,20,140,64,2,2,1,5,2,30,4
+5,Pedro Neto,7.0,pt POR,AM,22-024,16,14,0,1,3,10,1,14,1,0,0.0,1,100.0,7,36,9,0,1,0,2,1,10,3
+6,João Moutinho,28.0,pt POR,CM,35-206,90,71,3,28,37,8,1,71,1,1,100.0,0,0.0,30,160,93,2,1,1,1,1,48,0
+7,Leander Dendoncker,32.0,be BEL,CM,26-352,90,49,2,19,20,10,2,49,2,1,50.0,1,50.0,20,102,32,1,1,0,0,0,26,1
+8,Fernando Marçal,5.0,br BRA,WB,33-042,90,74,6,31,31,12,1,74,3,1,33.3,2,66.7,29,145,72,2,0,0,3,0,44,4
+9,Jonny Castro,19.0,es ESP,WB,28-030,90,63,0,22,32,11,1,63,1,1,100.0,0,0.0,27,131,98,1,2,0,0,1,42,4
+10,Max Kilman,23.0,eng ENG,CB,24-314,90,58,13,38,19,2,0,58,0,0,,0,,24,155,109,1,1,0,1,0,33,1
+11,Conor Coady,16.0,eng ENG,CB,29-036,90,24,10,21,3,0,0,24,0,0,,0,,13,49,30,0,0,0,0,0,13,0
+12,Willy Boly,15.0,ci CIV,CB,31-058,90,69,13,45,23,1,0,69,0,0,,0,,33,151,116,0,0,0,0,0,41,0
+13,José Sá,1.0,pt POR,GK,29-075,90,36,35,35,1,0,0,36,0,0,,0,,18,97,55,0,0,0,0,0,17,0
+14,14 Players,,,,,990,571,82,262,222,95,17,571,18,10,55.6,8,44.4,265,1552,915,19,12,5,17,9,358,24

@@ -1,0 +1,17 @@
+,Unnamed: 0_level_0,Unnamed: 1_level_0,Unnamed: 2_level_0,Unnamed: 3_level_0,Unnamed: 4_level_0,Unnamed: 5_level_0,Unnamed: 6_level_0,Pass Types,Pass Types,Pass Types,Pass Types,Pass Types,Pass Types,Pass Types,Pass Types,Corner Kicks,Corner Kicks,Corner Kicks,Outcomes,Outcomes,Outcomes
+,Player,#,Nation,Pos,Age,Min,Att,Live,Dead,FK,TB,Sw,Crs,TI,CK,In,Out,Str,Cmp,Off,Blocks
+0,Emmanuel Dennis,25.0,ng NGA,"FW,LW,AM",24-013,70,15,14,0,0,0,0,0,0,0,0,0,0,11,1,0
+1,Ashley Fletcher,17.0,eng ENG,FW,26-057,20,6,6,0,0,0,0,1,0,0,0,0,0,3,0,1
+2,Joshua King,7.0,no NOR,"LM,AM,FW",29-317,90,22,22,0,0,0,0,0,0,0,0,0,0,15,0,2
+3,Moussa Sissoko,19.0,fr FRA,"DM,CM",32-104,90,43,43,0,0,0,0,0,0,0,0,0,0,32,0,2
+4,Tom Cleverley,8.0,eng ENG,CM,32-108,45,21,13,8,2,0,0,6,0,3,3,0,0,17,0,0
+5,Ozan Tufan,18.0,tr TUR,DM,26-250,45,14,13,1,0,0,0,0,0,0,0,0,0,9,0,2
+6,Cucho,29.0,co COL,"RM,AM,RW",22-222,90,23,20,3,1,0,0,5,0,2,1,1,0,12,0,0
+7,Imran Louza,6.0,ma MAR,DM,22-211,45,11,11,0,0,0,0,0,0,0,0,0,0,8,0,0
+8,João Pedro,10.0,br BRA,"FW,AM",20-063,45,15,13,2,0,0,0,5,0,1,0,1,0,9,0,0
+9,Adam Masina,11.0,ma MAR,LB,27-330,90,47,33,14,0,0,0,2,14,0,0,0,0,27,0,3
+10,William Troost-Ekong,5.0,ng NGA,CB,28-088,90,25,25,0,0,0,0,0,0,0,0,0,0,13,0,1
+11,Craig Cathcart,15.0,nir NIR,CB,32-295,90,41,41,0,0,0,0,0,0,0,0,0,0,24,0,0
+12,Kiko Femenía,21.0,es ESP,RB,30-299,90,47,33,14,0,0,0,4,14,0,0,0,0,24,0,2
+13,Daniel Bachmann,26.0,at AUT,GK,27-142,90,28,16,11,5,0,0,0,0,0,0,0,0,7,1,0
+14,14 Players,,,,,990,358,303,53,8,0,0,23,28,6,4,2,0,211,2,13

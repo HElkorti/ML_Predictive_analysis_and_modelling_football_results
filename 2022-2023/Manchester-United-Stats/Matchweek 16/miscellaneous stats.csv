@@ -1,0 +1,16 @@
+,Unnamed: 0_level_0,Unnamed: 1_level_0,Unnamed: 2_level_0,Unnamed: 3_level_0,Unnamed: 4_level_0,Unnamed: 5_level_0,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Aerial Duels,Aerial Duels,Aerial Duels
+,Player,#,Nation,Pos,Age,Min,CrdY,CrdR,2CrdY,Fls,Fld,Off,Crs,Int,TklW,PKwon,PKcon,OG,Recov,Won,Lost,Won%
+0,Anthony Martial,9.0,fr FRA,FW,26-343,71,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,100.0
+1,Alejandro Garnacho,49.0,ar ARG,LW,18-135,19,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,
+2,Marcus Rashford,10.0,eng ENG,"LW,FW",25-013,90,0,0,0,0,1,0,1,0,0,0,0,0,6,1,2,33.3
+3,Anthony Elanga,36.0,se SWE,RW,20-200,54,0,0,0,0,1,0,1,0,0,0,0,0,3,0,1,0.0
+4,Scott McTominay,39.0,sct SCO,AM,25-340,36,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,
+5,Bruno Fernandes,8.0,pt POR,"AM,RW",28-066,90,0,0,0,1,0,1,2,1,0,0,0,0,4,0,3,0.0
+6,Christian Eriksen,14.0,dk DEN,DM,30-272,90,0,0,0,1,1,1,2,1,1,0,0,0,6,1,0,100.0
+7,Casemiro,18.0,br BRA,DM,30-263,90,0,0,0,0,2,0,1,2,3,0,0,0,5,5,3,62.5
+8,Luke Shaw,23.0,eng ENG,LB,27-124,90,0,0,0,1,1,0,6,1,1,0,0,0,8,1,1,50.0
+9,Lisandro Martínez,6.0,ar ARG,CB,24-299,90,0,0,0,0,1,0,0,2,0,0,0,0,9,4,1,80.0
+10,Victor Lindelöf,2.0,se SWE,CB,28-119,90,0,0,0,2,0,0,0,1,1,0,0,0,11,4,0,100.0
+11,Tyrell Malacia,12.0,nl NED,RB,23-088,90,0,0,0,2,0,0,0,0,1,0,0,0,5,0,0,
+12,David de Gea,1.0,es ESP,GK,32-006,90,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,
+13,13 Players,,,,,990,1,0,0,10,8,2,13,8,7,0,0,0,58,17,11,60.7

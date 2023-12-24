@@ -1,0 +1,16 @@
+,Unnamed: 0_level_0,Unnamed: 1_level_0,Unnamed: 2_level_0,Unnamed: 3_level_0,Unnamed: 4_level_0,Unnamed: 5_level_0,Touches,Touches,Touches,Touches,Touches,Touches,Touches,Take-Ons,Take-Ons,Take-Ons,Take-Ons,Take-Ons,Carries,Carries,Carries,Carries,Carries,Carries,Carries,Carries,Receiving,Receiving
+,Player,#,Nation,Pos,Age,Min,Touches,Def Pen,Def 3rd,Mid 3rd,Att 3rd,Att Pen,Live,Att,Succ,Succ%,Tkld,Tkld%,Carries,TotDist,PrgDist,PrgC,1/3,CPA,Mis,Dis,Rec,PrgR
+0,Aaron Connolly,7.0,ie IRL,FW,20-242,74,13,0,0,5,8,3,13,0,0,,0,,12,94,34,1,1,1,4,2,12,5
+1,Alireza Jahanbakhsh,16.0,ir IRN,FW,27-046,16,19,0,0,6,13,1,19,1,1,100.0,0,0.0,16,46,13,0,0,0,0,0,16,6
+2,Neal Maupay,9.0,fr FRA,LW,24-043,90,47,0,3,16,29,10,46,4,3,75.0,1,25.0,22,110,44,1,1,0,3,2,24,9
+3,Leandro Trossard,11.0,be BEL,RW,25-297,90,48,1,3,19,26,2,48,3,2,66.7,1,33.3,35,196,66,2,0,0,0,1,35,7
+4,Solly March,20.0,eng ENG,LM,26-068,90,80,1,12,30,41,7,80,8,7,87.5,1,12.5,52,399,139,4,1,2,0,2,46,10
+5,Steven Alzate,17.0,co COL,CM,22-018,90,63,1,17,27,21,1,63,6,4,66.7,2,33.3,50,213,83,0,0,0,1,1,48,0
+6,Adam Lallana,14.0,eng ENG,CM,32-139,74,42,1,10,22,10,0,42,0,0,,0,,26,76,23,0,0,0,1,1,24,0
+7,Pascal Groß,13.0,de GER,CM,29-103,16,21,0,1,8,12,1,21,0,0,,0,,14,59,23,1,2,0,0,0,14,0
+8,Tariq Lamptey,2.0,gh GHA,RM,19-362,90,53,3,16,27,14,0,53,3,2,66.7,1,33.3,38,233,114,3,2,0,1,0,38,8
+9,Adam Webster,4.0,eng ENG,CB,25-266,90,58,2,38,17,3,1,58,0,0,,0,,44,210,137,1,2,0,2,0,43,0
+10,Lewis Dunk,5.0,eng ENG,CB,28-310,90,71,14,48,21,3,1,71,0,0,,0,,57,222,99,1,1,0,0,0,52,0
+11,Ben White,3.0,eng ENG,CB,22-354,90,73,8,34,30,10,1,73,1,1,100.0,0,0.0,55,183,115,2,1,0,0,0,55,4
+12,Mathew Ryan,1.0,au AUS,GK,28-171,90,40,30,40,0,0,0,40,0,0,,0,,28,82,32,0,0,0,0,0,28,0
+13,13 Players,,,,,990,628,61,222,228,190,28,627,26,20,76.9,6,23.1,449,2123,922,16,11,3,12,9,435,49

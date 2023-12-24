@@ -1,0 +1,15 @@
+,Unnamed: 0_level_0,Unnamed: 1_level_0,Unnamed: 2_level_0,Unnamed: 3_level_0,Unnamed: 4_level_0,Unnamed: 5_level_0,Touches,Touches,Touches,Touches,Touches,Touches,Touches,Take-Ons,Take-Ons,Take-Ons,Take-Ons,Take-Ons,Carries,Carries,Carries,Carries,Carries,Carries,Carries,Carries,Receiving,Receiving
+,Player,#,Nation,Pos,Age,Min,Touches,Def Pen,Def 3rd,Mid 3rd,Att 3rd,Att Pen,Live,Att,Succ,Succ%,Tkld,Tkld%,Carries,TotDist,PrgDist,PrgC,1/3,CPA,Mis,Dis,Rec,PrgR
+0,Ollie Watkins,11.0,eng ENG,FW,24-353,90,29,1,1,6,22,8,29,1,1,100.0,0,0.0,18,152,55,3,4,3,1,7,17,7
+1,Anwar El Ghazi,21.0,nl NED,LW,25-228,90,45,0,1,13,32,8,45,5,4,80.0,1,20.0,31,219,154,6,5,1,3,2,37,14
+2,Bertrand Traoré,15.0,bf BFA,RW,25-102,79,48,2,6,23,19,6,48,4,3,75.0,1,25.0,16,102,52,1,1,1,3,0,22,6
+3,Keinan Davis,39.0,eng ENG,RW,22-308,11,6,1,1,2,3,1,6,0,0,,0,,2,1,0,0,0,0,1,0,5,1
+4,Jack Grealish,10.0,eng ENG,AM,25-098,90,63,0,2,29,35,6,63,5,4,80.0,1,20.0,38,382,272,9,7,4,3,2,53,4
+5,Marvelous Nakamba,19.0,zw ZIM,DM,26-333,90,33,0,8,22,3,0,33,0,0,,0,,16,70,18,0,0,0,2,0,22,0
+6,John McGinn,7.0,sct SCO,DM,26-060,90,48,1,8,29,11,1,48,2,2,100.0,0,0.0,19,106,61,0,0,0,3,3,29,1
+7,Matt Targett,18.0,eng ENG,LB,25-090,90,59,2,11,32,16,2,59,1,1,100.0,0,0.0,19,61,21,0,0,0,1,1,35,2
+8,Tyrone Mings,5.0,eng ENG,CB,27-279,90,65,9,33,27,5,3,65,0,0,,0,,28,170,68,0,1,0,1,0,26,0
+9,Kortney Hause,30.0,eng ENG,CB,25-154,90,42,5,20,20,2,2,42,0,0,,0,,9,35,14,0,0,0,1,0,12,0
+10,Ahmed Elmohamady,27.0,eg EGY,RB,33-099,90,76,1,21,32,24,1,76,1,1,100.0,0,0.0,28,87,27,0,1,0,1,1,45,3
+11,Emiliano Martínez,26.0,ar ARG,GK,28-106,90,27,23,27,0,0,0,27,0,0,,0,,17,107,86,0,0,0,0,0,13,0
+12,12 Players,,,,,990,541,45,139,235,172,38,541,19,16,84.2,3,15.8,241,1492,828,19,19,9,20,16,316,38

@@ -1,0 +1,20 @@
+,Unnamed: 0_level_0,Unnamed: 1_level_0,Unnamed: 2_level_0,Unnamed: 3_level_0,Unnamed: 4_level_0,Unnamed: 5_level_0,Unnamed: 6_level_0,Pass Types,Pass Types,Pass Types,Pass Types,Pass Types,Pass Types,Pass Types,Pass Types,Corner Kicks,Corner Kicks,Corner Kicks,Outcomes,Outcomes,Outcomes
+,Player,#,Nation,Pos,Age,Min,Att,Live,Dead,FK,TB,Sw,Crs,TI,CK,In,Out,Str,Cmp,Off,Blocks
+0,Patrick Bamford,9.0,eng ENG,FW,29-156,62,19,18,1,0,0,0,0,0,0,0,0,0,10,0,0
+1,Georginio Rutter,24.0,fr FRA,FW,20-294,28,6,5,1,0,0,0,0,0,0,0,0,0,1,0,1
+2,Degnand Gnonto,29.0,it ITA,LW,19-095,89,32,28,4,0,0,0,3,0,4,2,0,0,22,0,3
+3,Mateo Joseph,49.0,eng ENG,LW,19-112,1,1,1,0,0,0,0,0,0,0,0,0,0,1,0,0
+4,Luis Sinisterra,23.0,co COL,RW,23-236,7,1,1,0,0,0,0,0,0,0,0,0,0,1,0,0
+5,Crysencio Summerville,10.0,nl NED,RW,21-101,83,22,22,0,0,0,0,0,0,0,0,0,0,17,0,2
+6,Jack Harrison,11.0,eng ENG,AM,26-080,62,23,23,0,0,0,0,2,0,0,0,0,0,15,0,4
+7,Brenden Aaronson,7.0,us USA,AM,22-109,28,12,8,4,2,0,0,0,0,1,0,0,0,10,0,0
+8,Tyler Adams,12.0,us USA,DM,23-359,90,46,45,1,1,0,0,0,0,0,0,0,0,33,0,1
+9,Weston McKennie,28.0,us USA,DM,24-164,89,31,30,1,1,0,0,0,0,0,0,0,0,20,0,2
+10,Sam Greenwood,42.0,eng ENG,DM,21-013,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+11,Pascal Struijk,21.0,nl NED,LB,23-181,22,5,4,1,0,0,0,0,1,0,0,0,0,5,0,0
+12,Junior Firpo,3.0,es ESP,LB,26-170,68,20,15,5,0,0,0,0,5,0,0,0,0,16,0,0
+13,Maximilian Wöber,39.0,at AUT,CB,25-004,90,37,37,0,0,0,0,0,0,0,0,0,0,18,0,0
+14,Robin Koch,5.0,de GER,CB,26-206,90,23,23,0,0,0,0,0,0,0,0,0,0,16,0,1
+15,Luke Ayling,2.0,eng ENG,RB,31-167,90,39,32,7,0,0,1,1,7,0,0,0,0,18,0,4
+16,Illan Meslier,1.0,fr FRA,GK,22-343,90,32,14,18,3,0,0,0,0,0,0,0,0,19,0,0
+17,17 Players,,,,,990,349,306,43,7,0,1,6,13,5,2,0,0,222,0,18

@@ -1,0 +1,17 @@
+,Unnamed: 0_level_0,Unnamed: 1_level_0,Unnamed: 2_level_0,Unnamed: 3_level_0,Unnamed: 4_level_0,Unnamed: 5_level_0,Touches,Touches,Touches,Touches,Touches,Touches,Touches,Take-Ons,Take-Ons,Take-Ons,Take-Ons,Take-Ons,Carries,Carries,Carries,Carries,Carries,Carries,Carries,Carries,Receiving,Receiving
+,Player,#,Nation,Pos,Age,Min,Touches,Def Pen,Def 3rd,Mid 3rd,Att 3rd,Att Pen,Live,Att,Succ,Succ%,Tkld,Tkld%,Carries,TotDist,PrgDist,PrgC,1/3,CPA,Mis,Dis,Rec,PrgR
+0,Pierre-Emerick Aubameyang,14.0,ga GAB,FW,31-164,90,22,1,1,5,16,8,22,0,0,,0,,10,26,14,0,0,0,1,1,11,5
+1,Bukayo Saka,7.0,eng ENG,"LW,LM",19-085,90,56,0,1,20,35,7,56,3,2,66.7,1,33.3,33,151,90,3,4,0,1,2,38,11
+2,Willian,12.0,br BRA,RW,32-112,64,35,0,3,9,23,1,35,0,0,,0,,16,106,55,1,0,0,1,1,24,9
+3,Reiss Nelson,24.0,eng ENG,"RW,RM",20-355,26,23,0,0,5,19,4,23,1,0,0.0,1,100.0,13,87,51,3,1,0,0,0,15,6
+4,Joe Willock,28.0,eng ENG,AM,21-101,90,59,1,3,28,29,5,59,0,0,,0,,31,173,74,3,1,0,7,1,38,8
+5,Granit Xhaka,34.0,ch SUI,DM,28-063,80,69,4,11,50,9,0,69,0,0,,0,,44,252,144,0,0,0,0,2,46,0
+6,Alexandre Lacazette,9.0,fr FRA,FW,29-185,10,4,0,0,2,2,1,4,0,0,,0,,3,7,0,0,0,0,1,0,4,1
+7,Dani Ceballos,8.0,es ESP,DM,24-114,90,67,1,10,41,16,1,67,1,0,0.0,1,100.0,50,332,188,4,0,0,0,0,56,3
+8,Kieran Tierney,3.0,sct SCO,LB,23-177,90,73,3,19,24,31,3,73,0,0,,0,,40,171,62,2,1,1,1,0,38,11
+9,Gabriel Dos Santos,6.0,br BRA,CB,22-346,90,83,6,24,55,4,2,83,0,0,,0,,53,334,205,2,0,0,1,1,64,1
+10,David Luiz,23.0,br BRA,CB,33-221,45,35,2,13,19,3,0,35,0,0,,0,,23,230,124,1,2,0,0,0,25,0
+11,Rob Holding,16.0,eng ENG,CB,25-070,45,43,1,16,26,1,1,43,0,0,,0,,29,156,108,1,0,0,0,0,32,0
+12,Héctor Bellerín,2.0,es ESP,RB,25-255,90,61,3,9,21,31,2,61,1,0,0.0,1,100.0,33,105,58,0,0,0,1,0,40,8
+13,Bernd Leno,1.0,de GER,GK,28-270,90,21,13,19,2,0,0,21,0,0,,0,,14,62,48,0,0,0,0,0,10,0
+14,14 Players,,,,,990,651,35,129,307,219,35,651,6,2,33.3,4,66.7,392,2192,1221,20,9,1,14,8,441,63

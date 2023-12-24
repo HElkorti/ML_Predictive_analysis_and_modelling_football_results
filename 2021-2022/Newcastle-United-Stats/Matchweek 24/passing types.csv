@@ -1,0 +1,17 @@
+,Unnamed: 0_level_0,Unnamed: 1_level_0,Unnamed: 2_level_0,Unnamed: 3_level_0,Unnamed: 4_level_0,Unnamed: 5_level_0,Unnamed: 6_level_0,Pass Types,Pass Types,Pass Types,Pass Types,Pass Types,Pass Types,Pass Types,Pass Types,Corner Kicks,Corner Kicks,Corner Kicks,Outcomes,Outcomes,Outcomes
+,Player,#,Nation,Pos,Age,Min,Att,Live,Dead,FK,TB,Sw,Crs,TI,CK,In,Out,Str,Cmp,Off,Blocks
+0,Chris Wood,20.0,nz NZL,FW,30-063,90,24,24,0,0,0,0,1,0,0,0,0,0,7,0,0
+1,Allan Saint-Maximin,10.0,fr FRA,LW,24-333,90,22,21,0,0,0,0,1,0,0,0,0,0,10,1,0
+2,Ryan Fraser,21.0,sct SCO,RW,27-349,81,14,14,0,0,0,0,1,0,0,0,0,0,12,0,0
+3,Jacob Murphy,23.0,eng ENG,RW,26-349,9,3,3,0,0,0,0,0,0,0,0,0,0,2,0,0
+4,Joelinton,7.0,br BRA,LM,25-178,90,28,25,3,0,0,0,0,1,0,0,0,0,20,0,0
+5,Jonjo Shelvey,8.0,eng ENG,CM,29-346,90,38,37,1,0,0,0,0,0,1,0,0,0,33,0,1
+6,Joe Willock,28.0,eng ENG,RM,22-172,89,14,14,0,0,0,0,0,0,0,0,0,0,10,0,2
+7,Bruno Guimarães,39.0,br BRA,RM,24-084,1,2,2,0,0,0,0,0,0,0,0,0,0,2,0,0
+8,Matt Targett,13.0,eng ENG,LB,26-143,90,50,34,16,1,0,0,1,15,0,0,0,0,34,0,3
+9,Fabian Schär,5.0,ch SUI,CB,30-050,90,34,30,4,4,0,1,0,0,0,0,0,0,21,0,1
+10,Jamaal Lascelles,6.0,eng ENG,CB,28-089,90,20,19,1,0,0,0,0,1,0,0,0,0,12,0,0
+11,Kieran Trippier,15.0,eng ENG,RB,31-142,89,61,41,20,7,0,1,10,8,5,1,0,4,38,0,4
+12,Javier Manquillo,19.0,es ESP,RB,27-279,1,1,0,1,0,0,0,0,1,0,0,0,0,1,0,0
+13,Martin Dúbravka,1.0,sk SVK,GK,33-024,90,24,12,12,1,0,0,0,0,0,0,0,0,17,0,0
+14,14 Players,,,,,990,335,276,58,13,0,2,14,26,6,1,0,4,219,1,11

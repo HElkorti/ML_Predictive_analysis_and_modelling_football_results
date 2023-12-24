@@ -1,0 +1,18 @@
+,Unnamed: 0_level_0,Unnamed: 1_level_0,Unnamed: 2_level_0,Unnamed: 3_level_0,Unnamed: 4_level_0,Unnamed: 5_level_0,Tackles,Tackles,Tackles,Tackles,Tackles,Challenges,Challenges,Challenges,Challenges,Blocks,Blocks,Blocks,Unnamed: 18_level_0,Unnamed: 19_level_0,Unnamed: 20_level_0,Unnamed: 21_level_0
+,Player,#,Nation,Pos,Age,Min,Tkl,TklW,Def 3rd,Mid 3rd,Att 3rd,Tkl,Att,Tkl%,Lost,Blocks,Sh,Pass,Int,Tkl+Int,Clr,Err
+0,Alexander Isak,14.0,se SWE,FW,22-347,89,1,1,0,1,0,1,1,100.0,0,2,0,2,0,1,1,0
+1,Chris Wood,20.0,nz NZL,FW,30-270,1,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,0
+2,Ryan Fraser,21.0,sct SCO,LW,28-191,69,1,1,0,0,1,1,2,50.0,1,0,0,0,0,1,0,0
+3,Elliot Anderson,32.0,sct SCO,LW,19-301,21,0,0,0,0,0,0,1,0.0,1,2,0,2,0,0,0,0
+4,Miguel Almirón,24.0,py PAR,RW,28-205,69,1,0,0,1,0,0,0,,0,1,1,0,0,1,0,0
+5,Jacob Murphy,23.0,eng ENG,RW,27-191,21,1,0,0,1,0,0,2,0.0,2,0,0,0,0,1,1,0
+6,Joelinton,7.0,br BRA,LM,26-020,90,4,3,2,1,1,0,3,0.0,3,2,0,2,1,5,2,0
+7,Sean Longstaff,36.0,eng ENG,CM,24-308,90,1,1,0,1,0,1,3,33.3,2,2,1,1,1,2,2,0
+8,Joe Willock,28.0,eng ENG,RM,23-014,90,1,1,0,1,0,1,1,100.0,0,2,1,1,2,3,0,0
+9,Matt Targett,13.0,eng ENG,LB,26-350,78,2,0,1,1,0,1,2,50.0,1,0,0,0,3,5,0,0
+10,Dan Burn,33.0,eng ENG,LB,30-117,12,1,1,0,0,1,0,0,,0,0,0,0,0,1,1,0
+11,Sven Botman,4.0,nl NED,CB,22-234,90,1,1,1,0,0,1,2,50.0,1,0,0,0,2,3,2,0
+12,Fabian Schär,5.0,ch SUI,CB,30-257,90,2,1,2,0,0,2,2,100.0,0,4,3,1,3,5,4,0
+13,Kieran Trippier,2.0,eng ENG,RB,31-349,90,2,1,0,2,0,1,1,100.0,0,1,0,1,3,5,2,0
+14,Nick Pope,22.0,eng ENG,GK,30-137,90,0,0,0,0,0,0,0,,0,0,0,0,0,0,1,0
+15,15 Players,,,,,990,18,11,6,9,3,9,20,45.0,11,16,6,10,15,33,16,0

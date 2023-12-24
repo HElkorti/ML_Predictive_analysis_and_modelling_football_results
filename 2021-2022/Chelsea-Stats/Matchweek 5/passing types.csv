@@ -1,0 +1,16 @@
+,Unnamed: 0_level_0,Unnamed: 1_level_0,Unnamed: 2_level_0,Unnamed: 3_level_0,Unnamed: 4_level_0,Unnamed: 5_level_0,Unnamed: 6_level_0,Pass Types,Pass Types,Pass Types,Pass Types,Pass Types,Pass Types,Pass Types,Pass Types,Corner Kicks,Corner Kicks,Corner Kicks,Outcomes,Outcomes,Outcomes
+,Player,#,Nation,Pos,Age,Min,Att,Live,Dead,FK,TB,Sw,Crs,TI,CK,In,Out,Str,Cmp,Off,Blocks
+0,Romelu Lukaku,9.0,be BEL,FW,28-129,90,19,18,1,0,1,0,1,0,0,0,0,0,13,0,2
+1,Kai Havertz,29.0,de GER,"AM,FW",22-100,69,27,25,1,1,0,0,1,0,0,0,0,0,21,1,0
+2,Timo Werner,11.0,de GER,FW,25-197,21,10,10,0,0,0,0,2,0,0,0,0,0,8,0,0
+3,Mason Mount,19.0,eng ENG,AM,22-252,45,21,20,1,0,0,0,3,0,1,1,0,0,18,0,1
+4,N'Golo Kanté,7.0,fr FRA,CM,30-174,45,34,34,0,0,1,0,1,0,0,0,0,0,29,0,1
+5,Mateo Kovačić,8.0,hr CRO,CM,27-136,90,61,59,2,1,1,0,0,1,0,0,0,0,54,0,1
+6,Jorginho,5.0,it ITA,CM,29-273,90,68,68,0,0,0,0,0,0,0,0,0,0,59,0,0
+7,Marcos Alonso,3.0,es ESP,WB,30-265,90,74,57,17,1,0,0,16,6,10,5,3,0,58,0,2
+8,César Azpilicueta,28.0,es ESP,WB,32-022,90,59,50,9,0,0,0,0,9,0,0,0,0,47,0,3
+9,Antonio Rüdiger,2.0,de GER,CB,28-200,90,52,51,1,1,0,0,1,0,0,0,0,0,47,0,0
+10,Thiago Silva,6.0,br BRA,CB,36-362,90,62,62,0,0,0,0,0,0,0,0,0,0,53,0,2
+11,Andreas Christensen,4.0,dk DEN,CB,25-162,90,56,56,0,0,0,0,0,0,0,0,0,0,49,0,0
+12,Kepa Arrizabalaga,1.0,es ESP,GK,26-351,90,30,26,4,0,0,0,0,0,0,0,0,0,28,0,0
+13,13 Players,,,,,990,573,536,36,4,3,0,25,16,11,6,3,0,484,1,12

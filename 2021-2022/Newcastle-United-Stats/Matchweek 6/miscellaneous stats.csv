@@ -1,0 +1,16 @@
+,Unnamed: 0_level_0,Unnamed: 1_level_0,Unnamed: 2_level_0,Unnamed: 3_level_0,Unnamed: 4_level_0,Unnamed: 5_level_0,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Aerial Duels,Aerial Duels,Aerial Duels
+,Player,#,Nation,Pos,Age,Min,CrdY,CrdR,2CrdY,Fls,Fld,Off,Crs,Int,TklW,PKwon,PKcon,OG,Recov,Won,Lost,Won%
+0,Allan Saint-Maximin,10.0,fr FRA,FW,24-197,90,0,0,0,0,0,1,2,0,0,0,0,0,6,2,1,66.7
+1,Joelinton,7.0,br BRA,LM,25-042,90,0,0,0,1,1,0,1,1,1,0,0,0,7,12,5,70.6
+2,Sean Longstaff,36.0,eng ENG,CM,23-330,90,0,0,0,1,5,0,1,0,2,0,0,0,3,0,3,0.0
+3,Joe Willock,28.0,eng ENG,CM,22-036,82,0,0,0,2,2,0,0,2,4,0,0,0,6,0,3,0.0
+4,Dwight Gayle,34.0,eng ENG,FW,30-343,8,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,
+5,Miguel Almirón,24.0,py PAR,RM,27-227,78,0,0,0,0,5,0,0,1,1,0,0,0,7,0,0,
+6,Jacob Murphy,23.0,eng ENG,RM,26-213,12,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,
+7,Isaac Hayden,14.0,eng ENG,"DM,CM",26-187,90,0,0,0,2,1,0,0,0,1,0,0,0,7,2,1,66.7
+8,Matt Ritchie,11.0,sct SCO,LB,32-015,90,1,0,0,2,0,0,10,3,0,0,0,0,4,2,0,100.0
+9,Ciaran Clark,2.0,ie IRL,CB,31-364,90,0,0,0,1,0,0,0,1,2,0,0,0,4,2,2,50.0
+10,Federico Fernández,18.0,ar ARG,CB,32-216,90,0,0,0,0,0,0,0,1,0,0,0,0,4,1,1,50.0
+11,Javier Manquillo,19.0,es ESP,RB,27-143,90,1,0,0,3,1,0,1,0,1,0,0,0,4,3,1,75.0
+12,Karl Darlow,26.0,eng ENG,GK,30-352,90,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,
+13,13 Players,,,,,990,3,0,0,12,17,1,15,9,12,0,0,0,53,24,17,58.5

@@ -1,0 +1,17 @@
+,Unnamed: 0_level_0,Unnamed: 1_level_0,Unnamed: 2_level_0,Unnamed: 3_level_0,Unnamed: 4_level_0,Unnamed: 5_level_0,Unnamed: 6_level_0,Pass Types,Pass Types,Pass Types,Pass Types,Pass Types,Pass Types,Pass Types,Pass Types,Corner Kicks,Corner Kicks,Corner Kicks,Outcomes,Outcomes,Outcomes
+,Player,#,Nation,Pos,Age,Min,Att,Live,Dead,FK,TB,Sw,Crs,TI,CK,In,Out,Str,Cmp,Off,Blocks
+0,Roberto Firmino,9.0,br BRA,FW,29-153,90,42,40,2,0,0,0,0,1,0,0,0,0,32,0,1
+1,Sadio Mané,10.0,sn SEN,"LW,RW",28-328,90,25,25,0,0,0,0,1,0,0,0,0,0,19,0,0
+2,Mohamed Salah,11.0,eg EGY,RW,28-262,61,38,38,0,0,0,0,1,0,0,0,0,0,32,0,1
+3,Alex Oxlade-Chamberlain,15.0,eng ENG,LM,27-201,29,17,17,0,0,0,0,0,0,0,0,0,0,15,0,0
+4,Curtis Jones,17.0,eng ENG,LM,20-033,61,45,43,2,0,0,0,0,1,0,0,0,0,43,0,0
+5,Diogo Jota,20.0,pt POR,LW,24-090,29,6,6,0,0,0,0,0,0,0,0,0,0,5,0,0
+6,Georginio Wijnaldum,5.0,nl NED,CM,30-113,90,61,60,1,1,0,0,0,0,0,0,0,0,58,0,0
+7,Thiago Alcántara,6.0,es ESP,RM,29-327,79,75,74,1,1,1,0,0,0,0,0,0,0,69,0,0
+8,James Milner,7.0,eng ENG,RM,35-059,11,16,14,2,1,0,0,0,1,0,0,0,0,13,0,0
+9,Andrew Robertson,26.0,sct SCO,LB,26-358,90,91,73,18,3,0,2,5,13,2,0,2,0,78,0,0
+10,Ozan Kabak,19.0,tr TUR,CB,20-344,90,73,72,1,0,0,1,0,1,0,0,0,0,67,0,0
+11,Fabinho,3.0,br BRA,CB,27-132,90,72,69,3,3,0,0,0,0,0,0,0,0,61,0,0
+12,Trent Alexander-Arnold,66.0,eng ENG,RB,22-148,90,100,82,17,1,0,2,8,13,3,0,2,0,69,1,3
+13,Alisson,1.0,br BRA,GK,28-153,90,47,41,6,2,0,0,0,0,0,0,0,0,45,0,0
+14,14 Players,,,,,990,708,654,53,12,1,5,15,30,5,0,4,0,606,1,5

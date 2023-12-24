@@ -1,0 +1,18 @@
+,Unnamed: 0_level_0,Unnamed: 1_level_0,Unnamed: 2_level_0,Unnamed: 3_level_0,Unnamed: 4_level_0,Unnamed: 5_level_0,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Aerial Duels,Aerial Duels,Aerial Duels
+,Player,#,Nation,Pos,Age,Min,CrdY,CrdR,2CrdY,Fls,Fld,Off,Crs,Int,TklW,PKwon,PKcon,OG,Recov,Won,Lost,Won%
+0,Raheem Sterling,17.0,eng ENG,"FW,RW",28-139,78,0,0,0,1,2,0,3,0,0,0,0,0,0,0,0,
+1,Noni Madueke,31.0,eng ENG,RW,21-047,12,0,0,0,0,0,0,1,0,0,0,0,0,1,0,0,
+2,Conor Gallagher,23.0,eng ENG,AM,23-079,45,0,0,0,0,1,0,0,0,1,0,0,0,1,0,1,0.0
+3,Mykhailo Mudryk,15.0,ua UKR,LW,22-111,45,0,0,0,1,1,0,3,0,0,0,0,0,4,0,0,
+4,N'Golo Kanté,7.0,fr FRA,"AM,DM",32-028,90,0,0,0,0,0,0,3,1,2,0,0,0,11,1,1,50.0
+5,Mateo Kovačić,8.0,hr CRO,"DM,CM",28-355,90,0,0,0,1,0,0,1,1,0,0,0,0,5,0,0,
+6,Enzo Fernández,5.0,ar ARG,"CM,DM",22-099,78,0,0,0,0,0,0,0,0,0,0,0,0,5,0,2,0.0
+7,João Félix,11.0,pt POR,AM,23-167,12,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0.0
+8,Ben Chilwell,21.0,eng ENG,"LB,WB",26-126,90,0,0,0,0,3,0,7,1,0,0,0,0,7,1,0,100.0
+9,César Azpilicueta,28.0,es ESP,WB,33-241,45,0,0,0,0,0,0,3,1,0,0,0,1,1,1,1,50.0
+10,Pierre-Emerick Aubameyang,9.0,ga GAB,FW,33-312,45,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,100.0
+11,Trevoh Chalobah,14.0,eng ENG,"RB,CB",23-295,90,0,0,0,2,1,0,6,4,0,0,0,0,3,4,6,40.0
+12,Thiago Silva,6.0,br BRA,CB,38-216,90,0,0,0,0,1,0,0,1,1,0,0,0,5,5,1,83.3
+13,Wesley Fofana,33.0,fr FRA,CB,22-130,90,1,0,0,0,3,0,1,0,2,0,0,0,7,5,2,71.4
+14,Kepa Arrizabalaga,1.0,es ESP,GK,28-205,90,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,100.0
+15,15 Players,,,,,990,1,0,0,5,13,0,28,9,6,0,0,1,51,19,15,55.9

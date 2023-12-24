@@ -1,0 +1,18 @@
+,Unnamed: 0_level_0,Unnamed: 1_level_0,Unnamed: 2_level_0,Unnamed: 3_level_0,Unnamed: 4_level_0,Unnamed: 5_level_0,Touches,Touches,Touches,Touches,Touches,Touches,Touches,Take-Ons,Take-Ons,Take-Ons,Take-Ons,Take-Ons,Carries,Carries,Carries,Carries,Carries,Carries,Carries,Carries,Receiving,Receiving
+,Player,#,Nation,Pos,Age,Min,Touches,Def Pen,Def 3rd,Mid 3rd,Att 3rd,Att Pen,Live,Att,Succ,Succ%,Tkld,Tkld%,Carries,TotDist,PrgDist,PrgC,1/3,CPA,Mis,Dis,Rec,PrgR
+0,Callum Wilson,9.0,eng ENG,FW,30-175,69,18,0,1,9,8,6,18,0,0,,0,,9,34,12,1,0,1,0,0,12,3
+1,Chris Wood,20.0,nz NZL,FW,30-257,21,10,1,3,2,5,0,10,0,0,,0,,4,23,13,1,0,0,0,0,5,2
+2,Allan Saint-Maximin,10.0,fr FRA,LW,25-162,90,34,0,3,11,21,5,34,7,5,71.4,1,14.3,23,306,217,9,6,3,3,3,24,9
+3,Miguel Almirón,24.0,py PAR,RW,28-192,82,27,1,6,9,13,5,27,2,0,0.0,2,100.0,11,47,13,0,0,0,1,0,15,5
+4,Jacob Murphy,23.0,eng ENG,RW,27-178,8,1,0,0,0,1,0,1,0,0,,0,,1,0,0,0,0,0,1,0,1,0
+5,Joelinton,7.0,br BRA,LM,26-007,90,39,3,11,21,8,2,39,2,2,100.0,0,0.0,12,101,35,1,1,0,0,0,20,2
+6,Bruno Guimarães,39.0,br BRA,CM,24-278,90,49,0,13,23,16,0,49,0,0,,0,,26,137,58,0,2,0,2,2,29,0
+7,Joe Willock,28.0,eng ENG,RM,23-001,69,27,0,4,17,6,1,27,2,2,100.0,0,0.0,7,97,88,4,0,1,0,0,12,2
+8,Sean Longstaff,36.0,eng ENG,RM,24-295,21,6,0,3,1,2,1,6,0,0,,0,,2,0,0,0,0,0,1,0,4,2
+9,Dan Burn,33.0,eng ENG,LB,30-104,89,34,5,12,18,5,1,34,1,0,0.0,1,100.0,4,17,3,0,0,0,0,0,10,0
+10,Emil Krafth,17.0,se SWE,LB,28-019,1,1,0,1,0,0,0,1,0,0,,0,,0,0,0,0,0,0,0,0,0,0
+11,Sven Botman,4.0,nl NED,CB,22-221,90,39,10,23,14,2,2,39,0,0,,0,,12,44,2,0,0,0,2,0,22,0
+12,Fabian Schär,5.0,ch SUI,CB,30-244,90,51,13,32,17,2,0,51,0,0,,0,,14,95,38,0,0,0,0,0,21,0
+13,Kieran Trippier,2.0,eng ENG,RB,31-336,90,44,6,15,12,18,0,44,0,0,,0,,10,42,24,1,1,0,0,0,15,4
+14,Nick Pope,22.0,eng ENG,GK,30-124,90,35,30,35,0,0,0,35,0,0,,0,,15,127,48,0,0,0,0,0,11,0
+15,15 Players,,,,,990,415,69,162,154,107,23,415,14,9,64.3,4,28.6,150,1070,551,17,10,5,10,5,201,29

@@ -1,0 +1,17 @@
+,Unnamed: 0_level_0,Unnamed: 1_level_0,Unnamed: 2_level_0,Unnamed: 3_level_0,Unnamed: 4_level_0,Unnamed: 5_level_0,Touches,Touches,Touches,Touches,Touches,Touches,Touches,Take-Ons,Take-Ons,Take-Ons,Take-Ons,Take-Ons,Carries,Carries,Carries,Carries,Carries,Carries,Carries,Carries,Receiving,Receiving
+,Player,#,Nation,Pos,Age,Min,Touches,Def Pen,Def 3rd,Mid 3rd,Att 3rd,Att Pen,Live,Att,Succ,Succ%,Tkld,Tkld%,Carries,TotDist,PrgDist,PrgC,1/3,CPA,Mis,Dis,Rec,PrgR
+0,Julián Álvarez,19.0,ar ARG,FW,22-278,63,24,0,0,13,12,4,24,4,2,50.0,2,50.0,20,151,66,2,1,1,1,0,19,8
+1,Erling Haaland,9.0,no NOR,FW,22-107,27,10,0,0,1,9,7,9,0,0,,0,,5,23,19,1,0,1,2,0,7,2
+2,Jack Grealish,10.0,eng ENG,LW,27-056,63,54,0,3,21,31,4,54,6,0,0.0,4,66.7,43,328,154,5,5,2,1,0,44,14
+3,Phil Foden,47.0,eng ENG,LW,22-161,27,27,1,2,15,10,0,27,0,0,,0,,19,117,52,1,2,0,1,0,22,4
+4,Bernardo Silva,20.0,pt POR,"CM,RW",28-087,90,100,2,10,66,25,3,100,4,1,25.0,2,50.0,70,552,290,4,4,1,1,2,73,2
+5,İlkay Gündoğan,8.0,de GER,LM,32-012,89,80,0,3,53,24,2,80,2,1,50.0,1,50.0,59,345,168,5,3,0,3,0,66,5
+6,Rúben Dias,3.0,pt POR,LM,25-175,1,1,0,1,0,0,0,1,0,0,,0,,0,0,0,0,0,0,0,0,0,0
+7,Rodri,16.0,es ESP,"CB,CM",26-136,90,118,7,34,74,10,0,118,2,0,0.0,1,50.0,74,389,183,2,1,0,1,0,91,0
+8,Kevin De Bruyne,17.0,be BEL,RM,31-130,90,76,0,5,28,44,3,76,3,0,0.0,2,66.7,46,226,115,3,1,1,2,1,47,4
+9,João Cancelo,7.0,pt POR,LB,28-162,25,53,0,7,32,14,3,53,0,0,,0,,39,187,111,2,1,0,1,0,44,1
+10,Nathan Aké,6.0,nl NED,"LB,CB",27-260,90,100,0,21,70,10,3,100,0,0,,0,,78,338,237,2,0,0,1,0,87,2
+11,Manuel Akanji,25.0,ch SUI,CB,27-109,90,104,4,32,67,6,3,104,0,0,,0,,82,559,292,0,1,0,1,0,85,0
+12,John Stones,5.0,eng ENG,RB,28-161,90,73,4,18,38,17,2,73,1,1,100.0,0,0.0,43,184,69,1,1,0,2,0,51,3
+13,Ederson,31.0,br BRA,GK,29-080,90,41,29,40,1,0,0,41,0,0,,0,,38,179,91,0,0,0,0,0,34,0
+14,14 Players,,,,,925,861,47,176,479,212,34,860,22,5,22.7,12,54.5,616,3578,1847,28,20,6,17,3,670,45

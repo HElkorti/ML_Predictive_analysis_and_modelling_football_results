@@ -1,0 +1,19 @@
+,Unnamed: 0_level_0,Unnamed: 1_level_0,Unnamed: 2_level_0,Unnamed: 3_level_0,Unnamed: 4_level_0,Unnamed: 5_level_0,Unnamed: 6_level_0,Pass Types,Pass Types,Pass Types,Pass Types,Pass Types,Pass Types,Pass Types,Pass Types,Corner Kicks,Corner Kicks,Corner Kicks,Outcomes,Outcomes,Outcomes
+,Player,#,Nation,Pos,Age,Min,Att,Live,Dead,FK,TB,Sw,Crs,TI,CK,In,Out,Str,Cmp,Off,Blocks
+0,Danny Ings,9.0,eng ENG,FW,30-092,90,19,19,0,0,0,0,0,0,0,0,0,0,15,0,0
+1,Leon Bailey,31.0,jm JAM,LW,25-075,70,20,19,1,0,0,0,5,0,1,1,0,0,14,0,1
+2,Jacob Ramsey,41.0,eng ENG,LW,21-148,20,10,10,0,0,0,0,0,0,0,0,0,0,5,0,2
+3,Ollie Watkins,11.0,eng ENG,RW,26-297,80,21,21,0,0,0,0,1,0,0,0,0,0,15,0,1
+4,Cameron Archer,35.0,eng ENG,RW,21-094,10,1,0,1,1,0,0,0,0,0,0,0,0,1,0,0
+5,Emi Buendía,10.0,ar ARG,AM,25-302,70,28,27,1,0,0,0,0,0,0,0,0,0,18,0,1
+6,Philippe Coutinho,23.0,br BRA,AM,30-133,20,7,7,0,0,0,0,0,0,0,0,0,0,4,0,0
+7,Douglas Luiz,6.0,br BRA,DM,24-167,90,44,34,10,5,0,0,5,0,5,4,0,0,33,0,0
+8,Leander Dendoncker,32.0,be BEL,DM,27-191,62,23,23,0,0,0,0,0,0,0,0,0,0,22,0,0
+9,John McGinn,7.0,sct SCO,DM,28-005,28,9,9,0,0,0,0,0,0,0,0,0,0,5,0,0
+10,Ashley Young,18.0,eng ENG,LB,37-106,90,47,37,10,1,1,0,1,8,1,0,0,1,39,0,1
+11,Tyrone Mings,5.0,eng ENG,CB,29-224,90,22,22,0,0,0,0,0,0,0,0,0,0,16,0,0
+12,Ezri Konsa,4.0,eng ENG,CB,25-000,90,28,27,1,1,0,0,0,0,0,0,0,0,24,0,0
+13,Matty Cash,2.0,pl POL,RB,25-077,80,47,36,11,0,0,2,0,11,0,0,0,0,36,0,0
+14,Calum Chambers,16.0,eng ENG,RB,27-276,10,3,2,1,0,0,0,0,1,0,0,0,0,2,0,0
+15,Emiliano Martínez,1.0,ar ARG,GK,30-051,90,35,24,11,3,0,0,0,0,0,0,0,0,21,0,0
+16,16 Players,,,,,990,364,317,47,11,1,2,12,20,7,5,0,1,270,0,6

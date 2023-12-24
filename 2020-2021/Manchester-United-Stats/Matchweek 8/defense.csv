@@ -1,0 +1,17 @@
+,Unnamed: 0_level_0,Unnamed: 1_level_0,Unnamed: 2_level_0,Unnamed: 3_level_0,Unnamed: 4_level_0,Unnamed: 5_level_0,Tackles,Tackles,Tackles,Tackles,Tackles,Challenges,Challenges,Challenges,Challenges,Blocks,Blocks,Blocks,Unnamed: 18_level_0,Unnamed: 19_level_0,Unnamed: 20_level_0,Unnamed: 21_level_0
+,Player,#,Nation,Pos,Age,Min,Tkl,TklW,Def 3rd,Mid 3rd,Att 3rd,Tkl,Att,Tkl%,Lost,Blocks,Sh,Pass,Int,Tkl+Int,Clr,Err
+0,Anthony Martial,9.0,fr FRA,FW,24-338,81,0,0,0,0,0,0,0,,0,1,0,1,0,0,0,0
+1,Edinson Cavani,7.0,uy URU,FW,33-267,9,0,0,0,0,0,0,1,0.0,1,0,0,0,1,1,0,0
+2,Marcus Rashford,10.0,eng ENG,"LW,RW",23-007,90,1,0,0,1,0,0,0,,0,0,0,0,0,1,1,0
+3,Juan Mata,8.0,es ESP,RW,32-193,81,1,0,1,0,0,0,2,0.0,2,0,0,0,0,1,1,0
+4,Paul Pogba,6.0,fr FRA,LW,27-237,9,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,0
+5,Bruno Fernandes,18.0,pt POR,AM,26-060,90,3,2,1,2,0,3,5,60.0,2,2,0,2,0,3,2,0
+6,Fred,17.0,br BRA,DM,27-247,90,2,1,1,1,0,0,4,0.0,4,1,0,1,1,3,0,0
+7,Scott McTominay,39.0,sct SCO,DM,23-335,90,1,0,0,1,0,1,1,100.0,0,3,0,3,2,3,3,0
+8,Luke Shaw,23.0,eng ENG,LB,25-118,66,1,0,0,1,0,0,0,,0,1,1,0,1,2,2,0
+9,Axel Tuanzebe,38.0,eng ENG,LB,22-359,24,1,0,0,1,0,1,2,50.0,1,0,0,0,0,1,5,0
+10,Harry Maguire,5.0,eng ENG,CB,27-247,90,1,0,1,0,0,0,0,,0,0,0,0,1,2,7,0
+11,Victor Lindelöf,2.0,se SWE,CB,26-113,90,0,0,0,0,0,0,1,0.0,1,1,0,1,1,1,4,0
+12,Aaron Wan-Bissaka,29.0,eng ENG,RB,22-347,90,2,1,2,0,0,2,3,66.7,1,0,0,0,2,4,3,0
+13,David de Gea,1.0,es ESP,GK,30-000,90,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,0
+14,14 Players,,,,,990,13,4,6,7,0,7,19,36.8,12,9,1,8,9,22,28,0

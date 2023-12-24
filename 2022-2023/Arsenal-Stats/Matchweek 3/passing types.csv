@@ -1,0 +1,19 @@
+,Unnamed: 0_level_0,Unnamed: 1_level_0,Unnamed: 2_level_0,Unnamed: 3_level_0,Unnamed: 4_level_0,Unnamed: 5_level_0,Unnamed: 6_level_0,Pass Types,Pass Types,Pass Types,Pass Types,Pass Types,Pass Types,Pass Types,Pass Types,Corner Kicks,Corner Kicks,Corner Kicks,Outcomes,Outcomes,Outcomes
+,Player,#,Nation,Pos,Age,Min,Att,Live,Dead,FK,TB,Sw,Crs,TI,CK,In,Out,Str,Cmp,Off,Blocks
+0,Gabriel Jesus,9.0,br BRA,"FW,RW",25-139,90,21,20,1,0,0,0,0,0,0,0,0,0,19,0,1
+1,Gabriel Martinelli,11.0,br BRA,LW,21-063,73,21,17,4,1,0,0,5,0,3,3,0,0,15,0,2
+2,Eddie Nketiah,14.0,eng ENG,"LW,FW",23-082,17,6,6,0,0,0,0,0,0,0,0,0,0,6,0,0
+3,Bukayo Saka,7.0,eng ENG,RW,20-349,87,41,39,2,0,0,0,3,1,1,1,0,0,36,0,0
+4,Kieran Tierney,3.0,sct SCO,"LW,RW",25-076,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+5,Granit Xhaka,34.0,ch SUI,"LM,DM",29-327,87,56,53,2,2,0,0,0,0,0,0,0,0,47,1,1
+6,Albert Sambi Lokonga,23.0,be BEL,DM,22-302,3,3,3,0,0,0,0,0,0,0,0,0,0,3,0,0
+7,Thomas Partey,5.0,gh GHA,"CM,DM",29-068,90,70,69,0,0,0,0,0,0,0,0,0,0,61,1,2
+8,Martin Ødegaard,8.0,no NOR,RM,23-246,73,57,52,4,4,0,0,2,0,0,0,0,0,45,1,2
+9,Emile Smith Rowe,10.0,eng ENG,AM,22-023,17,5,5,0,0,0,0,0,0,0,0,0,0,5,0,0
+10,Oleksandr Zinchenko,35.0,ua UKR,LB,25-248,90,78,70,8,1,0,0,2,7,0,0,0,0,67,0,0
+11,Gabriel Dos Santos,6.0,br BRA,CB,24-244,90,80,79,1,1,0,1,0,0,0,0,0,0,74,0,1
+12,William Saliba,12.0,fr FRA,CB,21-149,90,73,73,0,0,0,0,0,0,0,0,0,0,73,0,0
+13,Ben White,4.0,eng ENG,RB,24-316,74,68,62,6,1,0,1,4,5,0,0,0,0,60,0,0
+14,Takehiro Tomiyasu,18.0,jp JPN,RB,23-288,16,8,8,0,0,0,0,0,0,0,0,0,0,6,0,0
+15,Aaron Ramsdale,1.0,eng ENG,GK,24-098,90,27,20,7,3,0,0,0,0,0,0,0,0,17,0,0
+16,16 Players,,,,,990,614,576,35,13,0,2,16,13,4,4,0,0,534,3,9

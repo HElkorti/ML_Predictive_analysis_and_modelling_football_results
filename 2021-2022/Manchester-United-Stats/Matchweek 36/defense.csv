@@ -1,0 +1,17 @@
+,Unnamed: 0_level_0,Unnamed: 1_level_0,Unnamed: 2_level_0,Unnamed: 3_level_0,Unnamed: 4_level_0,Unnamed: 5_level_0,Tackles,Tackles,Tackles,Tackles,Tackles,Challenges,Challenges,Challenges,Challenges,Blocks,Blocks,Blocks,Unnamed: 18_level_0,Unnamed: 19_level_0,Unnamed: 20_level_0,Unnamed: 21_level_0
+,Player,#,Nation,Pos,Age,Min,Tkl,TklW,Def 3rd,Mid 3rd,Att 3rd,Tkl,Att,Tkl%,Lost,Blocks,Sh,Pass,Int,Tkl+Int,Clr,Err
+0,Cristiano Ronaldo,7.0,pt POR,FW,37-091,90,0,0,0,0,0,0,0,,0,0,0,0,0,0,1,0
+1,Bruno Fernandes,18.0,pt POR,"LW,LM,AM",27-241,90,1,1,0,1,0,0,0,,0,0,0,0,0,1,0,0
+2,Anthony Elanga,36.0,se SWE,RW,20-010,45,1,1,0,1,0,1,1,100.0,0,1,0,1,0,1,0,0
+3,Fred,17.0,br BRA,"DM,CM",29-063,45,3,3,0,2,1,2,2,100.0,0,1,0,1,1,4,0,0
+4,Juan Mata,8.0,es ESP,AM,34-009,69,0,0,0,0,0,0,0,,0,0,0,0,0,0,1,0
+5,Harry Maguire,5.0,eng ENG,CB,29-063,21,1,0,0,1,0,0,0,,0,0,0,0,0,1,0,0
+6,Nemanja Matić,31.0,rs SRB,DM,33-279,45,3,3,2,1,0,1,1,100.0,0,2,1,1,1,4,0,0
+7,Edinson Cavani,21.0,uy URU,FW,35-082,45,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,0
+8,Scott McTominay,39.0,sct SCO,"DM,RM,CM",25-150,90,0,0,0,0,0,0,1,0.0,1,0,0,0,0,0,4,1
+9,Alex Telles,27.0,br BRA,"LB,WB",29-143,90,0,0,0,0,0,0,1,0.0,1,1,1,0,3,3,7,0
+10,Raphaël Varane,19.0,fr FRA,CB,29-012,90,0,0,0,0,0,0,1,0.0,1,0,0,0,1,1,7,1
+11,Victor Lindelöf,2.0,se SWE,CB,27-294,90,0,0,0,0,0,0,0,,0,1,1,0,0,0,6,0
+12,Diogo Dalot,20.0,pt POR,"RB,WB",23-050,90,4,3,2,1,1,2,3,66.7,1,3,2,1,5,9,5,0
+13,David de Gea,1.0,es ESP,GK,31-181,90,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,0
+14,14 Players,,,,,990,13,11,4,7,2,6,10,60.0,4,9,5,4,11,24,31,2

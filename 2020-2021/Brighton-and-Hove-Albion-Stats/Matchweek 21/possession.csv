@@ -1,0 +1,17 @@
+,Unnamed: 0_level_0,Unnamed: 1_level_0,Unnamed: 2_level_0,Unnamed: 3_level_0,Unnamed: 4_level_0,Unnamed: 5_level_0,Touches,Touches,Touches,Touches,Touches,Touches,Touches,Take-Ons,Take-Ons,Take-Ons,Take-Ons,Take-Ons,Carries,Carries,Carries,Carries,Carries,Carries,Carries,Carries,Receiving,Receiving
+,Player,#,Nation,Pos,Age,Min,Touches,Def Pen,Def 3rd,Mid 3rd,Att 3rd,Att Pen,Live,Att,Succ,Succ%,Tkld,Tkld%,Carries,TotDist,PrgDist,PrgC,1/3,CPA,Mis,Dis,Rec,PrgR
+0,Neal Maupay,9.0,fr FRA,FW,24-170,78,34,2,6,13,16,7,34,4,3,75.0,1,25.0,24,109,70,1,0,0,6,2,21,7
+1,Adam Lallana,14.0,eng ENG,RM,32-266,12,9,2,2,2,5,0,9,0,0,,0,,6,15,0,0,0,0,0,1,8,0
+2,Alexis Mac Allister,10.0,ar ARG,"AM,LM",22-038,90,62,0,14,19,31,8,62,3,2,66.7,1,33.3,43,164,89,1,2,0,3,0,42,6
+3,Leandro Trossard,11.0,be BEL,AM,26-058,78,57,0,6,24,27,9,57,1,1,100.0,0,0.0,40,180,118,3,1,2,4,3,44,13
+4,Aaron Connolly,7.0,ie IRL,FW,21-003,12,7,0,0,3,4,1,7,0,0,,0,,3,11,1,0,0,0,2,0,4,0
+5,Yves Bissouma,8.0,ml MLI,CM,24-154,90,41,3,12,25,5,0,41,0,0,,0,,24,104,43,1,1,0,1,0,17,0
+6,Pascal Groß,13.0,de GER,CM,29-230,90,76,3,14,28,34,6,76,3,1,33.3,2,66.7,51,143,61,2,3,1,4,0,45,7
+7,Solly March,20.0,eng ENG,"WB,LB",26-195,90,63,2,23,15,26,5,63,1,0,0.0,1,100.0,37,145,58,2,1,0,1,0,34,9
+8,Joël Veltman,34.0,nl NED,WB,29-016,71,49,1,6,20,23,3,49,1,0,0.0,1,100.0,34,94,54,1,1,0,0,0,31,3
+9,Dan Burn,33.0,eng ENG,CB,28-267,19,13,3,6,3,4,1,13,0,0,,0,,6,19,3,0,0,0,0,1,4,1
+10,Adam Webster,4.0,eng ENG,CB,26-027,90,53,7,24,23,6,1,53,0,0,,0,,31,136,92,1,0,0,0,0,31,0
+11,Lewis Dunk,5.0,eng ENG,CB,29-071,90,42,3,26,12,4,2,42,0,0,,0,,25,86,16,0,0,0,0,0,22,0
+12,Ben White,3.0,eng ENG,"CB,RB,WB",23-115,90,52,4,23,18,11,3,52,0,0,,0,,35,167,93,1,2,1,0,0,31,1
+13,Robert Sánchez,26.0,es ESP,GK,23-074,90,32,27,32,0,0,0,32,0,0,,0,,20,91,70,0,0,0,0,0,18,0
+14,14 Players,,,,,990,590,57,194,205,196,46,590,13,7,53.8,6,46.2,379,1464,768,13,11,4,21,7,352,47

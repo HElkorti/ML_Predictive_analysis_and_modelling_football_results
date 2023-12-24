@@ -1,0 +1,15 @@
+,Unnamed: 0_level_0,Unnamed: 1_level_0,Unnamed: 2_level_0,Unnamed: 3_level_0,Unnamed: 4_level_0,Unnamed: 5_level_0,Tackles,Tackles,Tackles,Tackles,Tackles,Challenges,Challenges,Challenges,Challenges,Blocks,Blocks,Blocks,Unnamed: 18_level_0,Unnamed: 19_level_0,Unnamed: 20_level_0,Unnamed: 21_level_0
+,Player,#,Nation,Pos,Age,Min,Tkl,TklW,Def 3rd,Mid 3rd,Att 3rd,Tkl,Att,Tkl%,Lost,Blocks,Sh,Pass,Int,Tkl+Int,Clr,Err
+0,Patrick Bamford,9.0,eng ENG,FW,27-156,90,1,0,0,1,0,1,1,100.0,0,1,0,1,0,1,0,0
+1,Jack Harrison,22.0,eng ENG,"LM,LW",24-080,90,0,0,0,0,0,0,1,0.0,1,2,0,2,2,2,1,0
+2,Mateusz Klich,43.0,pl POL,CM,30-240,90,1,0,1,0,0,0,1,0.0,1,0,0,0,1,2,1,0
+3,Stuart Dallas,15.0,nir NIR,CM,29-295,90,4,2,0,4,0,2,3,66.7,1,0,0,0,0,4,0,0
+4,Raphinha,18.0,br BRA,"RM,RW",24-056,90,1,1,0,0,1,0,1,0.0,1,3,0,3,0,1,0,0
+5,Kalvin Phillips,23.0,eng ENG,DM,25-068,87,2,0,1,1,0,1,2,50.0,1,0,0,0,2,4,2,0
+6,Jamie Shackleton,46.0,eng ENG,RM,21-123,3,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,0
+7,Ezgjan Alioski,10.0,mk MKD,"LB,LM",28-362,90,5,2,2,0,3,1,4,25.0,3,0,0,0,0,5,3,0
+8,Liam Cooper,6.0,sct SCO,CB,29-162,90,5,3,3,1,1,2,2,100.0,0,2,2,0,0,5,1,0
+9,Pascal Struijk,21.0,nl NED,CB,21-181,90,2,1,1,1,0,1,1,100.0,0,1,0,1,0,2,3,0
+10,Luke Ayling,2.0,eng ENG,"RB,CB",29-167,90,1,1,0,0,1,0,0,,0,1,1,0,1,2,3,0
+11,Illan Meslier,1.0,fr FRA,GK,20-343,90,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,0
+12,12 Players,,,,,990,22,10,8,8,6,8,16,50.0,8,10,3,7,6,28,14,0

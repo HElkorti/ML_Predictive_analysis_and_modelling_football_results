@@ -1,0 +1,17 @@
+,Unnamed: 0_level_0,Unnamed: 1_level_0,Unnamed: 2_level_0,Unnamed: 3_level_0,Unnamed: 4_level_0,Unnamed: 5_level_0,Unnamed: 6_level_0,Pass Types,Pass Types,Pass Types,Pass Types,Pass Types,Pass Types,Pass Types,Pass Types,Corner Kicks,Corner Kicks,Corner Kicks,Outcomes,Outcomes,Outcomes
+,Player,#,Nation,Pos,Age,Min,Att,Live,Dead,FK,TB,Sw,Crs,TI,CK,In,Out,Str,Cmp,Off,Blocks
+0,Karlan Grant,29.0,eng ENG,FW,23-088,69,12,11,1,0,0,0,0,0,0,0,0,0,10,0,0
+1,Charlie Austin,15.0,eng ENG,FW,31-163,21,5,5,0,0,0,0,0,0,0,0,0,0,4,0,1
+2,Grady Diangana,11.0,cd COD,LM,22-240,90,20,20,0,0,0,0,0,0,0,0,0,0,13,0,2
+3,Conor Gallagher,18.0,eng ENG,CM,20-313,90,21,20,1,0,0,0,0,0,0,0,0,0,15,0,0
+4,Jake Livermore,8.0,eng ENG,CM,31-031,79,18,18,0,0,0,0,1,0,0,0,0,0,9,0,2
+5,Filip Krovinović,17.0,hr CRO,"RM,CM",25-108,11,3,3,0,0,0,0,0,0,0,0,0,0,1,0,0
+6,Matt Phillips,10.0,sct SCO,RM,29-277,86,19,16,3,1,0,0,3,0,2,0,1,0,14,0,0
+7,Lee Peltier,22.0,eng ENG,"RB,RM",34-004,4,2,1,1,0,0,0,0,1,0,0,0,0,2,0,0
+8,Romaine Sawyers,19.0,kn SKN,"DM,CM",29-043,90,29,28,1,1,0,0,0,0,0,0,0,0,21,0,0
+9,Kieran Gibbs,3.0,eng ENG,LB,31-080,90,19,17,2,0,0,0,0,2,0,0,0,0,13,0,0
+10,Dara O'Shea,27.0,ie IRL,CB,21-286,90,16,16,0,0,0,0,0,0,0,0,0,0,11,0,1
+11,Semi Ajayi,6.0,ng NGA,CB,27-036,90,15,14,0,0,0,0,0,0,0,0,0,0,6,1,0
+12,Darnell Furlong,2.0,eng ENG,"RB,CB",25-045,90,26,17,9,0,0,1,1,9,0,0,0,0,14,0,0
+13,Sam Johnstone,1.0,eng ENG,GK,27-265,90,41,18,22,6,0,1,0,0,0,0,0,0,16,1,0
+14,14 Players,,,,,990,246,204,40,8,0,2,5,12,2,0,1,0,149,2,6

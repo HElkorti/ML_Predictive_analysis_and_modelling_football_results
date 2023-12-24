@@ -1,0 +1,17 @@
+,Unnamed: 0_level_0,Unnamed: 1_level_0,Unnamed: 2_level_0,Unnamed: 3_level_0,Unnamed: 4_level_0,Unnamed: 5_level_0,Touches,Touches,Touches,Touches,Touches,Touches,Touches,Take-Ons,Take-Ons,Take-Ons,Take-Ons,Take-Ons,Carries,Carries,Carries,Carries,Carries,Carries,Carries,Carries,Receiving,Receiving
+,Player,#,Nation,Pos,Age,Min,Touches,Def Pen,Def 3rd,Mid 3rd,Att 3rd,Att Pen,Live,Att,Succ,Succ%,Tkld,Tkld%,Carries,TotDist,PrgDist,PrgC,1/3,CPA,Mis,Dis,Rec,PrgR
+0,Ollie Watkins,11.0,eng ENG,FW,27-116,90,27,0,0,17,10,4,27,3,0,0.0,3,100.0,13,37,24,1,0,1,2,0,20,6
+1,Jacob Ramsey,41.0,eng ENG,LW,21-332,76,28,1,7,9,12,0,28,2,1,50.0,1,50.0,15,117,28,1,1,0,2,2,15,5
+2,Bertrand Traoré,9.0,bf BFA,LW,27-231,14,7,0,2,2,3,1,7,0,0,,0,,3,29,17,1,0,1,0,1,2,0
+3,John McGinn,7.0,sct SCO,RW,28-189,90,35,1,5,9,22,4,35,6,2,33.3,1,16.7,20,124,52,1,2,0,2,2,22,5
+4,Emi Buendía,10.0,ar ARG,AM,26-121,90,42,2,7,18,17,2,42,4,1,25.0,2,50.0,27,104,22,0,0,0,3,5,32,3
+5,Douglas Luiz,6.0,br BRA,DM,24-351,90,56,2,12,33,11,0,56,2,1,50.0,1,50.0,30,168,67,2,1,0,1,0,32,1
+6,Leander Dendoncker,32.0,be BEL,DM,28-010,90,41,0,5,31,6,1,41,0,0,,0,,24,115,26,0,0,0,0,0,23,1
+7,Álex Moreno,15.0,es ESP,LB,29-321,76,49,3,10,19,20,1,49,3,1,33.3,2,66.7,31,144,70,3,4,0,2,0,30,6
+8,Lucas Digne,27.0,fr FRA,LB,29-279,14,6,0,1,3,2,0,6,0,0,,0,,3,5,3,0,0,0,0,0,3,0
+9,Tyrone Mings,5.0,eng ENG,CB,30-043,90,85,12,44,39,2,2,85,0,0,,0,,60,320,200,0,0,0,0,0,61,0
+10,Ezri Konsa,4.0,eng ENG,CB,25-184,90,82,8,54,26,2,1,82,0,0,,0,,62,296,178,0,0,0,0,0,65,0
+11,Ashley Young,18.0,eng ENG,RB,37-290,84,52,1,20,22,11,1,52,1,0,0.0,1,100.0,35,186,25,0,0,0,0,0,34,1
+12,Calum Chambers,16.0,eng ENG,RB,28-095,6,7,2,2,5,0,0,7,0,0,,0,,2,1,0,0,0,0,0,0,2,0
+13,Emiliano Martínez,1.0,ar ARG,GK,30-235,90,54,41,54,1,0,0,54,0,0,,0,,38,156,77,0,0,0,0,0,30,0
+14,14 Players,,,,,990,571,73,223,234,118,17,571,21,6,28.6,11,52.4,363,1802,789,9,8,2,12,10,371,28

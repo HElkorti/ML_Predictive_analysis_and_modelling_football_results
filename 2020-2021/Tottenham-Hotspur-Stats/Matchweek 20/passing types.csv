@@ -1,0 +1,17 @@
+,Unnamed: 0_level_0,Unnamed: 1_level_0,Unnamed: 2_level_0,Unnamed: 3_level_0,Unnamed: 4_level_0,Unnamed: 5_level_0,Unnamed: 6_level_0,Pass Types,Pass Types,Pass Types,Pass Types,Pass Types,Pass Types,Pass Types,Pass Types,Corner Kicks,Corner Kicks,Corner Kicks,Outcomes,Outcomes,Outcomes
+,Player,#,Nation,Pos,Age,Min,Att,Live,Dead,FK,TB,Sw,Crs,TI,CK,In,Out,Str,Cmp,Off,Blocks
+0,Harry Kane,10.0,eng ENG,FW,27-184,45,9,9,0,0,0,0,1,0,0,0,0,0,3,0,0
+1,Érik Lamela,11.0,ar ARG,RW,28-330,45,17,16,1,1,0,0,0,0,0,0,0,0,12,0,2
+2,Son Heung-min,7.0,kr KOR,"FW,LW",28-204,90,31,27,4,0,0,0,1,0,1,1,0,0,26,0,0
+3,Steven Bergwijn,23.0,nl NED,"RW,LW",23-112,80,38,38,0,0,0,0,1,0,0,0,0,0,28,0,2
+4,Gareth Bale,9.0,wls WAL,LW,31-196,10,6,5,1,0,0,1,0,1,0,0,0,0,5,0,0
+5,Matt Doherty,2.0,ie IRL,"RB,LM",29-012,90,51,45,6,1,0,0,1,5,0,0,0,0,36,0,1
+6,Tanguy Ndombele,28.0,fr FRA,"AM,CM",24-031,90,61,58,2,1,1,0,0,0,0,0,0,0,51,1,0
+7,Pierre Højbjerg,5.0,dk DEN,"DM,CM",25-176,90,105,101,3,3,0,2,1,0,0,0,0,0,91,1,0
+8,Serge Aurier,24.0,ci CIV,RM,28-035,45,21,19,2,0,0,0,0,2,0,0,0,0,18,0,0
+9,Harry Winks,8.0,eng ENG,DM,24-361,45,52,51,1,1,0,1,0,0,0,0,0,0,45,0,0
+10,Ben Davies,33.0,wls WAL,"LB,CB",27-279,90,62,52,10,1,0,0,0,9,0,0,0,0,53,0,1
+11,Eric Dier,15.0,eng ENG,CB,27-013,90,82,81,1,1,1,0,0,0,0,0,0,0,71,0,2
+12,Joe Rodon,14.0,wls WAL,CB,23-098,90,56,56,0,0,0,0,0,0,0,0,0,0,52,0,0
+13,Hugo Lloris,1.0,fr FRA,GK,34-033,90,30,19,11,4,0,0,0,0,0,0,0,0,23,0,0
+14,14 Players,,,,,990,621,577,42,13,2,4,5,17,1,1,0,0,514,2,8

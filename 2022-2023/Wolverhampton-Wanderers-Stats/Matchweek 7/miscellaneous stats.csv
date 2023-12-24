@@ -1,0 +1,19 @@
+,Unnamed: 0_level_0,Unnamed: 1_level_0,Unnamed: 2_level_0,Unnamed: 3_level_0,Unnamed: 4_level_0,Unnamed: 5_level_0,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Aerial Duels,Aerial Duels,Aerial Duels
+,Player,#,Nation,Pos,Age,Min,CrdY,CrdR,2CrdY,Fls,Fld,Off,Crs,Int,TklW,PKwon,PKcon,OG,Recov,Won,Lost,Won%
+0,Raúl Jiménez,9.0,mx MEX,FW,31-300,78,0,0,0,1,1,1,1,0,1,0,0,0,3,2,4,33.3
+1,Diego Costa,29.0,es ESP,FW,34-145,12,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,
+2,Matheus Nunes,27.0,pt POR,LW,24-186,63,0,0,0,0,1,0,1,0,2,0,0,0,4,2,0,100.0
+3,João Gomes,35.0,br BRA,LW,22-017,27,0,0,0,1,1,0,0,0,0,0,0,0,0,1,0,100.0
+4,Pablo Sarabia,21.0,es ESP,RW,30-294,45,1,0,0,1,1,1,0,0,1,0,0,0,1,0,1,0.0
+5,Adama Traoré,37.0,es ESP,RW,27-035,45,0,0,0,0,4,1,1,0,1,0,0,0,3,2,0,100.0
+6,João Moutinho,28.0,pt POR,AM,36-174,63,0,0,0,2,0,0,1,0,1,0,0,0,0,0,1,0.0
+7,Daniel Podence,10.0,pt POR,AM,27-131,27,0,0,0,0,0,0,1,1,1,0,0,0,2,0,0,
+8,Mario Lemina,5.0,ga GAB,DM,29-181,90,0,0,0,2,1,0,0,2,2,0,0,0,7,0,1,0.0
+9,Rúben Neves,8.0,pt POR,DM,25-353,90,1,0,0,1,0,0,0,4,1,0,0,0,7,1,2,33.3
+10,Hugo Bueno,64.0,es ESP,LB,20-164,23,0,0,0,0,0,0,1,0,0,0,0,0,4,0,0,
+11,Rayan Aït Nouri,3.0,dz ALG,LB,21-268,67,0,0,0,1,1,0,0,2,1,0,0,0,6,0,0,
+12,Max Kilman,23.0,eng ENG,CB,25-282,90,0,0,0,1,2,0,0,0,0,0,0,0,8,2,0,100.0
+13,Craig Dawson,15.0,eng ENG,CB,32-299,90,0,0,0,1,1,0,0,1,1,0,0,0,2,1,0,100.0
+14,Nélson Semedo,22.0,pt POR,RB,29-105,90,1,0,0,3,0,0,2,1,0,0,0,0,4,1,0,100.0
+15,José Sá,1.0,pt POR,GK,30-043,90,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,
+16,16 Players,,,,,990,3,0,0,14,13,3,8,11,12,0,0,0,54,12,9,57.1

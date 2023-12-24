@@ -1,0 +1,17 @@
+,Unnamed: 0_level_0,Unnamed: 1_level_0,Unnamed: 2_level_0,Unnamed: 3_level_0,Unnamed: 4_level_0,Unnamed: 5_level_0,Unnamed: 6_level_0,Pass Types,Pass Types,Pass Types,Pass Types,Pass Types,Pass Types,Pass Types,Pass Types,Corner Kicks,Corner Kicks,Corner Kicks,Outcomes,Outcomes,Outcomes
+,Player,#,Nation,Pos,Age,Min,Att,Live,Dead,FK,TB,Sw,Crs,TI,CK,In,Out,Str,Cmp,Off,Blocks
+0,Ivan Toney,17.0,eng ENG,FW,25-228,90,13,13,0,0,0,0,0,0,0,0,0,0,8,0,0
+1,Marcus Forss,9.0,fi FIN,FW,22-134,90,13,9,3,0,0,1,0,0,0,0,0,0,9,1,1
+2,Mathias Jensen,8.0,dk DEN,CM,25-302,67,33,30,2,1,0,0,2,0,1,0,0,0,26,1,0
+3,Vitaly Janelt,27.0,de GER,CM,23-173,23,12,11,1,0,0,1,2,0,1,1,0,0,7,0,0
+4,Christian Nørgaard,6.0,dk DEN,CM,27-234,90,70,65,4,3,0,0,0,0,0,0,0,0,50,1,3
+5,Frank Onyeka,15.0,ng NGA,CM,23-302,57,31,31,0,0,0,0,3,0,0,0,0,0,27,0,0
+6,Saman Ghoddos,14.0,ir IRN,CM,28-054,33,13,13,0,0,0,0,0,0,0,0,0,0,10,0,0
+7,Rico Henry,3.0,eng ENG,WB,24-114,90,47,46,1,0,0,0,5,1,0,0,0,0,31,0,2
+8,Sergi Canós,7.0,es ESP,WB,24-270,76,56,56,0,0,0,1,5,0,0,0,0,0,34,0,2
+9,Mads Roerslev,30.0,dk DEN,WB,22-128,14,7,6,1,0,0,0,2,1,0,0,0,0,6,0,0
+10,Ethan Pinnock,5.0,jm JAM,CB,28-154,90,80,73,6,0,0,0,0,6,0,0,0,0,61,1,1
+11,Pontus Jansson,18.0,se SWE,CB,30-259,90,62,62,0,0,0,0,0,0,0,0,0,0,52,0,0
+12,Mathias Jørgensen,22.0,dk DEN,CB,31-190,90,90,75,15,3,0,0,3,12,0,0,0,0,65,0,0
+13,Álvaro Fernández,40.0,es ESP,GK,23-200,90,48,38,10,2,0,0,0,0,0,0,0,0,37,0,0
+14,14 Players,,,,,990,575,528,43,9,0,3,22,20,2,1,0,0,423,4,9

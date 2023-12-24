@@ -1,0 +1,17 @@
+,Unnamed: 0_level_0,Unnamed: 1_level_0,Unnamed: 2_level_0,Unnamed: 3_level_0,Unnamed: 4_level_0,Unnamed: 5_level_0,Touches,Touches,Touches,Touches,Touches,Touches,Touches,Take-Ons,Take-Ons,Take-Ons,Take-Ons,Take-Ons,Carries,Carries,Carries,Carries,Carries,Carries,Carries,Carries,Receiving,Receiving
+,Player,#,Nation,Pos,Age,Min,Touches,Def Pen,Def 3rd,Mid 3rd,Att 3rd,Att Pen,Live,Att,Succ,Succ%,Tkld,Tkld%,Carries,TotDist,PrgDist,PrgC,1/3,CPA,Mis,Dis,Rec,PrgR
+0,Ollie Watkins,11.0,eng ENG,FW,25-116,90,48,1,1,9,39,14,48,3,1,33.3,2,66.7,25,120,63,3,2,3,5,0,39,11
+1,Anwar El Ghazi,21.0,nl NED,LW,25-357,90,63,2,6,19,38,6,62,1,0,0.0,1,100.0,37,183,89,3,2,2,2,0,50,8
+2,Bertrand Traoré,15.0,bf BFA,RW,25-231,89,41,0,4,14,23,7,41,1,1,100.0,0,0.0,31,197,79,3,1,1,2,1,35,11
+3,Wesley Moraes,9.0,br BRA,RW,24-150,1,3,0,0,0,3,1,3,0,0,,0,,1,2,0,0,0,0,0,0,1,0
+4,Ross Barkley,20.0,eng ENG,AM,27-141,81,59,0,1,18,40,3,59,2,2,100.0,0,0.0,35,187,112,3,4,0,4,1,44,5
+5,Keinan Davis,39.0,eng ENG,AM,23-071,9,7,0,0,3,4,4,7,1,1,100.0,0,0.0,3,11,5,0,0,0,0,0,5,3
+6,John McGinn,7.0,sct SCO,DM,26-189,90,84,2,9,46,30,1,84,2,0,0.0,2,100.0,59,239,154,3,5,1,4,0,65,3
+7,Douglas Luiz,6.0,br BRA,DM,22-351,77,67,1,8,40,20,1,67,1,1,100.0,0,0.0,35,169,95,2,1,1,0,0,48,3
+8,Jacob Ramsey,41.0,eng ENG,DM,19-332,13,11,0,3,4,4,1,11,2,1,50.0,1,50.0,8,57,12,0,0,0,0,0,7,0
+9,Matt Targett,18.0,eng ENG,LB,25-219,90,83,3,15,31,37,3,83,2,1,50.0,1,50.0,51,215,106,1,2,0,0,0,55,9
+10,Tyrone Mings,5.0,eng ENG,CB,28-043,90,78,8,40,33,6,3,78,0,0,,0,,46,325,231,2,1,0,1,1,49,0
+11,Ezri Konsa,4.0,eng ENG,CB,23-184,90,67,10,30,32,6,3,67,1,1,100.0,0,0.0,31,191,144,0,0,0,2,0,32,0
+12,Ahmed Elmohamady,27.0,eg EGY,RB,33-228,90,82,1,23,34,26,1,82,1,1,100.0,0,0.0,45,151,94,2,0,0,0,0,50,4
+13,Emiliano Martínez,26.0,ar ARG,GK,28-235,90,35,29,35,0,0,0,35,0,0,,0,,16,69,49,0,0,0,0,0,15,0
+14,14 Players,,,,,990,728,57,175,283,276,48,727,17,10,58.8,7,41.2,423,2116,1233,22,18,8,20,3,495,57

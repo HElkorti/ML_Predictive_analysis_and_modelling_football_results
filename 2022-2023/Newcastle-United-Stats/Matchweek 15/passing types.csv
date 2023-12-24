@@ -1,0 +1,19 @@
+,Unnamed: 0_level_0,Unnamed: 1_level_0,Unnamed: 2_level_0,Unnamed: 3_level_0,Unnamed: 4_level_0,Unnamed: 5_level_0,Unnamed: 6_level_0,Pass Types,Pass Types,Pass Types,Pass Types,Pass Types,Pass Types,Pass Types,Pass Types,Corner Kicks,Corner Kicks,Corner Kicks,Outcomes,Outcomes,Outcomes
+,Player,#,Nation,Pos,Age,Min,Att,Live,Dead,FK,TB,Sw,Crs,TI,CK,In,Out,Str,Cmp,Off,Blocks
+0,Callum Wilson,9.0,eng ENG,FW,30-252,45,5,5,0,0,0,0,0,0,0,0,0,0,3,0,1
+1,Chris Wood,20.0,nz NZL,FW,30-334,45,11,11,0,0,0,0,0,0,0,0,0,0,7,0,0
+2,Jacob Murphy,23.0,eng ENG,LW,27-255,63,16,15,1,0,0,0,2,1,0,0,0,0,11,0,0
+3,Jonjo Shelvey,8.0,eng ENG,LM,30-252,27,13,11,2,1,0,1,0,0,0,0,0,0,12,0,0
+4,Miguel Almirón,24.0,py PAR,RW,28-269,80,23,22,0,0,0,0,1,0,0,0,0,0,14,1,2
+5,Elliot Anderson,32.0,sct SCO,RW,20-000,10,4,4,0,0,0,0,0,0,0,0,0,0,2,0,1
+6,Joe Willock,28.0,eng ENG,"LM,LW",23-078,72,27,26,1,0,0,0,2,1,0,0,0,0,20,0,1
+7,Allan Saint-Maximin,10.0,fr FRA,LW,25-239,18,10,10,0,0,0,0,0,0,0,0,0,0,7,0,0
+8,Bruno Guimarães,39.0,br BRA,CM,24-355,90,56,56,0,0,1,2,0,0,0,0,0,0,35,0,0
+9,Sean Longstaff,36.0,eng ENG,RM,25-007,90,33,31,2,0,0,0,1,0,1,0,0,0,28,0,1
+10,Dan Burn,33.0,eng ENG,LB,30-181,90,45,38,7,0,0,1,0,7,0,0,0,0,31,0,2
+11,Sven Botman,4.0,nl NED,CB,22-298,90,41,38,3,3,0,0,0,0,0,0,0,0,31,0,0
+12,Fabian Schär,5.0,ch SUI,CB,30-321,90,39,37,2,2,0,1,0,0,0,0,0,0,23,0,0
+13,Kieran Trippier,2.0,eng ENG,RB,32-048,79,59,48,11,3,1,0,3,7,1,1,0,0,41,0,0
+14,Javier Manquillo,19.0,es ESP,RB,28-185,11,7,6,1,0,0,0,0,1,0,0,0,0,4,0,0
+15,Nick Pope,22.0,eng ENG,GK,30-201,90,31,22,9,2,0,0,0,0,0,0,0,0,21,0,0
+16,16 Players,,,,,990,420,380,39,11,2,5,9,17,2,1,0,0,290,1,8

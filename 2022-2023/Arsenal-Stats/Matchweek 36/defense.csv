@@ -1,0 +1,19 @@
+,Unnamed: 0_level_0,Unnamed: 1_level_0,Unnamed: 2_level_0,Unnamed: 3_level_0,Unnamed: 4_level_0,Unnamed: 5_level_0,Tackles,Tackles,Tackles,Tackles,Tackles,Challenges,Challenges,Challenges,Challenges,Blocks,Blocks,Blocks,Unnamed: 18_level_0,Unnamed: 19_level_0,Unnamed: 20_level_0,Unnamed: 21_level_0
+,Player,#,Nation,Pos,Age,Min,Tkl,TklW,Def 3rd,Mid 3rd,Att 3rd,Tkl,Att,Tkl%,Lost,Blocks,Sh,Pass,Int,Tkl+Int,Clr,Err
+0,Gabriel Jesus,9.0,br BRA,FW,26-041,76,2,0,2,0,0,1,1,100.0,0,2,0,2,0,2,1,0
+1,Eddie Nketiah,14.0,eng ENG,FW,23-349,14,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,0
+2,Gabriel Martinelli,11.0,br BRA,LW,21-330,19,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,0
+3,Leandro Trossard,19.0,be BEL,"LW,LM",28-161,71,0,0,0,0,0,0,3,0.0,3,3,0,3,1,1,0,1
+4,Bukayo Saka,7.0,eng ENG,RW,21-251,90,4,1,2,1,1,2,4,50.0,2,1,0,1,0,4,0,0
+5,Granit Xhaka,34.0,ch SUI,LM,30-229,59,1,0,0,1,0,1,1,100.0,0,1,0,1,0,1,0,0
+6,Reiss Nelson,24.0,eng ENG,LW,23-155,31,1,0,0,1,0,0,1,0.0,1,0,0,0,0,1,0,0
+7,Jorginho,20.0,it ITA,CM,31-145,59,2,2,1,0,1,1,3,33.3,2,0,0,0,1,3,0,0
+8,Thomas Partey,5.0,gh GHA,CM,29-335,31,1,0,0,1,0,0,0,,0,0,0,0,0,1,0,0
+9,Martin Ødegaard,8.0,no NOR,RM,24-148,76,0,0,0,0,0,0,1,0.0,1,1,0,1,0,0,0,0
+10,Emile Smith Rowe,10.0,eng ENG,RM,22-290,14,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,0
+11,Kieran Tierney,3.0,sct SCO,LB,25-343,90,3,1,0,2,1,2,2,100.0,0,0,0,0,1,4,1,0
+12,Gabriel Dos Santos,6.0,br BRA,CB,25-146,90,1,0,1,0,0,0,0,,0,1,0,1,2,3,1,0
+13,Jakub Kiwior,15.0,pl POL,CB,23-088,90,1,1,0,1,0,1,3,33.3,2,1,0,1,2,3,2,0
+14,Ben White,4.0,eng ENG,RB,25-218,90,4,1,2,2,0,4,6,66.7,2,2,1,1,0,4,0,0
+15,Aaron Ramsdale,1.0,eng ENG,GK,25-000,90,0,0,0,0,0,0,0,,0,0,0,0,0,0,1,0
+16,16 Players,,,,,990,20,6,8,9,3,12,25,48.0,13,12,1,11,7,27,6,1

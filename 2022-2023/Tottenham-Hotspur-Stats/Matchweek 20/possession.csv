@@ -1,0 +1,19 @@
+,Unnamed: 0_level_0,Unnamed: 1_level_0,Unnamed: 2_level_0,Unnamed: 3_level_0,Unnamed: 4_level_0,Unnamed: 5_level_0,Touches,Touches,Touches,Touches,Touches,Touches,Touches,Take-Ons,Take-Ons,Take-Ons,Take-Ons,Take-Ons,Carries,Carries,Carries,Carries,Carries,Carries,Carries,Carries,Receiving,Receiving
+,Player,#,Nation,Pos,Age,Min,Touches,Def Pen,Def 3rd,Mid 3rd,Att 3rd,Att Pen,Live,Att,Succ,Succ%,Tkld,Tkld%,Carries,TotDist,PrgDist,PrgC,1/3,CPA,Mis,Dis,Rec,PrgR
+0,Harry Kane,10.0,eng ENG,FW,29-171,90,31,4,7,9,16,4,31,2,2,100.0,0,0.0,25,140,37,2,0,1,0,1,28,4
+1,Son Heung-min,7.0,kr KOR,"AM,LM",30-191,90,39,0,7,12,20,5,39,0,0,,0,,28,134,37,2,0,2,3,3,33,4
+2,Dejan Kulusevski,21.0,se SWE,"AM,RM,WB",22-265,87,50,3,9,17,24,5,50,4,0,0.0,3,75.0,33,178,96,5,0,2,3,2,30,8
+3,Bryan Gil,11.0,es ESP,RM,21-338,3,3,0,0,2,1,0,3,0,0,,0,,3,23,17,0,0,0,0,0,3,2
+4,Pierre Højbjerg,5.0,dk DEN,CM,27-163,90,81,5,24,46,13,1,81,1,1,100.0,0,0.0,60,232,130,0,1,0,1,0,55,0
+5,Pape Matar Sarr,29.0,sn SEN,CM,20-123,75,58,5,17,30,11,1,58,1,0,0.0,0,0.0,44,195,79,0,0,0,1,1,42,0
+6,Yves Bissouma,38.0,ml MLI,CM,26-138,15,11,0,2,8,1,0,11,0,0,,0,,7,36,9,0,0,0,0,0,5,0
+7,Ryan Sessegnon,19.0,eng ENG,WB,22-242,75,48,2,18,15,15,2,48,1,1,100.0,0,0.0,28,189,84,3,2,0,4,1,26,3
+8,Ivan Perišić,14.0,hr CRO,LB,33-347,15,9,0,2,4,3,0,9,0,0,,0,,4,8,3,0,0,0,1,0,3,0
+9,Matt Doherty,2.0,ie IRL,WB,30-364,70,48,7,16,12,20,1,48,0,0,,0,,24,62,24,1,0,0,2,0,24,7
+10,Richarlison,9.0,br BRA,"FW,AM",25-250,20,7,0,1,2,4,3,7,0,0,,0,,5,29,2,0,0,0,0,1,5,3
+11,Clément Lenglet,34.0,fr FRA,CB,27-212,87,73,10,32,33,8,1,73,0,0,,0,,55,257,201,2,5,0,0,0,61,0
+12,Ben Davies,33.0,wls WAL,CB,29-266,3,4,0,1,3,0,0,4,0,0,,0,,2,10,10,0,0,0,0,0,2,0
+13,Eric Dier,15.0,eng ENG,CB,29-000,90,66,12,33,32,1,1,66,0,0,,0,,39,81,37,0,0,0,1,0,38,0
+14,Cristian Romero,17.0,ar ARG,"CB,RB",24-263,90,59,7,28,26,5,1,59,0,0,,0,,39,184,85,1,1,0,0,1,36,1
+15,Hugo Lloris,1.0,fr FRA,GK,36-020,90,34,32,33,1,0,0,34,0,0,,0,,23,134,85,0,0,0,0,0,20,0
+16,16 Players,,,,,990,621,87,230,252,142,25,621,9,4,44.4,3,33.3,419,1892,936,16,9,5,16,10,411,32

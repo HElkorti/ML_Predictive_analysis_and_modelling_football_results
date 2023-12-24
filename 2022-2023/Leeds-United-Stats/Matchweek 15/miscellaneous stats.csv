@@ -1,0 +1,18 @@
+,Unnamed: 0_level_0,Unnamed: 1_level_0,Unnamed: 2_level_0,Unnamed: 3_level_0,Unnamed: 4_level_0,Unnamed: 5_level_0,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Aerial Duels,Aerial Duels,Aerial Duels
+,Player,#,Nation,Pos,Age,Min,CrdY,CrdR,2CrdY,Fls,Fld,Off,Crs,Int,TklW,PKwon,PKcon,OG,Recov,Won,Lost,Won%
+0,Rodrigo,19.0,es ESP,FW,31-244,80,0,0,0,0,1,0,1,0,0,0,0,0,3,4,2,66.7
+1,Joe Gelhardt,30.0,eng ENG,FW,20-185,10,1,0,0,1,0,0,0,0,1,0,0,0,0,0,1,0.0
+2,Crysencio Summerville,10.0,nl NED,"LW,LM",21-006,90,0,0,0,1,2,0,2,1,2,1,0,0,3,0,0,
+3,Jack Harrison,11.0,eng ENG,RW,25-350,45,0,0,0,1,1,0,5,0,1,0,0,0,3,1,0,100.0
+4,Degnand Gnonto,29.0,it ITA,"RW,RM",19-000,45,0,0,0,1,1,0,3,0,2,0,0,0,2,0,1,0.0
+5,Brenden Aaronson,7.0,us USA,AM,22-014,85,0,0,0,2,0,0,8,0,0,0,0,0,3,0,1,0.0
+6,Luke Ayling,2.0,eng ENG,CB,31-072,5,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,100.0
+7,Marc Roca,8.0,es ESP,DM,25-344,53,0,0,0,0,0,0,2,0,1,0,0,0,5,0,0,
+8,Sam Greenwood,42.0,eng ENG,"DM,CM",20-283,37,0,0,0,0,0,0,8,0,1,0,0,0,7,0,0,
+9,Tyler Adams,12.0,us USA,"DM,CM",23-264,90,0,0,0,4,2,0,0,1,4,0,0,0,7,0,1,0.0
+10,Pascal Struijk,21.0,nl NED,LB,23-086,90,0,0,0,0,1,0,3,1,1,0,0,0,7,4,2,66.7
+11,Liam Cooper,6.0,sct SCO,CB,31-067,90,0,0,0,1,1,0,0,2,0,0,0,0,6,7,2,77.8
+12,Robin Koch,5.0,de GER,CB,26-111,90,0,0,0,3,0,0,0,1,1,0,0,0,6,4,2,66.7
+13,Rasmus Nissen,25.0,dk DEN,RB,25-117,90,1,0,0,2,0,0,8,0,3,0,0,0,3,3,1,75.0
+14,Illan Meslier,1.0,fr FRA,GK,22-248,90,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,100.0
+15,15 Players,,,,,990,2,0,0,16,9,0,40,6,17,1,0,0,56,25,13,65.8

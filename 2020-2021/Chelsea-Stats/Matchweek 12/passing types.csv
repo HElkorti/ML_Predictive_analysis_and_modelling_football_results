@@ -1,0 +1,16 @@
+,Unnamed: 0_level_0,Unnamed: 1_level_0,Unnamed: 2_level_0,Unnamed: 3_level_0,Unnamed: 4_level_0,Unnamed: 5_level_0,Unnamed: 6_level_0,Pass Types,Pass Types,Pass Types,Pass Types,Pass Types,Pass Types,Pass Types,Pass Types,Corner Kicks,Corner Kicks,Corner Kicks,Outcomes,Outcomes,Outcomes
+,Player,#,Nation,Pos,Age,Min,Att,Live,Dead,FK,TB,Sw,Crs,TI,CK,In,Out,Str,Cmp,Off,Blocks
+0,Olivier Giroud,18.0,fr FRA,FW,34-073,90,25,24,1,0,0,0,2,1,0,0,0,0,15,0,1
+1,Timo Werner,11.0,de GER,"LW,AM",24-281,90,29,29,0,0,0,0,3,0,0,0,0,0,21,0,0
+2,Kai Havertz,29.0,de GER,RW,21-184,67,29,28,1,0,0,0,0,1,0,0,0,0,23,0,0
+3,Tammy Abraham,9.0,eng ENG,FW,23-071,23,8,8,0,0,0,0,2,0,0,0,0,0,5,0,1
+4,Mason Mount,19.0,eng ENG,"LM,AM",21-337,90,60,51,9,0,0,0,7,1,6,2,2,0,44,0,3
+5,N'Golo Kanté,7.0,fr FRA,"CM,DM",29-258,90,71,71,0,0,0,0,1,0,0,0,0,0,60,0,0
+6,Mateo Kovačić,17.0,hr CRO,"RM,DM",26-220,81,68,68,0,0,0,0,3,0,0,0,0,0,54,0,1
+7,Billy Gilmour,23.0,sct SCO,DM,19-184,9,11,11,0,0,0,0,1,0,0,0,0,0,6,0,1
+8,Ben Chilwell,21.0,eng ENG,LB,23-357,90,63,44,19,4,0,1,5,15,0,0,0,0,46,0,5
+9,Thiago Silva,6.0,br BRA,CB,36-081,90,102,98,4,4,0,1,1,0,0,0,0,0,95,0,0
+10,Kurt Zouma,15.0,fr FRA,CB,26-046,90,113,108,5,3,0,1,0,2,0,0,0,0,99,0,0
+11,Reece James,24.0,eng ENG,RB,21-004,90,88,72,15,0,0,0,7,15,0,0,0,0,75,1,0
+12,Edouard Mendy,16.0,sn SEN,GK,28-286,90,40,32,8,1,0,0,0,0,0,0,0,0,34,0,0
+13,13 Players,,,,,990,707,644,62,12,0,3,32,35,6,2,2,0,577,1,12

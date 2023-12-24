@@ -1,0 +1,17 @@
+,Unnamed: 0_level_0,Unnamed: 1_level_0,Unnamed: 2_level_0,Unnamed: 3_level_0,Unnamed: 4_level_0,Unnamed: 5_level_0,Touches,Touches,Touches,Touches,Touches,Touches,Touches,Take-Ons,Take-Ons,Take-Ons,Take-Ons,Take-Ons,Carries,Carries,Carries,Carries,Carries,Carries,Carries,Carries,Receiving,Receiving
+,Player,#,Nation,Pos,Age,Min,Touches,Def Pen,Def 3rd,Mid 3rd,Att 3rd,Att Pen,Live,Att,Succ,Succ%,Tkld,Tkld%,Carries,TotDist,PrgDist,PrgC,1/3,CPA,Mis,Dis,Rec,PrgR
+0,Ivan Perišić,14.0,hr CRO,"FW,LB,WB",33-277,90,54,0,3,11,42,6,54,1,1,100.0,0,0.0,22,174,108,6,1,1,3,0,26,12
+1,Harry Kane,10.0,eng ENG,FW,29-101,90,31,0,2,14,16,8,31,1,0,0.0,1,100.0,14,96,18,0,2,0,6,3,24,5
+2,Pierre Højbjerg,5.0,dk DEN,CM,27-093,90,69,4,12,37,21,2,69,0,0,,0,,35,172,100,2,1,1,1,1,46,7
+3,Yves Bissouma,38.0,ml MLI,CM,26-068,87,70,3,14,41,15,0,70,2,2,100.0,0,0.0,35,211,114,2,2,0,3,2,45,0
+4,Lucas Moura,27.0,br BRA,AM,30-085,3,4,0,0,2,2,2,4,0,0,,0,,0,0,0,0,0,0,0,0,1,0
+5,Rodrigo Bentancur,30.0,uy URU,CM,25-134,90,65,0,8,41,17,2,65,4,4,100.0,0,0.0,33,196,60,1,1,0,1,1,47,2
+6,Ryan Sessegnon,19.0,eng ENG,LB,22-172,67,38,2,5,17,16,3,38,3,1,33.3,1,33.3,13,122,80,2,0,1,0,0,19,6
+7,Dejan Kulusevski,21.0,se SWE,"FW,AM",22-195,23,16,0,0,1,15,1,16,0,0,,0,,13,99,27,0,1,1,2,0,13,5
+8,Ben Davies,33.0,wls WAL,CB,29-196,90,69,2,22,39,8,0,69,1,0,0.0,1,100.0,40,177,134,0,3,0,2,0,44,0
+9,Clément Lenglet,34.0,fr FRA,CB,27-142,90,88,9,41,44,4,1,88,1,0,0.0,1,100.0,62,335,161,1,1,0,0,0,67,0
+10,Eric Dier,15.0,eng ENG,CB,28-295,90,93,9,39,36,18,2,93,1,1,100.0,0,0.0,52,286,167,2,3,0,1,0,61,6
+11,Emerson,12.0,br BRA,RB,23-296,67,50,2,15,20,15,0,50,0,0,,0,,26,205,146,5,5,0,1,2,31,4
+12,Matt Doherty,2.0,ie IRL,"RB,WB",30-294,23,27,0,1,10,16,2,27,1,0,0.0,1,100.0,13,45,24,1,0,0,1,0,20,9
+13,Hugo Lloris,1.0,fr FRA,GK,35-315,90,21,18,21,0,0,0,21,0,0,,0,,8,52,46,0,0,0,0,0,9,0
+14,14 Players,,,,,990,695,49,183,313,205,29,695,15,9,60.0,5,33.3,366,2170,1185,22,20,4,21,9,453,56

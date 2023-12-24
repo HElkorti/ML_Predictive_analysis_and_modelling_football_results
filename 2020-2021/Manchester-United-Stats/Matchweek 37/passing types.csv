@@ -1,0 +1,17 @@
+,Unnamed: 0_level_0,Unnamed: 1_level_0,Unnamed: 2_level_0,Unnamed: 3_level_0,Unnamed: 4_level_0,Unnamed: 5_level_0,Unnamed: 6_level_0,Pass Types,Pass Types,Pass Types,Pass Types,Pass Types,Pass Types,Pass Types,Pass Types,Corner Kicks,Corner Kicks,Corner Kicks,Outcomes,Outcomes,Outcomes
+,Player,#,Nation,Pos,Age,Min,Att,Live,Dead,FK,TB,Sw,Crs,TI,CK,In,Out,Str,Cmp,Off,Blocks
+0,Edinson Cavani,7.0,uy URU,FW,34-093,86,17,17,0,0,0,0,0,0,0,0,0,0,13,0,0
+1,Donny van de Beek,34.0,nl NED,LW,24-030,4,3,3,0,0,0,0,0,0,0,0,0,0,2,0,0
+2,Paul Pogba,6.0,fr FRA,"LW,DM",28-064,90,57,55,1,1,0,2,2,0,0,0,0,0,48,1,2
+3,Mason Greenwood,11.0,eng ENG,RW,19-229,82,27,27,0,0,0,1,0,0,0,0,0,0,25,0,0
+4,Amad Diallo,19.0,ci CIV,RW,18-311,8,4,4,0,0,0,0,0,0,0,0,0,0,4,0,0
+5,Bruno Fernandes,18.0,pt POR,AM,26-252,90,68,60,5,1,0,0,6,1,1,0,1,0,44,3,2
+6,Fred,17.0,br BRA,DM,28-074,90,83,80,3,3,0,2,1,0,0,0,0,0,72,0,2
+7,Scott McTominay,39.0,sct SCO,DM,24-161,61,49,47,2,2,0,0,0,0,0,0,0,0,43,0,0
+8,Marcus Rashford,10.0,eng ENG,"LW,FW",23-199,29,14,13,1,0,0,0,0,1,0,0,0,0,12,0,0
+9,Luke Shaw,23.0,eng ENG,LB,25-310,90,70,54,16,1,0,0,7,10,5,3,2,0,51,0,2
+10,Axel Tuanzebe,38.0,eng ENG,CB,23-185,90,53,51,2,2,0,0,0,0,0,0,0,0,48,0,0
+11,Victor Lindelöf,2.0,se SWE,CB,26-305,90,58,57,1,1,0,0,1,0,0,0,0,0,51,0,0
+12,Aaron Wan-Bissaka,29.0,eng ENG,RB,23-173,90,65,57,8,1,0,0,2,7,0,0,0,0,59,0,0
+13,David de Gea,1.0,es ESP,GK,30-192,90,21,18,3,1,0,0,0,0,0,0,0,0,17,0,0
+14,14 Players,,,,,990,589,543,42,13,0,5,19,19,6,3,3,0,489,4,8

@@ -1,0 +1,17 @@
+,Unnamed: 0_level_0,Unnamed: 1_level_0,Unnamed: 2_level_0,Unnamed: 3_level_0,Unnamed: 4_level_0,Unnamed: 5_level_0,Touches,Touches,Touches,Touches,Touches,Touches,Touches,Take-Ons,Take-Ons,Take-Ons,Take-Ons,Take-Ons,Carries,Carries,Carries,Carries,Carries,Carries,Carries,Carries,Receiving,Receiving
+,Player,#,Nation,Pos,Age,Min,Touches,Def Pen,Def 3rd,Mid 3rd,Att 3rd,Att Pen,Live,Att,Succ,Succ%,Tkld,Tkld%,Carries,TotDist,PrgDist,PrgC,1/3,CPA,Mis,Dis,Rec,PrgR
+0,Patrick Bamford,9.0,eng ENG,FW,29-160,57,15,0,0,6,9,3,15,1,0,0.0,0,0.0,11,28,2,0,0,0,3,0,13,1
+1,Georginio Rutter,24.0,fr FRA,FW,20-298,33,12,0,0,6,6,1,12,3,1,33.3,2,66.7,9,60,23,1,1,0,1,2,10,4
+2,Degnand Gnonto,29.0,it ITA,LW,19-099,90,34,0,5,16,16,1,34,4,1,25.0,2,50.0,23,169,76,3,2,0,2,3,18,5
+3,Crysencio Summerville,10.0,nl NED,RW,21-105,90,40,1,4,17,23,6,40,7,3,42.9,2,28.6,29,246,157,6,3,1,4,3,22,3
+4,Jack Harrison,11.0,eng ENG,AM,26-084,72,38,0,1,20,17,2,38,4,2,50.0,1,25.0,21,89,19,0,1,1,2,7,21,3
+5,Brenden Aaronson,7.0,us USA,AM,22-113,18,8,0,0,3,5,1,8,0,0,,0,,5,9,0,0,0,0,2,2,5,1
+6,Tyler Adams,12.0,us USA,DM,23-363,90,41,2,7,32,2,0,41,0,0,,0,,17,41,10,0,0,0,1,1,16,1
+7,Weston McKennie,28.0,us USA,DM,24-168,85,31,1,2,19,10,1,31,1,1,100.0,0,0.0,17,83,15,0,1,0,0,3,16,0
+8,Sam Greenwood,42.0,eng ENG,DM,21-017,5,5,0,0,2,3,0,5,0,0,,0,,0,0,0,0,0,0,0,0,0,0
+9,Junior Firpo,3.0,es ESP,LB,26-174,90,43,1,14,23,7,1,43,1,1,100.0,0,0.0,18,95,61,2,1,0,0,0,10,0
+10,Maximilian Wöber,39.0,at AUT,CB,25-008,90,36,4,17,16,4,2,36,0,0,,0,,19,67,29,0,0,0,0,0,19,2
+11,Robin Koch,5.0,de GER,CB,26-210,90,37,4,18,17,3,1,37,0,0,,0,,16,107,54,1,0,0,0,0,17,1
+12,Luke Ayling,2.0,eng ENG,RB,31-171,90,56,5,20,24,14,3,56,2,0,0.0,2,100.0,21,88,27,0,0,0,1,0,16,3
+13,Illan Meslier,1.0,fr FRA,GK,22-347,90,28,21,28,0,0,0,28,0,0,,0,,17,76,33,0,0,0,0,0,13,0
+14,14 Players,,,,,990,424,39,116,201,119,22,424,23,9,39.1,9,39.1,223,1158,506,13,9,2,16,21,196,24

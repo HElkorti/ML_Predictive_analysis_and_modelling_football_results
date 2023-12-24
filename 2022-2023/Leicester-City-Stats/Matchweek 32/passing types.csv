@@ -1,0 +1,18 @@
+,Unnamed: 0_level_0,Unnamed: 1_level_0,Unnamed: 2_level_0,Unnamed: 3_level_0,Unnamed: 4_level_0,Unnamed: 5_level_0,Unnamed: 6_level_0,Pass Types,Pass Types,Pass Types,Pass Types,Pass Types,Pass Types,Pass Types,Pass Types,Corner Kicks,Corner Kicks,Corner Kicks,Outcomes,Outcomes,Outcomes
+,Player,#,Nation,Pos,Age,Min,Att,Live,Dead,FK,TB,Sw,Crs,TI,CK,In,Out,Str,Cmp,Off,Blocks
+0,Jamie Vardy,9.0,eng ENG,FW,36-101,45,6,4,2,0,1,0,0,0,0,0,0,0,4,0,0
+1,Kiernan Dewsbury-Hall,22.0,eng ENG,FW,24-228,45,17,16,1,0,1,0,1,1,0,0,0,0,13,0,1
+2,Patson Daka,20.0,zm ZAM,LW,24-195,90,29,28,1,0,0,0,2,1,0,0,0,0,16,0,2
+3,Tetê,37.0,br BRA,RW,23-066,76,20,19,1,0,0,1,2,0,1,1,0,0,16,0,0
+4,Dennis Praet,26.0,be BEL,RW,28-343,14,8,7,1,1,0,0,1,0,0,0,0,0,6,0,0
+5,Kelechi Iheanacho,14.0,ng NGA,AM,26-201,84,17,17,0,0,0,0,0,0,0,0,0,0,14,0,2
+6,Nampalys Mendy,24.0,sn SEN,AM,30-303,6,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+7,Boubakary Soumaré,42.0,fr FRA,DM,24-054,90,41,41,0,0,1,0,0,0,0,0,0,0,32,0,2
+8,Youri Tielemans,8.0,be BEL,DM,25-350,66,40,33,7,6,1,0,2,1,0,0,0,0,26,0,2
+9,Wilfred Ndidi,25.0,ng NGA,DM,26-127,24,10,10,0,0,0,0,0,0,0,0,0,0,5,0,1
+10,Victor Bernth Kristiansen,16.0,dk DEN,LB,20-127,90,44,34,10,0,0,0,3,10,0,0,0,0,32,0,1
+11,Çağlar Söyüncü,4.0,tr TUR,CB,26-334,90,47,42,4,4,0,0,0,0,0,0,0,0,36,1,0
+12,Wout Faes,3.0,be BEL,CB,25-019,90,45,44,1,1,0,0,0,0,0,0,0,0,39,0,0
+13,Timothy Castagne,27.0,be BEL,RB,27-138,90,40,34,6,1,0,0,1,5,0,0,0,0,35,0,1
+14,Daniel Iversen,31.0,dk DEN,GK,25-277,90,31,13,18,5,0,0,0,0,0,0,0,0,16,0,0
+15,15 Players,,,,,990,395,342,52,18,4,1,12,18,1,1,0,0,290,1,12

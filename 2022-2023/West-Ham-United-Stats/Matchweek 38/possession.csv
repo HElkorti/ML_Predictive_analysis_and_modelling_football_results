@@ -1,0 +1,19 @@
+,Unnamed: 0_level_0,Unnamed: 1_level_0,Unnamed: 2_level_0,Unnamed: 3_level_0,Unnamed: 4_level_0,Unnamed: 5_level_0,Touches,Touches,Touches,Touches,Touches,Touches,Touches,Take-Ons,Take-Ons,Take-Ons,Take-Ons,Take-Ons,Carries,Carries,Carries,Carries,Carries,Carries,Carries,Carries,Receiving,Receiving
+,Player,#,Nation,Pos,Age,Min,Touches,Def Pen,Def 3rd,Mid 3rd,Att 3rd,Att Pen,Live,Att,Succ,Succ%,Tkld,Tkld%,Carries,TotDist,PrgDist,PrgC,1/3,CPA,Mis,Dis,Rec,PrgR
+0,Michail Antonio,9.0,jm JAM,FW,33-061,61,23,1,2,13,9,2,23,1,1,100.0,0,0.0,15,129,67,4,1,1,4,0,19,6
+1,Danny Ings,18.0,eng ENG,"FW,AM",30-309,29,12,0,0,3,9,5,12,1,0,0.0,1,100.0,7,28,12,0,0,0,1,1,10,3
+2,Saïd Benrahma,22.0,dz ALG,LW,27-291,61,39,1,3,21,15,6,39,3,2,66.7,1,33.3,28,246,151,7,1,6,0,1,34,9
+3,Jarrod Bowen,20.0,eng ENG,RW,26-159,29,13,1,3,1,9,3,13,0,0,,0,,9,75,65,3,1,1,1,0,9,3
+4,Pablo Fornals,8.0,es ESP,"RW,AM,LW",27-095,90,56,0,2,22,32,6,56,0,0,,0,,31,120,68,3,1,3,0,0,42,10
+5,Lucas Paquetá,11.0,br BRA,"AM,FW",25-274,70,60,0,6,40,14,0,60,4,2,50.0,2,50.0,40,202,112,2,2,0,2,3,49,5
+6,Maxwel Cornet,14.0,ci CIV,LW,26-243,20,19,1,2,8,9,2,19,0,0,,0,,15,45,4,0,0,0,0,1,15,0
+7,Flynn Downes,12.0,eng ENG,DM,24-128,85,69,0,9,55,7,0,69,1,1,100.0,0,0.0,50,195,83,0,0,0,0,0,53,0
+8,Manuel Lanzini,10.0,ar ARG,DM,30-102,5,16,0,2,9,5,0,16,0,0,,0,,13,46,11,0,1,0,0,0,14,0
+9,Declan Rice,41.0,eng ENG,DM,24-134,90,90,1,14,62,15,0,90,0,0,,0,,73,466,261,4,5,0,2,0,81,0
+10,Aaron Cresswell,3.0,eng ENG,LB,33-164,70,56,3,19,29,8,0,56,0,0,,0,,36,160,84,0,1,0,0,0,45,2
+11,Emerson Palmieri,33.0,it ITA,LB,28-298,20,29,0,12,7,10,1,29,0,0,,0,,20,126,73,2,1,0,0,1,20,1
+12,Nayef Aguerd,27.0,ma MAR,CB,27-059,90,72,7,48,23,1,1,72,0,0,,0,,44,193,121,0,0,0,0,0,49,0
+13,Thilo Kehrer,24.0,de GER,CB,26-249,90,58,5,28,30,1,0,58,0,0,,0,,31,167,110,0,0,0,0,0,37,0
+14,Vladimír Coufal,5.0,cz CZE,RB,30-279,90,62,6,17,23,22,2,62,0,0,,0,,30,75,34,0,1,0,0,0,30,15
+15,Łukasz Fabiański,1.0,pl POL,GK,38-040,90,23,18,23,0,0,0,23,0,0,,0,,13,43,28,0,0,0,0,0,9,0
+16,16 Players,,,,,990,697,44,190,346,166,28,697,10,6,60.0,4,40.0,455,2316,1284,25,15,11,10,7,516,54

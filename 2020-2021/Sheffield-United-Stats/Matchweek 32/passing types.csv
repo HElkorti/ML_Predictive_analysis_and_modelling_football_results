@@ -1,0 +1,17 @@
+,Unnamed: 0_level_0,Unnamed: 1_level_0,Unnamed: 2_level_0,Unnamed: 3_level_0,Unnamed: 4_level_0,Unnamed: 5_level_0,Unnamed: 6_level_0,Pass Types,Pass Types,Pass Types,Pass Types,Pass Types,Pass Types,Pass Types,Pass Types,Corner Kicks,Corner Kicks,Corner Kicks,Outcomes,Outcomes,Outcomes
+,Player,#,Nation,Pos,Age,Min,Att,Live,Dead,FK,TB,Sw,Crs,TI,CK,In,Out,Str,Cmp,Off,Blocks
+0,David McGoldrick,17.0,ie IRL,"FW,AM",33-139,90,28,28,0,0,0,1,1,0,0,0,0,0,20,0,3
+1,Rhian Brewster,24.0,eng ENG,AM,21-016,74,17,15,2,0,0,0,1,0,0,0,0,0,12,0,1
+2,Oliver Burke,14.0,sct SCO,"FW,AM",24-010,16,3,3,0,0,0,0,1,0,0,0,0,0,1,0,0
+3,Ben Osborn,23.0,eng ENG,AM,26-255,74,48,48,0,0,0,1,4,0,0,0,0,0,41,0,1
+4,Lys Mousset,11.0,fr FRA,"FW,CM",25-068,16,1,1,0,0,0,0,0,0,0,0,0,0,1,0,0
+5,John Fleck,4.0,sct SCO,CM,29-236,90,63,60,3,2,0,0,1,0,1,0,0,0,55,0,1
+6,Oliver Norwood,16.0,nir NIR,CM,30-005,90,88,83,5,3,0,4,5,0,2,0,0,0,81,0,0
+7,Enda Stevens,3.0,ie IRL,WB,30-282,90,61,53,6,0,0,0,2,6,0,0,0,0,48,2,0
+8,George Baldock,2.0,gr GRE,"WB,CB",28-039,90,59,52,7,1,1,0,5,6,0,0,0,0,48,0,1
+9,Kean Bryan,29.0,eng ENG,CB,24-167,90,68,66,2,2,0,2,4,0,0,0,0,0,55,0,0
+10,John Egan,12.0,ie IRL,CB,28-179,90,47,47,0,0,0,0,1,0,0,0,0,0,43,0,0
+11,Ethan Ampadu,22.0,wls WAL,CB,20-215,82,55,53,2,0,0,0,3,2,0,0,0,0,47,0,0
+12,Jayden Bogle,20.0,eng ENG,WB,20-264,8,3,3,0,0,0,0,0,0,0,0,0,0,2,0,0
+13,Aaron Ramsdale,1.0,eng ENG,GK,22-338,90,26,20,6,2,0,0,0,0,0,0,0,0,22,0,0
+14,14 Players,,,,,990,567,532,33,10,1,8,28,14,3,0,0,0,476,2,7

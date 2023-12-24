@@ -1,0 +1,17 @@
+,Unnamed: 0_level_0,Unnamed: 1_level_0,Unnamed: 2_level_0,Unnamed: 3_level_0,Unnamed: 4_level_0,Unnamed: 5_level_0,Tackles,Tackles,Tackles,Tackles,Tackles,Challenges,Challenges,Challenges,Challenges,Blocks,Blocks,Blocks,Unnamed: 18_level_0,Unnamed: 19_level_0,Unnamed: 20_level_0,Unnamed: 21_level_0
+,Player,#,Nation,Pos,Age,Min,Tkl,TklW,Def 3rd,Mid 3rd,Att 3rd,Tkl,Att,Tkl%,Lost,Blocks,Sh,Pass,Int,Tkl+Int,Clr,Err
+0,Roberto Firmino,9.0,br BRA,FW,29-233,89,1,1,0,0,1,0,0,,0,1,0,1,0,1,0,0
+1,Diogo Jota,20.0,pt POR,FW,24-170,1,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,0
+2,Sadio Mané,10.0,sn SEN,LW,29-043,90,2,2,0,0,2,1,4,25.0,3,2,0,2,1,3,0,0
+3,Mohamed Salah,11.0,eg EGY,RW,28-342,90,0,0,0,0,0,0,0,,0,2,0,2,0,0,0,0
+4,Georginio Wijnaldum,5.0,nl NED,LM,30-193,77,0,0,0,0,0,0,0,,0,1,0,1,1,1,0,0
+5,James Milner,7.0,eng ENG,"LM,LB",35-139,13,2,2,0,1,1,2,2,100.0,0,0,0,0,1,3,0,0
+6,Fabinho,3.0,br BRA,CM,27-212,90,0,0,0,0,0,0,1,0.0,1,1,0,1,1,1,1,0
+7,Thiago Alcántara,6.0,es ESP,RM,30-042,90,5,3,0,4,1,1,2,50.0,1,1,0,1,3,8,0,0
+8,Andrew Robertson,26.0,sct SCO,LB,27-073,89,3,2,2,1,0,1,3,33.3,2,0,0,0,1,4,0,0
+9,Alex Oxlade-Chamberlain,15.0,eng ENG,"LM,LB",27-281,1,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,0
+10,Rhys Williams,46.0,eng ENG,CB,20-109,90,0,0,0,0,0,0,0,,0,0,0,0,0,0,1,0
+11,Nathaniel Phillips,47.0,eng ENG,CB,24-063,90,1,1,0,1,0,0,1,0.0,1,0,0,0,1,2,3,0
+12,Trent Alexander-Arnold,66.0,eng ENG,RB,22-228,90,1,1,1,0,0,1,1,100.0,0,2,0,2,1,2,0,1
+13,Alisson,1.0,br BRA,GK,28-233,90,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,0
+14,14 Players,,,,,990,15,12,3,7,5,6,14,42.9,8,10,0,10,10,25,5,1

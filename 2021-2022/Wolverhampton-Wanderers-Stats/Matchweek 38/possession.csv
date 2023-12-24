@@ -1,0 +1,17 @@
+,Unnamed: 0_level_0,Unnamed: 1_level_0,Unnamed: 2_level_0,Unnamed: 3_level_0,Unnamed: 4_level_0,Unnamed: 5_level_0,Touches,Touches,Touches,Touches,Touches,Touches,Touches,Take-Ons,Take-Ons,Take-Ons,Take-Ons,Take-Ons,Carries,Carries,Carries,Carries,Carries,Carries,Carries,Carries,Receiving,Receiving
+,Player,#,Nation,Pos,Age,Min,Touches,Def Pen,Def 3rd,Mid 3rd,Att 3rd,Att Pen,Live,Att,Succ,Succ%,Tkld,Tkld%,Carries,TotDist,PrgDist,PrgC,1/3,CPA,Mis,Dis,Rec,PrgR
+0,Pedro Neto,7.0,pt POR,FW,22-074,21,14,0,2,6,6,2,14,1,1,100.0,0,0.0,13,79,27,1,2,1,0,2,13,1
+1,Hwang Hee-chan,26.0,kr KOR,FW,26-116,69,33,0,2,9,23,8,33,4,0,0.0,4,100.0,23,243,184,8,6,5,5,1,28,7
+2,Raúl Jiménez,9.0,mx MEX,FW,31-017,90,33,1,4,20,10,2,33,1,1,100.0,0,0.0,12,102,54,2,1,1,3,2,23,3
+3,João Moutinho,28.0,pt POR,CM,35-256,90,52,2,17,25,10,0,52,1,0,0.0,1,100.0,33,85,32,0,1,0,0,0,30,0
+4,Rúben Neves,8.0,pt POR,CM,25-070,90,63,2,22,37,4,0,63,2,2,100.0,0,0.0,43,197,86,0,0,0,2,1,42,0
+5,Leander Dendoncker,32.0,be BEL,CM,27-037,89,37,1,12,19,6,2,37,0,0,,0,,19,72,31,0,1,0,0,1,21,4
+6,Francisco Trincão,11.0,pt POR,CM,22-144,1,5,0,0,5,0,0,5,2,0,0.0,2,100.0,3,9,3,0,0,0,0,0,2,0
+7,Rayan Aït Nouri,3.0,dz ALG,WB,20-350,90,67,7,27,26,17,0,67,4,1,25.0,3,75.0,42,223,105,1,0,0,3,0,37,4
+8,Jonny Castro,19.0,es ESP,WB,28-080,90,57,8,26,24,7,0,57,2,1,50.0,1,50.0,32,158,75,1,2,0,1,2,34,1
+9,Toti Gomes,24.0,pt POR,CB,23-126,90,49,11,32,18,0,0,49,2,2,100.0,0,0.0,31,149,80,0,1,0,0,0,26,0
+10,Conor Coady,16.0,eng ENG,CB,29-086,90,70,24,54,17,0,0,70,0,0,,0,,42,160,40,0,1,1,1,1,45,0
+11,Willy Boly,15.0,ci CIV,CB,31-108,90,58,18,47,11,1,1,58,0,0,,0,,33,98,33,0,0,0,0,0,32,0
+12,José Sá,1.0,pt POR,GK,29-125,45,16,15,16,0,0,0,16,0,0,,0,,9,84,61,0,0,0,0,0,2,0
+13,John Ruddy,21.0,eng ENG,GK,35-210,45,16,15,16,0,0,0,16,0,0,,0,,7,49,37,0,0,0,0,0,3,0
+14,14 Players,,,,,990,570,104,277,217,84,15,570,19,8,42.1,11,57.9,342,1708,848,13,15,8,15,10,338,20

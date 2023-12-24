@@ -1,0 +1,18 @@
+,Unnamed: 0_level_0,Unnamed: 1_level_0,Unnamed: 2_level_0,Unnamed: 3_level_0,Unnamed: 4_level_0,Unnamed: 5_level_0,Unnamed: 6_level_0,Pass Types,Pass Types,Pass Types,Pass Types,Pass Types,Pass Types,Pass Types,Pass Types,Corner Kicks,Corner Kicks,Corner Kicks,Outcomes,Outcomes,Outcomes
+,Player,#,Nation,Pos,Age,Min,Att,Live,Dead,FK,TB,Sw,Crs,TI,CK,In,Out,Str,Cmp,Off,Blocks
+0,Rodrigo,19.0,es ESP,FW,31-304,90,19,16,3,0,0,0,0,0,0,0,0,0,12,0,0
+1,Crysencio Summerville,10.0,nl NED,LW,21-066,62,28,28,0,0,0,0,0,0,0,0,0,0,21,0,1
+2,Mateusz Klich,43.0,pl POL,"LW,RW",32-205,28,12,12,0,0,0,0,0,0,0,0,0,0,9,0,0
+3,Brenden Aaronson,7.0,us USA,RW,22-074,62,19,17,2,1,0,0,2,0,1,1,0,0,11,0,0
+4,Jack Harrison,11.0,eng ENG,"RW,LW",26-045,28,21,16,4,1,1,0,3,0,3,3,0,0,16,1,1
+5,Degnand Gnonto,29.0,it ITA,AM,19-060,89,36,34,0,0,0,0,3,0,0,0,0,0,22,2,4
+6,Joe Gelhardt,30.0,eng ENG,AM,20-245,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+7,Tyler Adams,12.0,us USA,DM,23-324,90,62,60,2,2,0,0,0,0,0,0,0,0,58,0,0
+8,Marc Roca,8.0,es ESP,DM,26-039,77,44,40,4,2,0,0,3,0,2,2,0,0,35,0,0
+9,Sam Greenwood,42.0,eng ENG,DM,20-343,13,12,8,4,2,0,0,3,0,2,1,1,0,5,0,0
+10,Pascal Struijk,21.0,nl NED,LB,23-146,90,82,64,18,1,0,0,2,17,0,0,0,0,68,0,4
+11,Liam Cooper,6.0,sct SCO,CB,31-127,90,47,44,3,3,0,1,0,0,0,0,0,0,41,0,0
+12,Robin Koch,5.0,de GER,CB,26-171,90,51,47,4,4,0,0,0,0,0,0,0,0,43,0,1
+13,Luke Ayling,2.0,eng ENG,RB,31-132,90,58,51,7,0,0,0,6,7,0,0,0,0,44,0,2
+14,Illan Meslier,1.0,fr FRA,GK,22-308,90,39,21,18,4,0,0,0,0,0,0,0,0,27,0,0
+15,15 Players,,,,,990,531,459,69,20,1,1,22,24,8,7,1,0,412,3,13

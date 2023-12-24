@@ -1,0 +1,16 @@
+,Unnamed: 0_level_0,Unnamed: 1_level_0,Unnamed: 2_level_0,Unnamed: 3_level_0,Unnamed: 4_level_0,Unnamed: 5_level_0,Total,Total,Total,Total,Total,Short,Short,Short,Medium,Medium,Medium,Long,Long,Long,Unnamed: 20_level_0,Unnamed: 21_level_0,Unnamed: 22_level_0,Unnamed: 23_level_0,Unnamed: 24_level_0,Unnamed: 25_level_0,Unnamed: 26_level_0,Unnamed: 27_level_0
+,Player,#,Nation,Pos,Age,Min,Cmp,Att,Cmp%,TotDist,PrgDist,Cmp,Att,Cmp%,Cmp,Att,Cmp%,Cmp,Att,Cmp%,Ast,xAG,xA,KP,1/3,PPA,CrsPA,PrgP
+0,Chris Wood,9.0,nz NZL,FW,29-096,90,15,25,60.0,203,53,7,12,58.3,5,8,62.5,1,2,50.0,0,0.0,0.0,0,1,0,0,1
+1,Matěj Vydra,27.0,cz CZE,FW,28-316,77,11,12,91.7,98,17,8,9,88.9,2,2,100.0,0,0,,1,0.1,0.1,2,0,0,0,0
+2,Jay Rodriguez,19.0,eng ENG,FW,31-227,13,2,2,100.0,39,21,0,0,,0,0,,1,1,100.0,0,0.0,0.0,0,1,0,0,1
+3,Dwight McNeil,11.0,eng ENG,"LM,RM",21-111,90,25,34,73.5,400,174,13,16,81.3,6,7,85.7,4,7,57.1,0,0.3,0.1,4,4,2,0,5
+4,Josh Brownhill,8.0,eng ENG,CM,25-084,90,23,38,60.5,361,130,12,16,75.0,7,11,63.6,3,6,50.0,0,0.0,0.0,0,2,1,1,5
+5,Ashley Westwood,18.0,eng ENG,CM,30-346,90,35,43,81.4,635,266,13,13,100.0,14,17,82.4,5,10,50.0,0,0.1,0.1,2,4,2,0,8
+6,Jóhann Berg Guðmundsson,7.0,is ISL,RM,30-137,65,18,23,78.3,280,12,12,14,85.7,4,5,80.0,2,3,66.7,0,0.1,0.1,1,0,1,0,1
+7,Robbie Brady,12.0,ie IRL,"LM,RM",29-058,25,3,9,33.3,38,6,2,4,50.0,1,3,33.3,0,2,0.0,0,0.0,0.0,0,0,0,0,0
+8,Erik Pieters,23.0,nl NED,LB,32-218,90,26,36,72.2,496,256,9,10,90.0,13,17,76.5,3,8,37.5,0,0.0,0.0,0,4,1,0,3
+9,Ben Mee,6.0,eng ENG,CB,31-173,90,15,24,62.5,265,78,5,6,83.3,7,9,77.8,2,7,28.6,0,0.0,0.0,0,0,0,0,1
+10,James Tarkowski,5.0,eng ENG,CB,28-114,90,13,19,68.4,269,130,5,7,71.4,4,6,66.7,4,6,66.7,0,0.0,0.0,0,0,0,0,0
+11,Matthew Lowton,2.0,eng ENG,RB,31-277,90,22,38,57.9,328,236,16,17,94.1,4,11,36.4,2,9,22.2,0,0.0,0.0,0,3,1,0,5
+12,Nick Pope,1.0,eng ENG,GK,28-328,90,14,30,46.7,743,703,0,0,,2,3,66.7,12,27,44.4,0,0.0,0.0,1,3,0,0,0
+13,13 Players,,,,,990,222,333,66.7,4155,2082,102,124,82.3,69,99,69.7,39,88,44.3,1,0.6,0.5,10,22,8,1,30

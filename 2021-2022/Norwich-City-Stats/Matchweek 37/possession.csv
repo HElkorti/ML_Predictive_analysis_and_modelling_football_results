@@ -1,0 +1,17 @@
+,Unnamed: 0_level_0,Unnamed: 1_level_0,Unnamed: 2_level_0,Unnamed: 3_level_0,Unnamed: 4_level_0,Unnamed: 5_level_0,Touches,Touches,Touches,Touches,Touches,Touches,Touches,Take-Ons,Take-Ons,Take-Ons,Take-Ons,Take-Ons,Carries,Carries,Carries,Carries,Carries,Carries,Carries,Carries,Receiving,Receiving
+,Player,#,Nation,Pos,Age,Min,Touches,Def Pen,Def 3rd,Mid 3rd,Att 3rd,Att Pen,Live,Att,Succ,Succ%,Tkld,Tkld%,Carries,TotDist,PrgDist,PrgC,1/3,CPA,Mis,Dis,Rec,PrgR
+0,Teemu Pukki,22.0,fi FIN,FW,32-047,90,20,1,1,7,13,7,20,4,2,50.0,2,50.0,15,186,155,6,1,3,1,1,14,6
+1,Pierre Lees-Melou,20.0,fr FRA,AM,28-355,90,47,3,15,22,10,0,47,2,2,100.0,0,0.0,32,197,93,4,2,0,1,0,33,1
+2,Kieran Dowell,10.0,eng ENG,AM,24-217,82,33,1,8,13,12,0,33,0,0,,0,,18,67,15,0,1,0,0,0,28,3
+3,Jon Rowe,46.0,eng ENG,AM,19-015,8,5,0,1,2,2,1,5,0,0,,0,,4,41,22,1,0,1,0,1,4,1
+4,Mathias Normann,16.0,no NOR,CM,25-352,69,26,3,15,9,3,2,26,2,1,50.0,1,50.0,12,110,59,2,0,1,2,0,13,0
+5,Jakob Sørensen,19.0,dk DEN,CM,24-073,21,22,1,9,15,0,0,22,1,1,100.0,0,0.0,16,88,41,1,0,0,0,0,14,0
+6,Billy Gilmour,8.0,sct SCO,CM,20-338,61,33,1,15,18,1,0,33,1,1,100.0,0,0.0,22,90,27,0,0,0,0,0,25,1
+7,Lukas Rupp,7.0,de GER,CM,31-127,29,9,0,0,9,1,0,9,0,0,,0,,7,53,33,1,1,0,0,2,8,1
+8,Dimitris Giannoulis,30.0,gr GRE,WB,26-210,90,71,5,32,34,7,0,71,3,3,100.0,0,0.0,37,233,163,1,1,0,1,0,42,2
+9,Max Aarons,2.0,eng ENG,WB,22-131,90,22,4,12,7,5,1,22,1,0,0.0,1,100.0,13,134,82,2,1,1,3,0,10,3
+10,Ben Gibson,4.0,eng ENG,CB,29-120,90,57,19,47,10,0,0,57,0,0,,0,,29,93,47,0,0,0,0,0,33,0
+11,Grant Hanley,5.0,sct SCO,CB,30-176,90,28,9,24,2,2,2,28,0,0,,0,,16,72,40,0,0,0,0,0,19,0
+12,Sam Byram,3.0,eng ENG,CB,28-241,90,52,6,25,27,1,0,52,1,1,100.0,0,0.0,24,175,118,1,0,0,0,0,24,1
+13,Angus Gunn,28.0,sct SCO,GK,26-113,90,45,42,44,1,0,0,45,0,0,,0,,24,168,81,0,0,0,0,0,19,0
+14,14 Players,,,,,990,470,95,248,176,57,13,470,15,11,73.3,4,26.7,269,1707,976,19,7,6,8,4,286,19

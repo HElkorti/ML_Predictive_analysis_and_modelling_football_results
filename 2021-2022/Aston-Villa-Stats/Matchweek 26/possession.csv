@@ -1,0 +1,17 @@
+,Unnamed: 0_level_0,Unnamed: 1_level_0,Unnamed: 2_level_0,Unnamed: 3_level_0,Unnamed: 4_level_0,Unnamed: 5_level_0,Touches,Touches,Touches,Touches,Touches,Touches,Touches,Take-Ons,Take-Ons,Take-Ons,Take-Ons,Take-Ons,Carries,Carries,Carries,Carries,Carries,Carries,Carries,Carries,Receiving,Receiving
+,Player,#,Nation,Pos,Age,Min,Touches,Def Pen,Def 3rd,Mid 3rd,Att 3rd,Att Pen,Live,Att,Succ,Succ%,Tkld,Tkld%,Carries,TotDist,PrgDist,PrgC,1/3,CPA,Mis,Dis,Rec,PrgR
+0,Danny Ings,20.0,eng ENG,FW,29-211,90,30,1,2,11,18,5,30,1,0,0.0,1,100.0,16,71,34,2,2,1,2,2,19,6
+1,Philippe Coutinho,23.0,br BRA,"LW,AM",29-252,90,54,0,1,26,27,4,54,3,2,66.7,1,33.3,37,184,95,3,1,0,4,0,48,7
+2,Emi Buendía,10.0,ar ARG,RW,25-056,70,55,1,2,25,28,3,55,1,1,100.0,0,0.0,26,149,66,0,1,0,2,1,36,8
+3,Leon Bailey,31.0,jm JAM,RW,24-194,20,22,0,1,9,12,4,22,1,0,0.0,1,100.0,15,81,30,1,1,0,3,2,17,5
+4,Jacob Ramsey,41.0,eng ENG,"LM,DM",20-267,90,76,2,14,45,20,3,76,2,1,50.0,1,50.0,52,397,216,4,3,1,4,0,59,5
+5,Douglas Luiz,6.0,br BRA,CM,23-286,57,32,0,6,21,5,0,32,0,0,,0,,17,66,34,0,0,0,1,0,23,1
+6,Ollie Watkins,11.0,eng ENG,LW,26-051,33,20,0,0,6,15,6,20,1,0,0.0,1,100.0,11,63,27,2,1,1,1,1,15,9
+7,John McGinn,7.0,sct SCO,"RM,DM",27-124,90,72,5,10,38,24,0,72,2,2,100.0,0,0.0,35,238,163,3,3,0,2,2,46,0
+8,Lucas Digne,27.0,fr FRA,LB,28-214,90,89,1,15,29,45,3,89,1,0,0.0,1,100.0,51,296,184,6,1,0,1,0,56,13
+9,Tyrone Mings,5.0,eng ENG,CB,28-343,90,79,8,36,42,1,1,79,0,0,,0,,60,352,239,1,0,0,0,0,61,1
+10,Calum Chambers,16.0,eng ENG,CB,27-030,90,93,7,41,49,4,1,93,0,0,,0,,57,331,255,2,1,0,0,0,63,1
+11,Matty Cash,2.0,pl POL,RB,24-196,64,48,1,7,21,20,3,48,1,0,0.0,1,100.0,18,62,13,0,2,0,4,1,26,10
+12,Ashley Young,18.0,eng ENG,RB,36-225,26,32,1,5,15,12,0,32,2,1,50.0,1,50.0,16,87,50,1,0,0,0,0,19,3
+13,Emiliano Martínez,1.0,ar ARG,GK,29-170,90,24,20,22,2,0,0,24,0,0,,0,,13,65,42,0,0,0,0,0,4,0
+14,14 Players,,,,,990,726,47,162,339,231,33,726,15,7,46.7,8,53.3,424,2442,1448,25,16,3,24,9,492,69

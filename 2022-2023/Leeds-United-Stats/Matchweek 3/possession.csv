@@ -1,0 +1,19 @@
+,Unnamed: 0_level_0,Unnamed: 1_level_0,Unnamed: 2_level_0,Unnamed: 3_level_0,Unnamed: 4_level_0,Unnamed: 5_level_0,Touches,Touches,Touches,Touches,Touches,Touches,Touches,Take-Ons,Take-Ons,Take-Ons,Take-Ons,Take-Ons,Carries,Carries,Carries,Carries,Carries,Carries,Carries,Carries,Receiving,Receiving
+,Player,#,Nation,Pos,Age,Min,Touches,Def Pen,Def 3rd,Mid 3rd,Att 3rd,Att Pen,Live,Att,Succ,Succ%,Tkld,Tkld%,Carries,TotDist,PrgDist,PrgC,1/3,CPA,Mis,Dis,Rec,PrgR
+0,Rodrigo,19.0,es ESP,FW,31-168,82,31,1,7,7,17,8,31,3,0,0.0,3,100.0,13,48,11,2,0,2,1,2,18,4
+1,Joe Gelhardt,30.0,eng ENG,FW,20-109,8,1,0,0,1,0,0,1,0,0,,0,,1,11,10,0,0,0,0,2,2,0
+2,Jack Harrison,11.0,eng ENG,LW,25-274,82,44,2,8,10,28,3,44,5,4,80.0,0,0.0,21,142,102,4,2,0,1,1,26,7
+3,Sam Greenwood,42.0,eng ENG,LW,20-207,8,5,0,2,1,2,0,5,0,0,,0,,1,1,0,0,0,0,0,0,2,0
+4,Daniel James,20.0,wls WAL,RW,24-284,69,22,1,2,8,12,1,22,1,0,0.0,0,0.0,12,83,50,2,2,0,0,1,15,3
+5,Luis Sinisterra,23.0,co COL,RW,23-065,21,14,1,3,7,4,0,14,2,0,0.0,2,100.0,8,41,7,0,0,0,0,1,8,2
+6,Brenden Aaronson,7.0,us USA,AM,21-303,82,42,1,5,18,20,1,42,5,1,20.0,3,60.0,19,109,53,2,0,0,3,2,28,7
+7,Mateusz Klich,43.0,pl POL,AM,32-069,8,2,0,0,1,1,0,2,0,0,,0,,0,0,0,0,0,0,0,0,1,1
+8,Marc Roca,8.0,es ESP,DM,25-268,60,27,3,12,13,2,0,27,1,1,100.0,0,0.0,14,61,36,1,0,0,1,1,14,0
+9,Adam Forshaw,4.0,eng ENG,DM,30-317,30,7,0,0,6,1,0,7,0,0,,0,,3,15,5,0,0,0,0,0,4,0
+10,Tyler Adams,12.0,us USA,DM,23-188,90,59,1,18,32,9,0,59,1,0,0.0,0,0.0,22,59,19,0,1,0,1,0,26,0
+11,Pascal Struijk,21.0,nl NED,LB,23-010,90,49,2,14,21,14,0,49,3,2,66.7,1,33.3,6,55,46,2,2,0,2,0,20,0
+12,Diego Llorente,14.0,es ESP,CB,29-005,90,44,13,30,14,2,1,44,1,0,0.0,1,100.0,12,37,8,0,0,0,1,0,17,0
+13,Robin Koch,5.0,de GER,CB,26-035,90,37,10,30,7,0,0,37,0,0,,0,,16,35,11,0,0,0,0,0,20,0
+14,Rasmus Nissen,25.0,dk DEN,RB,25-041,90,58,3,25,24,9,0,58,2,0,0.0,2,100.0,17,47,24,0,0,0,0,0,34,2
+15,Illan Meslier,1.0,fr FRA,GK,22-172,90,35,28,35,0,1,0,35,0,0,,0,,9,105,27,0,0,0,0,0,15,0
+16,16 Players,,,,,990,477,66,191,170,122,14,477,24,8,33.3,12,50.0,174,849,409,13,7,2,10,10,250,26

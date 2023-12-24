@@ -1,0 +1,16 @@
+,Unnamed: 0_level_0,Unnamed: 1_level_0,Unnamed: 2_level_0,Unnamed: 3_level_0,Unnamed: 4_level_0,Unnamed: 5_level_0,Tackles,Tackles,Tackles,Tackles,Tackles,Challenges,Challenges,Challenges,Challenges,Blocks,Blocks,Blocks,Unnamed: 18_level_0,Unnamed: 19_level_0,Unnamed: 20_level_0,Unnamed: 21_level_0
+,Player,#,Nation,Pos,Age,Min,Tkl,TklW,Def 3rd,Mid 3rd,Att 3rd,Tkl,Att,Tkl%,Lost,Blocks,Sh,Pass,Int,Tkl+Int,Clr,Err
+0,Patrick Bamford,9.0,eng ENG,FW,27-063,90,0,0,0,0,0,0,2,0.0,2,1,0,1,0,0,0,0
+1,Jack Harrison,22.0,eng ENG,LW,23-353,90,1,0,0,0,1,0,0,,0,1,0,1,0,1,2,0
+2,Hélder Costa,17.0,ao ANG,RW,26-300,45,1,0,1,0,0,1,1,100.0,0,1,0,1,1,2,0,0
+3,Raphinha,18.0,br BRA,RW,23-329,45,1,1,0,1,0,1,1,100.0,0,2,0,2,0,1,1,0
+4,Mateusz Klich,43.0,pl POL,AM,30-147,90,3,2,0,2,1,1,1,100.0,0,0,0,0,1,4,0,0
+5,Ezgjan Alioski,10.0,mk MKD,CM,28-269,90,5,2,4,1,0,2,4,50.0,2,0,0,0,0,5,1,0
+6,Pascal Struijk,21.0,nl NED,CM,21-088,70,1,1,0,1,0,0,0,,0,1,0,1,0,1,1,0
+7,Tyler Roberts,11.0,wls WAL,CM,21-300,20,0,0,0,0,0,0,0,,0,1,0,1,0,0,0,0
+8,Stuart Dallas,15.0,nir NIR,CM,29-202,90,2,2,0,1,1,0,2,0.0,2,0,0,0,2,4,0,0
+9,Liam Cooper,6.0,sct SCO,CB,29-069,90,4,4,2,2,0,3,3,100.0,0,1,0,1,4,8,3,0
+10,Robin Koch,5.0,de GER,CB,24-113,90,2,1,1,1,0,1,2,50.0,1,2,2,0,5,7,3,0
+11,Luke Ayling,2.0,eng ENG,CB,29-074,90,5,2,3,2,0,2,3,66.7,1,0,0,0,1,6,3,0
+12,Illan Meslier,1.0,fr FRA,GK,20-250,90,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,1
+13,13 Players,,,,,990,25,15,11,11,3,11,19,57.9,8,10,2,8,14,39,14,1

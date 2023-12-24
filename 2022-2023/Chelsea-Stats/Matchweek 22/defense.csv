@@ -1,0 +1,19 @@
+,Unnamed: 0_level_0,Unnamed: 1_level_0,Unnamed: 2_level_0,Unnamed: 3_level_0,Unnamed: 4_level_0,Unnamed: 5_level_0,Tackles,Tackles,Tackles,Tackles,Tackles,Challenges,Challenges,Challenges,Challenges,Blocks,Blocks,Blocks,Unnamed: 18_level_0,Unnamed: 19_level_0,Unnamed: 20_level_0,Unnamed: 21_level_0
+,Player,#,Nation,Pos,Age,Min,Tkl,TklW,Def 3rd,Mid 3rd,Att 3rd,Tkl,Att,Tkl%,Lost,Blocks,Sh,Pass,Int,Tkl+Int,Clr,Err
+0,Kai Havertz,29.0,de GER,"FW,LM",23-237,90,1,0,0,1,0,0,1,0.0,1,0,0,0,0,1,1,0
+1,Mykhailo Mudryk,15.0,ua UKR,LW,22-029,45,1,1,0,1,0,0,2,0.0,2,0,0,0,0,1,0,0
+2,Noni Madueke,31.0,eng ENG,"RW,LW",20-330,45,1,1,1,0,0,0,0,,0,2,0,2,0,1,0,0
+3,Hakim Ziyech,22.0,ma MAR,RW,29-321,59,2,1,1,1,0,1,2,50.0,1,1,0,1,0,2,0,0
+4,Raheem Sterling,17.0,eng ENG,LW,28-057,31,1,1,0,1,0,0,0,,0,1,0,1,0,1,0,0
+5,Mason Mount,19.0,eng ENG,LM,24-024,74,1,0,0,0,1,0,1,0.0,1,1,0,1,1,2,0,0
+6,David Datro Fofana,27.0,ci CIV,"FW,LM",20-043,16,1,0,0,0,1,0,0,,0,0,0,0,0,1,0,0
+7,Enzo Fernández,5.0,ar ARG,CM,22-017,90,6,5,3,3,0,2,5,40.0,3,4,1,3,2,8,4,0
+8,Conor Gallagher,23.0,eng ENG,RM,22-362,90,2,0,1,1,0,1,4,25.0,3,2,0,2,1,3,1,0
+9,Marc Cucurella,32.0,es ESP,LB,24-196,83,5,2,4,1,0,3,4,75.0,1,1,1,0,0,5,2,0
+10,Ben Chilwell,21.0,eng ENG,LB,26-044,7,0,0,0,0,0,0,0,,0,1,0,1,0,0,0,0
+11,Benoît Badiashile,4.0,fr FRA,CB,21-314,90,1,0,1,0,0,1,2,50.0,1,0,0,0,2,3,5,0
+12,Thiago Silva,6.0,br BRA,CB,38-134,90,0,0,0,0,0,0,0,,0,1,1,0,2,2,3,0
+13,Reece James,24.0,eng ENG,RB,23-057,59,1,1,0,1,0,1,2,50.0,1,0,0,0,0,1,1,0
+14,César Azpilicueta,28.0,es ESP,RB,33-159,31,1,1,0,1,0,1,1,100.0,0,0,0,0,1,2,1,0
+15,Kepa Arrizabalaga,1.0,es ESP,GK,28-123,90,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,0
+16,16 Players,,,,,990,24,13,11,11,2,10,24,41.7,14,14,3,11,9,33,18,0

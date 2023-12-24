@@ -1,0 +1,19 @@
+,Unnamed: 0_level_0,Unnamed: 1_level_0,Unnamed: 2_level_0,Unnamed: 3_level_0,Unnamed: 4_level_0,Unnamed: 5_level_0,Unnamed: 6_level_0,Pass Types,Pass Types,Pass Types,Pass Types,Pass Types,Pass Types,Pass Types,Pass Types,Corner Kicks,Corner Kicks,Corner Kicks,Outcomes,Outcomes,Outcomes
+,Player,#,Nation,Pos,Age,Min,Att,Live,Dead,FK,TB,Sw,Crs,TI,CK,In,Out,Str,Cmp,Off,Blocks
+0,Che Adams,10.0,sct SCO,FW,26-185,84,28,28,0,0,0,0,0,0,0,0,0,0,20,0,1
+1,Sekou Mara,18.0,fr FRA,"FW,AM",20-168,6,3,3,0,0,0,0,0,0,0,0,0,0,2,0,1
+2,Samuel Edozie,23.0,eng ENG,"LW,LM",19-351,60,14,14,0,0,0,0,0,0,0,0,0,0,10,0,0
+3,Adam Armstrong,9.0,eng ENG,"LW,LM",25-338,30,8,8,0,0,0,0,0,0,0,0,0,0,5,0,1
+4,Mohamed Elyounoussi,24.0,no NOR,"RW,RM",28-163,84,19,18,1,0,0,0,1,1,0,0,0,0,14,0,0
+5,Romain Perraud,15.0,fr FRA,LB,25-114,6,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+6,James Ward-Prowse,8.0,eng ENG,"AM,CM",28-074,90,42,36,6,0,0,0,5,0,4,3,1,0,29,0,1
+7,Ibrahima Diallo,27.0,fr FRA,DM,23-312,84,35,32,3,3,0,0,1,0,0,0,0,0,23,0,2
+8,Ainsley Maitland-Niles,3.0,eng ENG,CM,25-138,6,2,2,0,0,0,0,0,0,0,0,0,0,1,0,0
+9,Roméo Lavia,45.0,be BEL,"DM,CM",19-008,60,15,15,0,0,0,0,0,0,0,0,0,0,14,0,0
+10,Carlos Alcaraz,26.0,ar ARG,"DM,RM",20-045,30,8,8,0,0,0,1,0,0,0,0,0,0,2,0,1
+11,Kyle Walker-Peters,2.0,eng ENG,"RB,LB",25-276,90,38,28,10,1,0,0,2,9,0,0,0,0,23,0,2
+12,Mohammed Salisu,22.0,gh GHA,"CB,LB",23-272,90,58,51,6,1,0,1,0,5,0,0,0,0,40,1,0
+13,Duje Ćaleta-Car,6.0,hr CRO,CB,26-119,90,56,54,1,1,0,0,0,0,0,0,0,0,45,1,0
+14,Lyanco,4.0,br BRA,"CB,RB",25-347,90,41,39,2,1,0,0,1,1,0,0,0,0,31,0,0
+15,Gavin Bazunu,31.0,ie IRL,GK,20-328,90,37,26,11,1,0,0,0,0,0,0,0,0,21,0,0
+16,16 Players,,,,,990,404,362,40,8,0,2,10,16,4,3,1,0,280,2,9

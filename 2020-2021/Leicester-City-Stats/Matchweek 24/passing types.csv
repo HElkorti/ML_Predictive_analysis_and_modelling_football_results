@@ -1,0 +1,17 @@
+,Unnamed: 0_level_0,Unnamed: 1_level_0,Unnamed: 2_level_0,Unnamed: 3_level_0,Unnamed: 4_level_0,Unnamed: 5_level_0,Unnamed: 6_level_0,Pass Types,Pass Types,Pass Types,Pass Types,Pass Types,Pass Types,Pass Types,Pass Types,Corner Kicks,Corner Kicks,Corner Kicks,Outcomes,Outcomes,Outcomes
+,Player,#,Nation,Pos,Age,Min,Att,Live,Dead,FK,TB,Sw,Crs,TI,CK,In,Out,Str,Cmp,Off,Blocks
+0,Jamie Vardy,9.0,eng ENG,FW,34-033,90,10,10,0,0,0,0,0,0,0,0,0,0,6,0,1
+1,Harvey Barnes,15.0,eng ENG,LW,23-066,90,22,22,0,0,0,0,1,0,0,0,0,0,16,0,0
+2,Marc Albrighton,11.0,eng ENG,RW,31-087,73,24,24,0,0,0,0,0,0,0,0,0,0,13,0,0
+3,Ayoze Pérez,17.0,es ESP,RW,27-199,16,2,2,0,0,0,0,0,0,0,0,0,0,1,0,0
+4,Nampalys Mendy,24.0,sn SEN,RW,28-235,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+5,James Maddison,10.0,eng ENG,AM,24-082,90,36,28,7,3,0,0,5,0,2,1,1,0,23,1,2
+6,Youri Tielemans,8.0,be BEL,DM,23-282,86,52,52,0,0,0,0,0,0,0,0,0,0,38,0,1
+7,Hamza Choudhury,20.0,eng ENG,DM,23-135,4,2,2,0,0,0,0,0,0,0,0,0,0,0,0,0
+8,Wilfred Ndidi,25.0,ng NGA,DM,24-059,90,42,42,0,0,0,0,0,0,0,0,0,0,33,0,1
+9,Ricardo Pereira,21.0,pt POR,LB,27-130,90,50,43,7,0,0,0,0,7,0,0,0,0,35,0,1
+10,Çağlar Söyüncü,4.0,tr TUR,CB,24-266,90,37,36,1,1,0,1,0,0,0,0,0,0,26,0,0
+11,Jonny Evans,6.0,nir NIR,CB,33-041,90,39,39,0,0,0,0,0,0,0,0,0,0,29,0,1
+12,Daniel Amartey,18.0,gh GHA,RB,26-054,90,38,32,5,0,0,0,0,5,0,0,0,0,27,1,2
+13,Kasper Schmeichel,1.0,dk DEN,GK,34-100,90,29,22,7,2,0,0,0,0,0,0,0,0,16,0,0
+14,14 Players,,,,,990,383,354,27,6,0,1,6,12,2,1,1,0,263,2,9

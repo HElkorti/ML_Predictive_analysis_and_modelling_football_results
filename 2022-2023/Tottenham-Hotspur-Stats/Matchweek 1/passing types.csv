@@ -1,0 +1,19 @@
+,Unnamed: 0_level_0,Unnamed: 1_level_0,Unnamed: 2_level_0,Unnamed: 3_level_0,Unnamed: 4_level_0,Unnamed: 5_level_0,Unnamed: 6_level_0,Pass Types,Pass Types,Pass Types,Pass Types,Pass Types,Pass Types,Pass Types,Pass Types,Corner Kicks,Corner Kicks,Corner Kicks,Outcomes,Outcomes,Outcomes
+,Player,#,Nation,Pos,Age,Min,Att,Live,Dead,FK,TB,Sw,Crs,TI,CK,In,Out,Str,Cmp,Off,Blocks
+0,Harry Kane,10.0,eng ENG,FW,29-009,90,29,26,2,0,0,0,2,0,0,0,0,0,19,1,0
+1,Son Heung-min,7.0,kr KOR,AM,30-029,90,41,32,8,0,0,0,7,0,8,1,5,0,26,1,2
+2,Dejan Kulusevski,21.0,se SWE,AM,22-103,85,43,40,3,0,0,0,3,1,2,0,0,0,38,0,2
+3,Lucas Moura,27.0,br BRA,AM,29-358,5,2,2,0,0,0,0,0,0,0,0,0,0,2,0,0
+4,Pierre Højbjerg,5.0,dk DEN,CM,27-001,90,69,69,0,0,1,2,0,0,0,0,0,0,61,0,0
+5,Rodrigo Bentancur,30.0,uy URU,CM,25-042,85,63,62,1,1,0,1,1,0,0,0,0,0,56,0,0
+6,Yves Bissouma,38.0,ml MLI,CM,25-341,5,5,5,0,0,0,0,0,0,0,0,0,0,4,0,0
+7,Ryan Sessegnon,19.0,eng ENG,WB,22-080,65,48,34,14,0,0,0,4,14,0,0,0,0,36,0,1
+8,Ivan Perišić,14.0,hr CRO,WB,33-185,25,9,8,1,0,0,0,2,1,0,0,0,0,6,0,0
+9,Emerson,12.0,br BRA,WB,23-204,86,57,52,5,1,0,0,3,4,0,0,0,0,47,0,2
+10,Matt Doherty,2.0,ie IRL,WB,30-202,4,3,3,0,0,0,0,0,0,0,0,0,0,1,0,0
+11,Ben Davies,33.0,wls WAL,CB,29-104,85,72,72,0,0,0,1,2,0,0,0,0,0,62,0,0
+12,Clément Lenglet,34.0,fr FRA,CB,27-050,5,6,6,0,0,0,0,0,0,0,0,0,0,6,0,0
+13,Eric Dier,15.0,eng ENG,CB,28-203,90,63,61,2,1,0,1,0,0,0,0,0,0,55,0,1
+14,Cristian Romero,17.0,ar ARG,CB,24-101,90,74,72,2,2,0,7,0,0,0,0,0,0,63,0,4
+15,Hugo Lloris,1.0,fr FRA,GK,35-223,90,20,14,6,1,0,0,0,0,0,0,0,0,19,0,0
+16,16 Players,,,,,990,604,558,44,6,1,12,24,20,10,1,5,0,501,2,12

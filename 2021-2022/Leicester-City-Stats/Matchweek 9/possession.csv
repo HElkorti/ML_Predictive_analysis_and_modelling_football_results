@@ -1,0 +1,17 @@
+,Unnamed: 0_level_0,Unnamed: 1_level_0,Unnamed: 2_level_0,Unnamed: 3_level_0,Unnamed: 4_level_0,Unnamed: 5_level_0,Touches,Touches,Touches,Touches,Touches,Touches,Touches,Take-Ons,Take-Ons,Take-Ons,Take-Ons,Take-Ons,Carries,Carries,Carries,Carries,Carries,Carries,Carries,Carries,Receiving,Receiving
+,Player,#,Nation,Pos,Age,Min,Touches,Def Pen,Def 3rd,Mid 3rd,Att 3rd,Att Pen,Live,Att,Succ,Succ%,Tkld,Tkld%,Carries,TotDist,PrgDist,PrgC,1/3,CPA,Mis,Dis,Rec,PrgR
+0,Jamie Vardy,9.0,eng ENG,FW,34-286,45,6,0,0,4,2,0,6,0,0,,0,,1,2,0,0,0,0,0,0,4,2
+1,Patson Daka,29.0,zm ZAM,FW,23-015,45,14,1,4,3,7,4,14,0,0,,0,,2,9,8,1,0,1,1,0,7,2
+2,Kelechi Iheanacho,14.0,ng NGA,FW,25-021,90,41,1,3,23,15,1,41,2,0,0.0,2,100.0,23,143,36,1,3,0,5,2,32,8
+3,James Maddison,10.0,eng ENG,AM,24-335,77,31,1,4,20,7,1,31,0,0,,0,,21,149,44,1,2,0,2,4,27,4
+4,Ayoze Pérez,17.0,es ESP,AM,28-087,13,9,0,0,5,4,1,9,1,0,0.0,1,100.0,5,39,26,1,0,0,0,2,6,1
+5,Boubakary Soumaré,42.0,fr FRA,CM,22-239,90,47,5,17,23,7,0,47,1,0,0.0,1,100.0,20,114,49,1,1,0,1,3,32,2
+6,Youri Tielemans,8.0,be BEL,CM,24-170,90,64,3,18,34,13,0,64,1,1,100.0,0,0.0,20,92,46,0,2,0,2,1,36,0
+7,Timothy Castagne,27.0,be BEL,WB,25-323,90,45,2,22,19,4,1,45,1,1,100.0,0,0.0,12,41,16,0,0,0,0,1,21,1
+8,Ricardo Pereira,21.0,pt POR,WB,28-018,90,67,6,28,31,9,1,67,4,2,50.0,2,50.0,14,90,68,2,0,0,0,0,35,4
+9,Çağlar Söyüncü,4.0,tr TUR,CB,25-154,67,45,7,32,11,2,2,45,0,0,,0,,19,73,23,0,1,0,0,0,26,0
+10,Jannik Vestergaard,23.0,dk DEN,CB,29-082,23,16,6,11,5,0,0,16,0,0,,0,,5,40,1,0,0,0,2,0,5,0
+11,Jonny Evans,6.0,nir NIR,CB,33-294,90,64,16,46,17,1,1,64,0,0,,0,,12,53,10,0,0,0,1,0,27,0
+12,Daniel Amartey,18.0,gh GHA,CB,26-307,90,58,6,31,27,0,0,58,1,0,0.0,1,100.0,13,66,50,1,0,0,1,0,34,0
+13,Kasper Schmeichel,1.0,dk DEN,GK,34-353,90,46,41,46,0,0,0,46,0,0,,0,,16,111,71,0,0,0,0,0,14,0
+14,14 Players,,,,,990,553,95,262,222,71,12,553,11,4,36.4,7,63.6,183,1022,448,8,9,1,15,13,306,24

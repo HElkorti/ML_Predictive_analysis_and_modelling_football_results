@@ -1,0 +1,17 @@
+,Unnamed: 0_level_0,Unnamed: 1_level_0,Unnamed: 2_level_0,Unnamed: 3_level_0,Unnamed: 4_level_0,Unnamed: 5_level_0,Touches,Touches,Touches,Touches,Touches,Touches,Touches,Take-Ons,Take-Ons,Take-Ons,Take-Ons,Take-Ons,Carries,Carries,Carries,Carries,Carries,Carries,Carries,Carries,Receiving,Receiving
+,Player,#,Nation,Pos,Age,Min,Touches,Def Pen,Def 3rd,Mid 3rd,Att 3rd,Att Pen,Live,Att,Succ,Succ%,Tkld,Tkld%,Carries,TotDist,PrgDist,PrgC,1/3,CPA,Mis,Dis,Rec,PrgR
+0,Diogo Jota,20.0,pt POR,FW,25-029,68,35,0,3,21,11,2,35,2,0,0.0,2,100.0,26,117,53,2,1,1,3,3,33,4
+1,Alex Oxlade-Chamberlain,15.0,eng ENG,FW,28-140,22,10,0,1,5,4,0,10,0,0,,0,,7,56,0,0,0,0,1,0,8,3
+2,Sadio Mané,10.0,sn SEN,LW,29-267,89,42,2,2,23,17,2,42,4,3,75.0,1,25.0,30,141,44,1,0,1,3,2,29,7
+3,Curtis Jones,17.0,eng ENG,LW,20-337,1,4,0,0,1,3,0,4,0,0,,0,,4,34,10,0,0,0,0,0,4,3
+4,Mohamed Salah,11.0,eg EGY,RW,29-201,90,39,0,1,9,29,5,39,3,1,33.3,2,66.7,25,95,51,1,0,1,2,1,31,10
+5,James Milner,7.0,eng ENG,LM,35-363,68,37,8,16,17,4,0,37,1,0,0.0,1,100.0,16,62,31,1,0,0,0,2,15,1
+6,Naby Keïta,8.0,gn GUI,LM,26-326,22,12,0,2,2,8,0,12,1,1,100.0,0,0.0,7,19,5,0,0,0,0,0,10,0
+7,Fabinho,3.0,br BRA,CM,28-071,90,60,1,22,33,6,0,60,1,1,100.0,0,0.0,29,156,100,2,0,0,0,2,41,0
+8,Jordan Henderson,14.0,eng ENG,RM,31-199,90,53,1,10,27,17,2,53,0,0,,0,,28,117,39,2,1,1,4,0,32,2
+9,Kostas Tsimikas,21.0,gr GRE,LB,25-235,90,72,6,27,25,23,1,72,2,2,100.0,0,0.0,34,124,61,1,2,0,3,0,37,6
+10,Virgil van Dijk,4.0,nl NED,CB,30-178,90,67,16,46,21,0,0,67,0,0,,0,,30,116,73,1,0,0,0,0,35,0
+11,Ibrahima Konaté,5.0,fr FRA,CB,22-222,90,64,18,39,24,1,1,64,2,1,50.0,1,50.0,37,191,110,0,0,0,0,0,43,0
+12,Trent Alexander-Arnold,66.0,eng ENG,RB,23-087,90,77,7,28,31,19,1,77,3,1,33.3,2,66.7,36,68,24,0,0,0,0,0,39,2
+13,Caoimhín Kelleher,62.0,ie IRL,GK,23-040,90,52,43,52,0,0,0,52,0,0,,0,,37,136,83,0,0,0,0,0,29,0
+14,14 Players,,,,,990,624,102,249,239,142,14,624,19,10,52.6,9,47.4,346,1432,684,11,4,4,16,10,386,38

@@ -1,0 +1,19 @@
+,Unnamed: 0_level_0,Unnamed: 1_level_0,Unnamed: 2_level_0,Unnamed: 3_level_0,Unnamed: 4_level_0,Unnamed: 5_level_0,Tackles,Tackles,Tackles,Tackles,Tackles,Challenges,Challenges,Challenges,Challenges,Blocks,Blocks,Blocks,Unnamed: 18_level_0,Unnamed: 19_level_0,Unnamed: 20_level_0,Unnamed: 21_level_0
+,Player,#,Nation,Pos,Age,Min,Tkl,TklW,Def 3rd,Mid 3rd,Att 3rd,Tkl,Att,Tkl%,Lost,Blocks,Sh,Pass,Int,Tkl+Int,Clr,Err
+0,Rodrigo,19.0,es ESP,FW,31-210,67,0,0,0,0,0,0,0,,0,0,0,0,0,0,4,0
+1,Patrick Bamford,9.0,eng ENG,FW,29-027,23,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,0
+2,Luis Sinisterra,23.0,co COL,LW,23-107,47,2,2,1,1,0,1,1,100.0,0,0,0,0,0,2,0,0
+3,Jack Harrison,11.0,eng ENG,"RW,CM",25-316,78,1,1,0,0,1,0,0,,0,2,0,2,0,1,0,0
+4,Crysencio Summerville,10.0,nl NED,CM,20-337,12,0,0,0,0,0,0,0,,0,1,1,0,0,0,0,0
+5,Brenden Aaronson,7.0,us USA,"AM,CM",21-345,78,0,0,0,0,0,0,1,0.0,1,0,0,0,0,0,0,0
+6,Mateusz Klich,43.0,pl POL,CM,32-111,12,0,0,0,0,0,0,2,0.0,2,0,0,0,0,0,0,0
+7,Marc Roca,8.0,es ESP,DM,25-310,57,2,2,1,1,0,1,2,50.0,1,1,1,0,0,2,0,0
+8,Junior Firpo,3.0,es ESP,LB,26-041,33,2,2,1,1,0,1,2,50.0,1,1,0,1,0,2,1,0
+9,Tyler Adams,12.0,us USA,"DM,CM",23-230,90,1,0,1,0,0,0,0,,0,5,1,4,1,2,0,0
+10,Pascal Struijk,21.0,nl NED,"LB,CB",23-052,90,1,0,1,0,0,1,2,50.0,1,0,0,0,2,3,1,0
+11,Liam Cooper,6.0,sct SCO,CB,31-033,90,0,0,0,0,0,0,0,,0,0,0,0,0,0,8,0
+12,Robin Koch,5.0,de GER,CB,26-077,90,0,0,0,0,0,0,1,0.0,1,1,1,0,1,1,5,0
+13,Rasmus Nissen,25.0,dk DEN,RB,25-083,67,2,1,2,0,0,2,3,66.7,1,0,0,0,2,4,3,0
+14,Luke Ayling,2.0,eng ENG,RB,31-038,23,1,1,1,0,0,0,2,0.0,2,1,1,0,0,1,0,0
+15,Illan Meslier,1.0,fr FRA,GK,22-214,90,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,0
+16,16 Players,,,,,947,12,9,8,3,1,6,16,37.5,10,12,5,7,6,18,22,0

@@ -1,0 +1,19 @@
+,Unnamed: 0_level_0,Unnamed: 1_level_0,Unnamed: 2_level_0,Unnamed: 3_level_0,Unnamed: 4_level_0,Unnamed: 5_level_0,Unnamed: 6_level_0,Pass Types,Pass Types,Pass Types,Pass Types,Pass Types,Pass Types,Pass Types,Pass Types,Corner Kicks,Corner Kicks,Corner Kicks,Outcomes,Outcomes,Outcomes
+,Player,#,Nation,Pos,Age,Min,Att,Live,Dead,FK,TB,Sw,Crs,TI,CK,In,Out,Str,Cmp,Off,Blocks
+0,Harry Kane,10.0,eng ENG,FW,29-157,90,21,16,5,2,0,0,1,0,0,0,0,0,13,0,3
+1,Son Heung-min,7.0,kr KOR,LW,30-177,90,39,34,5,1,1,0,7,1,3,3,0,0,29,0,1
+2,Bryan Gil,11.0,es ESP,RW,21-324,62,22,22,0,0,0,0,1,0,0,0,0,0,15,0,1
+3,Ryan Sessegnon,19.0,eng ENG,LM,22-228,28,11,10,1,0,0,0,2,1,0,0,0,0,5,0,0
+4,Ivan Perišić,14.0,hr CRO,"LM,RW",33-333,87,50,39,10,0,0,1,6,8,2,2,0,0,31,1,2
+5,Djed Spence,24.0,eng ENG,RW,22-145,3,4,4,0,0,0,0,0,0,0,0,0,0,2,0,0
+6,Pierre Højbjerg,5.0,dk DEN,CM,27-149,87,77,75,2,2,0,0,0,0,0,0,0,0,66,0,0
+7,Oliver Skipp,4.0,eng ENG,CM,22-107,3,11,10,1,1,0,0,0,0,0,0,0,0,10,0,0
+8,Yves Bissouma,38.0,ml MLI,CM,26-124,79,78,77,1,1,0,1,1,0,0,0,0,0,67,0,3
+9,Pape Matar Sarr,29.0,sn SEN,CM,20-109,11,13,13,0,0,0,0,0,0,0,0,0,0,13,0,0
+10,Matt Doherty,2.0,ie IRL,RM,30-350,79,51,44,7,0,0,0,2,7,0,0,0,0,48,0,0
+11,Emerson,12.0,br BRA,RM,23-352,11,14,12,2,0,0,0,0,2,0,0,0,0,12,0,1
+12,Ben Davies,33.0,wls WAL,CB,29-252,90,67,66,1,0,0,1,2,1,0,0,0,0,56,0,1
+13,Clément Lenglet,34.0,fr FRA,CB,27-198,90,71,69,2,1,0,1,1,1,0,0,0,0,63,0,1
+14,Cristian Romero,17.0,ar ARG,CB,24-249,90,84,83,1,1,0,1,0,0,0,0,0,0,80,0,1
+15,Hugo Lloris,1.0,fr FRA,GK,36-006,90,14,10,4,0,0,0,0,0,0,0,0,0,14,0,0
+16,16 Players,,,,,990,627,584,42,9,1,5,23,21,5,5,0,0,524,1,14

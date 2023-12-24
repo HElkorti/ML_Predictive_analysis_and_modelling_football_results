@@ -1,0 +1,19 @@
+,Unnamed: 0_level_0,Unnamed: 1_level_0,Unnamed: 2_level_0,Unnamed: 3_level_0,Unnamed: 4_level_0,Unnamed: 5_level_0,Unnamed: 6_level_0,Pass Types,Pass Types,Pass Types,Pass Types,Pass Types,Pass Types,Pass Types,Pass Types,Corner Kicks,Corner Kicks,Corner Kicks,Outcomes,Outcomes,Outcomes
+,Player,#,Nation,Pos,Age,Min,Att,Live,Dead,FK,TB,Sw,Crs,TI,CK,In,Out,Str,Cmp,Off,Blocks
+0,Pierre-Emerick Aubameyang,9.0,ga GAB,FW,33-318,45,6,2,4,0,0,0,0,0,0,0,0,0,6,0,0
+1,Kai Havertz,29.0,de GER,FW,23-325,45,15,15,0,0,0,0,1,0,0,0,0,0,11,0,0
+2,Raheem Sterling,17.0,eng ENG,LW,28-145,70,26,26,0,0,0,0,1,0,0,0,0,0,15,0,3
+3,Conor Gallagher,23.0,eng ENG,AM,23-085,20,11,10,1,1,0,0,0,0,0,0,0,0,10,0,0
+4,Noni Madueke,31.0,eng ENG,RW,21-053,78,22,22,0,0,0,0,1,0,0,0,0,0,17,0,1
+5,Hakim Ziyech,22.0,ma MAR,RW,30-044,12,9,7,2,2,0,0,1,0,0,0,0,0,6,0,1
+6,Mateo Kovačić,8.0,hr CRO,"LM,DM",28-361,90,44,44,0,0,2,0,0,0,0,0,0,0,38,0,0
+7,Enzo Fernández,5.0,ar ARG,CM,22-105,70,39,38,1,1,1,0,0,0,0,0,0,0,35,0,0
+8,Mykhailo Mudryk,15.0,ua UKR,LW,22-117,20,10,8,2,1,0,0,4,0,1,1,0,0,7,0,0
+9,N'Golo Kanté,7.0,fr FRA,"RM,DM",32-034,90,47,47,0,0,0,0,0,0,0,0,0,0,37,0,2
+10,Ben Chilwell,21.0,eng ENG,LB,26-132,90,45,39,6,1,0,0,3,4,1,1,0,0,31,0,0
+11,Thiago Silva,6.0,br BRA,CB,38-222,90,64,62,2,2,0,2,0,0,0,0,0,0,60,0,0
+12,Wesley Fofana,33.0,fr FRA,CB,22-136,85,49,49,0,0,0,0,0,0,0,0,0,0,45,0,0
+13,Trevoh Chalobah,14.0,eng ENG,CB,23-301,5,8,8,0,0,0,0,0,0,0,0,0,0,7,0,0
+14,César Azpilicueta,28.0,es ESP,RB,33-247,90,58,51,7,1,0,0,0,6,0,0,0,0,51,0,1
+15,Kepa Arrizabalaga,1.0,es ESP,GK,28-211,90,24,15,9,2,0,0,0,0,0,0,0,0,19,0,0
+16,16 Players,,,,,990,477,443,34,11,3,2,11,10,2,2,0,0,395,0,8

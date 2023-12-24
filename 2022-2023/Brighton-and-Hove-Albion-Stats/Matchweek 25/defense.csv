@@ -1,0 +1,19 @@
+,Unnamed: 0_level_0,Unnamed: 1_level_0,Unnamed: 2_level_0,Unnamed: 3_level_0,Unnamed: 4_level_0,Unnamed: 5_level_0,Tackles,Tackles,Tackles,Tackles,Tackles,Challenges,Challenges,Challenges,Challenges,Blocks,Blocks,Blocks,Unnamed: 18_level_0,Unnamed: 19_level_0,Unnamed: 20_level_0,Unnamed: 21_level_0
+,Player,#,Nation,Pos,Age,Min,Tkl,TklW,Def 3rd,Mid 3rd,Att 3rd,Tkl,Att,Tkl%,Lost,Blocks,Sh,Pass,Int,Tkl+Int,Clr,Err
+0,Danny Welbeck,18.0,eng ENG,FW,32-173,55,0,0,0,0,0,0,1,0.0,1,0,0,0,0,0,1,0
+1,Evan Ferguson,28.0,ie IRL,FW,18-211,35,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,0
+2,Kaoru Mitoma,22.0,jp JPN,LW,25-363,90,0,0,0,0,0,0,1,0.0,1,0,0,0,0,0,0,0
+3,Facundo Buonanotte,40.0,ar ARG,RW,18-146,55,0,0,0,0,0,0,3,0.0,3,0,0,0,0,0,0,0
+4,Julio César Enciso,20.0,py PAR,RW,19-115,35,1,0,1,0,0,1,1,100.0,0,0,0,0,0,1,0,0
+5,Deniz Undav,21.0,de GER,AM,26-303,84,0,0,0,0,0,0,0,,0,1,0,1,0,0,0,0
+6,Cameron Peupion,51.0,au AUS,AM,20-237,6,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,0
+7,Billy Gilmour,27.0,sct SCO,DM,21-341,55,1,0,1,0,0,0,0,,0,0,0,0,1,2,1,0
+8,Alexis Mac Allister,10.0,ar ARG,DM,24-145,35,0,0,0,0,0,0,0,,0,1,0,1,0,0,2,0
+9,Pascal Groß,13.0,de GER,DM,31-337,68,2,2,1,1,0,0,1,0.0,1,1,1,0,0,2,3,0
+10,Odeluga Offiah,42.0,eng ENG,RB,20-204,22,1,1,1,0,0,0,1,0.0,1,0,0,0,0,1,1,0
+11,Pervis Estupiñán,30.0,ec ECU,LB,25-117,90,3,3,3,0,0,2,2,100.0,0,0,0,0,0,3,1,0
+12,Lewis Dunk,5.0,eng ENG,CB,31-178,90,2,1,1,1,0,2,3,66.7,1,3,3,0,1,3,3,0
+13,Jan Paul van Hecke,29.0,nl NED,CB,22-344,90,3,3,2,1,0,2,2,100.0,0,7,4,3,0,3,2,0
+14,Moisés Caicedo,25.0,ec ECU,"RB,DM",21-197,90,1,0,1,0,0,0,3,0.0,3,1,0,1,0,1,1,0
+15,Jason Steele,23.0,eng ENG,GK,32-273,90,0,0,0,0,0,0,0,,0,0,0,0,0,0,1,0
+16,16 Players,,,,,990,14,10,11,3,0,7,18,38.9,11,14,8,6,2,16,16,0

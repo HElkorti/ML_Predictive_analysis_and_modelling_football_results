@@ -1,0 +1,17 @@
+,Unnamed: 0_level_0,Unnamed: 1_level_0,Unnamed: 2_level_0,Unnamed: 3_level_0,Unnamed: 4_level_0,Unnamed: 5_level_0,Touches,Touches,Touches,Touches,Touches,Touches,Touches,Take-Ons,Take-Ons,Take-Ons,Take-Ons,Take-Ons,Carries,Carries,Carries,Carries,Carries,Carries,Carries,Carries,Receiving,Receiving
+,Player,#,Nation,Pos,Age,Min,Touches,Def Pen,Def 3rd,Mid 3rd,Att 3rd,Att Pen,Live,Att,Succ,Succ%,Tkld,Tkld%,Carries,TotDist,PrgDist,PrgC,1/3,CPA,Mis,Dis,Rec,PrgR
+0,Ivan Toney,17.0,eng ENG,FW,25-235,90,40,0,1,15,24,5,40,0,0,,0,,17,69,40,1,1,1,2,1,28,6
+1,Bryan Mbeumo,19.0,cm CMR,"FW,WB",22-091,90,57,0,4,23,30,5,57,2,0,0.0,2,100.0,30,137,55,2,0,1,5,1,36,11
+2,Vitaly Janelt,27.0,de GER,CM,23-180,45,33,1,6,23,4,0,33,0,0,,0,,23,108,44,0,0,0,2,0,22,0
+3,Saman Ghoddos,14.0,ir IRN,CM,28-061,45,27,1,1,15,11,2,27,1,0,0.0,1,100.0,17,67,45,1,0,0,2,0,16,3
+4,Christian Nørgaard,6.0,dk DEN,CM,27-241,90,79,1,12,55,12,2,79,0,0,,0,,41,237,139,1,1,0,0,3,52,0
+5,Mathias Jensen,8.0,dk DEN,CM,25-309,90,66,2,9,22,35,2,66,4,4,100.0,0,0.0,35,163,87,1,1,0,2,2,46,3
+6,Rico Henry,3.0,eng ENG,WB,24-121,68,55,4,11,27,17,3,55,2,2,100.0,0,0.0,36,143,65,2,1,1,1,3,37,4
+7,Marcus Forss,9.0,fi FIN,"FW,WB",22-141,22,8,0,0,7,1,0,8,1,1,100.0,0,0.0,3,31,17,0,0,0,0,0,3,1
+8,Sergi Canós,7.0,es ESP,WB,24-277,90,72,1,12,24,37,7,72,3,2,66.7,1,33.3,48,258,168,7,4,3,4,0,49,11
+9,Ethan Pinnock,5.0,jm JAM,CB,28-161,90,102,4,24,62,16,7,102,0,0,,0,,39,113,57,1,0,0,2,0,58,3
+10,Pontus Jansson,18.0,se SWE,CB,30-266,90,74,5,29,35,10,4,74,0,0,,0,,43,171,111,0,1,0,0,0,48,0
+11,Mathias Jørgensen,22.0,dk DEN,CB,31-197,11,4,1,2,1,1,0,4,0,0,,0,,1,1,1,0,0,0,0,0,1,0
+12,Charlie Goode,4.0,eng ENG,CB,26-095,79,73,3,21,35,17,6,73,2,1,50.0,1,50.0,36,257,121,2,0,0,0,1,46,6
+13,Álvaro Fernández,40.0,es ESP,GK,23-207,90,45,26,44,1,0,0,45,0,0,,0,,33,152,69,0,0,0,0,0,28,0
+14,14 Players,,,,,990,735,49,176,345,215,43,735,15,10,66.7,5,33.3,402,1907,1019,18,9,6,20,11,470,48

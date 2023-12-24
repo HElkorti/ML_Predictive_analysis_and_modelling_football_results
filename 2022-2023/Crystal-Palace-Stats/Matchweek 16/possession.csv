@@ -1,0 +1,19 @@
+,Unnamed: 0_level_0,Unnamed: 1_level_0,Unnamed: 2_level_0,Unnamed: 3_level_0,Unnamed: 4_level_0,Unnamed: 5_level_0,Touches,Touches,Touches,Touches,Touches,Touches,Touches,Take-Ons,Take-Ons,Take-Ons,Take-Ons,Take-Ons,Carries,Carries,Carries,Carries,Carries,Carries,Carries,Carries,Receiving,Receiving
+,Player,#,Nation,Pos,Age,Min,Touches,Def Pen,Def 3rd,Mid 3rd,Att 3rd,Att Pen,Live,Att,Succ,Succ%,Tkld,Tkld%,Carries,TotDist,PrgDist,PrgC,1/3,CPA,Mis,Dis,Rec,PrgR
+0,Wilfried Zaha,11.0,ci CIV,"FW,LW,LM",30-002,90,32,0,0,11,21,8,31,1,0,0.0,1,100.0,18,68,8,0,1,1,5,5,29,7
+1,Eberechi Eze,10.0,eng ENG,"LW,AM",24-136,77,38,0,3,21,14,4,38,0,0,,0,,21,97,45,1,2,1,1,5,29,12
+2,Malcolm Ebiowei,23.0,eng ENG,"RM,RW",19-069,13,9,0,0,2,7,2,9,2,1,50.0,1,50.0,6,25,8,1,0,0,3,0,7,6
+3,Jordan Ayew,9.0,gh GHA,RW,31-062,58,29,0,0,16,15,2,29,2,1,50.0,1,50.0,14,52,17,2,0,2,2,0,20,3
+4,Jean-Philippe Mateta,14.0,fr FRA,FW,25-137,32,4,0,1,1,2,0,4,0,0,,0,,1,1,1,0,0,0,0,0,3,2
+5,Jeffrey Schlupp,15.0,gh GHA,"LM,DM,LB",29-324,90,80,1,15,43,22,3,80,4,0,0.0,2,50.0,44,179,87,2,0,0,1,1,60,4
+6,Cheick Doucouré,28.0,ml MLI,"CM,DM",22-308,84,58,2,8,46,4,0,58,0,0,,0,,26,151,86,0,1,0,0,0,44,1
+7,Odsonne Édouard,22.0,fr FRA,CM,24-300,6,4,0,0,1,3,1,4,0,0,,0,,1,0,0,0,0,0,1,0,3,0
+8,Michael Olise,7.0,fr FRA,"RM,RW,CM,AM",20-335,90,58,0,4,28,27,1,58,3,2,66.7,1,33.3,38,233,157,4,4,1,3,2,53,7
+9,Tyrick Mitchell,3.0,eng ENG,LB,23-072,59,38,3,15,13,10,0,38,0,0,,0,,15,73,28,0,2,0,0,1,19,4
+10,Joel Ward,2.0,eng ENG,RB,33-014,31,30,0,7,12,11,0,30,0,0,,0,,16,84,51,1,2,0,1,0,21,2
+11,Marc Guéhi,6.0,eng ENG,CB,22-122,90,135,12,45,87,3,1,135,0,0,,0,,90,359,228,2,1,0,0,0,111,1
+12,Joachim Andersen,16.0,dk DEN,CB,26-165,90,140,10,46,91,3,1,140,0,0,,0,,101,546,341,4,0,0,0,1,116,0
+13,Nathaniel Clyne,17.0,eng ENG,"RB,LB",31-221,77,57,0,7,46,4,0,57,0,0,,0,,30,142,81,1,0,0,1,0,41,2
+14,Will Hughes,19.0,eng ENG,DM,27-209,13,16,0,0,12,4,0,16,0,0,,0,,8,38,35,0,0,0,1,0,11,1
+15,Vicente Guaita,13.0,es ESP,GK,35-306,90,28,21,27,1,0,0,28,0,0,,0,,11,50,26,0,0,0,0,0,10,0
+16,16 Players,,,,,990,756,49,178,431,150,23,755,12,4,33.3,6,50.0,440,2098,1199,18,13,5,19,15,577,52

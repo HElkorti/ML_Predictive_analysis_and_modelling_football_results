@@ -1,0 +1,19 @@
+,Unnamed: 0_level_0,Unnamed: 1_level_0,Unnamed: 2_level_0,Unnamed: 3_level_0,Unnamed: 4_level_0,Unnamed: 5_level_0,Tackles,Tackles,Tackles,Tackles,Tackles,Challenges,Challenges,Challenges,Challenges,Blocks,Blocks,Blocks,Unnamed: 18_level_0,Unnamed: 19_level_0,Unnamed: 20_level_0,Unnamed: 21_level_0
+,Player,#,Nation,Pos,Age,Min,Tkl,TklW,Def 3rd,Mid 3rd,Att 3rd,Tkl,Att,Tkl%,Lost,Blocks,Sh,Pass,Int,Tkl+Int,Clr,Err
+0,Diego Costa,29.0,es ESP,FW,34-190,72,0,0,0,0,0,0,0,,0,0,0,0,0,0,3,0
+1,João Moutinho,28.0,pt POR,"FW,CM",36-219,18,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,0
+2,Matheus Cunha,12.0,br BRA,FW,23-323,88,0,0,0,0,0,0,1,0.0,1,1,0,1,1,1,0,0
+3,Hugo Bueno,64.0,es ESP,LB,20-209,2,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,0
+4,Pablo Sarabia,21.0,es ESP,LM,30-339,63,2,0,2,0,0,0,0,,0,0,0,0,0,2,1,0
+5,Hwang Hee-chan,11.0,kr KOR,"LM,FW",27-079,27,0,0,0,0,0,0,1,0.0,1,0,0,0,0,0,0,0
+6,Mario Lemina,5.0,ga GAB,CM,29-226,88,3,2,0,3,0,1,1,100.0,0,0,0,0,0,3,2,0
+7,Pedro Neto,7.0,pt POR,"LM,CM",23-037,2,0,0,0,0,0,0,1,0.0,1,0,0,0,0,0,0,0
+8,João Gomes,35.0,br BRA,CM,22-062,72,4,2,1,3,0,3,3,100.0,0,2,0,2,0,4,4,0
+9,Adama Traoré,37.0,es ESP,"CM,RM",27-080,18,0,0,0,0,0,0,0,,0,0,0,0,1,1,0,0
+10,Matheus Nunes,27.0,pt POR,"RM,CM",24-231,90,5,4,1,4,0,1,4,25.0,3,3,0,3,0,5,0,0
+11,Toti Gomes,24.0,pt POR,"LB,CB",24-089,90,1,1,1,0,0,1,1,100.0,0,1,0,1,2,3,4,0
+12,Max Kilman,23.0,eng ENG,CB,25-327,90,2,1,1,1,0,0,1,0.0,1,2,2,0,0,2,4,0
+13,Craig Dawson,15.0,eng ENG,CB,32-344,90,2,1,2,0,0,1,1,100.0,0,2,2,0,0,2,3,0
+14,Nélson Semedo,22.0,pt POR,RB,29-150,90,2,0,0,2,0,1,1,100.0,0,0,0,0,0,2,0,0
+15,José Sá,1.0,pt POR,GK,30-088,90,0,0,0,0,0,0,0,,0,0,0,0,0,0,1,1
+16,16 Players,,,,,990,21,11,8,13,0,8,15,53.3,7,11,4,7,4,25,22,1

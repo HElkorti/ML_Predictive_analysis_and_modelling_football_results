@@ -1,0 +1,19 @@
+,Unnamed: 0_level_0,Unnamed: 1_level_0,Unnamed: 2_level_0,Unnamed: 3_level_0,Unnamed: 4_level_0,Unnamed: 5_level_0,Unnamed: 6_level_0,Pass Types,Pass Types,Pass Types,Pass Types,Pass Types,Pass Types,Pass Types,Pass Types,Corner Kicks,Corner Kicks,Corner Kicks,Outcomes,Outcomes,Outcomes
+,Player,#,Nation,Pos,Age,Min,Att,Live,Dead,FK,TB,Sw,Crs,TI,CK,In,Out,Str,Cmp,Off,Blocks
+0,Ivan Toney,17.0,eng ENG,FW,26-199,90,20,20,0,0,0,0,1,0,0,0,0,0,15,0,0
+1,Mikkel Damsgaard,24.0,dk DEN,LW,22-090,60,23,22,0,0,0,0,2,0,0,0,0,0,14,1,2
+2,Josh Dasilva,10.0,eng ENG,"RW,LW",23-343,30,20,19,1,0,1,0,0,1,0,0,0,0,15,0,0
+3,Bryan Mbeumo,19.0,cm CMR,RW,23-055,60,27,23,4,0,0,0,3,2,2,1,1,0,20,0,0
+4,Yoane Wissa,11.0,cd COD,"LW,RW",26-028,30,6,6,0,0,0,0,0,0,0,0,0,0,3,0,0
+5,Mathias Jensen,8.0,dk DEN,LM,26-273,90,68,55,13,2,0,0,6,4,6,3,3,0,51,0,0
+6,Vitaly Janelt,27.0,de GER,CM,24-144,90,50,48,1,1,0,0,1,0,0,0,0,0,44,1,0
+7,Shandon Baptiste,26.0,gd GRN,RM,24-176,83,48,47,1,0,0,0,3,1,0,0,0,0,39,0,2
+8,Frank Onyeka,15.0,ng NGA,RM,24-273,7,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+9,Rico Henry,3.0,eng ENG,LB,25-085,90,31,27,4,0,0,0,0,4,0,0,0,0,29,0,1
+10,Ben Mee,16.0,eng ENG,CB,33-010,90,70,67,3,2,0,1,0,1,0,0,0,0,55,0,0
+11,Pontus Jansson,18.0,se SWE,CB,31-230,64,47,45,2,2,0,0,0,0,0,0,0,0,39,0,0
+12,Mathias Jørgensen,13.0,dk DEN,CB,32-161,26,32,31,1,1,0,0,0,0,0,0,0,0,30,0,0
+13,Kristoffer Ajer,20.0,no NOR,RB,24-167,60,53,48,5,1,0,1,2,4,0,0,0,0,48,0,3
+14,Aaron Hickey,2.0,sct SCO,RB,20-113,30,29,26,3,1,0,0,0,2,0,0,0,0,24,0,0
+15,David Raya,1.0,es ESP,GK,27-016,90,50,41,9,1,0,0,0,0,0,0,0,0,42,0,0
+16,16 Players,,,,,990,574,525,47,11,1,2,18,19,8,4,4,0,468,2,8

@@ -1,0 +1,17 @@
+,Unnamed: 0_level_0,Unnamed: 1_level_0,Unnamed: 2_level_0,Unnamed: 3_level_0,Unnamed: 4_level_0,Unnamed: 5_level_0,Unnamed: 6_level_0,Pass Types,Pass Types,Pass Types,Pass Types,Pass Types,Pass Types,Pass Types,Pass Types,Corner Kicks,Corner Kicks,Corner Kicks,Outcomes,Outcomes,Outcomes
+,Player,#,Nation,Pos,Age,Min,Att,Live,Dead,FK,TB,Sw,Crs,TI,CK,In,Out,Str,Cmp,Off,Blocks
+0,Kai Havertz,29.0,de GER,FW,21-101,45,15,14,1,1,0,0,1,0,0,0,0,0,12,0,1
+1,Fikayo Tomori,14.0,eng ENG,CB,22-276,45,29,28,1,1,0,0,0,0,0,0,0,0,28,0,0
+2,Timo Werner,11.0,de GER,"LW,FW,LM",24-198,90,27,26,1,0,0,0,0,0,0,0,0,0,19,0,3
+3,Mason Mount,19.0,eng ENG,"RW,LM,RM",21-254,90,34,31,3,0,0,1,1,1,0,0,0,0,27,0,0
+4,Mateo Kovačić,17.0,hr CRO,"LM,CM",26-137,78,62,61,1,1,1,0,0,0,0,0,0,0,57,0,0
+5,Tammy Abraham,9.0,eng ENG,FW,22-354,12,4,4,0,0,0,0,0,0,0,0,0,0,3,0,0
+6,Jorginho,5.0,it ITA,CM,28-275,78,53,53,0,0,0,1,0,0,0,0,0,0,44,0,0
+7,Ross Barkley,8.0,eng ENG,CM,26-290,12,4,4,0,0,0,0,0,0,0,0,0,0,3,0,0
+8,N'Golo Kanté,7.0,fr FRA,"RM,CM",29-175,90,39,38,0,0,0,0,0,0,0,0,0,0,30,1,1
+9,Marcos Alonso,3.0,es ESP,LB,29-267,90,52,49,3,1,0,1,0,2,0,0,0,0,44,0,1
+10,Kurt Zouma,15.0,fr FRA,CB,25-329,90,49,48,1,1,0,1,0,0,0,0,0,0,44,0,0
+11,Andreas Christensen,4.0,dk DEN,CB,24-163,44,40,39,1,1,0,0,0,0,0,0,0,0,37,0,0
+12,Reece James,24.0,eng ENG,RB,20-287,90,54,46,8,0,0,1,2,7,1,0,0,0,41,0,3
+13,Kepa Arrizabalaga,1.0,es ESP,GK,25-353,90,50,40,10,0,0,0,0,0,0,0,0,0,43,0,0
+14,14 Players,,,,,944,512,481,30,6,1,5,4,10,1,0,0,0,432,1,9

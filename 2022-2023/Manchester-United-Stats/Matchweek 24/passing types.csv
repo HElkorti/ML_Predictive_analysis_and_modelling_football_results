@@ -1,0 +1,19 @@
+,Unnamed: 0_level_0,Unnamed: 1_level_0,Unnamed: 2_level_0,Unnamed: 3_level_0,Unnamed: 4_level_0,Unnamed: 5_level_0,Unnamed: 6_level_0,Pass Types,Pass Types,Pass Types,Pass Types,Pass Types,Pass Types,Pass Types,Pass Types,Corner Kicks,Corner Kicks,Corner Kicks,Outcomes,Outcomes,Outcomes
+,Player,#,Nation,Pos,Age,Min,Att,Live,Dead,FK,TB,Sw,Crs,TI,CK,In,Out,Str,Cmp,Off,Blocks
+0,Marcus Rashford,10.0,eng ENG,"FW,LW",25-111,68,8,7,1,0,0,0,0,0,0,0,0,0,8,0,0
+1,Anthony Elanga,36.0,se SWE,LW,20-298,22,6,6,0,0,0,0,1,0,0,0,0,0,4,0,0
+2,Alejandro Garnacho,49.0,ar ARG,LW,18-233,45,17,17,0,0,0,0,0,0,0,0,0,0,17,0,0
+3,Jadon Sancho,25.0,eng ENG,AM,22-331,45,28,28,0,0,0,0,0,0,0,0,0,0,26,0,0
+4,Bruno Fernandes,8.0,pt POR,RW,28-164,90,67,59,8,3,1,1,9,2,3,0,1,1,42,0,10
+5,Wout Weghorst,27.0,nl NED,"FW,AM",30-196,90,26,26,0,0,2,0,0,0,0,0,0,0,20,0,2
+6,Fred,17.0,br BRA,DM,29-351,58,56,56,0,0,1,0,1,0,0,0,0,0,44,0,2
+7,Scott McTominay,39.0,sct SCO,DM,26-073,32,29,29,0,0,0,0,0,0,0,0,0,0,29,0,0
+8,Marcel Sabitzer,15.0,at AUT,DM,28-339,79,57,55,2,1,0,0,0,1,0,0,0,0,46,0,0
+9,Kobbie Mainoo,73.0,eng ENG,DM,17-306,11,8,8,0,0,0,0,0,0,0,0,0,0,7,0,0
+10,Luke Shaw,23.0,eng ENG,LB,27-222,68,42,35,7,1,0,0,4,3,3,2,1,0,35,0,0
+11,Aaron Wan-Bissaka,29.0,eng ENG,RB,25-085,22,23,20,3,0,0,0,0,3,0,0,0,0,22,0,0
+12,Lisandro Martínez,6.0,ar ARG,CB,25-032,90,66,56,10,3,0,1,0,1,0,0,0,0,60,0,0
+13,Victor Lindelöf,2.0,se SWE,CB,28-217,90,75,74,1,1,0,0,0,0,0,0,0,0,69,0,0
+14,Diogo Dalot,20.0,pt POR,"RB,LB",23-338,90,62,55,7,0,0,0,3,7,0,0,0,0,52,0,2
+15,David de Gea,1.0,es ESP,GK,32-104,90,40,39,1,0,0,0,0,0,0,0,0,0,30,0,0
+16,16 Players,,,,,990,610,570,40,9,4,2,18,17,6,2,2,1,511,0,16

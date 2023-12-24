@@ -1,0 +1,19 @@
+,Unnamed: 0_level_0,Unnamed: 1_level_0,Unnamed: 2_level_0,Unnamed: 3_level_0,Unnamed: 4_level_0,Unnamed: 5_level_0,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Aerial Duels,Aerial Duels,Aerial Duels
+,Player,#,Nation,Pos,Age,Min,CrdY,CrdR,2CrdY,Fls,Fld,Off,Crs,Int,TklW,PKwon,PKcon,OG,Recov,Won,Lost,Won%
+0,Kai Havertz,29.0,de GER,"FW,LM",23-237,90,0,0,0,2,0,1,0,0,0,0,0,0,2,3,2,60.0
+1,Mykhailo Mudryk,15.0,ua UKR,LW,22-029,45,0,0,0,1,0,0,0,0,1,0,0,0,2,0,1,0.0
+2,Noni Madueke,31.0,eng ENG,"RW,LW",20-330,45,0,0,0,0,1,0,3,0,1,0,0,0,5,0,0,
+3,Hakim Ziyech,22.0,ma MAR,RW,29-321,59,0,0,0,1,0,2,5,0,1,0,0,0,5,0,0,
+4,Raheem Sterling,17.0,eng ENG,LW,28-057,31,0,0,0,1,2,0,0,0,1,0,0,0,3,0,0,
+5,Mason Mount,19.0,eng ENG,LM,24-024,74,0,0,0,3,2,0,0,1,0,0,0,0,6,1,2,33.3
+6,David Datro Fofana,27.0,ci CIV,"FW,LM",20-043,16,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,
+7,Enzo Fernández,5.0,ar ARG,CM,22-017,90,0,0,0,0,2,0,0,2,5,0,0,0,10,1,0,100.0
+8,Conor Gallagher,23.0,eng ENG,RM,22-362,90,1,0,0,1,2,0,5,1,0,0,0,0,4,2,1,66.7
+9,Marc Cucurella,32.0,es ESP,LB,24-196,83,0,0,0,2,2,0,0,0,2,0,0,0,13,0,1,0.0
+10,Ben Chilwell,21.0,eng ENG,LB,26-044,7,0,0,0,1,0,0,1,0,0,0,0,0,0,1,0,100.0
+11,Benoît Badiashile,4.0,fr FRA,CB,21-314,90,0,0,0,0,1,0,0,2,0,0,0,0,3,1,2,33.3
+12,Thiago Silva,6.0,br BRA,CB,38-134,90,0,0,0,1,0,0,0,2,0,0,0,0,5,3,1,75.0
+13,Reece James,24.0,eng ENG,RB,23-057,59,0,0,0,1,0,0,2,0,1,0,0,0,5,1,1,50.0
+14,César Azpilicueta,28.0,es ESP,RB,33-159,31,0,0,0,0,0,0,0,1,1,0,0,0,1,0,1,0.0
+15,Kepa Arrizabalaga,1.0,es ESP,GK,28-123,90,0,0,0,0,0,0,0,0,0,0,0,0,3,0,0,
+16,16 Players,,,,,990,1,0,0,16,12,3,16,9,13,0,0,0,67,13,12,52.0

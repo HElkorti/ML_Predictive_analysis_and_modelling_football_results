@@ -1,0 +1,16 @@
+,Unnamed: 0_level_0,Unnamed: 1_level_0,Unnamed: 2_level_0,Unnamed: 3_level_0,Unnamed: 4_level_0,Unnamed: 5_level_0,Touches,Touches,Touches,Touches,Touches,Touches,Touches,Take-Ons,Take-Ons,Take-Ons,Take-Ons,Take-Ons,Carries,Carries,Carries,Carries,Carries,Carries,Carries,Carries,Receiving,Receiving
+,Player,#,Nation,Pos,Age,Min,Touches,Def Pen,Def 3rd,Mid 3rd,Att 3rd,Att Pen,Live,Att,Succ,Succ%,Tkld,Tkld%,Carries,TotDist,PrgDist,PrgC,1/3,CPA,Mis,Dis,Rec,PrgR
+0,Adam Armstrong,9.0,eng ENG,FW,24-304,42,11,0,0,4,7,3,11,0,0,,0,,3,12,5,0,0,0,1,0,7,1
+1,Mohamed Elyounoussi,24.0,no NOR,"LM,CM",27-129,48,21,1,4,12,5,0,21,0,0,,0,,7,45,2,0,0,0,5,0,10,2
+2,Armando Broja,18.0,al ALB,FW,20-092,69,20,0,0,12,8,2,20,1,0,0.0,1,100.0,11,47,9,0,1,0,2,1,19,3
+3,Lyanco,4.0,br BRA,CB,24-313,21,6,0,3,3,0,0,6,0,0,,0,,4,15,1,0,0,0,0,0,3,0
+4,Nathan Tella,23.0,ng NGA,"FW,LM",22-159,90,29,0,3,14,14,3,29,1,1,100.0,0,0.0,18,147,67,3,3,1,7,2,18,8
+5,Ibrahima Diallo,27.0,fr FRA,CM,22-278,90,36,2,7,20,9,0,36,0,0,,0,,19,61,39,0,2,0,1,0,19,1
+6,James Ward-Prowse,8.0,eng ENG,CM,27-040,90,43,1,6,23,14,0,43,0,0,,0,,16,43,20,0,0,0,1,0,22,1
+7,Nathan Redmond,11.0,eng ENG,"RM,FW",27-280,90,32,2,4,15,13,2,32,1,1,100.0,0,0.0,19,80,21,0,0,1,3,1,19,7
+8,Kyle Walker-Peters,2.0,eng ENG,LB,24-242,90,50,6,17,21,12,1,50,0,0,,0,,20,85,56,1,4,0,1,1,19,5
+9,Jan Bednarek,35.0,pl POL,CB,25-243,90,71,10,37,31,3,1,71,0,0,,0,,35,120,74,0,0,0,0,0,37,0
+10,Jack Stephens,5.0,eng ENG,CB,27-318,90,63,10,36,26,1,0,63,0,0,,0,,27,85,32,0,0,0,0,0,31,0
+11,Valentino Livramento,21.0,eng ENG,RB,19-029,90,49,7,13,26,12,2,49,2,0,0.0,2,100.0,22,88,31,1,2,0,3,0,21,3
+12,Willy Caballero,13.0,ar ARG,GK,40-074,90,39,25,39,0,0,0,39,0,0,,0,,21,112,60,0,0,0,0,0,21,0
+13,13 Players,,,,,990,470,64,169,207,98,14,470,5,2,40.0,3,60.0,222,940,417,5,12,2,24,5,246,31

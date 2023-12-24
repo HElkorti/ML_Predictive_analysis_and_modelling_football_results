@@ -1,0 +1,16 @@
+,Unnamed: 0_level_0,Unnamed: 1_level_0,Unnamed: 2_level_0,Unnamed: 3_level_0,Unnamed: 4_level_0,Unnamed: 5_level_0,Unnamed: 6_level_0,Pass Types,Pass Types,Pass Types,Pass Types,Pass Types,Pass Types,Pass Types,Pass Types,Corner Kicks,Corner Kicks,Corner Kicks,Outcomes,Outcomes,Outcomes
+,Player,#,Nation,Pos,Age,Min,Att,Live,Dead,FK,TB,Sw,Crs,TI,CK,In,Out,Str,Cmp,Off,Blocks
+0,Gabriel Jesus,9.0,br BRA,"FW,LW",23-256,90,14,12,2,0,0,0,0,0,0,0,0,0,13,0,0
+1,Phil Foden,47.0,eng ENG,LW,20-201,75,55,52,3,0,0,0,6,0,3,0,3,0,46,0,2
+2,Sergio Agüero,10.0,ar ARG,FW,32-196,15,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+3,Raheem Sterling,7.0,eng ENG,RW,26-007,90,59,59,0,0,0,0,1,0,0,0,0,0,53,0,3
+4,Kevin De Bruyne,17.0,be BEL,AM,29-170,90,67,55,10,2,0,1,16,0,8,1,5,1,47,2,3
+5,İlkay Gündoğan,8.0,de GER,DM,30-052,90,110,105,4,2,0,0,2,0,2,0,2,0,101,1,0
+6,Rodri,16.0,es ESP,DM,24-176,90,108,108,0,0,0,2,1,0,0,0,0,0,94,0,1
+7,Benjamin Mendy,22.0,fr FRA,LB,26-151,74,63,52,11,0,0,0,1,11,0,0,0,0,53,0,1
+8,Kyle Walker,2.0,eng ENG,RB,30-201,16,16,16,0,0,0,0,1,0,0,0,0,0,14,0,0
+9,Nathan Aké,6.0,nl NED,CB,25-301,90,103,101,2,1,0,0,0,1,0,0,0,0,96,0,1
+10,Rúben Dias,3.0,pt POR,CB,23-215,90,94,93,1,1,0,0,0,0,0,0,0,0,89,0,0
+11,João Cancelo,27.0,pt POR,"RB,LB",26-202,90,98,90,8,0,0,0,4,8,0,0,0,0,82,0,0
+12,Ederson,31.0,br BRA,GK,27-120,90,22,15,7,2,0,0,0,0,0,0,0,0,22,0,0
+13,13 Players,,,,,990,810,759,48,8,0,3,32,20,13,1,10,1,710,3,11

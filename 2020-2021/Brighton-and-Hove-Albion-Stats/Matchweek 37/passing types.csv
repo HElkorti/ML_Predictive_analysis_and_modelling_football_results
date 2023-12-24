@@ -1,0 +1,17 @@
+,Unnamed: 0_level_0,Unnamed: 1_level_0,Unnamed: 2_level_0,Unnamed: 3_level_0,Unnamed: 4_level_0,Unnamed: 5_level_0,Unnamed: 6_level_0,Pass Types,Pass Types,Pass Types,Pass Types,Pass Types,Pass Types,Pass Types,Pass Types,Corner Kicks,Corner Kicks,Corner Kicks,Outcomes,Outcomes,Outcomes
+,Player,#,Nation,Pos,Age,Min,Att,Live,Dead,FK,TB,Sw,Crs,TI,CK,In,Out,Str,Cmp,Off,Blocks
+0,Danny Welbeck,18.0,eng ENG,FW,30-173,28,2,2,0,0,0,0,0,0,0,0,0,0,1,0,1
+1,Leandro Trossard,11.0,be BEL,"FW,WB",26-165,62,29,28,1,0,0,0,2,0,0,0,0,0,23,0,0
+2,Alexis Mac Allister,10.0,ar ARG,"FW,AM",22-145,90,27,26,1,0,1,1,0,0,0,0,0,0,22,0,0
+3,Steven Alzate,17.0,co COL,CM,22-252,64,33,31,2,1,0,0,0,1,0,0,0,0,32,0,0
+4,Andi Zeqiri,29.0,ch SUI,FW,21-330,26,3,3,0,0,0,0,0,0,0,0,0,0,3,0,0
+5,Yves Bissouma,8.0,ml MLI,CM,24-261,90,57,54,3,3,0,0,0,0,0,0,0,0,52,0,1
+6,Pascal Groß,13.0,de GER,"CM,WB",29-337,90,73,60,13,1,0,0,7,7,5,0,2,1,61,0,1
+7,Jakub Moder,15.0,pl POL,"WB,AM",22-041,90,49,46,3,0,0,0,2,3,0,0,0,0,39,0,0
+8,Alireza Jahanbakhsh,16.0,ir IRN,WB,27-280,48,23,21,1,0,0,0,3,0,0,0,0,0,15,1,0
+9,Adam Lallana,14.0,eng ENG,CM,33-008,42,37,35,2,2,0,0,0,0,0,0,0,0,35,0,1
+10,Dan Burn,33.0,eng ENG,CB,29-009,90,85,78,6,2,0,0,0,4,0,0,0,0,76,1,0
+11,Adam Webster,4.0,eng ENG,CB,26-134,90,117,116,0,0,0,0,0,0,0,0,0,0,107,1,0
+12,Ben White,3.0,eng ENG,CB,23-222,90,70,67,3,1,0,1,0,2,0,0,0,0,64,0,0
+13,Robert Sánchez,26.0,es ESP,GK,23-181,90,38,35,3,1,0,0,0,0,0,0,0,0,33,0,0
+14,14 Players,,,,,990,643,602,38,11,1,2,14,17,5,0,2,1,563,3,4

@@ -1,0 +1,17 @@
+,Unnamed: 0_level_0,Unnamed: 1_level_0,Unnamed: 2_level_0,Unnamed: 3_level_0,Unnamed: 4_level_0,Unnamed: 5_level_0,Unnamed: 6_level_0,Pass Types,Pass Types,Pass Types,Pass Types,Pass Types,Pass Types,Pass Types,Pass Types,Corner Kicks,Corner Kicks,Corner Kicks,Outcomes,Outcomes,Outcomes
+,Player,#,Nation,Pos,Age,Min,Att,Live,Dead,FK,TB,Sw,Crs,TI,CK,In,Out,Str,Cmp,Off,Blocks
+0,Neal Maupay,9.0,fr FRA,FW,25-105,67,24,23,1,0,1,2,0,0,0,0,0,0,19,0,2
+1,Jürgen Locadia,27.0,nl NED,"AM,FW",28-020,23,1,1,0,0,0,0,0,0,0,0,0,0,1,0,0
+2,Leandro Trossard,11.0,be BEL,"LW,AM",26-358,90,37,37,0,0,0,0,1,0,0,0,0,0,28,0,0
+3,Tariq Lamptey,2.0,gh GHA,RW,21-058,75,30,30,0,0,0,1,4,0,0,0,0,0,24,0,1
+4,Solly March,20.0,eng ENG,"RW,RB",27-130,15,3,3,0,0,0,0,0,0,0,0,0,0,0,0,0
+5,Jakub Moder,15.0,pl POL,AM,22-234,81,36,36,0,0,2,0,2,0,0,0,0,0,16,0,4
+6,Jeremy Sarmiento,60.0,ec ECU,LW,19-164,9,4,4,0,0,0,0,0,0,0,0,0,0,3,0,0
+7,Yves Bissouma,8.0,ml MLI,DM,25-089,90,32,32,0,0,2,0,0,0,0,0,0,0,26,0,0
+8,Pascal Groß,13.0,de GER,DM,30-165,90,65,53,12,6,0,1,7,1,5,3,2,0,55,0,0
+9,Marc Cucurella,3.0,es ESP,LB,23-128,90,59,45,13,2,0,0,5,10,1,1,0,0,45,1,0
+10,Lewis Dunk,5.0,eng ENG,CB,30-006,90,79,73,6,6,0,0,0,0,0,0,0,0,67,0,0
+11,Adam Webster,4.0,eng ENG,CB,26-327,90,68,67,0,0,2,0,0,0,0,0,0,0,50,1,0
+12,Joël Veltman,34.0,nl NED,RB,29-316,90,60,50,10,1,0,0,0,9,0,0,0,0,42,0,2
+13,Robert Sánchez,1.0,es ESP,GK,24-009,90,41,32,9,0,0,1,0,0,0,0,0,0,32,0,0
+14,14 Players,,,,,990,539,486,51,15,7,5,19,20,6,4,2,0,408,2,9

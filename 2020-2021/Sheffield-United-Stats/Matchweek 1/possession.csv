@@ -1,0 +1,16 @@
+,Unnamed: 0_level_0,Unnamed: 1_level_0,Unnamed: 2_level_0,Unnamed: 3_level_0,Unnamed: 4_level_0,Unnamed: 5_level_0,Touches,Touches,Touches,Touches,Touches,Touches,Touches,Take-Ons,Take-Ons,Take-Ons,Take-Ons,Take-Ons,Carries,Carries,Carries,Carries,Carries,Carries,Carries,Carries,Receiving,Receiving
+,Player,#,Nation,Pos,Age,Min,Touches,Def Pen,Def 3rd,Mid 3rd,Att 3rd,Att Pen,Live,Att,Succ,Succ%,Tkld,Tkld%,Carries,TotDist,PrgDist,PrgC,1/3,CPA,Mis,Dis,Rec,PrgR
+0,Billy Sharp,10.0,eng ENG,FW,34-222,90,27,0,2,5,20,8,27,2,1,50.0,1,50.0,12,101,0,0,1,0,3,3,21,14
+1,Oliver McBurnie,9.0,sct SCO,FW,24-102,90,39,2,3,5,32,4,39,2,1,50.0,1,50.0,14,54,9,0,1,0,0,0,31,7
+2,John Fleck,4.0,sct SCO,"CM,LM",29-021,90,56,0,5,19,32,5,56,3,1,33.3,2,66.7,22,111,58,0,3,1,1,2,30,7
+3,Oliver Norwood,16.0,nir NIR,CM,29-155,75,64,1,10,39,16,0,64,0,0,,0,,26,82,50,0,0,0,0,0,45,1
+4,Sander Berge,8.0,no NOR,CM,22-213,15,26,0,0,11,15,0,26,0,0,,0,,18,100,71,2,2,0,0,0,19,1
+5,John Lundstram,7.0,eng ENG,"CM,RM",26-209,90,66,0,0,18,48,1,66,0,0,,0,,37,193,78,2,2,0,1,0,50,9
+6,Enda Stevens,3.0,ie IRL,"WB,LB",30-067,90,74,2,13,33,30,2,74,3,2,66.7,1,33.3,36,144,85,1,3,0,1,1,40,2
+7,George Baldock,2.0,gr GRE,"WB,RB",27-189,90,57,0,5,19,33,5,57,1,0,0.0,1,100.0,28,103,37,0,1,0,0,0,37,10
+8,Jack O'Connell,5.0,eng ENG,CB,26-169,90,63,1,19,30,14,0,63,1,0,0.0,1,100.0,27,104,64,0,3,1,2,0,44,1
+9,John Egan,12.0,ie IRL,CB,27-330,90,57,3,17,35,5,2,57,0,0,,0,,34,171,136,0,0,0,0,0,33,0
+10,Chris Basham,6.0,eng ENG,CB,32-056,70,41,3,9,26,6,1,41,0,0,,0,,16,70,40,1,0,0,2,0,20,1
+11,David McGoldrick,17.0,ie IRL,AM,32-290,20,24,0,0,7,17,0,24,1,1,100.0,0,0.0,14,71,21,0,0,0,1,1,21,3
+12,Aaron Ramsdale,1.0,eng ENG,GK,22-123,90,26,20,25,1,0,0,26,0,0,,0,,12,64,32,0,0,0,0,0,9,0
+13,13 Players,,,,,990,620,32,108,248,268,28,620,13,6,46.2,7,53.8,296,1368,681,6,16,2,11,7,400,56

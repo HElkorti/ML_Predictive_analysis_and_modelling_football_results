@@ -1,0 +1,19 @@
+,Unnamed: 0_level_0,Unnamed: 1_level_0,Unnamed: 2_level_0,Unnamed: 3_level_0,Unnamed: 4_level_0,Unnamed: 5_level_0,Unnamed: 6_level_0,Pass Types,Pass Types,Pass Types,Pass Types,Pass Types,Pass Types,Pass Types,Pass Types,Corner Kicks,Corner Kicks,Corner Kicks,Outcomes,Outcomes,Outcomes
+,Player,#,Nation,Pos,Age,Min,Att,Live,Dead,FK,TB,Sw,Crs,TI,CK,In,Out,Str,Cmp,Off,Blocks
+0,Michail Antonio,9.0,jm JAM,FW,33-032,88,7,7,0,0,0,0,1,0,0,0,0,0,3,0,2
+1,Maxwel Cornet,14.0,ci CIV,FW,26-214,2,3,3,0,0,0,0,0,0,0,0,0,0,3,0,0
+2,Pablo Fornals,8.0,es ESP,LW,27-066,45,19,19,0,0,0,0,0,0,0,0,0,0,13,0,0
+3,Saïd Benrahma,22.0,dz ALG,"LM,LW",27-262,45,11,11,0,0,0,0,2,0,0,0,0,0,4,0,0
+4,Jarrod Bowen,20.0,eng ENG,"RW,RM",26-130,90,23,20,3,0,0,0,4,0,3,3,0,0,16,0,1
+5,Lucas Paquetá,11.0,br BRA,AM,25-245,68,28,21,7,2,0,0,0,0,0,0,0,0,19,0,2
+6,Danny Ings,18.0,eng ENG,FW,30-280,22,2,2,0,0,0,0,0,0,0,0,0,0,1,0,0
+7,Declan Rice,41.0,eng ENG,"DM,CM",24-105,90,53,52,0,0,1,1,1,0,0,0,0,0,39,1,0
+8,Tomáš Souček,28.0,cz CZE,"DM,CM",28-061,90,30,30,0,0,0,0,2,0,0,0,0,0,16,0,1
+9,Emerson Palmieri,33.0,it ITA,LB,28-269,45,22,14,8,0,0,0,1,7,1,0,1,0,16,0,0
+10,Aaron Cresswell,3.0,eng ENG,LB,33-135,45,34,24,10,1,0,0,1,8,1,0,1,0,21,0,1
+11,Nayef Aguerd,27.0,ma MAR,CB,27-030,90,44,42,2,2,0,1,0,0,0,0,0,0,28,0,0
+12,Kurt Zouma,4.0,fr FRA,CB,28-184,18,2,2,0,0,0,0,0,0,0,0,0,0,1,0,0
+13,Angelo Ogbonna,21.0,it ITA,CB,34-341,72,27,27,0,0,0,0,0,0,0,0,0,0,18,0,0
+14,Vladimír Coufal,5.0,cz CZE,RB,30-250,90,47,32,15,1,0,0,2,14,0,0,0,0,27,0,0
+15,Łukasz Fabiański,1.0,pl POL,GK,38-011,90,28,14,14,4,0,0,0,0,0,0,0,0,19,0,0
+16,16 Players,,,,,990,380,320,59,10,1,2,14,29,5,3,2,0,244,1,7

@@ -1,0 +1,17 @@
+,Unnamed: 0_level_0,Unnamed: 1_level_0,Unnamed: 2_level_0,Unnamed: 3_level_0,Unnamed: 4_level_0,Unnamed: 5_level_0,Unnamed: 6_level_0,Pass Types,Pass Types,Pass Types,Pass Types,Pass Types,Pass Types,Pass Types,Pass Types,Corner Kicks,Corner Kicks,Corner Kicks,Outcomes,Outcomes,Outcomes
+,Player,#,Nation,Pos,Age,Min,Att,Live,Dead,FK,TB,Sw,Crs,TI,CK,In,Out,Str,Cmp,Off,Blocks
+0,Marcus Rashford,10.0,eng ENG,FW,24-035,75,24,24,0,0,0,0,0,0,0,0,0,0,23,0,0
+1,Anthony Elanga,36.0,se SWE,FW,19-222,15,7,7,0,0,0,0,0,0,0,0,0,0,5,0,0
+2,Cristiano Ronaldo,7.0,pt POR,FW,36-303,90,38,38,0,0,0,0,1,0,0,0,0,0,26,0,0
+3,Jadon Sancho,25.0,eng ENG,"AM,LM",21-255,61,40,40,0,0,0,0,0,0,0,0,0,0,30,0,0
+4,Mason Greenwood,11.0,eng ENG,RM,20-065,29,13,13,0,0,0,0,0,0,0,0,0,0,12,0,0
+5,Bruno Fernandes,18.0,pt POR,"AM,LM,RM",27-088,85,62,53,8,1,1,1,7,0,6,4,0,0,43,1,2
+6,Donny van de Beek,34.0,nl NED,LM,24-231,5,5,5,0,0,0,0,0,0,0,0,0,0,4,0,1
+7,Fred,17.0,br BRA,"CM,DM",28-275,90,74,71,2,1,0,2,0,1,0,0,0,0,61,1,2
+8,Scott McTominay,39.0,sct SCO,"CM,DM",24-362,90,35,35,0,0,0,0,0,0,0,0,0,0,26,0,2
+9,Alex Telles,27.0,br BRA,LB,28-355,90,87,68,19,2,0,0,9,14,3,1,2,0,65,0,1
+10,Harry Maguire,5.0,eng ENG,CB,28-275,90,72,69,2,2,0,1,0,0,0,0,0,0,62,1,0
+11,Victor Lindelöf,2.0,se SWE,CB,27-141,90,50,50,0,0,0,0,0,0,0,0,0,0,43,0,0
+12,Diogo Dalot,20.0,pt POR,RB,22-262,90,61,46,15,0,0,0,3,15,0,0,0,0,55,0,0
+13,David de Gea,1.0,es ESP,GK,31-028,90,19,14,5,1,0,0,0,0,0,0,0,0,19,0,0
+14,14 Players,,,,,990,587,533,51,7,1,4,20,30,9,5,2,0,474,3,8

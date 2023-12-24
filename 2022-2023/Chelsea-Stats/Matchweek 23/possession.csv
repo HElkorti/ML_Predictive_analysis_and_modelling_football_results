@@ -1,0 +1,18 @@
+,Unnamed: 0_level_0,Unnamed: 1_level_0,Unnamed: 2_level_0,Unnamed: 3_level_0,Unnamed: 4_level_0,Unnamed: 5_level_0,Touches,Touches,Touches,Touches,Touches,Touches,Touches,Take-Ons,Take-Ons,Take-Ons,Take-Ons,Take-Ons,Carries,Carries,Carries,Carries,Carries,Carries,Carries,Carries,Receiving,Receiving
+,Player,#,Nation,Pos,Age,Min,Touches,Def Pen,Def 3rd,Mid 3rd,Att 3rd,Att Pen,Live,Att,Succ,Succ%,Tkld,Tkld%,Carries,TotDist,PrgDist,PrgC,1/3,CPA,Mis,Dis,Rec,PrgR
+0,Kai Havertz,29.0,de GER,FW,23-245,90,35,0,1,13,22,4,35,0,0,,0,,22,125,50,2,1,0,2,4,30,6
+1,Mykhailo Mudryk,15.0,ua UKR,LW,22-037,66,26,0,5,9,13,2,26,2,0,0.0,1,50.0,13,118,81,2,1,0,3,0,17,1
+2,Hakim Ziyech,22.0,ma MAR,RW,29-329,24,21,1,4,5,12,0,21,1,1,100.0,0,0.0,13,53,14,0,0,0,0,0,16,4
+3,Noni Madueke,31.0,eng ENG,RW,20-338,67,36,0,6,8,22,3,36,7,4,57.1,3,42.9,24,210,92,1,1,0,1,2,32,11
+4,Mason Mount,19.0,eng ENG,LW,24-032,23,9,0,2,1,6,3,9,1,0,0.0,1,100.0,7,24,5,0,2,0,0,2,8,3
+5,João Félix,11.0,pt POR,AM,23-093,90,57,0,7,27,24,3,57,4,2,50.0,2,50.0,33,236,124,3,4,0,2,2,41,7
+6,Enzo Fernández,5.0,ar ARG,DM,22-025,90,108,6,24,63,21,1,108,1,0,0.0,1,100.0,70,435,197,2,3,0,1,2,82,1
+7,Ruben Loftus-Cheek,12.0,eng ENG,DM,27-019,78,73,4,13,47,14,2,73,5,5,100.0,0,0.0,45,318,177,4,3,2,0,0,62,1
+8,Conor Gallagher,23.0,eng ENG,DM,23-005,12,18,1,5,10,3,0,18,0,0,,0,,9,45,18,0,0,0,2,0,13,1
+9,Marc Cucurella,32.0,es ESP,LB,24-204,66,68,0,22,32,14,0,68,1,0,0.0,0,0.0,50,268,164,3,4,0,0,0,55,2
+10,Ben Chilwell,21.0,eng ENG,LB,26-052,24,21,1,9,10,2,0,21,0,0,,0,,10,57,42,1,1,0,0,0,12,2
+11,Benoît Badiashile,4.0,fr FRA,CB,21-322,90,88,9,40,46,2,2,88,0,0,,0,,59,262,117,0,0,0,0,0,68,0
+12,Thiago Silva,6.0,br BRA,CB,38-142,90,97,15,52,44,1,0,97,0,0,,0,,64,297,152,1,1,0,1,0,74,0
+13,Reece James,24.0,eng ENG,RB,23-065,90,110,7,22,49,39,2,110,2,1,50.0,1,50.0,73,398,206,8,4,1,1,2,88,12
+14,Kepa Arrizabalaga,1.0,es ESP,GK,28-131,90,32,25,31,1,0,0,32,0,0,,0,,22,92,67,0,0,0,0,0,20,0
+15,15 Players,,,,,990,799,69,243,365,195,22,799,24,13,54.2,9,37.5,514,2938,1506,27,25,3,13,14,618,51

@@ -1,0 +1,17 @@
+,Unnamed: 0_level_0,Unnamed: 1_level_0,Unnamed: 2_level_0,Unnamed: 3_level_0,Unnamed: 4_level_0,Unnamed: 5_level_0,Unnamed: 6_level_0,Pass Types,Pass Types,Pass Types,Pass Types,Pass Types,Pass Types,Pass Types,Pass Types,Corner Kicks,Corner Kicks,Corner Kicks,Outcomes,Outcomes,Outcomes
+,Player,#,Nation,Pos,Age,Min,Att,Live,Dead,FK,TB,Sw,Crs,TI,CK,In,Out,Str,Cmp,Off,Blocks
+0,Harry Kane,10.0,eng ENG,FW,27-061,90,19,19,0,0,0,2,1,0,0,0,0,0,15,0,1
+1,Son Heung-min,7.0,kr KOR,LW,28-081,45,20,16,4,1,0,0,3,0,3,2,0,0,16,0,1
+2,Steven Bergwijn,23.0,nl NED,LW,22-355,45,28,26,2,0,0,0,3,0,2,2,0,0,25,0,0
+3,Lucas Moura,27.0,br BRA,RW,28-045,78,48,46,2,0,0,0,1,2,0,0,0,0,35,0,2
+4,Érik Lamela,11.0,ar ARG,RW,28-207,12,9,7,2,0,0,0,0,0,1,0,0,0,9,0,0
+5,Giovani Lo Celso,18.0,ar ARG,AM,24-171,76,57,52,5,0,0,0,5,0,4,4,0,0,44,0,1
+6,Tanguy Ndombele,28.0,fr FRA,AM,23-274,14,19,19,0,0,0,0,0,0,0,0,0,0,17,0,0
+7,Harry Winks,8.0,eng ENG,DM,24-238,90,94,94,0,0,0,0,0,0,0,0,0,0,90,0,0
+8,Pierre Højbjerg,5.0,dk DEN,DM,25-053,90,109,108,1,1,0,2,1,0,0,0,0,0,96,0,0
+9,Ben Davies,33.0,wls WAL,LB,27-156,90,57,46,11,1,0,0,3,10,0,0,0,0,47,0,0
+10,Eric Dier,15.0,eng ENG,CB,26-256,90,65,64,1,1,0,1,0,0,0,0,0,0,62,0,0
+11,Davinson Sánchez,6.0,co COL,CB,24-107,90,63,62,1,1,0,0,0,0,0,0,0,0,56,0,0
+12,Matt Doherty,2.0,ie IRL,RB,28-255,90,81,72,9,1,0,0,3,8,0,0,0,0,69,0,1
+13,Hugo Lloris,1.0,fr FRA,GK,33-276,90,13,8,5,2,0,0,0,0,0,0,0,0,10,0,0
+14,14 Players,,,,,990,682,639,43,8,0,5,20,20,10,8,0,0,591,0,6

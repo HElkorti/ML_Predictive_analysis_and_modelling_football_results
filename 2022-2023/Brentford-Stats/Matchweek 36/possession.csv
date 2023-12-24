@@ -1,0 +1,19 @@
+,Unnamed: 0_level_0,Unnamed: 1_level_0,Unnamed: 2_level_0,Unnamed: 3_level_0,Unnamed: 4_level_0,Unnamed: 5_level_0,Touches,Touches,Touches,Touches,Touches,Touches,Touches,Take-Ons,Take-Ons,Take-Ons,Take-Ons,Take-Ons,Carries,Carries,Carries,Carries,Carries,Carries,Carries,Carries,Receiving,Receiving
+,Player,#,Nation,Pos,Age,Min,Touches,Def Pen,Def 3rd,Mid 3rd,Att 3rd,Att Pen,Live,Att,Succ,Succ%,Tkld,Tkld%,Carries,TotDist,PrgDist,PrgC,1/3,CPA,Mis,Dis,Rec,PrgR
+0,Yoane Wissa,11.0,cd COD,FW,26-253,76,26,0,0,8,18,9,26,0,0,,0,,8,43,22,1,1,1,0,0,17,3
+1,Josh Dasilva,10.0,eng ENG,RW,24-203,14,11,1,2,3,6,1,11,0,0,,0,,9,91,56,2,1,1,0,0,9,1
+2,Kevin Schade,9.0,de GER,"LW,FW",21-168,85,30,0,0,12,18,5,30,1,1,100.0,0,0.0,11,72,11,0,1,1,8,0,22,7
+3,Saman Ghoddos,14.0,ir IRN,LW,29-250,5,5,0,0,3,2,1,5,0,0,,0,,1,2,0,0,0,0,0,0,5,1
+4,Bryan Mbeumo,19.0,cm CMR,"RW,LW",23-280,90,60,1,3,21,39,9,60,4,4,100.0,0,0.0,36,216,124,4,5,3,3,3,43,12
+5,Mathias Jensen,8.0,dk DEN,LM,27-133,69,56,0,10,27,19,0,56,1,0,0.0,1,100.0,29,162,96,0,1,0,1,0,37,0
+6,Frank Onyeka,15.0,ng NGA,LM,25-133,21,15,0,2,10,4,1,15,2,2,100.0,0,0.0,9,87,54,2,1,0,0,1,12,1
+7,Vitaly Janelt,27.0,de GER,CM,25-004,90,68,4,18,39,12,1,68,1,0,0.0,1,100.0,34,153,55,2,1,0,1,0,47,1
+8,Mikkel Damsgaard,24.0,dk DEN,RM,22-315,76,51,1,10,21,20,5,51,1,0,0.0,1,100.0,24,102,55,2,1,0,2,1,30,6
+9,Shandon Baptiste,26.0,gd GRN,RM,25-036,14,7,0,3,4,0,0,7,0,0,,0,,2,2,0,0,0,0,0,1,7,1
+10,Rico Henry,3.0,eng ENG,LB,25-310,90,59,2,16,25,18,0,59,1,1,100.0,0,0.0,34,164,92,4,1,0,0,0,35,3
+11,Ben Mee,16.0,eng ENG,CB,33-235,90,79,3,38,34,7,5,79,0,0,,0,,40,235,158,0,1,0,0,0,56,0
+12,Ethan Pinnock,5.0,jm JAM,CB,29-350,90,67,15,45,20,2,1,67,1,1,100.0,0,0.0,34,167,83,0,0,0,0,0,37,1
+13,Aaron Hickey,2.0,sct SCO,RB,20-338,84,66,2,30,23,14,2,66,4,2,50.0,2,50.0,37,259,127,2,1,1,1,0,40,3
+14,Mads Roerslev,30.0,dk DEN,RB,23-324,6,9,1,3,2,4,1,9,1,1,100.0,0,0.0,2,17,4,0,0,1,1,0,2,0
+15,David Raya,1.0,es ESP,GK,27-241,90,58,50,58,0,0,0,58,0,0,,0,,35,162,69,0,0,0,0,0,40,0
+16,16 Players,,,,,990,667,80,238,252,183,41,667,17,12,70.6,5,29.4,345,1934,1006,19,15,8,17,6,439,40

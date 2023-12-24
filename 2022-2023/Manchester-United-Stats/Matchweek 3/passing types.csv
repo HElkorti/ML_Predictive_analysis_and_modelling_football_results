@@ -1,0 +1,19 @@
+,Unnamed: 0_level_0,Unnamed: 1_level_0,Unnamed: 2_level_0,Unnamed: 3_level_0,Unnamed: 4_level_0,Unnamed: 5_level_0,Unnamed: 6_level_0,Pass Types,Pass Types,Pass Types,Pass Types,Pass Types,Pass Types,Pass Types,Pass Types,Corner Kicks,Corner Kicks,Corner Kicks,Outcomes,Outcomes,Outcomes
+,Player,#,Nation,Pos,Age,Min,Att,Live,Dead,FK,TB,Sw,Crs,TI,CK,In,Out,Str,Cmp,Off,Blocks
+0,Marcus Rashford,10.0,eng ENG,"FW,LW",24-295,85,15,14,0,0,0,0,1,0,0,0,0,0,5,1,1
+1,Cristiano Ronaldo,7.0,pt POR,LW,37-198,5,3,3,0,0,0,0,0,0,0,0,0,0,1,0,0
+2,Anthony Elanga,36.0,se SWE,LW,20-117,45,11,11,0,0,0,0,0,0,0,0,0,0,9,0,0
+3,Anthony Martial,9.0,fr FRA,FW,26-260,45,12,10,2,0,1,0,0,1,0,0,0,0,10,0,1
+4,Jadon Sancho,25.0,eng ENG,RW,22-150,70,22,22,0,0,1,0,0,0,0,0,0,0,19,0,2
+5,Fred,17.0,br BRA,LM,29-170,20,10,10,0,0,0,0,0,0,0,0,0,0,5,0,0
+6,Bruno Fernandes,8.0,pt POR,"AM,RW",27-348,90,40,38,2,0,2,0,0,1,0,0,0,0,26,0,0
+7,Christian Eriksen,14.0,dk DEN,"DM,RM",30-189,85,26,23,3,0,1,0,3,0,3,1,2,0,15,0,1
+8,Donny van de Beek,34.0,nl NED,RM,25-126,5,2,1,1,0,0,0,0,0,1,0,0,0,2,0,0
+9,Scott McTominay,39.0,sct SCO,"DM,CM",25-257,90,24,24,0,0,1,0,1,0,0,0,0,0,19,0,0
+10,Tyrell Malacia,12.0,nl NED,LB,23-005,90,28,17,10,0,0,0,2,8,2,2,0,0,20,1,1
+11,Lisandro Martínez,6.0,ar ARG,CB,24-216,90,22,21,1,1,0,0,0,0,0,0,0,0,18,0,0
+12,Raphaël Varane,19.0,fr FRA,CB,29-119,90,23,22,1,1,0,0,0,0,0,0,0,0,16,0,1
+13,Diogo Dalot,20.0,pt POR,RB,23-157,85,26,22,4,0,0,0,0,4,0,0,0,0,17,0,0
+14,Aaron Wan-Bissaka,29.0,eng ENG,RB,24-269,5,2,1,1,0,0,0,0,1,0,0,0,0,1,0,0
+15,David de Gea,1.0,es ESP,GK,31-288,90,34,14,20,4,0,0,0,0,0,0,0,0,10,0,0
+16,16 Players,,,,,990,300,253,45,6,6,0,7,15,6,3,2,0,193,2,7

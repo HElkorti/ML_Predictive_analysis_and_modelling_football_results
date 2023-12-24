@@ -1,0 +1,17 @@
+,Unnamed: 0_level_0,Unnamed: 1_level_0,Unnamed: 2_level_0,Unnamed: 3_level_0,Unnamed: 4_level_0,Unnamed: 5_level_0,Unnamed: 6_level_0,Pass Types,Pass Types,Pass Types,Pass Types,Pass Types,Pass Types,Pass Types,Pass Types,Corner Kicks,Corner Kicks,Corner Kicks,Outcomes,Outcomes,Outcomes
+,Player,#,Nation,Pos,Age,Min,Att,Live,Dead,FK,TB,Sw,Crs,TI,CK,In,Out,Str,Cmp,Off,Blocks
+0,Teemu Pukki,22.0,fi FIN,FW,32-032,90,14,13,1,0,0,0,0,0,0,0,0,0,14,0,0
+1,Milot Rashica,17.0,xk KVX,LW,25-306,76,21,19,2,0,0,0,2,1,1,1,0,0,15,0,0
+2,Jon Rowe,46.0,eng ENG,LW,19-000,14,4,4,0,0,0,0,0,0,0,0,0,0,3,0,0
+3,Kieran Dowell,10.0,eng ENG,RW,24-202,90,30,27,3,3,0,0,3,0,0,0,0,0,20,0,1
+4,Pierre Lees-Melou,20.0,fr FRA,AM,28-340,66,27,26,1,0,0,0,0,1,0,0,0,0,24,0,1
+5,Josh Sargent,24.0,us USA,AM,22-069,14,4,4,0,0,0,0,0,0,0,0,0,0,3,0,0
+6,Lukas Rupp,7.0,de GER,AM,31-112,10,4,4,0,0,0,0,0,0,0,0,0,0,3,0,0
+7,Mathias Normann,16.0,no NOR,DM,25-337,90,56,50,6,2,0,1,4,1,2,2,0,0,43,0,1
+8,Billy Gilmour,8.0,sct SCO,DM,20-323,90,72,70,2,1,0,1,1,0,0,0,0,0,61,0,2
+9,Brandon Williams,21.0,eng ENG,LB,21-239,90,62,48,14,2,0,0,0,12,0,0,0,0,47,0,1
+10,Sam Byram,3.0,eng ENG,CB,28-226,90,69,67,2,2,0,0,0,0,0,0,0,0,56,0,1
+11,Grant Hanley,5.0,sct SCO,CB,30-161,90,60,57,3,3,0,1,0,0,0,0,0,0,53,0,0
+12,Max Aarons,2.0,eng ENG,RB,22-116,90,67,49,18,1,0,0,0,17,0,0,0,0,54,0,2
+13,Tim Krul,1.0,nl NED,GK,34-027,90,48,35,13,5,0,0,0,0,0,0,0,0,40,0,0
+14,14 Players,,,,,990,538,473,65,19,0,3,10,32,3,3,0,0,436,0,9

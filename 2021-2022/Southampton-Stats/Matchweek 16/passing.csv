@@ -1,0 +1,16 @@
+,Unnamed: 0_level_0,Unnamed: 1_level_0,Unnamed: 2_level_0,Unnamed: 3_level_0,Unnamed: 4_level_0,Unnamed: 5_level_0,Total,Total,Total,Total,Total,Short,Short,Short,Medium,Medium,Medium,Long,Long,Long,Unnamed: 20_level_0,Unnamed: 21_level_0,Unnamed: 22_level_0,Unnamed: 23_level_0,Unnamed: 24_level_0,Unnamed: 25_level_0,Unnamed: 26_level_0,Unnamed: 27_level_0
+,Player,#,Nation,Pos,Age,Min,Cmp,Att,Cmp%,TotDist,PrgDist,Cmp,Att,Cmp%,Cmp,Att,Cmp%,Cmp,Att,Cmp%,Ast,xAG,xA,KP,1/3,PPA,CrsPA,PrgP
+0,Adam Armstrong,9.0,eng ENG,FW,24-304,42,4,7,57.1,73,0,1,2,50.0,3,3,100.0,0,0,,0,0.0,0.0,0,0,0,0,0
+1,Mohamed Elyounoussi,24.0,no NOR,"LM,CM",27-129,48,8,11,72.7,98,29,7,9,77.8,1,2,50.0,0,0,,0,0.1,0.0,1,0,1,0,3
+2,Armando Broja,18.0,al ALB,FW,20-092,69,10,16,62.5,107,60,7,11,63.6,1,2,50.0,0,0,,0,0.0,0.0,0,3,0,0,4
+3,Lyanco,4.0,br BRA,CB,24-313,21,4,4,100.0,74,24,1,1,100.0,3,3,100.0,0,0,,0,0.0,0.0,0,0,0,0,0
+4,Nathan Tella,23.0,ng NGA,"FW,LM",22-159,90,11,12,91.7,135,55,8,8,100.0,3,3,100.0,0,0,,0,0.1,0.0,2,1,0,0,1
+5,Ibrahima Diallo,27.0,fr FRA,CM,22-278,90,18,27,66.7,325,98,9,13,69.2,6,8,75.0,3,4,75.0,0,0.0,0.0,0,2,0,0,7
+6,James Ward-Prowse,8.0,eng ENG,CM,27-040,90,26,34,76.5,432,159,15,16,93.8,8,9,88.9,3,9,33.3,0,0.2,0.1,1,4,0,0,2
+7,Nathan Redmond,11.0,eng ENG,"RM,FW",27-280,90,17,22,77.3,250,76,8,8,100.0,7,9,77.8,0,3,0.0,0,0.1,0.0,1,1,1,0,4
+8,Kyle Walker-Peters,2.0,eng ENG,LB,24-242,90,28,38,73.7,534,151,12,14,85.7,11,15,73.3,5,7,71.4,0,0.0,0.0,0,2,0,0,2
+9,Jan Bednarek,35.0,pl POL,CB,25-243,90,42,61,68.9,807,275,8,11,72.7,33,39,84.6,1,10,10.0,0,0.0,0.0,0,1,0,0,4
+10,Jack Stephens,5.0,eng ENG,CB,27-318,90,33,49,67.3,670,206,13,14,92.9,15,23,65.2,5,10,50.0,0,0.1,0.0,2,3,0,0,3
+11,Valentino Livramento,21.0,eng ENG,RB,19-029,90,25,37,67.6,464,129,13,18,72.2,6,10,60.0,5,6,83.3,0,0.0,0.0,0,2,2,0,3
+12,Willy Caballero,13.0,ar ARG,GK,40-074,90,24,36,66.7,731,569,4,4,100.0,11,11,100.0,9,21,42.9,0,0.0,0.0,0,0,0,0,0
+13,13 Players,,,,,990,250,354,70.6,4700,1831,106,129,82.2,108,137,78.8,31,70,44.3,0,0.5,0.2,7,19,4,0,33

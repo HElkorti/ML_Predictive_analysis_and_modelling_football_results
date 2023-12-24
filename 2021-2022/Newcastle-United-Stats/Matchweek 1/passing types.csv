@@ -1,0 +1,17 @@
+,Unnamed: 0_level_0,Unnamed: 1_level_0,Unnamed: 2_level_0,Unnamed: 3_level_0,Unnamed: 4_level_0,Unnamed: 5_level_0,Unnamed: 6_level_0,Pass Types,Pass Types,Pass Types,Pass Types,Pass Types,Pass Types,Pass Types,Pass Types,Corner Kicks,Corner Kicks,Corner Kicks,Outcomes,Outcomes,Outcomes
+,Player,#,Nation,Pos,Age,Min,Att,Live,Dead,FK,TB,Sw,Crs,TI,CK,In,Out,Str,Cmp,Off,Blocks
+0,Allan Saint-Maximin,10.0,fr FRA,FW,24-156,90,40,40,0,0,0,0,4,0,0,0,0,0,33,0,1
+1,Callum Wilson,9.0,eng ENG,FW,29-169,84,13,12,1,0,0,0,0,1,0,0,0,0,10,0,0
+2,Joelinton,7.0,br BRA,FW,25-001,6,4,4,0,0,0,0,0,0,0,0,0,0,4,0,0
+3,Miguel Almirón,24.0,py PAR,CM,27-186,90,34,33,1,0,0,0,1,0,0,0,0,0,32,0,0
+4,Jonjo Shelvey,8.0,eng ENG,CM,29-169,69,37,36,1,0,1,0,2,0,1,1,0,0,31,0,1
+5,Ryan Fraser,21.0,sct SCO,CM,27-172,21,10,9,1,0,0,0,1,0,1,1,0,0,8,0,0
+6,Isaac Hayden,14.0,eng ENG,"CM,CB",26-146,90,43,39,4,0,0,0,4,0,0,0,0,0,35,0,1
+7,Matt Ritchie,11.0,sct SCO,LB,31-339,90,52,40,12,1,0,0,12,6,5,5,0,0,36,0,0
+8,Ciaran Clark,2.0,ie IRL,CB,31-323,90,49,48,1,0,0,0,0,1,0,0,0,0,35,0,0
+9,Federico Fernández,18.0,ar ARG,CB,32-175,90,59,58,1,1,0,0,0,0,0,0,0,0,58,0,0
+10,Emil Krafth,17.0,se SWE,CB,27-013,83,31,29,1,1,0,0,0,0,0,0,0,0,23,1,1
+11,Sean Longstaff,36.0,eng ENG,CM,23-289,7,6,6,0,0,0,0,0,0,0,0,0,0,6,0,0
+12,Jacob Murphy,23.0,eng ENG,RB,26-172,90,44,34,10,2,0,0,3,8,0,0,0,0,31,0,0
+13,Freddie Woodman,27.0,eng ENG,GK,24-164,90,27,17,10,0,0,0,0,0,0,0,0,0,22,0,0
+14,14 Players,,,,,990,449,405,43,5,1,0,27,16,7,7,0,0,364,1,4

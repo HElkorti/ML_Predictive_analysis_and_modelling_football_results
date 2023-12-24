@@ -1,0 +1,17 @@
+,Unnamed: 0_level_0,Unnamed: 1_level_0,Unnamed: 2_level_0,Unnamed: 3_level_0,Unnamed: 4_level_0,Unnamed: 5_level_0,Touches,Touches,Touches,Touches,Touches,Touches,Touches,Take-Ons,Take-Ons,Take-Ons,Take-Ons,Take-Ons,Carries,Carries,Carries,Carries,Carries,Carries,Carries,Carries,Receiving,Receiving
+,Player,#,Nation,Pos,Age,Min,Touches,Def Pen,Def 3rd,Mid 3rd,Att 3rd,Att Pen,Live,Att,Succ,Succ%,Tkld,Tkld%,Carries,TotDist,PrgDist,PrgC,1/3,CPA,Mis,Dis,Rec,PrgR
+0,Harry Kane,10.0,eng ENG,FW,28-196,90,39,1,2,23,14,2,39,3,1,33.3,2,66.7,24,113,46,0,2,0,2,2,30,4
+1,Son Heung-min,7.0,kr KOR,"AM,LW",29-216,90,42,0,6,21,16,3,42,8,2,25.0,6,75.0,26,172,63,3,2,1,2,1,28,9
+2,Lucas Moura,27.0,br BRA,AM,29-180,75,38,3,6,15,17,4,38,4,3,75.0,1,25.0,26,136,70,4,1,0,1,0,27,5
+3,Dejan Kulusevski,21.0,se SWE,"RW,AM",21-290,15,9,0,1,3,5,0,9,1,1,100.0,0,0.0,7,50,39,1,1,0,1,0,7,3
+4,Pierre Højbjerg,5.0,dk DEN,CM,26-188,59,41,3,13,22,6,1,41,0,0,,0,,26,75,19,0,0,0,2,0,27,1
+5,Rodrigo Bentancur,30.0,uy URU,"CM,DM",24-229,31,28,2,5,15,9,1,28,1,1,100.0,0,0.0,19,68,32,1,1,1,0,0,19,0
+6,Harry Winks,8.0,eng ENG,"CM,DM",26-007,90,61,1,11,45,6,0,61,1,1,100.0,0,0.0,49,234,99,0,1,0,1,0,54,5
+7,Sergio Reguilón,3.0,es ESP,WB,25-055,82,45,3,14,13,18,3,45,0,0,,0,,23,132,48,4,0,1,0,1,27,7
+8,Steven Bergwijn,23.0,nl NED,AM,24-124,8,4,0,0,3,1,0,4,0,0,,0,,2,15,1,0,0,0,0,0,2,0
+9,Emerson,12.0,br BRA,"WB,RB",23-026,90,68,4,29,21,19,1,68,0,0,,0,,30,138,62,1,0,1,2,0,34,2
+10,Ben Davies,33.0,wls WAL,"CB,LB",28-291,90,66,8,34,30,3,0,66,0,0,,0,,36,129,48,0,1,0,1,0,34,2
+11,Cristian Romero,4.0,ar ARG,CB,23-288,90,60,12,39,20,2,1,60,0,0,,0,,40,250,112,0,0,0,2,0,35,0
+12,Davinson Sánchez,6.0,co COL,CB,25-242,90,71,7,41,28,3,1,71,0,0,,0,,43,239,123,2,2,0,2,1,43,0
+13,Hugo Lloris,1.0,fr FRA,GK,35-045,90,26,25,26,0,0,0,26,0,0,,0,,13,81,65,0,0,0,0,0,7,0
+14,14 Players,,,,,990,598,69,227,259,119,17,598,18,9,50.0,9,50.0,364,1832,827,16,11,4,16,5,374,38

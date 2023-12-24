@@ -1,0 +1,17 @@
+,Unnamed: 0_level_0,Unnamed: 1_level_0,Unnamed: 2_level_0,Unnamed: 3_level_0,Unnamed: 4_level_0,Unnamed: 5_level_0,Touches,Touches,Touches,Touches,Touches,Touches,Touches,Take-Ons,Take-Ons,Take-Ons,Take-Ons,Take-Ons,Carries,Carries,Carries,Carries,Carries,Carries,Carries,Carries,Receiving,Receiving
+,Player,#,Nation,Pos,Age,Min,Touches,Def Pen,Def 3rd,Mid 3rd,Att 3rd,Att Pen,Live,Att,Succ,Succ%,Tkld,Tkld%,Carries,TotDist,PrgDist,PrgC,1/3,CPA,Mis,Dis,Rec,PrgR
+0,Patrick Bamford,9.0,eng ENG,FW,27-252,57,9,1,2,5,2,1,9,0,0,,0,,5,24,14,0,0,0,1,0,7,2
+1,Rodrigo,20.0,es ESP,FW,30-070,33,15,0,2,4,9,4,15,1,1,100.0,0,0.0,11,48,25,1,0,1,0,3,15,4
+2,Jack Harrison,22.0,eng ENG,LW,24-176,90,44,0,8,13,23,5,44,2,1,50.0,1,50.0,26,210,156,7,2,2,1,1,34,10
+3,Raphinha,18.0,br BRA,RW,24-152,80,53,2,11,28,14,3,53,4,2,50.0,2,50.0,40,215,118,2,2,0,5,1,43,5
+4,Ian Carlo Poveda,7.0,eng ENG,AM,21-095,10,3,0,0,2,1,0,3,0,0,,0,,3,29,29,1,1,0,0,0,3,0
+5,Mateusz Klich,43.0,pl POL,AM,30-336,75,30,1,2,10,19,1,30,0,0,,0,,23,132,69,3,3,0,0,1,22,1
+6,Tyler Roberts,11.0,wls WAL,RW,22-123,15,10,1,3,6,2,0,10,0,0,,0,,9,109,82,2,2,0,0,0,8,0
+7,Ezgjan Alioski,10.0,mk MKD,CM,29-092,90,55,2,22,18,15,1,55,0,0,,0,,24,88,50,1,2,0,1,0,34,2
+8,Kalvin Phillips,23.0,eng ENG,CM,25-164,90,47,3,18,25,4,0,47,0,0,,0,,17,53,24,1,0,0,0,0,25,0
+9,Stuart Dallas,15.0,nir NIR,CM,30-026,90,67,5,21,25,21,1,67,1,0,0.0,1,100.0,35,243,101,1,1,0,2,2,41,6
+10,Pascal Struijk,21.0,nl NED,CB,21-277,90,54,11,32,20,2,1,54,0,0,,0,,25,104,44,0,0,0,0,0,29,1
+11,Diego Llorente,14.0,es ESP,CB,27-272,90,63,11,47,13,3,0,63,0,0,,0,,35,145,65,0,0,0,1,0,33,0
+12,Luke Ayling,2.0,eng ENG,CB,29-263,90,89,13,55,27,7,1,89,0,0,,0,,44,317,218,3,1,0,1,0,52,0
+13,Illan Meslier,1.0,fr FRA,GK,21-074,90,45,42,45,0,0,0,45,0,0,,0,,23,157,93,0,0,0,0,0,14,0
+14,14 Players,,,,,990,584,92,268,196,122,18,584,8,4,50.0,4,50.0,320,1874,1088,22,14,3,12,8,360,31

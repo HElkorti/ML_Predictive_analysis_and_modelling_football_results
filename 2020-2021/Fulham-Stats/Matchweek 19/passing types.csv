@@ -1,0 +1,17 @@
+,Unnamed: 0_level_0,Unnamed: 1_level_0,Unnamed: 2_level_0,Unnamed: 3_level_0,Unnamed: 4_level_0,Unnamed: 5_level_0,Unnamed: 6_level_0,Pass Types,Pass Types,Pass Types,Pass Types,Pass Types,Pass Types,Pass Types,Pass Types,Corner Kicks,Corner Kicks,Corner Kicks,Outcomes,Outcomes,Outcomes
+,Player,#,Nation,Pos,Age,Min,Att,Live,Dead,FK,TB,Sw,Crs,TI,CK,In,Out,Str,Cmp,Off,Blocks
+0,Ivan Cavaleiro,17.0,pt POR,FW,27-090,78,24,24,0,0,0,1,2,0,0,0,0,0,17,0,1
+1,Josh Onomah,25.0,eng ENG,"RM,LM",23-264,12,3,3,0,0,0,0,0,0,0,0,0,0,1,0,0
+2,Ademola Lookman,19.0,ng NGA,"LM,FW",23-088,90,26,25,1,0,0,0,2,0,0,0,0,0,21,0,2
+3,Andre-Frank Zambo Anguissa,29.0,cm CMR,CM,25-061,90,40,40,0,0,0,1,0,0,0,0,0,0,29,0,2
+4,Harrison Reed,21.0,eng ENG,CM,25-355,90,34,31,3,1,0,0,1,1,1,0,0,1,25,0,0
+5,Bobby Reid,14.0,jm JAM,"RM,RB",27-349,82,23,22,1,0,0,0,1,0,0,0,0,0,19,0,0
+6,Aboubakar Kamara,47.0,mr MTN,FW,25-315,8,4,4,0,0,0,0,0,0,0,0,0,0,2,0,0
+7,Antonee Robinson,33.0,us USA,LB,23-161,43,32,25,7,0,0,0,2,7,0,0,0,0,24,0,2
+8,Tosin Adarabioyo,16.0,eng ENG,CB,23-114,90,36,32,4,4,0,0,0,0,0,0,0,0,28,0,0
+9,Joachim Andersen,5.0,dk DEN,CB,24-230,90,42,39,3,3,0,0,0,0,0,0,0,0,29,0,0
+10,Ola Aina,34.0,ng NGA,"CB,LB",24-100,82,30,21,9,0,0,1,0,9,0,0,0,0,21,0,0
+11,Joe Bryan,23.0,eng ENG,LB,27-121,8,16,9,7,1,0,0,2,6,0,0,0,0,9,0,1
+12,Kenny Tete,2.0,nl NED,"RB,CB",25-099,90,35,33,2,0,0,0,1,2,0,0,0,0,23,0,1
+13,Alphonse Areola,1.0,fr FRA,GK,27-324,90,24,12,11,3,0,0,0,0,0,0,0,0,16,1,0
+14,14 Players,,,,,943,369,320,48,12,0,3,11,25,1,0,0,1,264,1,9

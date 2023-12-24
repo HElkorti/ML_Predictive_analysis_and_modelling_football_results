@@ -1,0 +1,18 @@
+,Unnamed: 0_level_0,Unnamed: 1_level_0,Unnamed: 2_level_0,Unnamed: 3_level_0,Unnamed: 4_level_0,Unnamed: 5_level_0,Touches,Touches,Touches,Touches,Touches,Touches,Touches,Take-Ons,Take-Ons,Take-Ons,Take-Ons,Take-Ons,Carries,Carries,Carries,Carries,Carries,Carries,Carries,Carries,Receiving,Receiving
+,Player,#,Nation,Pos,Age,Min,Touches,Def Pen,Def 3rd,Mid 3rd,Att 3rd,Att Pen,Live,Att,Succ,Succ%,Tkld,Tkld%,Carries,TotDist,PrgDist,PrgC,1/3,CPA,Mis,Dis,Rec,PrgR
+0,Gabriel Jesus,9.0,br BRA,FW,25-150,87,37,1,4,8,25,13,37,7,1,14.3,4,57.1,24,111,50,1,2,0,2,2,28,9
+1,Eddie Nketiah,14.0,eng ENG,FW,23-093,3,7,0,0,4,4,2,7,2,1,50.0,1,50.0,4,82,52,1,1,1,0,0,4,0
+2,Gabriel Martinelli,11.0,br BRA,"LW,AM",21-074,90,56,1,5,17,35,9,56,5,3,60.0,1,20.0,36,227,90,5,1,2,2,3,41,11
+3,Bukayo Saka,7.0,eng ENG,RW,20-360,87,46,0,2,18,28,9,46,5,5,100.0,0,0.0,31,216,62,3,2,2,6,1,34,14
+4,Rob Holding,16.0,eng ENG,"CB,RW",26-345,3,3,0,3,0,0,0,3,0,0,,0,,0,0,0,0,0,0,0,0,0,0
+5,Granit Xhaka,34.0,ch SUI,"LM,CM,DM",29-338,90,70,2,11,36,23,4,70,1,0,0.0,1,100.0,45,121,75,2,1,2,1,0,51,4
+6,Albert Sambi Lokonga,23.0,be BEL,"CM,DM",22-313,90,62,4,14,41,9,0,62,2,1,50.0,0,0.0,40,167,69,0,4,0,0,0,43,0
+7,Martin Ødegaard,8.0,no NOR,RM,23-257,80,64,1,10,18,36,3,64,1,1,100.0,0,0.0,35,108,61,3,2,0,3,1,37,5
+8,Emile Smith Rowe,10.0,eng ENG,AM,22-034,10,9,0,3,3,3,0,9,0,0,,0,,6,17,1,0,0,0,0,0,7,1
+9,Kieran Tierney,3.0,sct SCO,"LB,WB",25-087,90,65,0,16,26,24,2,65,0,0,,0,,37,271,120,4,2,0,0,0,41,2
+10,Gabriel Dos Santos,6.0,br BRA,CB,24-255,90,56,3,23,26,7,3,56,0,0,,0,,33,162,91,1,1,0,0,1,33,1
+11,William Saliba,12.0,fr FRA,CB,21-160,90,72,2,47,22,3,0,72,0,0,,0,,47,195,73,0,0,0,2,1,46,0
+12,Ben White,4.0,eng ENG,RB,24-327,64,66,0,21,39,6,1,66,0,0,,0,,51,212,147,3,3,0,2,0,57,2
+13,Takehiro Tomiyasu,18.0,jp JPN,"RB,WB",23-299,26,24,2,8,13,3,2,24,0,0,,0,,11,42,29,0,0,0,0,0,15,1
+14,Aaron Ramsdale,1.0,eng ENG,GK,24-109,90,28,23,28,0,0,0,28,0,0,,0,,20,118,96,0,0,0,0,0,13,0
+15,15 Players,,,,,990,665,39,195,271,206,48,665,23,12,52.2,7,30.4,420,2049,1016,23,19,7,18,9,450,50

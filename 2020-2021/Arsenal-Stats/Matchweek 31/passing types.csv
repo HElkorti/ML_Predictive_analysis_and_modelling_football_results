@@ -1,0 +1,17 @@
+,Unnamed: 0_level_0,Unnamed: 1_level_0,Unnamed: 2_level_0,Unnamed: 3_level_0,Unnamed: 4_level_0,Unnamed: 5_level_0,Unnamed: 6_level_0,Pass Types,Pass Types,Pass Types,Pass Types,Pass Types,Pass Types,Pass Types,Pass Types,Corner Kicks,Corner Kicks,Corner Kicks,Outcomes,Outcomes,Outcomes
+,Player,#,Nation,Pos,Age,Min,Att,Live,Dead,FK,TB,Sw,Crs,TI,CK,In,Out,Str,Cmp,Off,Blocks
+0,Alexandre Lacazette,9.0,fr FRA,FW,29-318,88,34,33,1,0,1,0,0,0,0,0,0,0,30,0,0
+1,Eddie Nketiah,30.0,eng ENG,FW,21-316,2,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+2,Gabriel Martinelli,35.0,br BRA,LW,19-297,82,17,16,0,0,0,0,0,0,0,0,0,0,13,1,1
+3,Mohamed Elneny,25.0,eg EGY,DM,28-274,8,8,8,0,0,0,0,0,0,0,0,0,0,7,0,0
+4,Nicolas Pépé,19.0,ci CIV,RW,25-317,90,47,43,4,0,1,0,4,0,4,1,3,0,39,0,0
+5,Bukayo Saka,7.0,eng ENG,AM,19-218,68,36,36,0,0,0,0,1,0,0,0,0,0,30,0,1
+6,Willian,12.0,br BRA,"AM,LW",32-245,22,5,5,0,0,0,0,0,0,0,0,0,0,5,0,0
+7,Dani Ceballos,8.0,es ESP,"DM,AM",24-247,90,66,64,2,1,0,0,1,1,0,0,0,0,60,0,2
+8,Thomas Partey,18.0,gh GHA,DM,27-302,90,73,71,2,2,1,0,0,0,0,0,0,0,61,0,1
+9,Granit Xhaka,34.0,ch SUI,LB,28-196,90,82,78,4,0,0,3,0,4,0,0,0,0,78,0,0
+10,Pablo Marí,22.0,es ESP,CB,27-223,90,61,60,1,1,0,1,0,0,0,0,0,0,57,0,0
+11,Rob Holding,16.0,eng ENG,CB,25-203,90,65,63,1,0,0,0,0,1,0,0,0,0,58,1,0
+12,Calum Chambers,21.0,eng ENG,RB,26-081,90,91,67,23,4,0,0,3,19,0,0,0,0,74,1,0
+13,Bernd Leno,1.0,de GER,GK,29-038,90,30,22,8,2,0,0,0,0,0,0,0,0,27,0,0
+14,14 Players,,,,,990,616,567,46,10,3,4,9,25,4,1,3,0,539,3,5

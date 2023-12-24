@@ -1,0 +1,19 @@
+,Unnamed: 0_level_0,Unnamed: 1_level_0,Unnamed: 2_level_0,Unnamed: 3_level_0,Unnamed: 4_level_0,Unnamed: 5_level_0,Touches,Touches,Touches,Touches,Touches,Touches,Touches,Take-Ons,Take-Ons,Take-Ons,Take-Ons,Take-Ons,Carries,Carries,Carries,Carries,Carries,Carries,Carries,Carries,Receiving,Receiving
+,Player,#,Nation,Pos,Age,Min,Touches,Def Pen,Def 3rd,Mid 3rd,Att 3rd,Att Pen,Live,Att,Succ,Succ%,Tkld,Tkld%,Carries,TotDist,PrgDist,PrgC,1/3,CPA,Mis,Dis,Rec,PrgR
+0,Erling Haaland,9.0,no NOR,FW,22-168,90,26,2,6,5,15,2,26,1,1,100.0,0,0.0,14,25,8,0,2,0,3,2,18,3
+1,Phil Foden,47.0,eng ENG,LW,22-222,59,23,0,2,6,16,1,23,1,0,0.0,0,0.0,20,42,10,0,1,0,1,5,24,7
+2,Jack Grealish,10.0,eng ENG,LW,27-117,31,16,1,2,8,6,2,16,2,1,50.0,0,0.0,9,61,33,1,0,1,0,1,10,3
+3,João Cancelo,7.0,pt POR,RW,28-223,45,47,1,4,15,28,2,47,6,2,33.3,4,66.7,29,110,44,0,1,0,1,1,38,11
+4,Rico Lewis,82.0,eng ENG,DM,18-045,45,37,0,3,18,16,0,37,0,0,,0,,19,96,59,1,2,0,0,3,23,2
+5,Kevin De Bruyne,17.0,be BEL,CM,31-191,90,69,1,6,23,41,4,69,2,1,50.0,1,50.0,38,130,88,1,2,0,4,1,57,9
+6,İlkay Gündoğan,8.0,de GER,CM,32-073,90,57,1,6,23,28,2,57,0,0,,0,,38,116,42,0,2,0,1,2,41,11
+7,Rodri,16.0,es ESP,DM,26-197,85,101,3,24,62,16,2,101,1,0,0.0,1,100.0,54,219,128,2,2,0,0,0,72,1
+8,Kalvin Phillips,4.0,eng ENG,DM,27-034,5,4,0,2,2,0,0,4,0,0,,0,,0,0,0,0,0,0,0,0,0,0
+9,Bernardo Silva,20.0,pt POR,"DM,RW",28-148,59,71,1,11,37,23,4,71,2,1,50.0,1,50.0,41,217,125,2,2,2,0,2,49,7
+10,Riyad Mahrez,26.0,dz ALG,RW,31-318,31,23,0,4,6,13,3,23,3,1,33.3,1,33.3,16,123,49,1,3,1,0,2,20,5
+11,Nathan Aké,6.0,nl NED,LB,27-321,90,70,1,20,38,13,1,70,0,0,,0,,42,163,103,0,0,0,3,0,45,1
+12,John Stones,5.0,eng ENG,"RB,CB",28-222,90,102,7,37,64,2,0,102,0,0,,0,,68,279,166,0,1,0,1,1,80,1
+13,Kyle Walker,2.0,eng ENG,RB,32-222,45,50,2,16,28,6,0,50,0,0,,0,,36,98,70,1,0,0,1,0,41,2
+14,Manuel Akanji,25.0,ch SUI,CB,27-170,45,40,2,16,23,1,0,40,0,0,,0,,26,100,69,0,1,0,0,0,28,0
+15,Ederson,31.0,br BRA,GK,29-141,90,29,24,29,0,0,0,29,0,0,,0,,17,60,46,0,0,0,0,0,16,0
+16,16 Players,,,,,990,765,46,188,358,224,23,765,18,7,38.9,8,44.4,467,1839,1040,9,19,4,15,20,562,63

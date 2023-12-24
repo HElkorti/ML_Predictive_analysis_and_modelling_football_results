@@ -1,0 +1,18 @@
+,Unnamed: 0_level_0,Unnamed: 1_level_0,Unnamed: 2_level_0,Unnamed: 3_level_0,Unnamed: 4_level_0,Unnamed: 5_level_0,Touches,Touches,Touches,Touches,Touches,Touches,Touches,Take-Ons,Take-Ons,Take-Ons,Take-Ons,Take-Ons,Carries,Carries,Carries,Carries,Carries,Carries,Carries,Carries,Receiving,Receiving
+,Player,#,Nation,Pos,Age,Min,Touches,Def Pen,Def 3rd,Mid 3rd,Att 3rd,Att Pen,Live,Att,Succ,Succ%,Tkld,Tkld%,Carries,TotDist,PrgDist,PrgC,1/3,CPA,Mis,Dis,Rec,PrgR
+0,Wilfried Zaha,11.0,ci CIV,"FW,LM",30-066,90,28,2,2,7,19,4,28,6,3,50.0,3,50.0,22,109,38,1,0,1,2,6,22,7
+1,Eberechi Eze,10.0,eng ENG,LW,24-200,68,26,0,4,11,12,1,26,2,1,50.0,0,0.0,16,120,49,1,1,1,0,1,16,2
+2,Odsonne Édouard,22.0,fr FRA,FW,24-364,22,10,0,0,2,8,5,10,1,0,0.0,1,100.0,6,12,1,0,0,0,3,1,8,4
+3,Jordan Ayew,9.0,gh GHA,RW,31-126,68,40,4,8,11,22,1,40,7,3,42.9,4,57.1,21,97,25,0,2,0,2,4,27,3
+4,Jean-Philippe Mateta,14.0,fr FRA,FW,25-201,22,5,0,0,5,0,0,5,1,0,0.0,1,100.0,3,4,0,0,0,0,0,0,2,0
+5,Michael Olise,7.0,fr FRA,"AM,RM",21-034,90,73,0,9,27,38,1,73,7,2,28.6,4,57.1,35,204,93,4,1,1,3,0,43,7
+6,Jeffrey Schlupp,15.0,gh GHA,DM,30-023,68,26,3,5,15,6,1,26,1,0,0.0,1,100.0,14,60,15,0,0,0,1,0,12,0
+7,Will Hughes,19.0,eng ENG,CM,27-273,22,16,0,4,6,6,0,16,0,0,,0,,7,21,6,0,0,0,0,1,7,1
+8,Cheick Doucouré,28.0,ml MLI,"DM,CM",23-007,90,51,5,16,17,19,0,51,2,1,50.0,1,50.0,24,82,19,0,2,0,0,3,20,1
+9,Tyrick Mitchell,3.0,eng ENG,LB,23-136,90,56,6,17,26,14,1,56,2,1,50.0,1,50.0,17,63,27,1,2,0,0,1,19,2
+10,Marc Guéhi,6.0,eng ENG,CB,22-186,90,52,11,28,23,2,1,52,0,0,,0,,29,142,100,0,1,0,1,0,31,0
+11,Joachim Andersen,16.0,dk DEN,CB,26-229,37,26,3,13,13,0,0,26,0,0,,0,,18,101,63,0,0,0,1,0,18,0
+12,James Tomkins,5.0,eng ENG,CB,33-292,53,29,4,18,8,3,0,29,0,0,,0,,13,36,9,0,0,0,0,0,15,1
+13,Nathaniel Clyne,17.0,eng ENG,RB,31-285,90,59,5,17,20,22,1,59,2,1,50.0,0,0.0,27,67,35,1,1,1,0,0,27,2
+14,Vicente Guaita,13.0,es ESP,GK,36-005,90,32,26,31,1,0,0,32,0,0,,0,,19,109,54,0,0,0,0,0,10,0
+15,15 Players,,,,,990,529,69,172,192,171,16,529,31,12,38.7,16,51.6,271,1227,534,8,10,4,13,17,277,30

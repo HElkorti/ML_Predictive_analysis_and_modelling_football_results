@@ -1,0 +1,18 @@
+,Unnamed: 0_level_0,Unnamed: 1_level_0,Unnamed: 2_level_0,Unnamed: 3_level_0,Unnamed: 4_level_0,Unnamed: 5_level_0,Unnamed: 6_level_0,Pass Types,Pass Types,Pass Types,Pass Types,Pass Types,Pass Types,Pass Types,Pass Types,Corner Kicks,Corner Kicks,Corner Kicks,Outcomes,Outcomes,Outcomes
+,Player,#,Nation,Pos,Age,Min,Att,Live,Dead,FK,TB,Sw,Crs,TI,CK,In,Out,Str,Cmp,Off,Blocks
+0,Diego Costa,29.0,es ESP,FW,34-211,82,12,12,0,0,0,0,0,0,0,0,0,0,8,0,1
+1,Nathan Collins,4.0,ie IRL,CB,22-006,8,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2,Matheus Cunha,12.0,br BRA,FW,23-344,67,14,13,1,0,1,0,0,0,0,0,0,0,9,0,0
+3,Hwang Hee-chan,11.0,kr KOR,FW,27-100,23,2,2,0,0,0,0,0,0,0,0,0,0,2,0,0
+4,Pedro Neto,7.0,pt POR,LM,23-058,82,18,17,1,0,1,0,2,0,1,0,1,0,13,0,0
+5,Adama Traoré,37.0,es ESP,AM,27-101,8,2,2,0,0,0,0,1,0,0,0,0,0,1,0,1
+6,Mario Lemina,5.0,ga GAB,CM,29-247,90,30,29,1,1,1,0,0,0,0,0,0,0,22,0,1
+7,Rúben Neves,8.0,pt POR,CM,26-054,90,30,24,6,2,0,0,5,0,4,0,4,0,18,0,0
+8,Matheus Nunes,27.0,pt POR,"RM,AM",24-252,89,25,25,0,0,1,2,3,0,0,0,0,0,17,0,1
+9,João Moutinho,28.0,pt POR,AM,36-240,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+10,Toti Gomes,24.0,pt POR,"LB,WB",24-110,90,26,19,7,1,0,0,0,6,0,0,0,0,20,0,0
+11,Max Kilman,23.0,eng ENG,CB,25-348,90,34,31,2,2,0,1,0,0,0,0,0,0,26,1,0
+12,Craig Dawson,15.0,eng ENG,CB,33-000,90,36,35,0,0,0,0,0,0,0,0,0,0,29,1,0
+13,Nélson Semedo,22.0,pt POR,"RB,WB",29-171,90,41,32,9,1,0,0,2,8,0,0,0,0,32,0,1
+14,José Sá,1.0,pt POR,GK,30-109,90,27,13,13,4,0,0,0,0,0,0,0,0,14,1,0
+15,15 Players,,,,,990,297,254,40,11,4,3,13,14,5,0,5,0,211,3,5

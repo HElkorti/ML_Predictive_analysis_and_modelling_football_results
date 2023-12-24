@@ -1,0 +1,16 @@
+,Unnamed: 0_level_0,Unnamed: 1_level_0,Unnamed: 2_level_0,Unnamed: 3_level_0,Unnamed: 4_level_0,Unnamed: 5_level_0,Touches,Touches,Touches,Touches,Touches,Touches,Touches,Take-Ons,Take-Ons,Take-Ons,Take-Ons,Take-Ons,Carries,Carries,Carries,Carries,Carries,Carries,Carries,Carries,Receiving,Receiving
+,Player,#,Nation,Pos,Age,Min,Touches,Def Pen,Def 3rd,Mid 3rd,Att 3rd,Att Pen,Live,Att,Succ,Succ%,Tkld,Tkld%,Carries,TotDist,PrgDist,PrgC,1/3,CPA,Mis,Dis,Rec,PrgR
+0,Ashley Barnes,10.0,eng ENG,FW,31-295,90,29,2,3,11,15,3,29,1,1,100.0,0,0.0,7,40,30,1,0,1,5,0,19,3
+1,Chris Wood,9.0,nz NZL,FW,29-257,74,14,0,2,5,7,2,14,1,1,100.0,0,0.0,3,11,0,0,0,0,2,1,12,2
+2,Jay Rodriguez,19.0,eng ENG,FW,32-023,16,8,0,0,3,5,1,8,1,1,100.0,0,0.0,3,46,17,2,0,0,0,0,4,2
+3,Dwight McNeil,11.0,eng ENG,"LM,RM",21-272,90,44,4,10,20,16,3,44,5,4,80.0,1,20.0,23,233,61,3,4,1,3,1,26,3
+4,Jack Cork,4.0,eng ENG,CM,32-057,90,27,3,3,20,6,0,27,0,0,,0,,4,28,10,1,1,0,0,1,12,0
+5,Josh Brownhill,8.0,eng ENG,CM,25-245,90,36,2,10,13,14,1,36,1,0,0.0,1,100.0,8,35,13,0,1,0,0,3,13,0
+6,Jóhann Berg Guðmundsson,7.0,is ISL,RM,30-298,78,30,0,2,6,22,0,30,0,0,,0,,13,63,8,1,1,0,1,2,25,7
+7,Erik Pieters,23.0,nl NED,LM,33-014,12,11,0,2,6,3,0,11,0,0,,0,,2,27,6,0,1,1,2,1,5,0
+8,Charlie Taylor,3.0,eng ENG,LB,27-337,90,59,10,19,25,16,0,59,1,0,0.0,1,100.0,11,88,29,2,1,0,0,0,18,1
+9,Ben Mee,6.0,eng ENG,CB,31-334,90,33,3,15,17,1,1,33,1,1,100.0,0,0.0,8,34,19,0,0,0,0,0,10,0
+10,James Tarkowski,5.0,eng ENG,CB,28-275,90,40,8,18,18,4,4,40,0,0,,0,,14,90,66,0,0,0,1,0,17,0
+11,Matthew Lowton,2.0,eng ENG,RB,32-073,90,57,2,13,27,18,0,57,3,1,33.3,2,66.7,15,53,37,1,2,0,2,0,30,0
+12,Nick Pope,1.0,eng ENG,GK,29-124,90,41,33,41,0,0,0,41,0,0,,0,,19,133,76,0,0,0,0,0,10,0
+13,13 Players,,,,,990,429,67,138,171,127,15,429,14,9,64.3,5,35.7,130,881,372,11,11,3,16,9,201,18

@@ -1,0 +1,17 @@
+,Unnamed: 0_level_0,Unnamed: 1_level_0,Unnamed: 2_level_0,Unnamed: 3_level_0,Unnamed: 4_level_0,Unnamed: 5_level_0,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Aerial Duels,Aerial Duels,Aerial Duels
+,Player,#,Nation,Pos,Age,Min,CrdY,CrdR,2CrdY,Fls,Fld,Off,Crs,Int,TklW,PKwon,PKcon,OG,Recov,Won,Lost,Won%
+0,Edinson Cavani,7.0,uy URU,FW,33-333,90,0,0,0,2,2,0,0,1,0,0,0,0,2,0,1,0.0
+1,Anthony Martial,9.0,fr FRA,LW,25-038,89,0,0,0,2,1,1,1,0,0,0,0,0,2,1,1,50.0
+2,Axel Tuanzebe,38.0,eng ENG,LW,23-059,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
+3,Marcus Rashford,10.0,eng ENG,RW,23-073,79,0,0,0,0,0,0,4,0,0,0,0,0,4,0,2,0.0
+4,Mason Greenwood,11.0,eng ENG,RW,19-103,11,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0.0
+5,Bruno Fernandes,18.0,pt POR,AM,26-126,88,1,0,0,0,3,0,7,2,0,0,0,0,5,0,1,0.0
+6,Scott McTominay,39.0,sct SCO,DM,24-035,2,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,100.0
+7,Nemanja Matić,31.0,rs SRB,DM,32-164,90,0,0,0,2,0,0,0,2,1,0,0,0,12,2,0,100.0
+8,Paul Pogba,6.0,fr FRA,"DM,AM",27-303,90,0,0,0,1,4,1,1,2,2,0,0,0,8,5,1,83.3
+9,Luke Shaw,23.0,eng ENG,LB,25-184,90,1,0,0,1,1,0,7,0,3,0,0,0,5,3,1,75.0
+10,Harry Maguire,5.0,eng ENG,CB,27-313,90,0,0,0,2,3,0,0,0,1,0,0,0,6,4,1,80.0
+11,Eric Bailly,3.0,ci CIV,CB,26-275,90,0,0,0,1,0,0,0,2,0,0,0,0,9,3,3,50.0
+12,Aaron Wan-Bissaka,29.0,eng ENG,RB,23-047,90,0,0,0,2,0,0,1,1,1,0,0,0,6,3,0,100.0
+13,David de Gea,1.0,es ESP,GK,30-066,90,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
+14,14 Players,,,,,990,2,0,0,13,14,2,21,10,8,0,0,0,60,22,12,64.7
