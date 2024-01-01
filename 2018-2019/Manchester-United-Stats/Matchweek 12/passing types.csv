@@ -1,0 +1,17 @@
+,Unnamed: 0_level_0,Unnamed: 1_level_0,Unnamed: 2_level_0,Unnamed: 3_level_0,Unnamed: 4_level_0,Unnamed: 5_level_0,Unnamed: 6_level_0,Pass Types,Pass Types,Pass Types,Pass Types,Pass Types,Pass Types,Pass Types,Pass Types,Corner Kicks,Corner Kicks,Corner Kicks,Outcomes,Outcomes,Outcomes
+,Player,#,Nation,Pos,Age,Min,Att,Live,Dead,FK,TB,Sw,Crs,TI,CK,In,Out,Str,Cmp,Off,Blocks
+0,Marcus Rashford,10.0,eng ENG,"FW,RW",21-011,72,14,12,2,0,0,0,1,0,1,1,0,0,9,0,0
+1,Alexis Sánchez,7.0,cl CHI,RW,29-327,18,1,1,0,0,0,0,0,0,0,0,0,0,1,0,0
+2,Anthony Martial,11.0,fr FRA,LW,22-341,90,37,37,0,0,1,0,2,0,0,0,0,0,28,0,2
+3,Jesse Lingard,14.0,eng ENG,RW,25-331,56,19,16,3,1,0,0,1,0,0,0,0,0,17,0,0
+4,Romelu Lukaku,9.0,be BEL,FW,25-182,34,3,2,1,0,0,0,0,0,0,0,0,0,2,0,0
+5,Nemanja Matić,31.0,rs SRB,LM,30-102,90,47,47,0,0,0,1,0,0,0,0,0,0,41,0,0
+6,Marouane Fellaini,27.0,be BEL,CM,30-354,90,50,50,0,0,0,0,2,0,0,0,0,0,39,0,3
+7,Ander Herrera,21.0,es ESP,RM,29-089,72,36,36,0,0,0,0,1,0,0,0,0,0,30,0,3
+8,Juan Mata,8.0,es ESP,RM,30-197,18,11,10,1,1,0,0,0,0,0,0,0,0,10,0,0
+9,Luke Shaw,23.0,eng ENG,LB,23-122,90,54,46,8,0,0,1,0,8,0,0,0,0,48,0,0
+10,Victor Lindelöf,2.0,se SWE,CB,24-117,90,42,41,1,1,0,0,0,0,0,0,0,0,37,0,1
+11,Chris Smalling,12.0,eng ENG,CB,28-354,90,24,24,0,0,0,0,0,0,0,0,0,0,22,0,1
+12,Ashley Young,18.0,eng ENG,RB,33-125,90,44,32,12,6,0,0,4,6,0,0,0,0,31,0,1
+13,David de Gea,1.0,es ESP,GK,28-004,90,27,15,12,2,0,0,0,0,0,0,0,0,20,0,0
+14,14 Players,,,,,990,409,369,40,11,1,2,11,14,1,1,0,0,335,0,11

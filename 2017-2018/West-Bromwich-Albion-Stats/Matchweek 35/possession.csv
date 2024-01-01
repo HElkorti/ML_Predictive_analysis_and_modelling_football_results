@@ -1,0 +1,17 @@
+,Unnamed: 0_level_0,Unnamed: 1_level_0,Unnamed: 2_level_0,Unnamed: 3_level_0,Unnamed: 4_level_0,Unnamed: 5_level_0,Touches,Touches,Touches,Touches,Touches,Touches,Touches,Take-Ons,Take-Ons,Take-Ons,Take-Ons,Take-Ons,Carries,Carries,Carries,Carries,Carries,Carries,Carries,Carries,Receiving,Receiving
+,Player,#,Nation,Pos,Age,Min,Touches,Def Pen,Def 3rd,Mid 3rd,Att 3rd,Att Pen,Live,Att,Succ,Succ%,Tkld,Tkld%,Carries,TotDist,PrgDist,PrgC,1/3,CPA,Mis,Dis,Rec,PrgR
+0,Salomón Rondón,9.0,ve VEN,"FW,AM",28-217,90,39,1,1,19,21,6,39,1,0,0.0,1,100.0,16,88,50,3,1,2,3,1,23,2
+1,Jay Rodriguez,19.0,eng ENG,"FW,AM",28-266,88,32,2,5,13,14,2,32,1,0,0.0,1,100.0,17,59,3,0,0,0,1,3,21,3
+2,Hal Robson-Kanu,4.0,wls WAL,FW,28-335,2,0,0,0,0,0,0,0,0,0,,0,,0,0,0,0,0,0,0,0,0,0
+3,James McClean,14.0,ie IRL,LM,28-364,70,27,0,6,10,11,1,27,0,0,,0,,15,69,23,0,0,0,2,0,15,2
+4,Jonny Evans,6.0,nir NIR,CB,30-108,20,14,1,4,4,6,1,14,0,0,,0,,10,47,25,0,0,0,1,0,11,1
+5,Chris Brunt,11.0,nir NIR,CM,33-128,90,64,5,14,35,15,1,64,1,1,100.0,0,0.0,35,166,78,1,0,0,0,0,36,0
+6,Jake Livermore,8.0,eng ENG,CM,28-158,90,47,1,10,30,7,2,47,2,2,100.0,0,0.0,35,170,78,1,0,0,1,2,31,2
+7,Matt Phillips,10.0,sct SCO,"RM,AM,WB",27-039,90,48,2,9,15,27,7,48,6,6,100.0,0,0.0,37,344,202,6,5,2,2,2,31,9
+8,Kieran Gibbs,3.0,eng ENG,LB,28-207,75,32,3,13,14,5,0,32,0,0,,0,,17,94,48,1,0,0,0,0,16,1
+9,Oliver Burke,17.0,sct SCO,"AM,WB",21-014,15,7,0,0,2,5,1,7,1,1,100.0,0,0.0,3,29,4,0,0,0,1,0,3,1
+10,Ahmed Hegazi,26.0,eg EGY,CB,27-086,90,31,5,17,13,1,1,31,0,0,,0,,21,116,65,0,1,0,0,0,18,0
+11,Craig Dawson,25.0,eng ENG,CB,27-350,90,52,6,24,25,3,3,52,0,0,,0,,33,150,103,0,0,0,0,1,31,0
+12,Allan Nyom,2.0,cm CMR,"RB,WB",29-346,90,63,8,21,30,13,0,63,2,1,50.0,1,50.0,28,162,93,0,1,0,1,0,26,2
+13,Ben Foster,1.0,eng ENG,GK,35-018,90,35,29,34,1,0,0,35,0,0,,0,,16,113,84,0,0,0,0,0,14,0
+14,14 Players,,,,,990,491,63,158,211,128,25,491,14,11,78.6,3,21.4,283,1607,856,12,8,4,12,9,276,23

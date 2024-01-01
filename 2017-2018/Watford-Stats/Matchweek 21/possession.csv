@@ -1,0 +1,17 @@
+,Unnamed: 0_level_0,Unnamed: 1_level_0,Unnamed: 2_level_0,Unnamed: 3_level_0,Unnamed: 4_level_0,Unnamed: 5_level_0,Touches,Touches,Touches,Touches,Touches,Touches,Touches,Take-Ons,Take-Ons,Take-Ons,Take-Ons,Take-Ons,Carries,Carries,Carries,Carries,Carries,Carries,Carries,Carries,Receiving,Receiving
+,Player,#,Nation,Pos,Age,Min,Touches,Def Pen,Def 3rd,Mid 3rd,Att 3rd,Att Pen,Live,Att,Succ,Succ%,Tkld,Tkld%,Carries,TotDist,PrgDist,PrgC,1/3,CPA,Mis,Dis,Rec,PrgR
+0,Stefano Okaka,33.0,it ITA,FW,28-143,76,30,0,1,18,12,3,30,2,2,100.0,0,0.0,16,84,41,2,2,0,1,2,27,12
+1,Andre Gray,18.0,jm JAM,FW,26-187,14,3,0,0,0,3,1,3,0,0,,0,,1,6,6,0,0,0,0,0,1,1
+2,Richarlison,11.0,br BRA,LW,20-234,90,55,1,5,28,22,5,55,1,0,0.0,1,100.0,41,221,111,5,1,2,1,4,47,15
+3,André Carrillo,28.0,pe PER,RW,26-199,82,41,0,3,25,13,1,41,2,2,100.0,0,0.0,29,208,125,6,3,0,1,0,36,2
+4,Roberto Pereyra,37.0,ar ARG,RW,26-357,8,5,0,1,0,4,0,5,0,0,,0,,1,8,7,0,1,0,0,0,1,0
+5,Tom Cleverley,8.0,eng ENG,AM,28-140,90,53,0,5,27,21,1,53,1,0,0.0,1,100.0,29,125,61,1,0,0,0,3,32,9
+6,Ben Watson,23.0,eng ENG,DM,32-174,90,70,1,14,52,5,0,70,0,0,,0,,44,191,70,1,1,0,0,1,47,1
+7,Abdoulaye Doucouré,16.0,ml MLI,DM,24-363,90,88,2,7,64,19,1,88,2,2,100.0,0,0.0,58,303,189,3,1,0,1,2,64,3
+8,Marvin Zeegelaar,22.0,nl NED,LB,27-140,90,84,1,16,48,21,0,84,3,2,66.7,1,33.3,44,208,107,2,2,0,1,3,49,4
+9,Christian Kabasele,27.0,be BEL,CB,26-309,90,64,6,31,32,1,1,64,0,0,,0,,42,252,141,1,0,0,1,0,45,0
+10,Molla Wagué,13.0,ml MLI,CB,26-312,63,53,3,27,26,0,0,53,0,0,,0,,33,110,46,0,0,0,1,0,34,0
+11,Sebastian Prödl,5.0,at AUT,CB,30-192,27,5,2,5,0,0,0,5,0,0,,0,,2,9,2,0,0,0,0,0,2,0
+12,Daryl Janmaat,2.0,nl NED,RB,28-161,90,56,2,19,24,13,1,56,1,0,0.0,1,100.0,28,131,75,4,2,0,0,0,39,4
+13,Heurelho Gomes,1.0,br BRA,GK,36-318,90,28,23,26,2,0,0,28,0,0,,0,,13,58,27,0,0,0,0,0,10,0
+14,14 Players,,,,,990,635,41,160,346,134,14,635,12,8,66.7,4,33.3,381,1914,1008,25,13,2,7,15,434,51

@@ -1,0 +1,17 @@
+,Unnamed: 0_level_0,Unnamed: 1_level_0,Unnamed: 2_level_0,Unnamed: 3_level_0,Unnamed: 4_level_0,Unnamed: 5_level_0,Touches,Touches,Touches,Touches,Touches,Touches,Touches,Take-Ons,Take-Ons,Take-Ons,Take-Ons,Take-Ons,Carries,Carries,Carries,Carries,Carries,Carries,Carries,Carries,Receiving,Receiving
+,Player,#,Nation,Pos,Age,Min,Touches,Def Pen,Def 3rd,Mid 3rd,Att 3rd,Att Pen,Live,Att,Succ,Succ%,Tkld,Tkld%,Carries,TotDist,PrgDist,PrgC,1/3,CPA,Mis,Dis,Rec,PrgR
+0,Alexandre Lacazette,9.0,fr FRA,FW,26-322,90,47,0,2,20,25,4,47,0,0,,0,,24,121,44,2,0,0,3,1,33,12
+1,Pierre-Emerick Aubameyang,14.0,ga GAB,"LW,LM",28-301,90,59,1,6,29,26,6,59,4,2,50.0,2,50.0,46,260,134,6,3,2,1,3,52,10
+2,Alex Iwobi,17.0,ng NGA,"RW,LM",21-347,85,52,1,7,25,21,2,52,5,3,60.0,2,40.0,39,241,104,2,2,1,2,3,41,6
+3,Eddie Nketiah,62.0,eng ENG,FW,18-320,5,0,0,0,0,0,0,0,0,0,,0,,0,0,0,0,0,0,0,0,0,0
+4,Joe Willock,69.0,eng ENG,LM,18-238,67,44,1,8,29,7,1,44,0,0,,0,,26,161,23,0,0,0,2,1,35,3
+5,Danny Welbeck,23.0,eng ENG,"RW,AM",27-140,23,14,0,0,3,12,0,14,1,1,100.0,0,0.0,11,101,35,1,2,0,2,0,10,3
+6,Granit Xhaka,29.0,ch SUI,"CM,DM",25-200,90,104,3,14,68,23,0,104,0,0,,0,,69,348,209,2,2,0,1,0,76,2
+7,Mohamed Elneny,35.0,eg EGY,RM,25-278,90,90,1,9,59,22,1,90,1,1,100.0,0,0.0,67,376,178,2,3,0,1,2,74,2
+8,Nacho Monreal,18.0,es ESP,LB,32-048,90,97,1,19,54,26,2,97,1,0,0.0,1,100.0,67,238,113,2,1,0,1,0,74,18
+9,Rob Holding,16.0,eng ENG,CB,22-207,90,106,4,44,58,4,2,106,2,1,50.0,1,50.0,82,372,207,1,1,0,0,1,83,0
+10,Shkodran Mustafi,20.0,de GER,CB,25-363,90,101,11,49,50,3,1,101,0,0,,0,,64,272,168,0,0,0,0,0,67,1
+11,Calum Chambers,21.0,eng ENG,RB,23-085,77,84,2,17,35,34,3,84,3,1,33.3,2,66.7,49,225,98,4,5,0,3,3,48,10
+12,Ainsley Maitland-Niles,30.0,eng ENG,RB,20-229,13,16,0,5,7,4,1,16,0,0,,0,,6,29,14,1,0,0,1,0,6,0
+13,Petr Čech,33.0,cz CZE,GK,35-330,90,34,29,34,0,0,0,34,0,0,,0,,18,82,64,0,0,0,0,0,18,0
+14,14 Players,,,,,990,848,54,214,437,207,23,848,17,9,52.9,8,47.1,568,2826,1391,23,19,3,17,14,617,67

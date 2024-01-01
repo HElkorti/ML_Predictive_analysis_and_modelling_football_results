@@ -1,0 +1,17 @@
+,Unnamed: 0_level_0,Unnamed: 1_level_0,Unnamed: 2_level_0,Unnamed: 3_level_0,Unnamed: 4_level_0,Unnamed: 5_level_0,Unnamed: 6_level_0,Pass Types,Pass Types,Pass Types,Pass Types,Pass Types,Pass Types,Pass Types,Pass Types,Corner Kicks,Corner Kicks,Corner Kicks,Outcomes,Outcomes,Outcomes
+,Player,#,Nation,Pos,Age,Min,Att,Live,Dead,FK,TB,Sw,Crs,TI,CK,In,Out,Str,Cmp,Off,Blocks
+0,Steve Mounié,24.0,bj BEN,FW,23-113,90,19,17,2,0,0,0,0,0,0,0,0,0,7,0,0
+1,Rajiv van La Parra,17.0,nl NED,LW,26-230,90,17,17,0,0,0,0,1,0,0,0,0,0,13,0,1
+2,Tom Ince,22.0,eng ENG,RW,25-355,55,10,8,2,0,0,1,2,0,2,2,0,0,6,0,0
+3,Collin Quaner,23.0,de GER,RW,26-216,35,5,5,0,0,0,0,0,0,0,0,0,0,2,0,1
+4,Alex Pritchard,21.0,eng ENG,AM,24-262,59,20,19,1,0,0,0,1,0,0,0,0,0,14,0,1
+5,Abdelhamid Sabiri,11.0,ma MAR,AM,21-053,31,10,10,0,0,0,0,0,0,0,0,0,0,5,0,0
+6,Aaron Mooy,10.0,au AUS,DM,27-127,90,45,36,9,9,0,0,5,0,0,0,0,0,28,0,2
+7,Jonathan Hogg,6.0,eng ENG,DM,29-045,78,42,41,1,1,0,0,0,0,0,0,0,0,29,0,2
+8,Laurent Depoitre,20.0,be BEL,DM,29-044,12,4,4,0,0,0,0,0,0,0,0,0,0,1,0,1
+9,Scott Malone,3.0,eng ENG,LB,26-301,90,60,36,24,1,0,0,2,23,0,0,0,0,29,0,2
+10,Christopher Schindler,26.0,de GER,CB,27-266,90,29,28,1,1,0,0,0,0,0,0,0,0,16,0,0
+11,Mathias Jørgensen,25.0,dk DEN,CB,27-272,90,48,47,1,1,0,0,0,0,0,0,0,0,23,0,3
+12,Florent Hadergjonaj,33.0,xk KVX,RB,23-173,90,52,32,20,2,0,0,6,18,0,0,0,0,37,0,1
+13,Jonas Lössl,1.0,dk DEN,GK,28-353,90,54,31,23,13,0,0,0,0,0,0,0,0,19,0,0
+14,14 Players,,,,,990,415,331,84,28,0,1,17,41,2,2,0,0,229,0,14

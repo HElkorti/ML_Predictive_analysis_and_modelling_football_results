@@ -1,0 +1,17 @@
+,Unnamed: 0_level_0,Unnamed: 1_level_0,Unnamed: 2_level_0,Unnamed: 3_level_0,Unnamed: 4_level_0,Unnamed: 5_level_0,Unnamed: 6_level_0,Pass Types,Pass Types,Pass Types,Pass Types,Pass Types,Pass Types,Pass Types,Pass Types,Corner Kicks,Corner Kicks,Corner Kicks,Outcomes,Outcomes,Outcomes
+,Player,#,Nation,Pos,Age,Min,Att,Live,Dead,FK,TB,Sw,Crs,TI,CK,In,Out,Str,Cmp,Off,Blocks
+0,Sergio Agüero,10.0,ar ARG,FW,29-194,90,39,38,1,0,1,0,0,0,0,0,0,0,33,0,1
+1,Raheem Sterling,7.0,eng ENG,LW,23-005,90,50,50,0,0,0,0,0,0,0,0,0,0,44,0,1
+2,Bernardo Silva,20.0,pt POR,RW,23-125,90,47,46,1,0,1,0,4,1,0,0,0,0,38,0,1
+3,David Silva,21.0,es ESP,LM,31-339,90,117,109,8,3,1,0,6,0,5,0,3,0,104,0,2
+4,Fernandinho,25.0,br BRA,CM,32-223,57,87,85,1,1,0,1,1,0,0,0,0,0,82,1,0
+5,Yaya Touré,42.0,ci CIV,CM,34-214,33,43,42,1,1,0,0,0,0,0,0,0,0,40,0,0
+6,Kevin De Bruyne,17.0,be BEL,RM,26-168,76,73,70,3,2,0,0,3,1,0,0,0,0,56,0,0
+7,İlkay Gündoğan,8.0,de GER,RM,27-050,14,17,16,1,1,0,0,1,0,0,0,0,0,15,0,0
+8,Fabian Delph,18.0,eng ENG,LB,28-022,72,79,73,6,0,0,0,0,6,0,0,0,0,76,0,0
+9,Oleksandr Zinchenko,35.0,ua UKR,LB,20-363,18,13,11,2,0,0,0,0,2,0,0,0,0,12,0,0
+10,Eliaquim Mangala,15.0,fr FRA,CB,26-303,90,78,77,1,1,0,0,0,0,0,0,0,0,73,0,1
+11,Nicolás Otamendi,30.0,ar ARG,CB,29-304,90,91,90,1,0,0,0,0,1,0,0,0,0,88,0,0
+12,Danilo,3.0,br BRA,RB,26-151,90,108,96,12,1,0,0,1,11,0,0,0,0,102,0,0
+13,Ederson,31.0,br BRA,GK,24-118,90,34,29,5,2,0,0,0,0,0,0,0,0,30,0,0
+14,14 Players,,,,,990,876,832,43,12,3,1,16,22,5,0,3,0,793,1,6

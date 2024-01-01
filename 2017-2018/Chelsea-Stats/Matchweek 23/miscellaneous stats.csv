@@ -1,0 +1,17 @@
+,Unnamed: 0_level_0,Unnamed: 1_level_0,Unnamed: 2_level_0,Unnamed: 3_level_0,Unnamed: 4_level_0,Unnamed: 5_level_0,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Aerial Duels,Aerial Duels,Aerial Duels
+,Player,#,Nation,Pos,Age,Min,CrdY,CrdR,2CrdY,Fls,Fld,Off,Crs,Int,TklW,PKwon,PKcon,OG,Recov,Won,Lost,Won%
+0,Álvaro Morata,9.0,es ESP,FW,25-082,90,1,0,0,4,3,3,0,0,1,0,0,0,0,1,0,100.0
+1,Eden Hazard,10.0,be BEL,FW,27-006,57,0,0,0,0,1,1,1,0,0,0,0,0,4,0,0,
+2,Pedro,11.0,es ESP,LW,30-169,33,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,
+3,Tiemoué Bakayoko,14.0,fr FRA,"DM,CM",23-149,90,0,0,0,3,1,0,0,4,1,0,0,0,5,2,2,50.0
+4,N'Golo Kanté,7.0,fr FRA,"DM,CM",26-290,90,1,0,0,3,1,0,1,4,1,0,0,0,11,1,2,33.3
+5,Cesc Fàbregas,4.0,es ESP,DM,30-254,57,0,0,0,0,0,0,4,0,1,0,0,0,3,0,0,
+6,Willian,22.0,br BRA,RW,29-157,33,0,0,0,0,3,0,4,0,2,0,0,0,1,0,1,0.0
+7,Marcos Alonso,3.0,es ESP,"WB,LM",27-016,90,0,0,0,0,1,0,2,0,1,0,0,0,5,1,2,33.3
+8,Victor Moses,15.0,ng NGA,"WB,RM",27-032,90,0,0,0,1,2,1,5,1,1,0,0,0,6,2,3,40.0
+9,Antonio Rüdiger,2.0,de GER,CB,24-316,90,0,0,0,1,0,0,1,0,1,0,0,0,13,1,4,20.0
+10,Gary Cahill,24.0,eng ENG,CB,32-025,32,0,0,0,0,1,0,0,0,1,0,0,0,3,0,0,
+11,Andreas Christensen,27.0,dk DEN,CB,21-278,58,0,0,0,1,0,0,0,0,0,0,0,0,5,3,0,100.0
+12,César Azpilicueta,28.0,es ESP,CB,28-138,90,0,0,0,1,0,0,5,0,1,0,0,0,6,0,2,0.0
+13,Thibaut Courtois,13.0,be BEL,GK,25-247,90,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,
+14,14 Players,,,,,990,2,0,0,14,13,5,24,9,11,0,0,0,64,11,16,40.7

@@ -1,0 +1,16 @@
+,Unnamed: 0_level_0,Unnamed: 1_level_0,Unnamed: 2_level_0,Unnamed: 3_level_0,Unnamed: 4_level_0,Unnamed: 5_level_0,Touches,Touches,Touches,Touches,Touches,Touches,Touches,Take-Ons,Take-Ons,Take-Ons,Take-Ons,Take-Ons,Carries,Carries,Carries,Carries,Carries,Carries,Carries,Carries,Receiving,Receiving
+,Player,#,Nation,Pos,Age,Min,Touches,Def Pen,Def 3rd,Mid 3rd,Att 3rd,Att Pen,Live,Att,Succ,Succ%,Tkld,Tkld%,Carries,TotDist,PrgDist,PrgC,1/3,CPA,Mis,Dis,Rec,PrgR
+0,Roberto Firmino,9.0,br BRA,FW,26-112,90,55,0,0,23,33,9,55,2,0,0.0,2,100.0,38,182,98,3,3,1,1,3,44,20
+1,Sadio Mané,19.0,sn SEN,"LW,RM",25-287,90,61,0,3,23,35,5,61,0,0,,0,,46,223,69,1,1,1,2,1,51,13
+2,Mohamed Salah,11.0,eg EGY,"RW,LM",25-221,90,49,0,2,13,34,6,49,0,0,,0,,32,126,36,1,0,0,0,3,37,16
+3,Alex Oxlade-Chamberlain,21.0,eng ENG,AM,24-160,67,49,1,4,25,21,1,49,3,2,66.7,1,33.3,32,197,81,2,2,1,0,1,35,2
+4,Adam Lallana,20.0,eng ENG,"CM,AM",29-257,23,32,0,1,10,21,3,32,0,0,,0,,20,90,59,1,0,1,0,1,26,1
+5,Georginio Wijnaldum,5.0,nl NED,DM,27-072,72,58,0,4,48,7,1,58,0,0,,0,,39,159,29,0,0,0,2,0,45,2
+6,Danny Ings,28.0,eng ENG,FW,25-183,18,10,0,0,1,9,2,10,1,1,100.0,0,0.0,6,22,3,0,0,0,1,0,7,3
+7,Emre Can,23.0,de GER,"DM,CM",24-010,90,93,0,4,73,16,3,93,1,1,100.0,0,0.0,67,392,255,4,3,0,3,1,72,1
+8,Andrew Robertson,26.0,sct SCO,LB,23-317,90,113,0,13,50,50,2,113,1,1,100.0,0,0.0,74,208,107,2,2,0,1,2,88,20
+9,Virgil van Dijk,4.0,nl NED,CB,26-198,90,132,6,21,95,16,3,132,0,0,,0,,95,596,421,2,3,0,0,0,108,3
+10,Joël Matip,32.0,cm CMR,CB,26-167,90,128,1,25,96,10,1,128,0,0,,0,,97,526,391,2,6,0,1,0,102,1
+11,Joe Gomez,12.0,eng ENG,RB,20-244,90,98,1,11,70,19,0,98,1,1,100.0,0,0.0,69,277,173,2,3,0,0,0,71,2
+12,Loris Karius,1.0,de GER,GK,24-214,90,17,12,17,0,0,0,17,0,0,,0,,8,35,13,0,0,0,0,0,8,0
+13,13 Players,,,,,990,895,21,105,527,271,36,895,9,6,66.7,3,33.3,623,3033,1735,20,23,4,11,12,694,84

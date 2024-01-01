@@ -1,0 +1,17 @@
+,Unnamed: 0_level_0,Unnamed: 1_level_0,Unnamed: 2_level_0,Unnamed: 3_level_0,Unnamed: 4_level_0,Unnamed: 5_level_0,Touches,Touches,Touches,Touches,Touches,Touches,Touches,Take-Ons,Take-Ons,Take-Ons,Take-Ons,Take-Ons,Carries,Carries,Carries,Carries,Carries,Carries,Carries,Carries,Receiving,Receiving
+,Player,#,Nation,Pos,Age,Min,Touches,Def Pen,Def 3rd,Mid 3rd,Att 3rd,Att Pen,Live,Att,Succ,Succ%,Tkld,Tkld%,Carries,TotDist,PrgDist,PrgC,1/3,CPA,Mis,Dis,Rec,PrgR
+0,Sergio Agüero,10.0,ar ARG,FW,30-175,80,43,0,1,23,20,3,43,2,1,50.0,1,50.0,31,143,26,1,2,0,1,1,36,7
+1,Gabriel Jesus,33.0,br BRA,FW,21-235,10,13,0,0,6,7,3,13,2,1,50.0,1,50.0,8,28,11,0,0,0,0,0,11,4
+2,Leroy Sané,19.0,de GER,LW,22-317,90,72,0,4,27,42,11,72,9,6,66.7,3,33.3,50,227,120,6,3,3,4,6,60,20
+3,Raheem Sterling,7.0,eng ENG,RW,23-351,73,48,0,4,22,22,6,48,2,0,0.0,2,100.0,33,158,98,3,1,2,2,1,38,9
+4,Riyad Mahrez,26.0,dz ALG,RW,27-276,17,17,0,3,9,5,0,17,0,0,,0,,15,106,32,1,1,0,1,1,14,3
+5,İlkay Gündoğan,8.0,de GER,"LM,RM",28-031,68,55,0,6,32,18,3,55,0,0,,0,,32,137,72,1,1,0,2,0,39,7
+6,Phil Foden,47.0,eng ENG,LM,18-180,22,33,0,0,24,9,0,33,0,0,,0,,28,110,65,2,2,0,0,0,31,1
+7,Fernandinho,25.0,br BRA,CM,33-204,90,106,2,18,82,6,0,106,1,1,100.0,0,0.0,71,372,202,2,2,0,3,0,81,0
+8,David Silva,21.0,es ESP,"RM,LM",32-320,90,119,1,14,77,29,5,119,0,0,,0,,89,485,269,7,6,0,1,2,104,6
+9,Fabian Delph,18.0,eng ENG,LB,29-003,90,142,3,21,109,12,0,142,1,1,100.0,0,0.0,101,326,109,0,1,0,2,0,115,2
+10,Aymeric Laporte,14.0,es ESP,CB,24-181,90,97,12,47,50,0,0,97,0,0,,0,,70,307,212,1,0,0,1,1,69,0
+11,Nicolás Otamendi,30.0,ar ARG,CB,30-285,90,95,12,41,54,0,0,95,0,0,,0,,62,353,166,0,0,0,0,0,67,0
+12,Kyle Walker,2.0,eng ENG,RB,28-180,90,99,5,25,61,13,0,99,2,0,0.0,2,100.0,64,208,74,1,1,0,2,0,73,0
+13,Ederson,31.0,br BRA,GK,25-099,90,39,38,39,0,0,0,39,0,0,,0,,22,67,33,0,0,0,0,0,21,0
+14,14 Players,,,,,990,978,73,223,576,183,31,978,19,10,52.6,9,47.4,676,3027,1489,25,20,5,19,12,759,59

@@ -1,0 +1,17 @@
+,Unnamed: 0_level_0,Unnamed: 1_level_0,Unnamed: 2_level_0,Unnamed: 3_level_0,Unnamed: 4_level_0,Unnamed: 5_level_0,Tackles,Tackles,Tackles,Tackles,Tackles,Challenges,Challenges,Challenges,Challenges,Blocks,Blocks,Blocks,Unnamed: 18_level_0,Unnamed: 19_level_0,Unnamed: 20_level_0,Unnamed: 21_level_0
+,Player,#,Nation,Pos,Age,Min,Tkl,TklW,Def 3rd,Mid 3rd,Att 3rd,Tkl,Att,Tkl%,Lost,Blocks,Sh,Pass,Int,Tkl+Int,Clr,Err
+0,Troy Deeney,9.0,eng ENG,FW,29-275,90,1,1,0,0,1,0,0,,0,1,0,1,0,1,3,0
+1,Roberto Pereyra,37.0,ar ARG,"LW,LM",27-083,90,0,0,0,0,0,0,0,,0,1,0,1,1,1,1,0
+2,Kiko Femenía,21.0,es ESP,"RW,RM",27-057,80,1,1,1,0,0,0,1,0.0,1,1,0,1,1,2,0,0
+3,Richarlison,11.0,br BRA,RM,20-325,10,0,0,0,0,0,0,1,0.0,1,0,0,0,0,0,0,0
+4,Will Hughes,19.0,eng ENG,AM,22-348,74,4,3,0,4,0,2,2,100.0,0,2,0,2,3,7,0,0
+5,Stefano Okaka,33.0,it ITA,FW,28-234,16,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,0
+6,Étienne Capoue,29.0,fr FRA,"DM,CM",29-263,90,2,2,0,2,0,1,4,25.0,3,0,0,0,3,5,1,0
+7,Abdoulaye Doucouré,16.0,ml MLI,"DM,CM",25-089,90,2,1,0,1,1,1,5,20.0,4,1,0,1,2,4,0,0
+8,José Holebas,25.0,gr GRE,LB,33-277,90,1,1,1,0,0,0,0,,0,1,0,1,2,3,0,0
+9,Adrian Mariappa,6.0,jm JAM,CB,31-179,90,2,1,2,0,0,1,1,100.0,0,2,2,0,1,3,2,1
+10,Sebastian Prödl,5.0,at AUT,CB,30-283,63,1,1,0,1,0,1,1,100.0,0,3,1,2,0,1,2,0
+11,Craig Cathcart,15.0,nir NIR,CB,29-053,27,1,1,1,0,0,1,1,100.0,0,0,0,0,0,1,0,0
+12,Daryl Janmaat,2.0,nl NED,RB,28-252,90,3,0,1,1,1,2,2,100.0,0,0,0,0,1,4,3,0
+13,Orestis Karnezis,30.0,gr GRE,GK,32-263,90,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,0
+14,14 Players,,,,,990,18,12,6,9,3,9,18,50.0,9,12,3,9,14,32,12,1

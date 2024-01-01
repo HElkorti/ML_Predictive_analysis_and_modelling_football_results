@@ -1,0 +1,17 @@
+,Unnamed: 0_level_0,Unnamed: 1_level_0,Unnamed: 2_level_0,Unnamed: 3_level_0,Unnamed: 4_level_0,Unnamed: 5_level_0,Unnamed: 6_level_0,Pass Types,Pass Types,Pass Types,Pass Types,Pass Types,Pass Types,Pass Types,Pass Types,Corner Kicks,Corner Kicks,Corner Kicks,Outcomes,Outcomes,Outcomes
+,Player,#,Nation,Pos,Age,Min,Att,Live,Dead,FK,TB,Sw,Crs,TI,CK,In,Out,Str,Cmp,Off,Blocks
+0,Romelu Lukaku,9.0,be BEL,FW,24-224,90,27,26,1,0,2,0,1,0,0,0,0,0,21,0,1
+1,Anthony Martial,11.0,fr FRA,LW,22-018,70,49,47,2,2,0,0,5,0,0,0,0,0,39,0,4
+2,Marcus Rashford,19.0,eng ENG,LW,20-053,20,4,4,0,0,0,0,0,0,0,0,0,0,4,0,0
+3,Juan Mata,8.0,es ESP,RW,29-239,82,51,49,2,0,0,0,5,0,2,2,0,0,39,0,1
+4,Henrikh Mkhitaryan,22.0,am ARM,RW,28-336,8,6,6,0,0,1,0,1,0,0,0,0,0,2,0,2
+5,Jesse Lingard,14.0,eng ENG,AM,25-008,75,32,28,4,1,1,0,0,1,0,0,0,0,29,0,0
+6,Ander Herrera,21.0,es ESP,RM,28-131,15,7,7,0,0,0,0,0,0,0,0,0,0,7,0,0
+7,Nemanja Matić,31.0,rs SRB,"DM,CM",29-144,90,79,72,5,5,0,1,1,0,0,0,0,0,66,2,2
+8,Paul Pogba,6.0,fr FRA,"DM,LM",24-283,90,65,63,1,1,0,0,2,0,0,0,0,0,45,1,0
+9,Ashley Young,18.0,eng ENG,LB,32-167,90,58,44,13,1,0,1,6,8,4,4,0,0,45,1,1
+10,Phil Jones,4.0,eng ENG,CB,25-305,90,30,30,0,0,0,0,0,0,0,0,0,0,27,0,0
+11,Chris Smalling,12.0,eng ENG,CB,28-031,90,21,20,0,0,0,0,0,0,0,0,0,0,17,1,0
+12,Victor Lindelöf,2.0,se SWE,RB,23-159,90,45,33,12,1,0,0,0,11,0,0,0,0,40,0,0
+13,David de Gea,1.0,es ESP,GK,27-046,90,24,14,10,5,0,0,0,0,0,0,0,0,13,0,0
+14,14 Players,,,,,990,498,443,50,16,4,2,21,20,6,6,0,0,394,5,11

@@ -1,0 +1,17 @@
+,Unnamed: 0_level_0,Unnamed: 1_level_0,Unnamed: 2_level_0,Unnamed: 3_level_0,Unnamed: 4_level_0,Unnamed: 5_level_0,Total,Total,Total,Total,Total,Short,Short,Short,Medium,Medium,Medium,Long,Long,Long,Unnamed: 20_level_0,Unnamed: 21_level_0,Unnamed: 22_level_0,Unnamed: 23_level_0,Unnamed: 24_level_0,Unnamed: 25_level_0,Unnamed: 26_level_0,Unnamed: 27_level_0
+,Player,#,Nation,Pos,Age,Min,Cmp,Att,Cmp%,TotDist,PrgDist,Cmp,Att,Cmp%,Cmp,Att,Cmp%,Cmp,Att,Cmp%,Ast,xAG,xA,KP,1/3,PPA,CrsPA,PrgP
+0,Jamie Vardy,9.0,eng ENG,FW,32-064,90,12,18,66.7,161,34,5,8,62.5,6,8,75.0,0,0,,0,0.3,0.4,1,0,1,0,2
+1,Harvey Barnes,19.0,eng ENG,"LM,RM",21-097,76,11,17,64.7,112,14,8,10,80.0,2,4,50.0,0,2,0.0,0,0.0,0.0,0,1,0,0,0
+2,Nampalys Mendy,24.0,sn SEN,DM,26-266,14,1,3,33.3,17,0,0,1,0.0,1,2,50.0,0,0,,0,0.0,0.0,0,0,0,0,1
+3,James Maddison,10.0,eng ENG,"RM,LM,CM",22-113,63,19,26,73.1,233,83,11,13,84.6,5,6,83.3,1,4,25.0,0,0.2,0.2,3,0,1,0,1
+4,Christian Fuchs,28.0,at AUT,"CB,LB",32-343,27,10,16,62.5,237,164,3,4,75.0,6,7,85.7,1,5,20.0,0,0.0,0.0,0,1,0,0,2
+5,Youri Tielemans,21.0,be BEL,"CM,DM",21-313,90,32,45,71.1,496,128,17,20,85.0,12,13,92.3,2,9,22.2,0,0.0,0.0,1,4,0,0,4
+6,Demarai Gray,7.0,jm JAM,RM,22-261,5,3,5,60.0,36,16,2,3,66.7,1,2,50.0,0,0,,0,0.0,0.1,0,0,1,0,1
+7,Wes Morgan,5.0,jm JAM,CB,35-054,85,10,16,62.5,138,60,6,8,75.0,4,7,57.1,0,1,0.0,0,0.0,0.0,0,0,0,0,0
+8,Wilfred Ndidi,25.0,ng NGA,"CM,DM",22-090,90,21,27,77.8,392,132,8,12,66.7,11,12,91.7,2,2,100.0,0,0.1,0.0,1,5,0,0,4
+9,Ben Chilwell,3.0,eng ENG,"LB,WB,LM",22-085,90,28,39,71.8,390,175,13,16,81.3,9,14,64.3,2,5,40.0,0,0.0,0.1,0,1,1,1,1
+10,Harry Maguire,15.0,eng ENG,CB,26-011,3,4,4,100.0,80,8,0,0,,4,4,100.0,0,0,,0,0.0,0.0,0,0,0,0,0
+11,Jonny Evans,6.0,nir NIR,CB,31-072,90,20,27,74.1,410,99,5,6,83.3,13,16,81.3,2,4,50.0,0,0.0,0.0,0,1,0,0,1
+12,Ricardo Pereira,14.0,pt POR,"RB,WB",25-161,90,28,44,63.6,423,185,16,21,76.2,11,17,64.7,1,4,25.0,0,0.0,0.0,0,1,0,0,2
+13,Kasper Schmeichel,1.0,dk DEN,GK,32-131,90,16,48,33.3,652,530,0,1,0.0,5,5,100.0,11,42,26.2,0,0.0,0.0,0,0,0,0,0
+14,14 Players,,,,,903,215,335,64.2,3777,1628,94,123,76.4,90,117,76.9,22,78,28.2,0,0.6,0.8,6,14,4,1,19

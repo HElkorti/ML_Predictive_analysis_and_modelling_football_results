@@ -1,0 +1,17 @@
+,Unnamed: 0_level_0,Unnamed: 1_level_0,Unnamed: 2_level_0,Unnamed: 3_level_0,Unnamed: 4_level_0,Unnamed: 5_level_0,Unnamed: 6_level_0,Pass Types,Pass Types,Pass Types,Pass Types,Pass Types,Pass Types,Pass Types,Pass Types,Corner Kicks,Corner Kicks,Corner Kicks,Outcomes,Outcomes,Outcomes
+,Player,#,Nation,Pos,Age,Min,Att,Live,Dead,FK,TB,Sw,Crs,TI,CK,In,Out,Str,Cmp,Off,Blocks
+0,Marko Arnautović,7.0,at AUT,FW,30-015,90,26,24,2,0,1,0,1,1,0,0,0,0,19,0,1
+1,Michail Antonio,30.0,jm JAM,"LM,RW",29-037,90,28,28,0,0,0,0,0,0,0,0,0,0,21,0,0
+2,Manuel Lanzini,10.0,ar ARG,"CM,LW",26-078,82,74,72,2,0,1,0,1,1,1,0,1,0,63,0,1
+3,Lucas Pérez,27.0,es ESP,LW,30-236,8,6,6,0,0,0,0,0,0,0,0,0,0,6,0,0
+4,Mark Noble,16.0,eng ENG,"CM,DM",31-361,77,68,64,3,1,1,1,1,1,1,1,0,0,58,1,1
+5,Carlos Sánchez,15.0,co COL,DM,33-087,13,9,8,1,1,0,0,0,0,0,0,0,0,8,0,0
+6,Grady Diangana,45.0,cd COD,RM,21-015,67,25,23,1,1,0,0,0,0,0,0,0,0,18,1,1
+7,Jack Wilshere,19.0,eng ENG,AM,27-123,23,16,16,0,0,0,0,0,0,0,0,0,0,14,0,1
+8,Pedro Obiang,14.0,gq EQG,DM,27-038,90,60,59,1,1,0,0,0,0,0,0,0,0,52,0,0
+9,Arthur Masuaku,26.0,cd COD,LB,25-178,90,84,76,8,0,0,4,3,8,0,0,0,0,70,0,1
+10,Issa Diop,23.0,fr FRA,CB,22-115,90,34,33,1,1,0,0,0,0,0,0,0,0,27,0,2
+11,Fabián Balbuena,4.0,py PAR,CB,27-254,90,33,32,0,0,0,0,0,0,0,0,0,0,25,1,0
+12,Ryan Fredericks,24.0,eng ENG,RB,26-206,90,59,48,11,1,0,0,1,10,0,0,0,0,41,0,3
+13,Łukasz Fabiański,1.0,pl POL,GK,34-016,90,30,18,12,5,0,0,0,0,0,0,0,0,15,0,0
+14,14 Players,,,,,990,552,507,42,11,3,5,7,21,2,1,1,0,437,3,11

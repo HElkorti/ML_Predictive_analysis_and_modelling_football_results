@@ -1,0 +1,17 @@
+,Unnamed: 0_level_0,Unnamed: 1_level_0,Unnamed: 2_level_0,Unnamed: 3_level_0,Unnamed: 4_level_0,Unnamed: 5_level_0,Unnamed: 6_level_0,Pass Types,Pass Types,Pass Types,Pass Types,Pass Types,Pass Types,Pass Types,Pass Types,Corner Kicks,Corner Kicks,Corner Kicks,Outcomes,Outcomes,Outcomes
+,Player,#,Nation,Pos,Age,Min,Att,Live,Dead,FK,TB,Sw,Crs,TI,CK,In,Out,Str,Cmp,Off,Blocks
+0,Cenk Tosun,14.0,tr TUR,FW,26-325,71,22,21,1,1,1,0,1,0,0,0,0,0,12,0,2
+1,Oumar Niasse,19.0,sn SEN,FW,28-010,19,6,6,0,0,0,0,1,0,0,0,0,0,1,0,1
+2,Theo Walcott,11.0,eng ENG,"LW,FW",29-043,90,32,31,1,0,0,0,0,1,0,0,0,0,22,0,2
+3,Nikola Vlašić,27.0,hr CRO,RW,20-206,74,25,24,1,0,0,0,1,0,0,0,0,0,17,0,2
+4,Ramiro Funes Mori,25.0,ar ARG,CB,27-054,16,8,8,0,0,0,0,0,0,0,0,0,0,5,0,0
+5,Wayne Rooney,10.0,eng ENG,AM,32-186,62,44,41,3,0,0,1,4,0,3,0,3,0,32,0,1
+6,Tom Davies,26.0,eng ENG,"CM,AM",19-302,28,8,8,0,0,0,0,0,0,0,0,0,0,6,0,0
+7,Morgan Schneiderlin,2.0,fr FRA,"DM,CM",28-171,90,57,56,0,0,0,0,0,0,0,0,0,0,47,1,0
+8,Idrissa Gana Gueye,17.0,sn SEN,"DM,CM",28-214,90,54,54,0,0,0,0,0,0,0,0,0,0,46,0,1
+9,Leighton Baines,3.0,eng ENG,"LB,WB",33-138,90,59,43,15,2,0,0,1,13,0,0,0,0,43,1,2
+10,Michael Keane,4.0,eng ENG,CB,25-107,90,35,35,0,0,0,0,0,0,0,0,0,0,24,0,1
+11,Phil Jagielka,6.0,eng ENG,CB,35-254,90,37,35,1,1,0,1,0,0,0,0,0,0,23,1,0
+12,Séamus Coleman,23.0,ie IRL,"RB,WB",29-199,90,50,39,11,1,0,0,3,10,0,0,0,0,32,0,3
+13,Jordan Pickford,1.0,eng ENG,GK,24-052,90,39,25,14,5,0,0,0,0,0,0,0,0,18,0,0
+14,14 Players,,,,,990,476,426,47,10,1,2,11,24,3,0,3,0,328,3,15

@@ -1,0 +1,17 @@
+,Unnamed: 0_level_0,Unnamed: 1_level_0,Unnamed: 2_level_0,Unnamed: 3_level_0,Unnamed: 4_level_0,Unnamed: 5_level_0,Unnamed: 6_level_0,Pass Types,Pass Types,Pass Types,Pass Types,Pass Types,Pass Types,Pass Types,Pass Types,Corner Kicks,Corner Kicks,Corner Kicks,Outcomes,Outcomes,Outcomes
+,Player,#,Nation,Pos,Age,Min,Att,Live,Dead,FK,TB,Sw,Crs,TI,CK,In,Out,Str,Cmp,Off,Blocks
+0,Gabriel Jesus,33.0,br BRA,FW,20-194,62,32,29,3,0,0,0,0,0,0,0,0,0,28,0,0
+1,Bernardo Silva,20.0,pt POR,FW,23-065,28,24,23,1,0,0,0,1,0,1,0,0,0,20,0,0
+2,Leroy Sané,19.0,de GER,LW,21-276,90,48,47,1,0,0,0,2,0,1,0,0,0,37,0,4
+3,Raheem Sterling,7.0,eng ENG,RW,22-310,90,57,56,1,0,1,0,2,1,0,0,0,0,43,0,4
+4,David Silva,21.0,es ESP,LM,31-279,90,85,83,2,0,0,0,4,0,2,0,1,0,77,0,2
+5,Fernandinho,25.0,br BRA,CM,32-163,72,98,94,3,3,0,1,0,0,0,0,0,0,89,1,1
+6,Yaya Touré,42.0,ci CIV,CM,34-154,18,65,64,1,1,0,0,0,0,0,0,0,0,61,0,0
+7,Kevin De Bruyne,17.0,be BEL,RM,26-108,65,58,54,3,0,2,0,3,2,1,0,0,0,48,1,0
+8,İlkay Gündoğan,8.0,de GER,RM,26-355,25,46,46,0,0,0,0,0,0,0,0,0,0,46,0,0
+9,Fabian Delph,18.0,eng ENG,LB,27-327,90,97,88,9,0,0,1,1,9,0,0,0,0,87,0,0
+10,Nicolás Otamendi,30.0,ar ARG,CB,29-244,90,114,113,1,1,0,0,0,0,0,0,0,0,107,0,0
+11,John Stones,5.0,eng ENG,CB,23-139,90,109,108,1,1,0,0,0,0,0,0,0,0,108,0,0
+12,Kyle Walker,2.0,eng ENG,RB,27-139,90,74,68,6,0,0,0,1,6,0,0,0,0,65,0,0
+13,Ederson,31.0,br BRA,GK,24-058,90,24,21,3,1,0,0,0,0,0,0,0,0,24,0,0
+14,14 Players,,,,,990,931,894,35,7,3,2,14,18,5,0,1,0,840,2,11

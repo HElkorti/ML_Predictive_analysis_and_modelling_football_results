@@ -1,0 +1,17 @@
+,Unnamed: 0_level_0,Unnamed: 1_level_0,Unnamed: 2_level_0,Unnamed: 3_level_0,Unnamed: 4_level_0,Unnamed: 5_level_0,Touches,Touches,Touches,Touches,Touches,Touches,Touches,Take-Ons,Take-Ons,Take-Ons,Take-Ons,Take-Ons,Carries,Carries,Carries,Carries,Carries,Carries,Carries,Carries,Receiving,Receiving
+,Player,#,Nation,Pos,Age,Min,Touches,Def Pen,Def 3rd,Mid 3rd,Att 3rd,Att Pen,Live,Att,Succ,Succ%,Tkld,Tkld%,Carries,TotDist,PrgDist,PrgC,1/3,CPA,Mis,Dis,Rec,PrgR
+0,Nathan Redmond,22.0,eng ENG,"FW,AM",25-024,88,32,0,4,11,19,6,32,2,1,50.0,1,50.0,18,182,61,4,2,4,3,2,18,7
+1,Josh Sims,39.0,eng ENG,AM,22-002,2,3,0,1,2,0,0,3,0,0,,0,,2,11,2,0,0,0,0,0,1,0
+2,Danny Ings,9.0,eng ENG,FW,26-250,66,22,0,0,10,12,2,22,2,2,100.0,0,0.0,16,68,36,1,0,0,0,3,21,8
+3,Sam Gallagher,15.0,eng ENG,FW,23-196,24,10,2,4,3,3,0,10,0,0,,0,,3,14,1,0,0,0,1,2,5,1
+4,Stuart Armstrong,17.0,sct SCO,AM,27-000,75,42,0,6,14,22,3,42,2,0,0.0,2,100.0,20,147,69,3,1,1,0,0,27,11
+5,Jack Stephens,5.0,eng ENG,CB,25-062,15,3,1,2,1,0,0,3,0,0,,0,,0,0,0,0,0,0,0,0,0,0
+6,James Ward-Prowse,16.0,eng ENG,AM,24-149,90,49,5,11,24,15,0,49,1,1,100.0,0,0.0,17,84,26,0,1,0,2,0,22,6
+7,Pierre Højbjerg,23.0,dk DEN,"DM,CM",23-237,90,59,1,8,43,9,4,59,1,0,0.0,1,100.0,30,171,87,2,0,1,1,2,34,4
+8,Oriol Romeu,14.0,es ESP,"DM,CM",27-187,90,65,4,16,45,6,0,65,3,2,66.7,1,33.3,36,178,69,1,2,0,1,1,29,1
+9,Ryan Bertrand,21.0,eng ENG,"LB,WB",29-237,90,46,3,6,17,23,2,46,1,0,0.0,1,100.0,6,18,5,0,1,0,0,0,14,4
+10,Maya Yoshida,3.0,jp JPN,CB,30-218,90,39,8,16,24,1,1,39,1,0,0.0,1,100.0,19,96,37,0,0,0,0,0,20,0
+11,Jan Bednarek,35.0,pl POL,CB,22-352,90,62,9,26,35,1,0,62,0,0,,0,,24,91,55,0,0,0,0,0,28,0
+12,Yan Valery,43.0,tn TUN,"RB,WB",20-036,90,47,1,16,18,13,0,47,2,1,50.0,1,50.0,13,78,51,2,1,0,1,2,12,1
+13,Angus Gunn,28.0,sct SCO,GK,23-067,90,36,25,36,0,0,0,36,0,0,,0,,12,113,89,0,0,0,0,0,7,0
+14,14 Players,,,,,990,515,59,152,247,124,18,515,15,7,46.7,8,53.3,216,1251,588,13,8,6,9,12,238,43

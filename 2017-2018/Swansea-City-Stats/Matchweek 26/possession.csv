@@ -1,0 +1,17 @@
+,Unnamed: 0_level_0,Unnamed: 1_level_0,Unnamed: 2_level_0,Unnamed: 3_level_0,Unnamed: 4_level_0,Unnamed: 5_level_0,Touches,Touches,Touches,Touches,Touches,Touches,Touches,Take-Ons,Take-Ons,Take-Ons,Take-Ons,Take-Ons,Carries,Carries,Carries,Carries,Carries,Carries,Carries,Carries,Receiving,Receiving
+,Player,#,Nation,Pos,Age,Min,Touches,Def Pen,Def 3rd,Mid 3rd,Att 3rd,Att Pen,Live,Att,Succ,Succ%,Tkld,Tkld%,Carries,TotDist,PrgDist,PrgC,1/3,CPA,Mis,Dis,Rec,PrgR
+0,Jordan Ayew,18.0,gh GHA,FW,26-145,89,43,0,5,19,19,1,43,4,2,50.0,2,50.0,22,141,19,1,0,1,3,4,29,3
+1,Wayne Routledge,15.0,eng ENG,FW,33-027,1,2,0,1,1,0,0,2,0,0,,0,,2,20,0,0,0,0,0,1,1,0
+2,Sam Clucas,17.0,eng ENG,LM,27-131,90,23,1,4,12,8,3,23,0,0,,0,,9,80,36,1,3,0,2,2,12,5
+3,Ki Sung-yueng,4.0,kr KOR,CM,29-010,90,44,4,11,23,11,0,44,0,0,,0,,19,144,81,2,3,0,0,0,27,0
+4,Leroy Fer,8.0,nl NED,CM,28-029,35,13,1,6,6,1,0,13,1,1,100.0,0,0.0,8,45,34,1,0,0,0,0,8,0
+5,Tom Carroll,14.0,eng ENG,RM,25-251,55,47,1,10,28,9,0,47,1,1,100.0,0,0.0,21,69,16,0,0,0,0,1,32,0
+6,Nathan Dyer,12.0,eng ENG,RM,30-066,70,36,0,3,17,16,2,36,2,1,50.0,1,50.0,14,76,34,3,1,1,3,3,28,4
+7,Wilfried Bony,2.0,ci CIV,CM,29-055,20,7,2,2,4,1,1,7,0,0,,0,,2,1,0,0,0,0,2,0,4,0
+8,Martin Olsson,16.0,se SWE,LB,29-262,90,42,2,15,11,16,0,42,0,0,,0,,14,64,29,2,0,0,1,1,15,1
+9,Alfie Mawson,6.0,eng ENG,CB,24-015,90,50,7,27,20,4,0,50,2,2,100.0,0,0.0,19,204,138,2,2,0,1,0,30,1
+10,Federico Fernández,33.0,ar ARG,CB,28-347,90,36,9,30,5,1,1,36,0,0,,0,,6,41,30,0,0,0,0,0,13,0
+11,Mike van der Hoorn,5.0,nl NED,CB,25-111,90,50,8,29,15,6,0,50,3,3,100.0,0,0.0,19,118,81,0,1,0,1,0,28,0
+12,Kyle Naughton,26.0,eng ENG,RB,29-078,90,78,2,18,36,27,1,78,2,1,50.0,1,50.0,28,236,165,4,2,0,1,0,34,5
+13,Łukasz Fabiański,1.0,pl POL,GK,32-291,90,36,31,36,0,0,0,36,0,0,,0,,12,100,57,0,0,0,0,0,11,0
+14,14 Players,,,,,990,507,68,197,197,119,9,507,15,11,73.3,4,26.7,195,1339,720,16,12,2,14,12,272,19

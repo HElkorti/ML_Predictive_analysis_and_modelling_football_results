@@ -1,0 +1,16 @@
+,Unnamed: 0_level_0,Unnamed: 1_level_0,Unnamed: 2_level_0,Unnamed: 3_level_0,Unnamed: 4_level_0,Unnamed: 5_level_0,Tackles,Tackles,Tackles,Tackles,Tackles,Challenges,Challenges,Challenges,Challenges,Blocks,Blocks,Blocks,Unnamed: 18_level_0,Unnamed: 19_level_0,Unnamed: 20_level_0,Unnamed: 21_level_0
+,Player,#,Nation,Pos,Age,Min,Tkl,TklW,Def 3rd,Mid 3rd,Att 3rd,Tkl,Att,Tkl%,Lost,Blocks,Sh,Pass,Int,Tkl+Int,Clr,Err
+0,Sergio Agüero,10.0,ar ARG,FW,29-243,90,0,0,0,0,0,0,0,,0,1,0,1,0,0,0,0
+1,Raheem Sterling,7.0,eng ENG,"LW,RW",23-054,90,2,2,0,1,1,0,0,,0,0,0,0,0,2,0,0
+2,Bernardo Silva,20.0,pt POR,"RW,RM",23-174,90,0,0,0,0,0,0,2,0.0,2,3,0,3,0,0,0,0
+3,David Silva,21.0,es ESP,LM,32-023,38,1,1,0,1,0,0,0,,0,1,0,1,0,1,0,0
+4,İlkay Gündoğan,8.0,de GER,LM,27-099,52,0,0,0,0,0,0,0,,0,1,0,1,0,0,0,0
+5,Fernandinho,25.0,br BRA,CM,32-272,90,3,3,0,2,1,1,2,50.0,1,0,0,0,3,6,1,0
+6,Kevin De Bruyne,17.0,be BEL,RM,26-217,77,0,0,0,0,0,0,2,0.0,2,2,0,2,0,0,0,0
+7,Brahim Díaz,55.0,es ESP,LW,18-181,13,0,0,0,0,0,0,0,,0,1,0,1,0,0,0,0
+8,Oleksandr Zinchenko,35.0,ua UKR,LB,21-047,90,5,4,1,3,1,0,0,,0,0,0,0,1,6,1,0
+9,Aymeric Laporte,14.0,es ESP,CB,23-249,90,0,0,0,0,0,0,0,,0,0,0,0,1,1,1,0
+10,Nicolás Otamendi,30.0,ar ARG,CB,29-353,90,4,3,2,2,0,1,1,100.0,0,0,0,0,2,6,3,0
+11,Kyle Walker,2.0,eng ENG,RB,27-248,90,1,0,0,1,0,1,2,50.0,1,2,1,1,1,2,2,0
+12,Ederson,31.0,br BRA,GK,24-167,90,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,0
+13,13 Players,,,,,990,16,13,3,10,3,3,9,33.3,6,11,1,10,8,24,8,0

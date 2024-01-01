@@ -1,0 +1,16 @@
+,Unnamed: 0_level_0,Unnamed: 1_level_0,Unnamed: 2_level_0,Unnamed: 3_level_0,Unnamed: 4_level_0,Unnamed: 5_level_0,Touches,Touches,Touches,Touches,Touches,Touches,Touches,Take-Ons,Take-Ons,Take-Ons,Take-Ons,Take-Ons,Carries,Carries,Carries,Carries,Carries,Carries,Carries,Carries,Receiving,Receiving
+,Player,#,Nation,Pos,Age,Min,Touches,Def Pen,Def 3rd,Mid 3rd,Att 3rd,Att Pen,Live,Att,Succ,Succ%,Tkld,Tkld%,Carries,TotDist,PrgDist,PrgC,1/3,CPA,Mis,Dis,Rec,PrgR
+0,Christian Benteke,17.0,be BEL,FW,27-084,90,32,5,6,22,4,1,32,0,0,,0,,18,38,25,1,0,0,1,2,24,2
+1,Alexander Sørloth,9.0,no NOR,"LW,FW",22-082,90,31,0,11,15,7,2,31,3,2,66.7,1,33.3,21,124,88,2,1,0,0,1,21,5
+2,Andros Townsend,10.0,eng ENG,"RW,LM",26-224,86,33,1,11,10,14,2,33,1,0,0.0,1,100.0,23,237,152,4,2,1,2,1,20,7
+3,Lee Chung-yong,14.0,kr KOR,LM,29-238,4,2,0,1,0,1,0,2,0,0,,0,,1,6,0,0,0,0,1,0,1,0
+4,Jaïro Riedewald,44.0,nl NED,"LM,CM",21-169,90,27,0,14,7,6,1,27,1,1,100.0,0,0.0,14,26,7,0,1,0,3,3,15,2
+5,Luka Milivojević,4.0,rs SRB,CM,26-324,90,47,7,18,22,7,0,47,0,0,,0,,22,92,19,0,0,0,1,0,16,0
+6,James McArthur,18.0,sct SCO,RM,30-141,90,26,6,18,6,3,1,26,1,1,100.0,0,0.0,10,86,53,1,0,0,3,2,7,0
+7,Patrick van Aanholt,3.0,nl NED,LB,27-180,90,59,9,32,14,13,1,59,1,1,100.0,0,0.0,19,129,51,2,1,0,5,0,15,2
+8,James Tomkins,5.0,eng ENG,CB,28-333,84,31,16,26,3,2,2,31,0,0,,0,,7,18,0,0,0,0,2,0,7,0
+9,Damien Delaney,27.0,ie IRL,CB,36-220,6,2,1,2,0,0,0,2,0,0,,0,,1,5,5,0,0,0,0,0,1,0
+10,Timothy Fosu-Mensah,24.0,nl NED,CB,20-054,90,25,11,21,4,0,0,25,1,0,0.0,1,100.0,9,44,1,0,0,0,0,0,3,0
+11,Aaron Wan-Bissaka,29.0,eng ENG,RB,20-091,90,46,7,26,20,1,0,46,0,0,,0,,15,45,10,1,0,0,0,2,9,0
+12,Wayne Hennessey,13.0,wls WAL,GK,31-032,90,28,26,27,1,0,0,28,0,0,,0,,10,57,31,0,0,0,0,0,3,0
+13,13 Players,,,,,990,389,89,213,124,58,10,389,8,5,62.5,3,37.5,170,907,442,11,5,1,18,11,142,18

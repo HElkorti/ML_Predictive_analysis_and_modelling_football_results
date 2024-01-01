@@ -1,0 +1,17 @@
+,Unnamed: 0_level_0,Unnamed: 1_level_0,Unnamed: 2_level_0,Unnamed: 3_level_0,Unnamed: 4_level_0,Unnamed: 5_level_0,Unnamed: 6_level_0,Pass Types,Pass Types,Pass Types,Pass Types,Pass Types,Pass Types,Pass Types,Pass Types,Corner Kicks,Corner Kicks,Corner Kicks,Outcomes,Outcomes,Outcomes
+,Player,#,Nation,Pos,Age,Min,Att,Live,Dead,FK,TB,Sw,Crs,TI,CK,In,Out,Str,Cmp,Off,Blocks
+0,Dominic Solanke,29.0,eng ENG,FW,20-205,90,27,27,0,0,0,0,0,0,0,0,0,0,19,0,0
+1,Sadio Mané,19.0,sn SEN,LW,25-362,73,19,19,0,0,0,0,1,0,0,0,0,0,12,0,2
+2,Roberto Firmino,9.0,br BRA,LW,26-187,17,11,11,0,0,1,0,0,0,0,0,0,0,8,0,0
+3,Danny Ings,28.0,eng ENG,RW,25-258,88,32,32,0,0,0,0,2,0,0,0,0,0,14,0,2
+4,Trent Alexander-Arnold,66.0,eng ENG,RW,19-182,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+5,James Milner,7.0,eng ENG,LM,32-093,67,71,62,9,4,0,0,10,2,2,0,2,0,56,0,1
+6,Alex Oxlade-Chamberlain,21.0,eng ENG,LM,24-235,23,8,8,0,0,0,0,0,0,0,0,0,0,4,0,0
+7,Jordan Henderson,14.0,eng ENG,CM,27-294,90,69,69,0,0,0,0,0,0,0,0,0,0,56,0,0
+8,Georginio Wijnaldum,5.0,nl NED,RM,27-147,90,82,80,2,2,0,1,0,0,0,0,0,0,77,0,1
+9,Ragnar Klavan,17.0,ee EST,LB,32-159,90,58,46,12,2,0,0,0,10,0,0,0,0,51,0,0
+10,Virgil van Dijk,4.0,nl NED,CB,26-273,90,74,71,3,3,0,0,0,0,0,0,0,0,62,0,0
+11,Dejan Lovren,6.0,hr CRO,CB,28-276,90,82,80,1,1,0,0,1,0,0,0,0,0,68,1,1
+12,Nathaniel Clyne,2.0,eng ENG,RB,27-002,90,73,56,17,0,0,0,3,17,0,0,0,0,53,0,1
+13,Loris Karius,1.0,de GER,GK,24-289,90,33,24,9,2,0,0,0,0,0,0,0,0,19,0,0
+14,14 Players,,,,,990,639,585,53,14,1,1,17,29,2,0,2,0,499,1,8

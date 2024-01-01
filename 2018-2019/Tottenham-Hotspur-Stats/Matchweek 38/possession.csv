@@ -1,0 +1,17 @@
+,Unnamed: 0_level_0,Unnamed: 1_level_0,Unnamed: 2_level_0,Unnamed: 3_level_0,Unnamed: 4_level_0,Unnamed: 5_level_0,Touches,Touches,Touches,Touches,Touches,Touches,Touches,Take-Ons,Take-Ons,Take-Ons,Take-Ons,Take-Ons,Carries,Carries,Carries,Carries,Carries,Carries,Carries,Carries,Receiving,Receiving
+,Player,#,Nation,Pos,Age,Min,Touches,Def Pen,Def 3rd,Mid 3rd,Att 3rd,Att Pen,Live,Att,Succ,Succ%,Tkld,Tkld%,Carries,TotDist,PrgDist,PrgC,1/3,CPA,Mis,Dis,Rec,PrgR
+0,Fernando Llorente,18.0,es ESP,FW,34-075,76,38,1,5,17,16,2,38,2,2,100.0,0,0.0,24,68,19,0,0,0,2,5,26,4
+1,Vincent Janssen,9.0,nl NED,FW,24-331,14,5,0,0,4,1,0,5,0,0,,0,,1,0,0,0,0,0,0,0,4,1
+2,Dele Alli,20.0,eng ENG,LW,23-031,45,40,0,5,18,17,4,40,1,0,0.0,1,100.0,33,148,59,2,2,1,1,0,34,4
+3,Victor Wanyama,12.0,ke KEN,DM,27-321,45,24,3,6,18,0,0,24,0,0,,0,,18,120,64,2,1,1,1,1,16,0
+4,Érik Lamela,11.0,ar ARG,RW,27-069,76,41,1,5,21,15,2,41,1,0,0.0,1,100.0,28,107,46,0,1,1,1,1,31,8
+5,Oliver Skipp,52.0,eng ENG,DM,18-238,14,15,2,6,7,2,0,15,0,0,,0,,7,20,5,0,0,0,0,0,6,0
+6,Lucas Moura,27.0,br BRA,"LW,AM",26-272,90,35,0,0,22,13,1,35,2,1,50.0,1,50.0,26,241,140,4,2,0,3,0,26,2
+7,Christian Eriksen,23.0,dk DEN,"AM,DM",27-087,90,81,1,11,38,32,2,81,3,1,33.3,2,66.7,38,206,106,2,3,0,1,0,50,2
+8,Moussa Sissoko,17.0,fr FRA,"DM,RW",29-269,90,72,1,18,48,8,1,72,1,1,100.0,0,0.0,46,221,90,1,1,0,3,1,51,4
+9,Ben Davies,33.0,wls WAL,LB,26-018,90,57,3,17,27,13,0,57,0,0,,0,,38,113,65,1,2,0,1,0,35,3
+10,Eric Dier,15.0,eng ENG,CB,25-117,90,97,7,56,35,6,3,97,0,0,,0,,69,377,213,1,0,0,0,0,76,0
+11,Toby Alderweireld,4.0,be BEL,CB,30-071,90,86,6,47,40,0,0,86,0,0,,0,,53,219,116,0,0,0,0,0,57,0
+12,Kyle Walker-Peters,16.0,eng ENG,RB,22-029,90,68,4,11,35,22,2,68,3,2,66.7,1,33.3,41,292,175,7,4,1,2,2,37,6
+13,Hugo Lloris,1.0,fr FRA,GK,32-137,90,43,38,43,0,0,0,43,0,0,,0,,31,165,108,0,0,0,0,0,22,0
+14,14 Players,,,,,990,702,67,230,330,145,17,702,13,7,53.8,6,46.2,453,2297,1206,20,16,4,15,10,471,34

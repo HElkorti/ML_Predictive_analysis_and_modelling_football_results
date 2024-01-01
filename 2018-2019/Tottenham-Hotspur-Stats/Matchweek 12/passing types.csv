@@ -1,0 +1,17 @@
+,Unnamed: 0_level_0,Unnamed: 1_level_0,Unnamed: 2_level_0,Unnamed: 3_level_0,Unnamed: 4_level_0,Unnamed: 5_level_0,Unnamed: 6_level_0,Pass Types,Pass Types,Pass Types,Pass Types,Pass Types,Pass Types,Pass Types,Pass Types,Corner Kicks,Corner Kicks,Corner Kicks,Outcomes,Outcomes,Outcomes
+,Player,#,Nation,Pos,Age,Min,Att,Live,Dead,FK,TB,Sw,Crs,TI,CK,In,Out,Str,Cmp,Off,Blocks
+0,Harry Kane,10.0,eng ENG,FW,25-105,90,16,15,1,1,1,1,0,0,0,0,0,0,10,0,0
+1,Lucas Moura,27.0,br BRA,LW,26-089,70,30,30,0,0,0,0,1,0,0,0,0,0,23,0,2
+2,Son Heung-min,7.0,kr KOR,LW,26-125,20,7,6,1,0,0,0,0,0,1,0,0,0,7,0,0
+3,Érik Lamela,11.0,ar ARG,RW,26-251,82,33,26,7,3,1,0,7,0,4,2,2,0,21,0,0
+4,Harry Winks,8.0,eng ENG,DM,22-281,8,2,2,0,0,0,0,0,0,0,0,0,0,1,0,0
+5,Dele Alli,20.0,eng ENG,AM,22-213,90,63,62,1,0,1,1,2,0,0,0,0,0,52,0,2
+6,Victor Wanyama,12.0,ke KEN,DM,27-138,90,56,56,0,0,0,0,1,0,0,0,0,0,45,0,1
+7,Moussa Sissoko,17.0,fr FRA,"DM,RW",29-086,90,69,67,1,0,0,1,0,1,0,0,0,0,62,1,0
+8,Ben Davies,33.0,wls WAL,LB,25-200,90,74,65,9,0,0,1,6,9,0,0,0,0,58,0,3
+9,Toby Alderweireld,4.0,be BEL,CB,29-253,90,81,76,5,5,0,3,0,0,0,0,0,0,78,0,0
+10,Juan Foyth,21.0,ar ARG,CB,20-302,90,86,83,3,3,0,4,0,0,0,0,0,0,74,0,0
+11,Kieran Trippier,2.0,eng ENG,RB,28-052,23,28,21,7,0,0,0,2,6,1,0,1,0,20,0,0
+12,Serge Aurier,24.0,ci CIV,RB,25-321,67,47,38,9,0,0,0,4,9,0,0,0,0,32,0,2
+13,Hugo Lloris,1.0,fr FRA,GK,31-319,90,41,31,10,4,0,0,0,0,0,0,0,0,30,0,0
+14,14 Players,,,,,990,633,578,54,16,3,11,23,25,6,2,3,0,513,1,10

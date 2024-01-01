@@ -1,0 +1,15 @@
+,Unnamed: 0_level_0,Unnamed: 1_level_0,Unnamed: 2_level_0,Unnamed: 3_level_0,Unnamed: 4_level_0,Unnamed: 5_level_0,Touches,Touches,Touches,Touches,Touches,Touches,Touches,Take-Ons,Take-Ons,Take-Ons,Take-Ons,Take-Ons,Carries,Carries,Carries,Carries,Carries,Carries,Carries,Carries,Receiving,Receiving
+,Player,#,Nation,Pos,Age,Min,Touches,Def Pen,Def 3rd,Mid 3rd,Att 3rd,Att Pen,Live,Att,Succ,Succ%,Tkld,Tkld%,Carries,TotDist,PrgDist,PrgC,1/3,CPA,Mis,Dis,Rec,PrgR
+0,Christian Benteke,17.0,be BEL,FW,27-092,90,46,6,9,20,17,5,46,1,0,0.0,1,100.0,19,99,48,1,2,0,5,1,29,7
+1,Alexander Sørloth,9.0,no NOR,"FW,LM",22-090,90,43,2,8,17,20,4,43,4,4,100.0,0,0.0,29,195,123,4,5,1,4,2,29,6
+2,Jeffrey Schlupp,15.0,gh GHA,LM,25-072,79,33,0,4,20,10,1,33,2,2,100.0,0,0.0,24,129,78,3,1,1,1,2,15,1
+3,Jaïro Riedewald,44.0,nl NED,CM,21-177,11,9,1,3,5,1,0,9,0,0,,0,,5,7,5,0,0,0,0,0,4,0
+4,James McArthur,18.0,sct SCO,CM,30-149,90,47,4,14,26,7,2,47,3,3,100.0,0,0.0,29,103,31,0,0,0,2,1,23,1
+5,Luka Milivojević,4.0,rs SRB,"CM,DM",26-332,90,49,2,7,28,14,0,49,1,1,100.0,0,0.0,25,85,39,0,0,0,0,1,24,1
+6,Andros Townsend,10.0,eng ENG,RM,26-232,90,55,2,14,17,27,2,55,6,5,83.3,1,16.7,28,306,141,6,2,1,6,0,25,4
+7,Patrick van Aanholt,3.0,nl NED,LB,27-188,90,44,4,19,14,11,2,44,0,0,,0,,26,138,73,1,1,1,1,0,18,1
+8,James Tomkins,5.0,eng ENG,CB,28-341,90,32,8,20,11,1,1,32,0,0,,0,,10,24,5,0,0,0,0,0,5,0
+9,Martin Kelly,34.0,eng ENG,CB,27-312,90,23,6,17,6,0,0,23,0,0,,0,,11,54,41,0,0,0,0,0,8,0
+10,Aaron Wan-Bissaka,29.0,eng ENG,RB,20-099,90,47,9,22,12,13,0,47,0,0,,0,,18,93,53,2,2,0,0,0,15,1
+11,Wayne Hennessey,13.0,wls WAL,GK,31-040,90,28,23,28,0,0,0,28,0,0,,0,,9,90,45,0,0,0,0,0,3,0
+12,12 Players,,,,,990,456,67,165,176,121,17,456,17,15,88.2,2,11.8,233,1323,682,17,13,4,19,7,198,22

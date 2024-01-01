@@ -1,0 +1,17 @@
+,Unnamed: 0_level_0,Unnamed: 1_level_0,Unnamed: 2_level_0,Unnamed: 3_level_0,Unnamed: 4_level_0,Unnamed: 5_level_0,Touches,Touches,Touches,Touches,Touches,Touches,Touches,Take-Ons,Take-Ons,Take-Ons,Take-Ons,Take-Ons,Carries,Carries,Carries,Carries,Carries,Carries,Carries,Carries,Receiving,Receiving
+,Player,#,Nation,Pos,Age,Min,Touches,Def Pen,Def 3rd,Mid 3rd,Att 3rd,Att Pen,Live,Att,Succ,Succ%,Tkld,Tkld%,Carries,TotDist,PrgDist,PrgC,1/3,CPA,Mis,Dis,Rec,PrgR
+0,Troy Deeney,9.0,eng ENG,FW,30-310,82,42,0,6,20,16,1,42,0,0,,0,,21,50,22,0,1,0,2,2,33,4
+1,Andre Gray,18.0,jm JAM,FW,27-313,8,4,0,0,2,2,1,4,0,0,,0,,3,10,6,0,0,0,0,0,3,1
+2,Gerard Deulofeu,7.0,es ESP,FW,25-053,82,36,0,1,8,28,9,36,4,3,75.0,1,25.0,28,253,88,6,2,5,3,3,30,11
+3,Isaac Success,10.0,ng NGA,FW,23-118,8,8,0,0,2,6,3,8,0,0,,0,,5,48,20,2,1,0,0,0,6,3
+4,Roberto Pereyra,37.0,ar ARG,AM,28-118,90,49,0,7,21,23,5,49,3,2,66.7,1,33.3,28,200,139,4,2,1,1,3,27,4
+5,Will Hughes,19.0,eng ENG,AM,24-018,90,50,1,11,21,19,7,50,3,3,100.0,0,0.0,28,117,68,2,1,0,1,1,32,4
+6,Abdoulaye Doucouré,16.0,ml MLI,DM,26-124,90,80,3,14,44,23,4,80,0,0,,0,,43,176,82,2,4,0,2,6,43,3
+7,Nathaniel Chalobah,14.0,eng ENG,DM,24-144,66,36,3,10,20,7,0,36,0,0,,0,,19,49,19,0,0,0,1,0,19,1
+8,Tom Cleverley,8.0,eng ENG,DM,29-266,24,15,0,2,10,3,0,15,0,0,,0,,11,31,10,0,0,0,0,0,12,0
+9,José Holebas,25.0,gr GRE,LB,34-312,90,45,4,14,15,16,2,45,3,1,33.3,2,66.7,15,93,32,2,0,1,1,1,15,2
+10,Craig Cathcart,15.0,nir NIR,CB,30-088,90,36,4,21,13,2,0,36,1,1,100.0,0,0.0,21,78,41,0,0,0,1,0,21,0
+11,Adrian Mariappa,6.0,jm JAM,CB,32-214,90,37,6,27,9,1,0,37,0,0,,0,,20,48,27,0,0,0,0,0,22,0
+12,Kiko Femenía,21.0,es ESP,RB,28-092,90,58,7,21,23,16,0,58,3,1,33.3,2,66.7,34,174,87,2,0,0,1,0,32,2
+13,Ben Foster,26.0,eng ENG,GK,36-032,90,38,37,38,0,0,0,38,0,0,,0,,13,100,69,0,0,0,0,0,13,0
+14,14 Players,,,,,990,534,65,172,208,162,32,534,17,11,64.7,6,35.3,289,1427,710,20,11,7,13,16,308,35

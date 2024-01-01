@@ -1,0 +1,17 @@
+,Unnamed: 0_level_0,Unnamed: 1_level_0,Unnamed: 2_level_0,Unnamed: 3_level_0,Unnamed: 4_level_0,Unnamed: 5_level_0,Tackles,Tackles,Tackles,Tackles,Tackles,Challenges,Challenges,Challenges,Challenges,Blocks,Blocks,Blocks,Unnamed: 18_level_0,Unnamed: 19_level_0,Unnamed: 20_level_0,Unnamed: 21_level_0
+,Player,#,Nation,Pos,Age,Min,Tkl,TklW,Def 3rd,Mid 3rd,Att 3rd,Tkl,Att,Tkl%,Lost,Blocks,Sh,Pass,Int,Tkl+Int,Clr,Err
+0,Romelu Lukaku,9.0,be BEL,FW,24-247,90,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,0
+1,Anthony Martial,11.0,fr FRA,LW,22-041,79,2,2,1,0,1,1,2,50.0,1,0,0,0,1,3,1,0
+2,Marcus Rashford,19.0,eng ENG,LW,20-076,11,0,0,0,0,0,0,0,,0,1,0,1,0,0,0,0
+3,Juan Mata,8.0,es ESP,RW,29-262,82,2,1,0,2,0,0,1,0.0,1,1,0,1,0,2,0,0
+4,Scott McTominay,39.0,sct SCO,RW,21-038,8,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,0
+5,Jesse Lingard,14.0,eng ENG,AM,25-031,79,0,0,0,0,0,0,1,0.0,1,0,0,0,3,3,1,0
+6,Marouane Fellaini,27.0,be BEL,AM,30-054,11,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,0
+7,Nemanja Matić,31.0,rs SRB,DM,29-167,90,2,2,2,0,0,1,3,33.3,2,0,0,0,0,2,1,0
+8,Paul Pogba,6.0,fr FRA,DM,24-306,90,1,1,0,1,0,0,0,,0,0,0,0,1,2,0,0
+9,Luke Shaw,23.0,eng ENG,LB,22-187,90,1,1,1,0,0,0,0,,0,0,0,0,0,1,1,0
+10,Phil Jones,4.0,eng ENG,CB,25-328,90,1,0,1,0,0,0,1,0.0,1,1,1,0,0,1,4,0
+11,Chris Smalling,12.0,eng ENG,CB,28-054,90,2,1,1,1,0,0,0,,0,1,0,1,3,5,3,0
+12,Antonio Valencia,25.0,ec ECU,RB,32-164,90,4,2,1,2,1,1,1,100.0,0,1,0,1,3,7,0,0
+13,David de Gea,1.0,es ESP,GK,27-069,90,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,1
+14,14 Players,,,,,990,15,10,7,6,2,3,9,33.3,6,5,1,4,11,26,11,1

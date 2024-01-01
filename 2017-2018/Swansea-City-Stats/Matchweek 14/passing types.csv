@@ -1,0 +1,17 @@
+,Unnamed: 0_level_0,Unnamed: 1_level_0,Unnamed: 2_level_0,Unnamed: 3_level_0,Unnamed: 4_level_0,Unnamed: 5_level_0,Unnamed: 6_level_0,Pass Types,Pass Types,Pass Types,Pass Types,Pass Types,Pass Types,Pass Types,Pass Types,Corner Kicks,Corner Kicks,Corner Kicks,Outcomes,Outcomes,Outcomes
+,Player,#,Nation,Pos,Age,Min,Att,Live,Dead,FK,TB,Sw,Crs,TI,CK,In,Out,Str,Cmp,Off,Blocks
+0,Jordan Ayew,18.0,gh GHA,FW,26-079,83,26,26,0,0,0,0,1,0,0,0,0,0,22,0,2
+1,Wayne Routledge,15.0,eng ENG,FW,32-326,7,7,7,0,0,0,0,1,0,0,0,0,0,3,0,1
+2,Wilfried Bony,2.0,ci CIV,FW,28-354,90,23,23,0,0,0,0,0,0,0,0,0,0,17,0,0
+3,Renato Sanches,35.0,pt POR,AM,20-103,45,22,22,0,0,0,0,0,0,0,0,0,0,15,0,0
+4,Leroy Fer,8.0,nl NED,AM,27-328,45,26,24,2,1,0,0,0,1,0,0,0,0,19,0,2
+5,Tom Carroll,14.0,eng ENG,LM,25-185,90,55,53,2,0,0,0,1,0,0,0,0,0,45,0,1
+6,Roque Mesa,51.0,es ESP,CM,28-175,64,24,24,0,0,0,0,0,0,0,0,0,0,22,0,0
+7,Oliver McBurnie,62.0,sct SCO,CM,21-178,26,11,11,0,0,1,0,0,0,0,0,0,0,8,0,1
+8,Ki Sung-yueng,4.0,kr KOR,RM,28-309,90,48,42,6,5,0,1,2,0,1,1,0,0,40,0,0
+9,Martin Olsson,16.0,se SWE,LB,29-196,90,33,28,5,0,0,0,2,5,0,0,0,0,25,0,2
+10,Alfie Mawson,6.0,eng ENG,CB,23-314,90,39,38,1,1,0,1,0,0,0,0,0,0,34,0,0
+11,Mike van der Hoorn,5.0,nl NED,CB,25-045,90,35,35,0,0,0,0,0,0,0,0,0,0,30,0,0
+12,Kyle Naughton,26.0,eng ENG,RB,29-012,90,58,41,17,1,0,0,4,16,0,0,0,0,34,0,1
+13,Łukasz Fabiański,1.0,pl POL,GK,32-225,90,31,20,11,1,0,0,0,0,0,0,0,0,16,0,0
+14,14 Players,,,,,990,438,394,44,9,1,2,11,22,1,1,0,0,330,0,10

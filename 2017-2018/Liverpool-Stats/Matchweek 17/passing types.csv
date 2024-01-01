@@ -1,0 +1,17 @@
+,Unnamed: 0_level_0,Unnamed: 1_level_0,Unnamed: 2_level_0,Unnamed: 3_level_0,Unnamed: 4_level_0,Unnamed: 5_level_0,Unnamed: 6_level_0,Pass Types,Pass Types,Pass Types,Pass Types,Pass Types,Pass Types,Pass Types,Pass Types,Corner Kicks,Corner Kicks,Corner Kicks,Outcomes,Outcomes,Outcomes
+,Player,#,Nation,Pos,Age,Min,Att,Live,Dead,FK,TB,Sw,Crs,TI,CK,In,Out,Str,Cmp,Off,Blocks
+0,Mohamed Salah,11.0,eg EGY,"FW,RM",25-181,90,26,26,0,0,1,0,0,0,0,0,0,0,21,0,1
+1,Roberto Firmino,9.0,br BRA,FW,26-072,90,34,31,3,1,1,0,0,2,0,0,0,0,22,0,2
+2,Philippe Coutinho,10.0,br BRA,"LM,CM",25-184,90,101,93,8,2,6,0,5,0,5,3,1,0,75,0,4
+3,Emre Can,23.0,de GER,CM,23-335,90,91,88,3,1,0,0,0,2,0,0,0,0,82,0,3
+4,Georginio Wijnaldum,5.0,nl NED,CM,27-032,75,60,58,1,0,0,0,0,1,0,0,0,0,53,1,0
+5,Alex Oxlade-Chamberlain,21.0,eng ENG,"LM,RM",24-120,15,9,9,0,0,0,0,0,0,0,0,0,0,9,0,0
+6,Sadio Mané,19.0,sn SEN,RM,25-247,75,30,30,0,0,0,0,1,0,0,0,0,0,18,0,1
+7,Dominic Solanke,29.0,eng ENG,FW,20-090,15,5,5,0,0,0,0,0,0,0,0,0,0,3,0,1
+8,Andrew Robertson,26.0,sct SCO,LB,23-277,90,90,80,10,0,0,0,1,10,0,0,0,0,82,0,0
+9,Ragnar Klavan,17.0,ee EST,CB,32-044,90,97,94,3,2,0,0,0,1,0,0,0,0,93,0,0
+10,Dejan Lovren,6.0,hr CRO,CB,28-161,90,103,102,1,1,0,2,0,0,0,0,0,0,95,0,0
+11,Trent Alexander-Arnold,66.0,eng ENG,RB,19-067,79,75,68,7,1,0,0,7,6,0,0,0,0,58,0,2
+12,Joe Gomez,12.0,eng ENG,RB,20-204,11,9,7,2,0,0,0,2,2,0,0,0,0,4,0,0
+13,Loris Karius,1.0,de GER,GK,24-174,90,32,24,8,1,0,0,0,0,0,0,0,0,30,0,0
+14,14 Players,,,,,990,762,715,46,9,8,2,16,24,5,3,1,0,645,1,14

@@ -1,0 +1,17 @@
+,Unnamed: 0_level_0,Unnamed: 1_level_0,Unnamed: 2_level_0,Unnamed: 3_level_0,Unnamed: 4_level_0,Unnamed: 5_level_0,Touches,Touches,Touches,Touches,Touches,Touches,Touches,Take-Ons,Take-Ons,Take-Ons,Take-Ons,Take-Ons,Carries,Carries,Carries,Carries,Carries,Carries,Carries,Carries,Receiving,Receiving
+,Player,#,Nation,Pos,Age,Min,Touches,Def Pen,Def 3rd,Mid 3rd,Att 3rd,Att Pen,Live,Att,Succ,Succ%,Tkld,Tkld%,Carries,TotDist,PrgDist,PrgC,1/3,CPA,Mis,Dis,Rec,PrgR
+0,Roberto Firmino,9.0,br BRA,"FW,AM",27-180,90,38,0,1,15,22,6,38,2,0,0.0,2,100.0,22,98,32,0,2,0,2,2,30,5
+1,Sadio Mané,10.0,sn SEN,"LW,RW",26-355,90,40,2,6,17,17,3,40,3,0,0.0,3,100.0,32,188,100,2,1,1,2,1,31,7
+2,Mohamed Salah,11.0,eg EGY,"RW,FW",26-289,89,29,0,2,6,21,6,29,2,0,0.0,2,100.0,23,130,82,4,3,2,2,0,23,7
+3,Dejan Lovren,6.0,hr CRO,"CB,FW",29-269,1,0,0,0,0,0,0,0,0,0,,0,,0,0,0,0,0,0,0,0,0,0
+4,James Milner,7.0,eng ENG,LM,33-086,76,58,2,13,33,12,1,58,1,1,100.0,0,0.0,40,115,50,1,0,0,1,0,41,3
+5,Fabinho,3.0,br BRA,"DM,CM",25-159,14,13,0,3,8,2,0,13,0,0,,0,,2,1,0,0,0,0,0,1,4,0
+6,Jordan Henderson,14.0,eng ENG,CM,28-287,76,57,2,13,40,4,0,57,0,0,,0,,34,117,59,0,1,0,1,0,40,0
+7,Divock Origi,27.0,be BEL,"LW,LM",23-347,14,10,0,0,6,4,0,10,2,1,50.0,1,50.0,6,38,10,0,0,0,0,0,8,3
+8,Georginio Wijnaldum,5.0,nl NED,"RM,DM",28-140,90,45,2,6,26,13,2,45,1,0,0.0,1,100.0,25,117,49,0,0,0,3,0,32,4
+9,Andrew Robertson,26.0,sct SCO,LB,25-020,90,87,1,21,45,22,2,87,2,1,50.0,1,50.0,56,375,266,7,4,1,0,0,61,2
+10,Virgil van Dijk,4.0,nl NED,CB,27-266,90,63,8,36,24,3,3,63,1,0,0.0,1,100.0,33,108,56,1,0,0,0,0,31,0
+11,Joël Matip,32.0,cm CMR,CB,27-235,90,46,2,21,24,1,1,46,0,0,,0,,27,101,74,0,0,0,0,0,26,0
+12,Trent Alexander-Arnold,66.0,eng ENG,RB,20-175,90,88,5,19,43,28,2,88,2,1,50.0,1,50.0,38,153,96,2,2,1,1,0,46,7
+13,Alisson,13.0,br BRA,GK,26-180,90,41,33,41,0,0,0,41,0,0,,0,,20,66,49,0,0,0,0,0,15,0
+14,14 Players,,,,,990,615,57,182,287,149,26,615,16,4,25.0,12,75.0,358,1607,923,17,13,5,12,4,388,38

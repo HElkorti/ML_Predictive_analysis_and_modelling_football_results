@@ -1,0 +1,17 @@
+,Unnamed: 0_level_0,Unnamed: 1_level_0,Unnamed: 2_level_0,Unnamed: 3_level_0,Unnamed: 4_level_0,Unnamed: 5_level_0,Tackles,Tackles,Tackles,Tackles,Tackles,Challenges,Challenges,Challenges,Challenges,Blocks,Blocks,Blocks,Unnamed: 18_level_0,Unnamed: 19_level_0,Unnamed: 20_level_0,Unnamed: 21_level_0
+,Player,#,Nation,Pos,Age,Min,Tkl,TklW,Def 3rd,Mid 3rd,Att 3rd,Tkl,Att,Tkl%,Lost,Blocks,Sh,Pass,Int,Tkl+Int,Clr,Err
+0,Shane Long,7.0,ie IRL,FW,31-243,78,0,0,0,0,0,0,0,,0,1,1,0,2,2,0,0
+1,Charlie Austin,10.0,eng ENG,FW,29-079,12,0,0,0,0,0,0,0,,0,0,0,0,0,0,1,0
+2,Matt Targett,33.0,eng ENG,LM,23-004,54,1,1,0,1,0,0,1,0.0,1,0,0,0,0,1,1,0
+3,Stuart Armstrong,17.0,sct SCO,LW,26-176,36,3,2,3,0,0,1,2,50.0,1,1,0,1,1,4,0,0
+4,Mario Lemina,18.0,ga GAB,CM,25-021,90,0,0,0,0,0,0,0,,0,1,1,0,0,0,0,1
+5,Pierre Højbjerg,23.0,dk DEN,CM,23-048,90,0,0,0,0,0,0,1,0.0,1,2,0,2,1,1,0,0
+6,Nathan Redmond,22.0,eng ENG,"RM,RW",24-200,90,1,1,0,0,1,0,1,0.0,1,0,0,0,1,2,2,0
+7,Oriol Romeu,14.0,es ESP,DM,26-363,54,4,1,4,0,0,0,0,,0,1,0,1,5,9,2,0
+8,Jan Bednarek,35.0,pl POL,CB,22-163,36,0,0,0,0,0,0,1,0.0,1,0,0,0,1,1,1,0
+9,Ryan Bertrand,21.0,eng ENG,"LB,LM",29-048,90,2,1,2,0,0,2,3,66.7,1,1,0,1,0,2,4,0
+10,Wesley Hoedt,6.0,nl NED,CB,24-200,90,4,1,4,0,0,2,3,66.7,1,0,0,0,3,7,11,0
+11,Jannik Vestergaard,4.0,dk DEN,CB,26-050,90,3,2,3,0,0,3,4,75.0,1,2,1,1,1,4,10,0
+12,Cédric Soares,2.0,pt POR,"RB,RM",27-022,90,2,1,2,0,0,0,0,,0,1,1,0,1,3,3,0
+13,Alex McCarthy,1.0,eng ENG,GK,28-293,90,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,0
+14,14 Players,,,,,990,20,10,18,1,1,8,16,50.0,8,10,4,6,16,36,35,1

@@ -1,0 +1,17 @@
+,Unnamed: 0_level_0,Unnamed: 1_level_0,Unnamed: 2_level_0,Unnamed: 3_level_0,Unnamed: 4_level_0,Unnamed: 5_level_0,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Aerial Duels,Aerial Duels,Aerial Duels
+,Player,#,Nation,Pos,Age,Min,CrdY,CrdR,2CrdY,Fls,Fld,Off,Crs,Int,TklW,PKwon,PKcon,OG,Recov,Won,Lost,Won%
+0,Romelu Lukaku,9.0,be BEL,FW,24-092,90,0,0,0,0,0,0,1,0,0,0,0,0,1,5,6,45.5
+1,Marcus Rashford,19.0,eng ENG,LW,19-286,79,0,0,0,2,2,1,1,0,1,0,0,0,3,0,0,
+2,Anthony Martial,11.0,fr FRA,LW,21-251,11,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
+3,Juan Mata,8.0,es ESP,RW,29-107,75,0,0,0,1,0,0,3,2,2,0,0,0,7,1,0,100.0
+4,Marouane Fellaini,27.0,be BEL,AM,29-264,15,0,0,0,1,0,0,0,0,0,0,0,0,1,2,1,66.7
+5,Henrikh Mkhitaryan,22.0,am ARM,"AM,RW",28-204,87,0,0,0,1,0,0,3,0,1,0,0,0,6,1,0,100.0
+6,Jesse Lingard,14.0,eng ENG,RW,24-241,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
+7,Nemanja Matić,31.0,rs SRB,DM,29-012,90,0,0,0,2,0,0,0,1,1,0,0,0,9,3,2,60.0
+8,Paul Pogba,6.0,fr FRA,DM,24-151,90,0,0,0,4,1,0,2,0,0,0,0,0,6,2,1,66.7
+9,Daley Blind,17.0,nl NED,LB,27-157,90,0,0,0,2,1,0,8,1,1,0,0,0,3,3,1,75.0
+10,Phil Jones,4.0,eng ENG,CB,25-173,90,0,0,0,1,2,0,0,4,1,0,0,0,5,2,0,100.0
+11,Eric Bailly,3.0,ci CIV,CB,23-123,90,1,0,0,2,1,0,0,1,0,0,0,0,8,1,2,33.3
+12,Antonio Valencia,25.0,ec ECU,RB,32-009,90,1,0,0,3,0,0,2,2,1,0,0,0,4,1,0,100.0
+13,David de Gea,1.0,es ESP,GK,26-279,90,0,0,0,0,0,0,0,0,0,0,0,0,3,0,0,
+14,14 Players,,,,,990,2,0,0,19,7,1,20,11,8,0,0,0,56,21,13,61.8

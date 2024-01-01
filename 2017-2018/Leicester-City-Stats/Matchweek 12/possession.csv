@@ -1,0 +1,17 @@
+,Unnamed: 0_level_0,Unnamed: 1_level_0,Unnamed: 2_level_0,Unnamed: 3_level_0,Unnamed: 4_level_0,Unnamed: 5_level_0,Touches,Touches,Touches,Touches,Touches,Touches,Touches,Take-Ons,Take-Ons,Take-Ons,Take-Ons,Take-Ons,Carries,Carries,Carries,Carries,Carries,Carries,Carries,Carries,Receiving,Receiving
+,Player,#,Nation,Pos,Age,Min,Touches,Def Pen,Def 3rd,Mid 3rd,Att 3rd,Att Pen,Live,Att,Succ,Succ%,Tkld,Tkld%,Carries,TotDist,PrgDist,PrgC,1/3,CPA,Mis,Dis,Rec,PrgR
+0,Jamie Vardy,9.0,eng ENG,"FW,RW",30-311,90,12,1,1,4,7,1,12,3,2,66.7,1,33.3,5,57,11,1,0,0,0,0,7,4
+1,Marc Albrighton,11.0,eng ENG,"FW,RM",28-000,66,33,3,9,18,7,0,33,1,0,0.0,1,100.0,17,92,29,0,0,0,0,2,21,1
+2,Kelechi Iheanacho,8.0,ng NGA,"LM,LW",21-046,24,7,0,2,5,0,0,7,0,0,,0,,5,35,4,0,0,0,1,1,4,2
+3,Demarai Gray,7.0,jm JAM,"LM,RM",21-143,90,27,0,5,17,6,0,27,1,1,100.0,0,0.0,14,91,30,2,2,0,3,0,14,0
+4,Vicente Iborra,21.0,es ESP,CM,29-306,82,38,3,10,24,4,1,38,2,2,100.0,0,0.0,16,91,39,1,0,0,2,2,24,0
+5,Shinji Okazaki,20.0,jp JPN,LM,31-216,8,4,0,1,3,0,0,4,0,0,,0,,1,2,0,0,0,0,1,0,2,0
+6,Wilfred Ndidi,25.0,ng NGA,CM,20-337,90,46,4,12,30,4,0,46,1,1,100.0,0,0.0,11,77,34,1,0,0,2,0,22,0
+7,Riyad Mahrez,26.0,dz ALG,"RM,FW",26-270,82,37,0,3,20,15,2,37,6,3,50.0,3,50.0,22,196,80,3,3,2,2,2,28,7
+8,Islam Slimani,19.0,dz ALG,FW,29-153,8,5,2,2,3,0,0,5,0,0,,0,,0,0,0,0,0,0,1,0,3,0
+9,Christian Fuchs,28.0,at AUT,LB,31-225,90,39,5,14,18,7,0,39,1,1,100.0,0,0.0,18,63,18,0,0,0,0,1,17,1
+10,Harry Maguire,15.0,eng ENG,CB,24-258,90,35,6,18,13,4,2,35,0,0,,0,,12,63,32,0,0,0,1,0,14,1
+11,Wes Morgan,5.0,jm JAM,CB,33-301,90,23,8,15,8,0,0,23,0,0,,0,,8,38,7,0,0,0,0,0,9,0
+12,Danny Simpson,2.0,eng ENG,RB,30-318,90,51,11,27,23,1,0,51,0,0,,0,,13,52,20,0,0,0,0,0,22,0
+13,Kasper Schmeichel,1.0,dk DEN,GK,31-013,90,35,30,34,1,0,0,35,0,0,,0,,8,60,50,0,0,0,0,0,10,0
+14,14 Players,,,,,990,392,73,153,187,55,6,392,15,10,66.7,5,33.3,150,917,354,8,5,2,13,8,197,16

@@ -1,0 +1,17 @@
+,Unnamed: 0_level_0,Unnamed: 1_level_0,Unnamed: 2_level_0,Unnamed: 3_level_0,Unnamed: 4_level_0,Unnamed: 5_level_0,Touches,Touches,Touches,Touches,Touches,Touches,Touches,Take-Ons,Take-Ons,Take-Ons,Take-Ons,Take-Ons,Carries,Carries,Carries,Carries,Carries,Carries,Carries,Carries,Receiving,Receiving
+,Player,#,Nation,Pos,Age,Min,Touches,Def Pen,Def 3rd,Mid 3rd,Att 3rd,Att Pen,Live,Att,Succ,Succ%,Tkld,Tkld%,Carries,TotDist,PrgDist,PrgC,1/3,CPA,Mis,Dis,Rec,PrgR
+0,Jamie Vardy,9.0,eng ENG,FW,32-064,90,23,1,1,13,9,4,23,1,1,100.0,0,0.0,13,69,35,1,0,1,1,1,19,3
+1,Harvey Barnes,19.0,eng ENG,"LM,RM",21-097,76,26,0,1,11,15,4,26,2,1,50.0,1,50.0,19,171,101,5,2,0,2,1,20,5
+2,Nampalys Mendy,24.0,sn SEN,DM,26-266,14,3,0,2,0,1,0,3,0,0,,0,,0,0,0,0,0,0,0,0,2,0
+3,James Maddison,10.0,eng ENG,"RM,LM,CM",22-113,63,33,0,5,14,16,3,33,0,0,,0,,21,110,67,2,3,0,1,0,18,2
+4,Christian Fuchs,28.0,at AUT,"CB,LB",32-343,27,21,4,15,5,1,0,21,0,0,,0,,7,40,33,0,0,0,0,0,9,0
+5,Youri Tielemans,21.0,be BEL,"CM,DM",21-313,90,59,6,15,30,15,0,59,2,0,0.0,2,100.0,34,152,84,1,0,0,2,1,35,3
+6,Demarai Gray,7.0,jm JAM,RM,22-261,5,5,0,0,3,2,1,5,0,0,,0,,3,7,5,1,0,1,0,0,5,1
+7,Wes Morgan,5.0,jm JAM,CB,35-054,85,31,8,20,11,1,1,31,0,0,,0,,3,18,12,0,0,0,0,0,3,0
+8,Wilfred Ndidi,25.0,ng NGA,"CM,DM",22-090,90,40,2,12,27,2,1,40,0,0,,0,,22,76,20,0,0,0,1,2,24,1
+9,Ben Chilwell,3.0,eng ENG,"LB,WB,LM",22-085,90,57,6,23,22,13,0,57,2,1,50.0,1,50.0,22,125,63,2,2,0,3,2,23,1
+10,Harry Maguire,15.0,eng ENG,CB,26-011,3,4,0,3,1,0,0,4,0,0,,0,,4,18,5,0,0,0,0,0,4,0
+11,Jonny Evans,6.0,nir NIR,CB,31-072,90,50,16,34,16,0,0,50,0,0,,0,,16,61,18,0,0,0,1,0,14,0
+12,Ricardo Pereira,14.0,pt POR,"RB,WB",25-161,90,61,3,26,18,17,2,61,2,1,50.0,1,50.0,28,227,143,4,2,0,2,0,25,3
+13,Kasper Schmeichel,1.0,dk DEN,GK,32-131,90,49,40,49,0,0,0,49,0,0,,0,,15,106,74,0,0,0,0,0,12,0
+14,14 Players,,,,,903,462,86,206,171,92,16,462,9,4,44.4,5,55.6,207,1180,660,16,9,2,13,7,213,19

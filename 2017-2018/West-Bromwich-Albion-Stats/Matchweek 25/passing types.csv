@@ -1,0 +1,17 @@
+,Unnamed: 0_level_0,Unnamed: 1_level_0,Unnamed: 2_level_0,Unnamed: 3_level_0,Unnamed: 4_level_0,Unnamed: 5_level_0,Unnamed: 6_level_0,Pass Types,Pass Types,Pass Types,Pass Types,Pass Types,Pass Types,Pass Types,Pass Types,Corner Kicks,Corner Kicks,Corner Kicks,Outcomes,Outcomes,Outcomes
+,Player,#,Nation,Pos,Age,Min,Att,Live,Dead,FK,TB,Sw,Crs,TI,CK,In,Out,Str,Cmp,Off,Blocks
+0,Salomón Rondón,9.0,ve VEN,FW,28-137,77,17,16,1,1,0,0,0,0,0,0,0,0,13,0,0
+1,Daniel Sturridge,15.0,eng ENG,FW,28-152,13,3,3,0,0,0,0,0,0,0,0,0,0,3,0,0
+2,Jay Rodriguez,19.0,eng ENG,"FW,LM",28-186,90,27,23,4,0,0,0,0,0,0,0,0,0,20,0,2
+3,James McClean,14.0,ie IRL,"LM,RM",28-284,90,17,14,3,0,0,0,1,2,1,1,0,0,13,0,1
+4,Grzegorz Krychowiak,20.0,pl POL,CM,28-002,32,8,8,0,0,0,0,0,0,0,0,0,0,3,0,0
+5,Gareth Barry,18.0,eng ENG,CM,36-342,58,29,26,3,3,0,1,0,0,0,0,0,0,22,0,3
+6,Claudio Yacob,5.0,ar ARG,CM,30-197,90,22,22,0,0,0,0,0,0,0,0,0,0,18,0,0
+7,Sam Field,28.0,eng ENG,"RM,FW",19-268,54,11,11,0,0,0,0,1,0,0,0,0,0,6,0,1
+8,Matt Phillips,10.0,sct SCO,RM,26-324,36,5,5,0,0,0,0,0,0,0,0,0,0,3,0,0
+9,Allan Nyom,2.0,cm CMR,LB,29-266,90,32,26,6,0,0,0,0,6,0,0,0,0,19,0,2
+10,Ahmed Hegazi,26.0,eg EGY,CB,27-006,90,32,30,2,2,0,0,0,0,0,0,0,0,19,0,0
+11,Gareth McAuley,23.0,nir NIR,CB,38-057,90,12,8,4,2,0,0,0,2,0,0,0,0,9,0,2
+12,Craig Dawson,25.0,eng ENG,RB,27-270,90,33,20,13,2,0,0,0,11,0,0,0,0,22,0,0
+13,Ben Foster,1.0,eng ENG,GK,34-303,90,22,15,7,0,0,0,0,0,0,0,0,0,9,0,0
+14,14 Players,,,,,990,270,227,43,10,0,1,2,21,1,1,0,0,179,0,11

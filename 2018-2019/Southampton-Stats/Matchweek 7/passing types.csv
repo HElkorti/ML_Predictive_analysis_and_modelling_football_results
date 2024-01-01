@@ -1,0 +1,16 @@
+,Unnamed: 0_level_0,Unnamed: 1_level_0,Unnamed: 2_level_0,Unnamed: 3_level_0,Unnamed: 4_level_0,Unnamed: 5_level_0,Unnamed: 6_level_0,Pass Types,Pass Types,Pass Types,Pass Types,Pass Types,Pass Types,Pass Types,Pass Types,Corner Kicks,Corner Kicks,Corner Kicks,Outcomes,Outcomes,Outcomes
+,Player,#,Nation,Pos,Age,Min,Att,Live,Dead,FK,TB,Sw,Crs,TI,CK,In,Out,Str,Cmp,Off,Blocks
+0,Danny Ings,9.0,eng ENG,FW,26-068,90,24,22,2,0,1,0,0,0,0,0,0,0,18,0,1
+1,Charlie Austin,10.0,eng ENG,FW,29-086,76,14,14,0,0,0,0,0,0,0,0,0,0,10,0,1
+2,Manolo Gabbiadini,20.0,it ITA,FW,26-307,14,4,4,0,0,0,0,0,0,0,0,0,0,2,0,1
+3,Nathan Redmond,22.0,eng ENG,"LM,RM",24-207,90,31,31,0,0,0,0,2,0,0,0,0,0,21,0,2
+4,Pierre Højbjerg,23.0,dk DEN,CM,23-055,90,87,80,7,6,0,2,1,0,1,1,0,0,78,0,2
+5,Mario Lemina,18.0,ga GAB,CM,25-028,90,66,65,1,0,0,0,0,0,0,0,0,0,60,0,1
+6,Mohamed Elyounoussi,11.0,no NOR,RM,24-056,70,20,14,5,0,0,0,7,0,5,0,0,4,8,1,2
+7,Stuart Armstrong,17.0,sct SCO,LM,26-183,20,10,10,0,0,0,0,0,0,0,0,0,0,8,0,1
+8,Ryan Bertrand,21.0,eng ENG,LB,29-055,90,52,41,10,0,0,0,1,10,0,0,0,0,44,1,0
+9,Wesley Hoedt,6.0,nl NED,CB,24-207,90,58,57,1,1,0,0,1,0,0,0,0,0,47,0,1
+10,Jannik Vestergaard,4.0,dk DEN,CB,26-057,90,48,47,1,1,1,0,0,0,0,0,0,0,41,0,0
+11,Cédric Soares,2.0,pt POR,RB,27-029,90,44,43,1,1,0,1,6,0,0,0,0,0,29,0,1
+12,Alex McCarthy,1.0,eng ENG,GK,28-300,90,21,13,8,1,0,0,0,0,0,0,0,0,14,0,0
+13,13 Players,,,,,990,479,441,36,10,2,3,18,10,6,1,0,4,380,2,13

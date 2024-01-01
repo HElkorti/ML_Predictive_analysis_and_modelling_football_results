@@ -1,0 +1,16 @@
+,Unnamed: 0_level_0,Unnamed: 1_level_0,Unnamed: 2_level_0,Unnamed: 3_level_0,Unnamed: 4_level_0,Unnamed: 5_level_0,Total,Total,Total,Total,Total,Short,Short,Short,Medium,Medium,Medium,Long,Long,Long,Unnamed: 20_level_0,Unnamed: 21_level_0,Unnamed: 22_level_0,Unnamed: 23_level_0,Unnamed: 24_level_0,Unnamed: 25_level_0,Unnamed: 26_level_0,Unnamed: 27_level_0
+,Player,#,Nation,Pos,Age,Min,Cmp,Att,Cmp%,TotDist,PrgDist,Cmp,Att,Cmp%,Cmp,Att,Cmp%,Cmp,Att,Cmp%,Ast,xAG,xA,KP,1/3,PPA,CrsPA,PrgP
+0,Jay Rodriguez,19.0,eng ENG,"FW,LM",28-021,90,11,17,64.7,190,82,6,10,60.0,1,2,50.0,3,4,75.0,0,0.1,0.1,1,2,1,1,3
+1,James McClean,14.0,ie IRL,LM,28-119,62,9,11,81.8,97,0,6,7,85.7,1,1,100.0,0,0,,0,0.0,0.0,0,0,0,0,0
+2,Hal Robson-Kanu,4.0,wls WAL,"FW,LM",28-090,20,2,3,66.7,13,0,1,2,50.0,0,0,,0,0,,0,0.0,0.0,0,0,0,0,0
+3,Sam Field,28.0,eng ENG,CM,19-103,85,7,17,41.2,141,56,4,9,44.4,2,6,33.3,1,2,50.0,0,0.0,0.0,0,2,0,0,2
+4,Salomón Rondón,9.0,ve VEN,CM,27-337,5,3,4,75.0,64,33,1,1,100.0,1,1,100.0,1,2,50.0,0,0.0,0.0,0,1,0,0,0
+5,Jake Livermore,8.0,eng ENG,CM,27-278,90,13,20,65.0,264,36,6,7,85.7,4,4,100.0,3,4,75.0,0,0.0,0.0,1,0,0,0,2
+6,Matt Phillips,10.0,sct SCO,RM,26-159,90,10,24,41.7,168,92,8,14,57.1,0,2,0.0,2,5,40.0,1,0.6,0.5,3,0,0,0,0
+7,Gareth Barry,18.0,eng ENG,DM,36-177,90,15,24,62.5,280,148,5,7,71.4,8,12,66.7,2,4,50.0,0,0.0,0.0,0,4,0,0,4
+8,Chris Brunt,11.0,nir NIR,LB,32-248,90,17,43,39.5,371,199,4,7,57.1,10,20,50.0,3,16,18.8,0,0.0,0.0,0,2,0,0,1
+9,Ahmed Hegazi,26.0,eg EGY,CB,26-206,90,6,11,54.5,75,47,3,3,100.0,2,3,66.7,0,3,0.0,0,0.0,0.0,0,0,0,0,0
+10,Craig Dawson,25.0,eng ENG,CB,27-105,90,14,23,60.9,268,132,5,6,83.3,4,5,80.0,3,10,30.0,0,0.0,0.0,0,0,0,0,0
+11,Allan Nyom,2.0,cm CMR,RB,29-101,90,28,46,60.9,446,244,14,15,93.3,10,19,52.6,3,10,30.0,0,0.0,0.0,0,5,0,0,5
+12,Ben Foster,1.0,eng ENG,GK,34-138,90,12,31,38.7,720,704,0,0,,0,1,0.0,11,29,37.9,0,0.0,0.0,0,0,0,0,0
+13,13 Players,,,,,982,147,274,53.6,3097,1773,63,88,71.6,43,76,56.6,32,89,36.0,1,0.7,0.6,5,16,1,1,17

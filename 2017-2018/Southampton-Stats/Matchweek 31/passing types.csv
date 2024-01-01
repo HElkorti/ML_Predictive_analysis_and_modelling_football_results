@@ -1,0 +1,17 @@
+,Unnamed: 0_level_0,Unnamed: 1_level_0,Unnamed: 2_level_0,Unnamed: 3_level_0,Unnamed: 4_level_0,Unnamed: 5_level_0,Unnamed: 6_level_0,Pass Types,Pass Types,Pass Types,Pass Types,Pass Types,Pass Types,Pass Types,Pass Types,Corner Kicks,Corner Kicks,Corner Kicks,Outcomes,Outcomes,Outcomes
+,Player,#,Nation,Pos,Age,Min,Att,Live,Dead,FK,TB,Sw,Crs,TI,CK,In,Out,Str,Cmp,Off,Blocks
+0,Charlie Austin,10.0,eng ENG,FW,28-307,90,20,20,0,0,0,0,0,0,0,0,0,0,14,0,2
+1,Nathan Redmond,22.0,eng ENG,AM,24-063,63,21,21,0,0,0,0,0,0,0,0,0,0,13,0,0
+2,Shane Long,7.0,ie IRL,"RM,AM",31-106,27,10,10,0,0,0,0,1,0,0,0,0,0,6,0,0
+3,Dušan Tadić,11.0,rs SRB,"AM,LM",29-169,82,33,25,8,0,0,0,8,1,6,1,5,0,25,0,3
+4,Sam McQueen,38.0,eng ENG,LM,23-091,8,2,1,1,0,0,0,0,1,0,0,0,0,1,0,0
+5,Oriol Romeu,14.0,es ESP,CM,26-226,90,47,47,0,0,0,0,2,0,0,0,0,0,37,0,1
+6,Pierre Højbjerg,23.0,dk DEN,CM,22-276,90,54,52,2,2,1,0,1,0,0,0,0,0,38,0,2
+7,Ryan Bertrand,21.0,eng ENG,"WB,LB",28-276,90,27,21,6,0,0,0,2,6,0,0,0,0,16,0,0
+8,Cédric Soares,2.0,pt POR,"WB,RB",26-250,90,42,30,12,0,0,0,4,12,0,0,0,0,34,0,1
+9,Wesley Hoedt,6.0,nl NED,CB,24-063,90,40,40,0,0,0,1,0,0,0,0,0,0,27,0,1
+10,Jack Stephens,5.0,eng ENG,CB,24-101,90,46,44,2,2,0,0,0,0,0,0,0,0,31,0,0
+11,Jan Bednarek,35.0,pl POL,CB,22-026,67,30,30,0,0,0,0,0,0,0,0,0,0,22,0,1
+12,Manolo Gabbiadini,20.0,it ITA,"FW,CB",26-163,23,12,12,0,0,0,0,0,0,0,0,0,0,8,0,1
+13,Alex McCarthy,13.0,eng ENG,GK,28-156,90,28,14,14,5,0,0,0,0,0,0,0,0,12,0,0
+14,14 Players,,,,,990,412,367,45,9,1,1,18,20,6,1,5,0,284,0,12

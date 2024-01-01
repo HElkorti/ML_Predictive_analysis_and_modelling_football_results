@@ -1,0 +1,17 @@
+,Unnamed: 0_level_0,Unnamed: 1_level_0,Unnamed: 2_level_0,Unnamed: 3_level_0,Unnamed: 4_level_0,Unnamed: 5_level_0,Touches,Touches,Touches,Touches,Touches,Touches,Touches,Take-Ons,Take-Ons,Take-Ons,Take-Ons,Take-Ons,Carries,Carries,Carries,Carries,Carries,Carries,Carries,Carries,Receiving,Receiving
+,Player,#,Nation,Pos,Age,Min,Touches,Def Pen,Def 3rd,Mid 3rd,Att 3rd,Att Pen,Live,Att,Succ,Succ%,Tkld,Tkld%,Carries,TotDist,PrgDist,PrgC,1/3,CPA,Mis,Dis,Rec,PrgR
+0,Dwight Gayle,9.0,eng ENG,FW,27-074,90,30,0,2,11,18,7,30,2,1,50.0,1,50.0,24,114,59,3,3,2,9,2,28,8
+1,Joselu,21.0,es ESP,FW,27-278,83,44,1,1,21,23,1,44,3,0,0.0,3,100.0,29,105,29,0,2,0,0,1,36,9
+2,Jacob Murphy,7.0,eng ENG,RM,22-309,7,10,0,0,2,8,0,10,0,0,,0,,6,10,0,0,0,0,1,1,9,2
+3,Christian Atsu,30.0,gh GHA,LM,25-354,90,35,0,4,12,19,1,35,0,0,,0,,27,207,118,5,3,0,2,2,24,6
+4,Mikel Merino,23.0,es ESP,CM,21-191,75,38,0,2,30,6,1,38,3,3,100.0,0,0.0,26,130,50,1,1,1,4,0,23,1
+5,Jonjo Shelvey,8.0,eng ENG,CM,25-306,15,21,0,3,10,9,0,21,2,2,100.0,0,0.0,13,98,44,2,0,0,0,0,12,0
+6,Isaac Hayden,14.0,eng ENG,CM,22-283,90,41,1,5,28,8,1,41,2,2,100.0,0,0.0,25,98,46,3,1,1,0,0,27,2
+7,Matt Ritchie,11.0,sct SCO,RM,28-111,71,42,1,8,17,18,1,42,0,0,,0,,16,103,5,0,1,0,3,0,23,4
+8,Ayoze Pérez,17.0,es ESP,"RM,FW",24-154,19,14,0,1,9,4,0,14,0,0,,0,,10,56,26,0,1,0,0,0,11,2
+9,Paul Dummett,3.0,wls WAL,LB,26-095,90,51,1,10,31,10,0,51,0,0,,0,,22,91,53,3,4,0,0,0,22,1
+10,Ciaran Clark,2.0,ie IRL,CB,28-095,90,67,12,33,32,3,0,67,1,1,100.0,0,0.0,36,146,74,1,2,0,0,0,31,0
+11,Jamaal Lascelles,6.0,eng ENG,CB,24-049,90,69,6,30,38,2,1,69,2,2,100.0,0,0.0,41,193,121,2,0,0,0,1,39,0
+12,DeAndre Yedlin,22.0,us USA,RB,24-174,90,79,1,18,42,19,0,79,2,1,50.0,1,50.0,27,81,37,1,0,0,1,1,28,2
+13,Karl Darlow,26.0,eng ENG,GK,27-083,90,38,30,37,1,0,0,38,0,0,,0,,28,194,157,0,0,0,0,0,16,0
+14,14 Players,,,,,990,579,53,154,284,147,13,579,17,12,70.6,5,29.4,330,1626,819,21,18,4,20,8,329,37

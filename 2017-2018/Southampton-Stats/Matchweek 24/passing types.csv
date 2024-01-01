@@ -1,0 +1,17 @@
+,Unnamed: 0_level_0,Unnamed: 1_level_0,Unnamed: 2_level_0,Unnamed: 3_level_0,Unnamed: 4_level_0,Unnamed: 5_level_0,Unnamed: 6_level_0,Pass Types,Pass Types,Pass Types,Pass Types,Pass Types,Pass Types,Pass Types,Pass Types,Corner Kicks,Corner Kicks,Corner Kicks,Outcomes,Outcomes,Outcomes
+,Player,#,Nation,Pos,Age,Min,Att,Live,Dead,FK,TB,Sw,Crs,TI,CK,In,Out,Str,Cmp,Off,Blocks
+0,Manolo Gabbiadini,20.0,it ITA,FW,26-056,81,17,16,1,0,0,0,0,0,0,0,0,0,12,0,2
+1,Michael Obafemi,61.0,ie IRL,FW,17-199,9,1,1,0,0,0,0,0,0,0,0,0,0,1,0,0
+2,Dušan Tadić,11.0,rs SRB,"LW,AM",29-062,90,40,38,2,0,0,0,2,2,0,0,0,0,19,0,3
+3,James Ward-Prowse,16.0,eng ENG,RW,23-081,90,44,39,5,3,0,0,8,0,2,1,1,0,29,0,1
+4,Pierre Højbjerg,23.0,dk DEN,AM,22-169,64,30,28,1,0,1,1,0,0,0,0,0,0,24,1,0
+5,Sofiane Boufal,19.0,ma MAR,"LW,AM",24-126,26,5,5,0,0,1,0,0,0,0,0,0,0,3,0,0
+6,Mario Lemina,18.0,ga GAB,DM,24-142,79,33,32,0,0,2,0,0,0,0,0,0,0,19,1,0
+7,Steven Davis,8.0,nir NIR,DM,33-020,11,6,6,0,0,0,0,0,0,0,0,0,0,5,0,0
+8,Oriol Romeu,14.0,es ESP,DM,26-119,90,47,47,0,0,1,4,0,0,0,0,0,0,37,0,1
+9,Ryan Bertrand,21.0,eng ENG,LB,28-169,90,42,28,14,0,0,0,1,14,0,0,0,0,30,0,2
+10,Wesley Hoedt,6.0,nl NED,CB,23-321,90,34,30,4,4,0,2,0,0,0,0,0,0,26,0,0
+11,Jack Stephens,5.0,eng ENG,CB,23-359,90,27,22,5,5,0,1,0,0,0,0,0,0,21,0,0
+12,Cédric Soares,2.0,pt POR,RB,26-143,90,36,30,6,1,0,1,4,5,0,0,0,0,28,0,0
+13,Alex McCarthy,13.0,eng ENG,GK,28-049,90,22,9,13,3,0,0,0,0,0,0,0,0,7,0,0
+14,14 Players,,,,,990,384,331,51,16,5,9,15,21,2,1,1,0,261,2,9

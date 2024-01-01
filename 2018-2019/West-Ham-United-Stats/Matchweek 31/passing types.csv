@@ -1,0 +1,17 @@
+,Unnamed: 0_level_0,Unnamed: 1_level_0,Unnamed: 2_level_0,Unnamed: 3_level_0,Unnamed: 4_level_0,Unnamed: 5_level_0,Unnamed: 6_level_0,Pass Types,Pass Types,Pass Types,Pass Types,Pass Types,Pass Types,Pass Types,Pass Types,Corner Kicks,Corner Kicks,Corner Kicks,Outcomes,Outcomes,Outcomes
+,Player,#,Nation,Pos,Age,Min,Att,Live,Dead,FK,TB,Sw,Crs,TI,CK,In,Out,Str,Cmp,Off,Blocks
+0,Marko Arnautović,7.0,at AUT,FW,29-331,67,28,24,4,0,0,0,0,1,0,0,0,0,19,0,1
+1,Lucas Pérez,27.0,es ESP,FW,30-187,23,4,4,0,0,0,0,0,0,0,0,0,0,1,0,1
+2,Felipe Anderson,8.0,br BRA,"RM,LM",25-335,90,66,65,1,0,0,0,4,0,1,0,1,0,54,0,0
+3,Manuel Lanzini,10.0,ar ARG,"LM,CM",26-029,90,80,77,2,1,1,0,2,0,1,0,1,0,70,1,2
+4,Mark Noble,16.0,eng ENG,CM,31-312,58,50,46,4,3,1,0,1,1,0,0,0,0,43,0,0
+5,Samir Nasri,18.0,fr FRA,CM,31-263,32,40,40,0,0,0,1,1,0,0,0,0,0,40,0,0
+6,Michail Antonio,30.0,jm JAM,RM,28-353,45,21,21,0,0,0,0,0,0,0,0,0,0,11,0,4
+7,Javier Hernández,17.0,mx MEX,FW,30-288,45,16,15,1,0,0,0,0,0,0,0,0,0,13,0,1
+8,Declan Rice,41.0,eng ENG,"CM,DM",20-061,90,65,64,1,1,0,0,1,0,0,0,0,0,60,0,0
+9,Aaron Cresswell,3.0,eng ENG,LB,29-091,90,75,64,11,1,0,0,7,7,3,0,2,0,65,0,2
+10,Angelo Ogbonna,21.0,it ITA,CB,30-297,90,76,74,2,2,0,0,0,0,0,0,0,0,65,0,0
+11,Issa Diop,23.0,fr FRA,CB,22-066,90,44,43,1,1,0,0,0,0,0,0,0,0,38,0,0
+12,Pablo Zabaleta,5.0,ar ARG,RB,34-059,90,50,43,7,0,0,0,1,7,0,0,0,0,39,0,0
+13,Łukasz Fabiański,1.0,pl POL,GK,33-332,90,26,15,11,4,0,0,0,0,0,0,0,0,18,0,0
+14,14 Players,,,,,990,641,595,45,13,2,1,17,16,5,0,4,0,536,1,11

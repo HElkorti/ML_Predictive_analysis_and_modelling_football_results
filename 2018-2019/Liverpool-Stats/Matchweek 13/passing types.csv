@@ -1,0 +1,17 @@
+,Unnamed: 0_level_0,Unnamed: 1_level_0,Unnamed: 2_level_0,Unnamed: 3_level_0,Unnamed: 4_level_0,Unnamed: 5_level_0,Unnamed: 6_level_0,Pass Types,Pass Types,Pass Types,Pass Types,Pass Types,Pass Types,Pass Types,Pass Types,Corner Kicks,Corner Kicks,Corner Kicks,Outcomes,Outcomes,Outcomes
+,Player,#,Nation,Pos,Age,Min,Att,Live,Dead,FK,TB,Sw,Crs,TI,CK,In,Out,Str,Cmp,Off,Blocks
+0,Mohamed Salah,11.0,eg EGY,FW,26-162,85,18,18,0,0,0,0,0,0,0,0,0,0,10,0,0
+1,Fabinho,3.0,br BRA,CM,25-032,5,5,5,0,0,0,0,0,0,0,0,0,0,1,0,0
+2,Sadio Mané,10.0,sn SEN,"LW,LM",26-228,90,33,31,0,0,0,1,1,0,0,0,0,0,27,2,0
+3,Xherdan Shaqiri,23.0,ch SUI,RW,27-045,73,46,40,5,2,2,2,5,0,3,1,1,1,30,1,2
+4,James Milner,7.0,eng ENG,"RW,RM,CM",32-324,17,8,6,2,0,0,0,1,0,2,1,0,0,4,0,0
+5,Roberto Firmino,9.0,br BRA,"AM,FW,RM",27-053,89,44,41,2,0,1,0,0,2,0,0,0,0,38,1,0
+6,Joël Matip,32.0,cm CMR,"CM,FW",27-108,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+7,Georginio Wijnaldum,5.0,nl NED,"DM,CM",28-013,90,68,66,2,1,0,0,2,0,0,0,0,0,60,0,0
+8,Jordan Henderson,14.0,eng ENG,DM,28-160,81,90,88,2,2,0,0,1,0,0,0,0,0,76,0,0
+9,Andrew Robertson,26.0,sct SCO,LB,24-258,90,84,76,8,1,0,0,3,7,0,0,0,0,74,0,2
+10,Virgil van Dijk,4.0,nl NED,CB,27-139,90,92,88,4,4,0,0,0,0,0,0,0,0,81,0,0
+11,Dejan Lovren,6.0,hr CRO,CB,29-142,90,87,86,1,1,0,0,1,0,0,0,0,0,71,0,1
+12,Trent Alexander-Arnold,66.0,eng ENG,RB,20-048,90,84,68,16,3,0,0,4,13,0,0,0,0,65,0,3
+13,Alisson,13.0,br BRA,GK,26-053,90,26,18,8,1,0,0,0,0,0,0,0,0,19,0,0
+14,14 Players,,,,,981,685,631,50,15,3,3,18,22,5,2,1,1,556,4,8

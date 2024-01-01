@@ -1,0 +1,16 @@
+,Unnamed: 0_level_0,Unnamed: 1_level_0,Unnamed: 2_level_0,Unnamed: 3_level_0,Unnamed: 4_level_0,Unnamed: 5_level_0,Unnamed: 6_level_0,Pass Types,Pass Types,Pass Types,Pass Types,Pass Types,Pass Types,Pass Types,Pass Types,Corner Kicks,Corner Kicks,Corner Kicks,Outcomes,Outcomes,Outcomes
+,Player,#,Nation,Pos,Age,Min,Att,Live,Dead,FK,TB,Sw,Crs,TI,CK,In,Out,Str,Cmp,Off,Blocks
+0,Harry Kane,10.0,eng ENG,FW,25-056,90,36,35,1,0,0,0,1,0,0,0,0,0,28,0,1
+1,Lucas Moura,27.0,br BRA,LW,26-040,77,39,39,0,0,0,0,3,0,0,0,0,0,29,0,2
+2,Dele Alli,20.0,eng ENG,RW,22-164,13,16,16,0,0,0,0,0,0,0,0,0,0,12,0,0
+3,Son Heung-min,7.0,kr KOR,RW,26-076,67,26,24,2,2,0,0,0,0,0,0,0,0,23,0,1
+4,Érik Lamela,11.0,ar ARG,"LW,RW",26-202,23,16,15,1,0,0,0,1,0,1,0,1,0,12,0,0
+5,Christian Eriksen,23.0,dk DEN,AM,26-220,90,64,62,2,1,0,2,1,0,0,0,0,0,56,0,0
+6,Mousa Dembélé,19.0,be BEL,DM,31-068,90,70,69,1,1,0,0,0,0,0,0,0,0,68,0,0
+7,Eric Dier,15.0,eng ENG,DM,24-250,90,95,95,0,0,0,1,0,0,0,0,0,0,89,0,0
+8,Danny Rose,3.0,eng ENG,LB,28-082,90,66,56,10,2,0,0,2,8,0,0,0,0,56,0,0
+9,Jan Vertonghen,5.0,be BEL,CB,31-151,90,74,72,2,2,0,0,0,0,0,0,0,0,68,0,0
+10,Toby Alderweireld,4.0,be BEL,CB,29-204,90,84,80,4,3,0,0,0,1,0,0,0,0,76,0,1
+11,Kieran Trippier,2.0,eng ENG,RB,28-003,90,75,57,18,1,0,1,7,11,6,0,3,0,61,0,3
+12,Paulo Gazzaniga,22.0,ar ARG,GK,26-263,90,36,28,8,2,0,0,0,0,0,0,0,0,32,0,0
+13,13 Players,,,,,990,697,648,49,14,0,4,15,20,7,0,4,0,610,0,8

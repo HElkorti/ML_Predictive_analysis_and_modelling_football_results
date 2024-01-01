@@ -1,0 +1,17 @@
+,Unnamed: 0_level_0,Unnamed: 1_level_0,Unnamed: 2_level_0,Unnamed: 3_level_0,Unnamed: 4_level_0,Unnamed: 5_level_0,Unnamed: 6_level_0,Pass Types,Pass Types,Pass Types,Pass Types,Pass Types,Pass Types,Pass Types,Pass Types,Corner Kicks,Corner Kicks,Corner Kicks,Outcomes,Outcomes,Outcomes
+,Player,#,Nation,Pos,Age,Min,Att,Live,Dead,FK,TB,Sw,Crs,TI,CK,In,Out,Str,Cmp,Off,Blocks
+0,Alexandre Lacazette,9.0,fr FRA,FW,26-208,90,22,18,4,0,1,0,1,0,0,0,0,0,13,0,0
+1,Alexis Sánchez,7.0,cl CHI,LW,29-003,88,48,45,3,1,0,0,3,0,2,2,0,0,27,0,3
+2,Theo Walcott,14.0,eng ENG,RW,28-281,2,2,2,0,0,0,0,1,0,0,0,0,0,0,0,0
+3,Alex Iwobi,17.0,ng NGA,RW,21-233,77,32,31,1,0,0,0,1,1,0,0,0,0,20,0,2
+4,Danny Welbeck,23.0,eng ENG,"RW,LW",27-026,13,2,2,0,0,0,0,0,0,0,0,0,0,1,0,0
+5,Mesut Özil,11.0,de GER,AM,29-068,90,67,59,8,1,1,0,6,2,5,4,0,1,51,0,1
+6,Granit Xhaka,29.0,ch SUI,DM,25-086,90,61,59,2,2,0,1,0,0,0,0,0,0,48,0,1
+7,Jack Wilshere,10.0,eng ENG,DM,25-355,90,42,41,1,1,0,1,0,0,0,0,0,0,33,0,0
+8,Ainsley Maitland-Niles,30.0,eng ENG,LB,20-115,90,54,43,10,0,0,0,0,10,0,0,0,0,45,1,0
+9,Nacho Monreal,18.0,es ESP,CB,31-299,45,38,37,0,0,0,0,0,0,0,0,0,0,34,1,0
+10,Shkodran Mustafi,20.0,de GER,CB,25-249,45,40,37,3,2,0,0,0,1,0,0,0,0,34,0,0
+11,Laurent Koscielny,6.0,fr FRA,CB,32-103,90,54,49,5,4,1,1,0,1,0,0,0,0,40,0,1
+12,Héctor Bellerín,24.0,es ESP,RB,22-278,90,56,43,12,0,0,0,2,12,0,0,0,0,43,1,1
+13,Petr Čech,33.0,cz CZE,GK,35-216,90,41,32,9,0,0,0,0,0,0,0,0,0,25,0,0
+14,14 Players,,,,,990,559,498,58,11,3,3,14,27,7,6,0,1,414,3,9

@@ -1,0 +1,17 @@
+,Unnamed: 0_level_0,Unnamed: 1_level_0,Unnamed: 2_level_0,Unnamed: 3_level_0,Unnamed: 4_level_0,Unnamed: 5_level_0,Touches,Touches,Touches,Touches,Touches,Touches,Touches,Take-Ons,Take-Ons,Take-Ons,Take-Ons,Take-Ons,Carries,Carries,Carries,Carries,Carries,Carries,Carries,Carries,Receiving,Receiving
+,Player,#,Nation,Pos,Age,Min,Touches,Def Pen,Def 3rd,Mid 3rd,Att 3rd,Att Pen,Live,Att,Succ,Succ%,Tkld,Tkld%,Carries,TotDist,PrgDist,PrgC,1/3,CPA,Mis,Dis,Rec,PrgR
+0,Manolo Gabbiadini,20.0,it ITA,FW,25-259,68,23,0,1,11,11,4,23,0,0,,0,,13,40,12,0,0,0,0,0,17,5
+1,Charlie Austin,10.0,eng ENG,FW,28-038,22,10,0,1,4,5,3,10,0,0,,0,,8,14,1,0,0,0,2,0,7,4
+2,Nathan Redmond,22.0,eng ENG,LW,23-159,90,53,0,1,10,43,3,53,0,0,,0,,41,196,104,1,3,0,0,2,43,16
+3,James Ward-Prowse,16.0,eng ENG,RW,22-284,70,41,1,2,16,24,3,41,0,0,,0,,19,125,45,2,2,1,0,2,22,6
+4,Sofiane Boufal,19.0,ma MAR,RW,23-329,20,24,0,2,7,16,1,24,2,2,100.0,0,0.0,19,104,35,0,1,0,2,0,18,1
+5,Dušan Tadić,11.0,rs SRB,AM,28-265,90,64,2,3,17,46,7,64,3,3,100.0,0,0.0,51,269,142,5,3,2,5,2,49,16
+6,Steven Davis,8.0,nir NIR,DM,32-223,90,79,1,6,50,23,3,79,0,0,,0,,57,241,149,1,2,1,0,0,62,2
+7,Oriol Romeu,14.0,es ESP,DM,25-322,90,88,1,8,66,14,3,88,0,0,,0,,64,357,242,3,1,0,0,1,70,1
+8,Ryan Bertrand,21.0,eng ENG,LB,28-007,85,81,0,15,31,35,3,81,1,0,0.0,1,100.0,48,171,101,3,0,1,1,0,53,5
+9,Sam McQueen,38.0,eng ENG,LB,22-187,5,9,0,2,5,2,0,9,0,0,,0,,4,31,22,2,0,0,0,0,5,0
+10,Maya Yoshida,3.0,jp JPN,CB,28-353,90,61,5,19,36,6,4,61,0,0,,0,,38,84,32,0,0,0,0,0,42,1
+11,Jack Stephens,5.0,eng ENG,CB,23-197,90,44,0,14,27,3,2,44,1,0,0.0,1,100.0,30,227,140,2,1,0,0,1,28,0
+12,Cédric Soares,2.0,pt POR,RB,25-346,90,80,2,10,36,34,1,80,1,1,100.0,0,0.0,46,278,151,5,6,0,3,1,46,9
+13,Fraser Forster,44.0,eng ENG,GK,29-148,90,15,11,15,0,0,0,15,0,0,,0,,7,34,26,0,0,0,0,0,4,0
+14,14 Players,,,,,990,672,23,99,316,262,37,672,8,6,75.0,2,25.0,445,2171,1202,24,19,5,13,9,466,66

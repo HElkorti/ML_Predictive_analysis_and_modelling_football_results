@@ -1,0 +1,16 @@
+,Unnamed: 0_level_0,Unnamed: 1_level_0,Unnamed: 2_level_0,Unnamed: 3_level_0,Unnamed: 4_level_0,Unnamed: 5_level_0,Unnamed: 6_level_0,Pass Types,Pass Types,Pass Types,Pass Types,Pass Types,Pass Types,Pass Types,Pass Types,Corner Kicks,Corner Kicks,Corner Kicks,Outcomes,Outcomes,Outcomes
+,Player,#,Nation,Pos,Age,Min,Att,Live,Dead,FK,TB,Sw,Crs,TI,CK,In,Out,Str,Cmp,Off,Blocks
+0,Peter Crouch,25.0,eng ENG,FW,36-327,90,45,44,1,0,0,0,1,0,0,0,0,0,33,0,0
+1,Eric Maxim Choupo-Moting,10.0,cm CMR,LW,28-275,90,43,41,2,1,0,1,2,0,0,0,0,0,34,0,1
+2,Xherdan Shaqiri,22.0,ch SUI,RW,26-074,78,28,26,2,2,0,0,5,0,0,0,0,0,21,0,1
+3,Ramadan Sobhi,32.0,eg EGY,RW,20-334,12,4,4,0,0,0,0,2,0,0,0,0,0,2,0,0
+4,Joe Allen,4.0,wls WAL,"AM,DM",27-284,90,31,29,2,1,1,1,1,0,1,0,1,0,25,0,0
+5,Geoff Cameron,20.0,us USA,DM,32-165,90,34,34,0,0,0,2,0,0,0,0,0,0,26,0,0
+6,Darren Fletcher,24.0,sct SCO,DM,33-325,66,33,32,1,1,0,0,1,0,0,0,0,0,22,0,2
+7,Mame Biram Diouf,18.0,sn SEN,AM,30-007,24,7,7,0,0,0,0,0,0,0,0,0,0,5,0,0
+8,Kevin Wimmer,5.0,at AUT,LB,25-038,90,49,33,16,2,0,1,2,14,0,0,0,0,40,0,0
+9,Kurt Zouma,6.0,fr FRA,CB,23-057,90,24,24,0,0,0,0,0,0,0,0,0,0,20,0,2
+10,Ryan Shawcross,17.0,eng ENG,CB,30-080,90,28,27,1,1,0,1,0,0,0,0,0,0,14,0,0
+11,Tom Edwards,42.0,eng ENG,RB,18-335,90,39,28,11,1,0,0,4,10,0,0,0,0,24,0,1
+12,Jack Butland,1.0,eng ENG,GK,24-288,90,38,23,15,3,0,0,0,0,0,0,0,0,22,0,0
+13,13 Players,,,,,990,403,352,51,12,1,6,18,24,1,0,1,0,288,0,7

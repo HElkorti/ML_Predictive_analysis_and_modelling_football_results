@@ -1,0 +1,17 @@
+,Unnamed: 0_level_0,Unnamed: 1_level_0,Unnamed: 2_level_0,Unnamed: 3_level_0,Unnamed: 4_level_0,Unnamed: 5_level_0,Tackles,Tackles,Tackles,Tackles,Tackles,Challenges,Challenges,Challenges,Challenges,Blocks,Blocks,Blocks,Unnamed: 18_level_0,Unnamed: 19_level_0,Unnamed: 20_level_0,Unnamed: 21_level_0
+,Player,#,Nation,Pos,Age,Min,Tkl,TklW,Def 3rd,Mid 3rd,Att 3rd,Tkl,Att,Tkl%,Lost,Blocks,Sh,Pass,Int,Tkl+Int,Clr,Err
+0,Gabriel Jesus,33.0,br BRA,FW,20-159,56,1,0,0,0,1,0,1,0.0,1,0,0,0,0,1,0,0
+1,Leroy Sané,19.0,de GER,LW,21-241,34,0,0,0,0,0,0,0,,0,1,0,1,0,0,0,0
+2,Sergio Agüero,10.0,ar ARG,FW,29-099,90,0,0,0,0,0,0,1,0.0,1,3,1,2,0,0,1,0
+3,Benjamin Mendy,22.0,fr FRA,"LB,LW",23-054,90,2,2,1,0,1,2,3,66.7,1,2,0,2,1,3,2,0
+4,Kyle Walker,2.0,eng ENG,"RB,RW",27-104,90,1,1,1,0,0,0,0,,0,0,0,0,0,1,1,0
+5,David Silva,21.0,es ESP,"CM,AM,RM",31-244,90,0,0,0,0,0,0,1,0.0,1,1,0,1,2,2,0,0
+6,Kevin De Bruyne,17.0,be BEL,"CM,RW,LM",26-073,90,2,1,1,1,0,1,3,33.3,2,1,0,1,0,2,0,0
+7,Fernandinho,25.0,br BRA,"DM,CM",32-128,90,1,0,1,0,0,1,1,100.0,0,1,0,1,4,5,1,0
+8,Nicolás Otamendi,30.0,ar ARG,CB,29-209,70,3,3,1,2,0,1,3,33.3,2,1,1,0,1,4,4,0
+9,Eliaquim Mangala,15.0,fr FRA,CB,26-208,20,0,0,0,0,0,0,1,0.0,1,0,0,0,0,0,1,0
+10,John Stones,5.0,eng ENG,CB,23-104,90,2,1,2,0,0,0,1,0.0,1,0,0,0,3,5,3,0
+11,Danilo,3.0,br BRA,"CB,DM,CM",26-056,90,2,2,1,1,0,0,0,,0,0,0,0,1,3,1,0
+12,Ederson,31.0,br BRA,GK,24-023,44,0,0,0,0,0,0,0,,0,0,0,0,0,0,1,0
+13,Claudio Bravo,1.0,cl CHI,GK,34-149,46,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,0
+14,14 Players,,,,,990,14,10,8,4,2,5,15,33.3,10,10,2,8,12,26,15,0

@@ -1,0 +1,17 @@
+,Unnamed: 0_level_0,Unnamed: 1_level_0,Unnamed: 2_level_0,Unnamed: 3_level_0,Unnamed: 4_level_0,Unnamed: 5_level_0,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Expected,Expected,Expected,SCA,SCA,Passes,Passes,Passes,Passes,Carries,Carries,Take-Ons,Take-Ons
+,Player,#,Nation,Pos,Age,Min,Gls,Ast,PK,PKatt,Sh,SoT,CrdY,CrdR,Touches,Tkl,Int,Blocks,xG,npxG,xAG,SCA,GCA,Cmp,Att,Cmp%,PrgP,Carries,PrgC,Att,Succ
+0,Jamie Vardy,9.0,eng ENG,FW,32-064,90,0,0,0,0,2,1,0,0,23,0,0,1,0.1,0.1,0.3,2,0,12,18,66.7,2,13,1,1,1
+1,Harvey Barnes,19.0,eng ENG,"LM,RM",21-097,76,0,0,0,0,2,0,0,0,26,1,0,0,0.3,0.3,0.0,3,1,11,17,64.7,0,19,5,2,1
+2,Nampalys Mendy,24.0,sn SEN,DM,26-266,14,0,0,0,0,0,0,0,0,3,0,0,0,0.0,0.0,0.0,0,0,1,3,33.3,1,0,0,0,0
+3,James Maddison,10.0,eng ENG,"RM,LM,CM",22-113,63,1,0,0,0,2,2,1,0,33,1,3,0,0.1,0.1,0.2,5,1,19,26,73.1,1,21,2,0,0
+4,Christian Fuchs,28.0,at AUT,"CB,LB",32-343,27,0,0,0,0,0,0,0,0,21,0,0,0,0.0,0.0,0.0,0,0,10,16,62.5,2,7,0,0,0
+5,Youri Tielemans,21.0,be BEL,"CM,DM",21-313,90,0,0,0,0,0,0,0,0,59,2,0,1,0.0,0.0,0.0,2,1,32,45,71.1,4,34,1,2,0
+6,Demarai Gray,7.0,jm JAM,RM,22-261,5,0,0,0,0,0,0,0,0,5,0,0,0,0.0,0.0,0.0,1,0,3,5,60.0,1,3,1,0,0
+7,Wes Morgan,5.0,jm JAM,CB,35-054,85,1,0,0,0,1,1,0,0,31,1,1,1,0.2,0.2,0.0,1,0,10,16,62.5,0,3,0,0,0
+8,Wilfred Ndidi,25.0,ng NGA,"CM,DM",22-090,90,0,0,0,0,1,0,0,0,40,4,1,1,0.1,0.1,0.1,2,0,21,27,77.8,4,22,0,0,0
+9,Ben Chilwell,3.0,eng ENG,"LB,WB,LM",22-085,90,0,0,0,0,0,0,0,0,57,0,0,0,0.0,0.0,0.0,0,0,28,39,71.8,1,22,2,2,1
+10,Harry Maguire,15.0,eng ENG,CB,26-011,3,0,0,0,0,0,0,0,1,4,0,0,0,0.0,0.0,0.0,0,0,4,4,100.0,0,4,0,0,0
+11,Jonny Evans,6.0,nir NIR,CB,31-072,90,0,0,0,0,0,0,0,0,50,2,0,3,0.0,0.0,0.0,1,0,20,27,74.1,1,16,0,0,0
+12,Ricardo Pereira,14.0,pt POR,"RB,WB",25-161,90,0,0,0,0,1,0,0,0,61,1,0,4,0.1,0.1,0.0,1,1,28,44,63.6,2,28,4,2,1
+13,Kasper Schmeichel,1.0,dk DEN,GK,32-131,90,0,0,0,0,0,0,0,0,49,0,0,0,0.0,0.0,0.0,0,0,16,48,33.3,0,15,0,0,0
+14,14 Players,,,,,903,2,0,0,0,9,4,1,1,462,12,5,11,0.9,0.9,0.6,18,4,215,335,64.2,19,207,16,9,4

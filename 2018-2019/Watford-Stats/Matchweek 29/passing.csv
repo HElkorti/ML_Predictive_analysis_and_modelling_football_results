@@ -1,0 +1,16 @@
+,Unnamed: 0_level_0,Unnamed: 1_level_0,Unnamed: 2_level_0,Unnamed: 3_level_0,Unnamed: 4_level_0,Unnamed: 5_level_0,Total,Total,Total,Total,Total,Short,Short,Short,Medium,Medium,Medium,Long,Long,Long,Unnamed: 20_level_0,Unnamed: 21_level_0,Unnamed: 22_level_0,Unnamed: 23_level_0,Unnamed: 24_level_0,Unnamed: 25_level_0,Unnamed: 26_level_0,Unnamed: 27_level_0
+,Player,#,Nation,Pos,Age,Min,Cmp,Att,Cmp%,TotDist,PrgDist,Cmp,Att,Cmp%,Cmp,Att,Cmp%,Cmp,Att,Cmp%,Ast,xAG,xA,KP,1/3,PPA,CrsPA,PrgP
+0,Troy Deeney,9.0,eng ENG,FW,30-247,90,11,28,39.3,168,76,4,9,44.4,5,11,45.5,1,3,33.3,1,0.3,0.0,1,1,0,0,3
+1,Gerard Deulofeu,7.0,es ESP,FW,24-355,68,12,12,100.0,194,45,5,5,100.0,6,6,100.0,0,0,,1,0.2,0.3,1,1,0,0,0
+2,Andre Gray,18.0,jm JAM,FW,27-250,22,1,2,50.0,3,0,0,1,0.0,0,0,,0,0,,0,0.0,0.0,0,0,0,0,0
+3,Roberto Pereyra,37.0,ar ARG,AM,28-055,90,30,37,81.1,417,71,15,17,88.2,12,14,85.7,1,2,50.0,0,0.1,0.0,2,3,1,0,5
+4,Will Hughes,19.0,eng ENG,AM,23-320,89,28,32,87.5,325,88,13,14,92.9,8,9,88.9,1,1,100.0,0,0.0,0.0,0,0,0,0,2
+5,Tom Cleverley,8.0,eng ENG,AM,29-203,1,1,3,33.3,14,0,1,2,50.0,0,0,,0,0,,0,0.0,0.0,0,1,0,0,0
+6,Étienne Capoue,29.0,fr FRA,DM,30-235,90,50,63,79.4,824,221,21,26,80.8,19,23,82.6,6,8,75.0,0,0.0,0.0,0,5,0,0,6
+7,Abdoulaye Doucouré,16.0,ml MLI,DM,26-061,90,44,53,83.0,699,166,22,24,91.7,16,21,76.2,4,4,100.0,0,0.0,0.0,0,3,1,0,3
+8,José Holebas,25.0,gr GRE,LB,34-249,90,29,40,72.5,443,180,18,22,81.8,6,8,75.0,3,8,37.5,0,0.0,0.0,0,3,1,0,2
+9,Craig Cathcart,15.0,nir NIR,CB,30-025,90,32,33,97.0,590,214,12,12,100.0,18,18,100.0,2,3,66.7,0,0.0,0.0,0,1,0,0,1
+10,Adrian Mariappa,6.0,jm JAM,CB,32-151,90,23,26,88.5,411,83,8,8,100.0,15,15,100.0,0,2,0.0,0,0.0,0.0,0,0,0,0,0
+11,Daryl Janmaat,2.0,nl NED,RB,29-224,90,30,48,62.5,441,211,15,19,78.9,10,15,66.7,2,9,22.2,0,0.0,0.0,0,1,1,0,2
+12,Ben Foster,26.0,eng ENG,GK,35-334,90,12,27,44.4,468,410,1,1,100.0,6,7,85.7,5,16,31.3,0,0.0,0.0,0,2,0,0,0
+13,13 Players,,,,,990,303,404,75.0,4997,1765,135,160,84.4,121,147,82.3,25,56,44.6,2,0.5,0.5,4,21,4,0,24

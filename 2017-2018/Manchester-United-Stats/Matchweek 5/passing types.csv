@@ -1,0 +1,17 @@
+,Unnamed: 0_level_0,Unnamed: 1_level_0,Unnamed: 2_level_0,Unnamed: 3_level_0,Unnamed: 4_level_0,Unnamed: 5_level_0,Unnamed: 6_level_0,Pass Types,Pass Types,Pass Types,Pass Types,Pass Types,Pass Types,Pass Types,Pass Types,Corner Kicks,Corner Kicks,Corner Kicks,Outcomes,Outcomes,Outcomes
+,Player,#,Nation,Pos,Age,Min,Att,Live,Dead,FK,TB,Sw,Crs,TI,CK,In,Out,Str,Cmp,Off,Blocks
+0,Romelu Lukaku,9.0,be BEL,FW,24-127,90,17,16,1,0,0,0,1,0,0,0,0,0,12,0,1
+1,Marcus Rashford,19.0,eng ENG,LW,19-321,60,17,17,0,0,1,0,1,0,0,0,0,0,14,0,0
+2,Jesse Lingard,14.0,eng ENG,"RW,LW",24-276,30,9,9,0,0,0,0,0,0,0,0,0,0,9,0,0
+3,Juan Mata,8.0,es ESP,RW,29-142,76,44,43,1,1,0,0,2,0,0,0,0,0,35,0,0
+4,Ander Herrera,21.0,es ESP,AM,28-034,14,15,15,0,0,0,0,0,0,0,0,0,0,14,0,0
+5,Henrikh Mkhitaryan,22.0,am ARM,"AM,LW",28-239,87,65,59,6,2,0,1,11,0,4,4,0,0,48,0,1
+6,Anthony Martial,11.0,fr FRA,LW,21-286,3,1,1,0,0,0,0,0,0,0,0,0,0,1,0,0
+7,Nemanja Matić,31.0,rs SRB,DM,29-047,90,88,81,5,4,0,4,2,1,0,0,0,0,76,2,2
+8,Marouane Fellaini,27.0,be BEL,DM,29-299,90,53,52,1,1,0,0,2,0,0,0,0,0,41,0,1
+9,Ashley Young,18.0,eng ENG,LB,32-070,90,74,61,13,1,0,0,3,12,0,0,0,0,55,0,1
+10,Phil Jones,4.0,eng ENG,CB,25-208,90,50,49,1,1,0,0,1,0,0,0,0,0,43,0,0
+11,Eric Bailly,3.0,ci CIV,CB,23-158,90,30,30,0,0,0,0,0,0,0,0,0,0,29,0,0
+12,Antonio Valencia,25.0,ec ECU,RB,32-044,90,44,39,5,0,0,0,5,5,0,0,0,0,31,0,1
+13,David de Gea,1.0,es ESP,GK,26-314,90,18,8,10,4,0,0,0,0,0,0,0,0,13,0,0
+14,14 Players,,,,,990,525,480,43,14,1,5,28,18,4,4,0,0,421,2,7

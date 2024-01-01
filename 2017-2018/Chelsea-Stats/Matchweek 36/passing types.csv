@@ -1,0 +1,17 @@
+,Unnamed: 0_level_0,Unnamed: 1_level_0,Unnamed: 2_level_0,Unnamed: 3_level_0,Unnamed: 4_level_0,Unnamed: 5_level_0,Unnamed: 6_level_0,Pass Types,Pass Types,Pass Types,Pass Types,Pass Types,Pass Types,Pass Types,Pass Types,Corner Kicks,Corner Kicks,Corner Kicks,Outcomes,Outcomes,Outcomes
+,Player,#,Nation,Pos,Age,Min,Att,Live,Dead,FK,TB,Sw,Crs,TI,CK,In,Out,Str,Cmp,Off,Blocks
+0,Olivier Giroud,18.0,fr FRA,FW,31-210,84,30,29,1,0,0,0,0,0,0,0,0,0,23,0,1
+1,Álvaro Morata,9.0,es ESP,FW,25-187,6,4,4,0,0,0,0,0,0,0,0,0,0,4,0,0
+2,Eden Hazard,10.0,be BEL,FW,27-111,80,55,55,0,0,0,0,0,0,0,0,0,0,44,0,0
+3,Willian,22.0,br BRA,"AM,FW",29-262,10,5,4,0,0,0,0,0,0,0,0,0,0,4,1,0
+4,Tiemoué Bakayoko,14.0,fr FRA,"DM,CM",23-254,90,38,37,1,1,0,1,0,0,0,0,0,0,36,0,0
+5,N'Golo Kanté,7.0,fr FRA,"DM,CM",27-030,90,73,69,4,4,0,0,0,0,0,0,0,0,68,0,3
+6,Cesc Fàbregas,4.0,es ESP,DM,30-359,80,67,61,5,3,1,0,4,0,2,1,1,0,55,1,0
+7,Pedro,11.0,es ESP,AM,30-274,10,6,6,0,0,1,0,0,0,0,0,0,0,4,0,0
+8,Emerson Palmieri,33.0,it ITA,WB,23-268,90,48,36,12,0,0,0,4,12,0,0,0,0,36,0,0
+9,Victor Moses,15.0,ng NGA,WB,27-137,90,34,26,7,0,0,0,3,7,0,0,0,0,25,1,2
+10,Antonio Rüdiger,2.0,de GER,CB,25-056,90,63,61,2,2,0,0,0,0,0,0,0,0,60,0,0
+11,Gary Cahill,24.0,eng ENG,CB,32-130,90,65,63,2,2,0,0,0,0,0,0,0,0,62,0,0
+12,César Azpilicueta,28.0,es ESP,CB,28-243,90,86,85,1,1,1,0,0,0,0,0,0,0,76,0,0
+13,Thibaut Courtois,13.0,be BEL,GK,25-352,90,37,32,5,1,0,0,0,0,0,0,0,0,26,0,0
+14,14 Players,,,,,990,611,568,40,14,3,1,11,19,2,1,1,0,523,3,6

@@ -1,0 +1,17 @@
+,Unnamed: 0_level_0,Unnamed: 1_level_0,Unnamed: 2_level_0,Unnamed: 3_level_0,Unnamed: 4_level_0,Unnamed: 5_level_0,Unnamed: 6_level_0,Pass Types,Pass Types,Pass Types,Pass Types,Pass Types,Pass Types,Pass Types,Pass Types,Corner Kicks,Corner Kicks,Corner Kicks,Outcomes,Outcomes,Outcomes
+,Player,#,Nation,Pos,Age,Min,Att,Live,Dead,FK,TB,Sw,Crs,TI,CK,In,Out,Str,Cmp,Off,Blocks
+0,Peter Crouch,25.0,eng ENG,FW,37-046,90,27,27,0,0,0,0,0,0,0,0,0,0,13,0,1
+1,Ramadan Sobhi,32.0,eg EGY,LW,21-053,71,35,34,1,0,0,0,1,0,0,0,0,0,27,0,2
+2,Eric Maxim Choupo-Moting,10.0,cm CMR,LW,28-359,7,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+3,Jesé,11.0,es ESP,LW,25-019,12,4,4,0,0,0,0,0,0,0,0,0,0,3,0,0
+4,Xherdan Shaqiri,22.0,ch SUI,RW,26-158,75,24,24,0,0,0,0,1,0,0,0,0,0,20,0,0
+5,Saido Berahino,9.0,bi BDI,RW,24-225,15,5,5,0,0,0,0,1,0,0,0,0,0,3,0,0
+6,Charlie Adam,16.0,sct SCO,LM,32-097,29,20,19,1,0,0,0,1,0,1,0,0,1,12,0,2
+7,Joe Allen,4.0,wls WAL,CM,28-003,90,59,52,7,5,0,0,1,0,0,0,0,0,46,0,0
+8,Badou Ndiaye,27.0,sn SEN,RM,27-141,90,25,25,0,0,0,1,0,0,0,0,0,0,22,0,1
+9,Kostas Stafylidis,21.0,gr GRE,LB,24-105,90,40,34,6,1,0,0,4,5,0,0,0,0,30,0,1
+10,Kurt Zouma,6.0,fr FRA,CB,23-141,90,27,25,2,2,0,0,0,0,0,0,0,0,23,0,0
+11,Ryan Shawcross,17.0,eng ENG,CB,30-164,90,22,21,1,1,0,1,0,0,0,0,0,0,15,0,0
+12,Glen Johnson,8.0,eng ENG,RB,33-206,90,37,33,4,1,0,0,2,3,0,0,0,0,27,0,0
+13,Jack Butland,1.0,eng ENG,GK,25-007,90,38,23,15,6,0,0,0,0,0,0,0,0,18,0,0
+14,14 Players,,,,,929,363,326,37,16,0,2,11,8,1,0,0,1,259,0,7

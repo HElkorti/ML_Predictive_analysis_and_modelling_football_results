@@ -1,0 +1,17 @@
+,Unnamed: 0_level_0,Unnamed: 1_level_0,Unnamed: 2_level_0,Unnamed: 3_level_0,Unnamed: 4_level_0,Unnamed: 5_level_0,Touches,Touches,Touches,Touches,Touches,Touches,Touches,Take-Ons,Take-Ons,Take-Ons,Take-Ons,Take-Ons,Carries,Carries,Carries,Carries,Carries,Carries,Carries,Carries,Receiving,Receiving
+,Player,#,Nation,Pos,Age,Min,Touches,Def Pen,Def 3rd,Mid 3rd,Att 3rd,Att Pen,Live,Att,Succ,Succ%,Tkld,Tkld%,Carries,TotDist,PrgDist,PrgC,1/3,CPA,Mis,Dis,Rec,PrgR
+0,Jermain Defoe,18.0,eng ENG,FW,34-351,74,12,0,1,5,6,4,12,0,0,,0,,10,57,18,1,0,1,1,0,9,3
+1,Benik Afobe,9.0,cd COD,FW,24-223,16,6,0,0,3,3,0,6,0,0,,0,,1,3,2,0,0,0,0,0,3,0
+2,Joshua King,17.0,no NOR,FW,25-251,78,34,1,1,8,25,5,34,4,1,25.0,3,75.0,29,198,77,3,4,2,1,5,29,15
+3,Steve Cook,3.0,eng ENG,FW,26-157,12,15,3,10,5,0,0,15,0,0,,0,,7,57,29,0,0,0,1,0,8,0
+4,Junior Stanislas,19.0,eng ENG,LM,27-301,90,59,1,14,24,21,3,59,0,0,,0,,31,235,78,2,0,1,3,3,35,8
+5,Andrew Surman,6.0,eng ENG,CM,31-034,90,65,5,13,41,12,1,65,3,3,100.0,0,0.0,44,265,155,2,1,0,1,0,49,1
+6,Dan Gosling,4.0,eng ENG,CM,27-234,90,60,3,10,40,10,0,60,0,0,,0,,33,147,45,0,1,0,0,0,34,1
+7,Jordon Ibe,33.0,eng ENG,RM,21-289,90,44,0,3,16,25,1,44,5,3,60.0,2,40.0,30,229,92,2,2,0,2,2,33,5
+8,Charlie Daniels,11.0,eng ENG,LB,31-016,90,78,4,27,30,23,0,78,3,1,33.3,2,66.7,36,268,147,4,3,0,1,1,38,5
+9,Nathan Aké,5.0,nl NED,CB,22-217,82,39,3,18,21,1,1,39,0,0,,0,,17,108,52,0,0,0,0,0,20,0
+10,Lys Mousset,31.0,fr FRA,CB,21-227,8,6,0,1,1,5,1,6,1,1,100.0,0,0.0,6,61,21,0,2,0,0,0,6,2
+11,Simon Francis,2.0,eng ENG,CB,32-219,90,54,8,31,24,0,0,54,0,0,,0,,28,156,100,0,0,0,0,0,30,0
+12,Adam Smith,15.0,eng ENG,RB,26-147,90,56,2,15,24,19,0,56,2,1,50.0,1,50.0,34,307,205,4,4,0,2,0,33,4
+13,Asmir Begović,27.0,ba BIH,GK,30-095,90,35,29,35,0,0,0,35,0,0,,0,,14,51,25,0,0,0,0,0,12,0
+14,14 Players,,,,,990,563,59,179,242,150,16,563,18,10,55.6,8,44.4,320,2142,1046,18,17,4,12,11,339,44

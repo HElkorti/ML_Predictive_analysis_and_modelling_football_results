@@ -1,0 +1,17 @@
+,Unnamed: 0_level_0,Unnamed: 1_level_0,Unnamed: 2_level_0,Unnamed: 3_level_0,Unnamed: 4_level_0,Unnamed: 5_level_0,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Expected,Expected,Expected,SCA,SCA,Passes,Passes,Passes,Passes,Carries,Carries,Take-Ons,Take-Ons
+,Player,#,Nation,Pos,Age,Min,Gls,Ast,PK,PKatt,Sh,SoT,CrdY,CrdR,Touches,Tkl,Int,Blocks,xG,npxG,xAG,SCA,GCA,Cmp,Att,Cmp%,PrgP,Carries,PrgC,Att,Succ
+0,Shinji Okazaki,20.0,jp JPN,FW,32-222,69,0,0,0,0,1,1,0,0,31,2,0,3,0.0,0.0,0.0,1,0,9,15,60.0,0,15,0,3,1
+1,Kelechi Iheanacho,8.0,ng NGA,FW,22-052,21,0,0,0,0,2,1,0,0,14,0,0,0,0.1,0.1,0.0,3,1,9,10,90.0,2,9,0,0,0
+2,Demarai Gray,7.0,jm JAM,LW,22-149,55,0,0,0,0,0,0,0,0,19,2,1,0,0.0,0.0,0.0,0,0,10,12,83.3,2,13,0,1,1
+3,Jamie Vardy,9.0,eng ENG,FW,31-317,35,1,0,1,1,0,0,0,0,11,0,0,1,0.8,0.0,0.0,2,0,5,7,71.4,0,3,0,0,0
+4,Marc Albrighton,11.0,eng ENG,"RW,RM",29-006,90,0,0,0,0,0,0,0,0,48,0,2,3,0.0,0.0,0.0,1,0,17,36,47.2,2,21,2,4,1
+5,James Maddison,10.0,eng ENG,AM,22-001,27,0,0,0,0,0,0,2,1,19,0,0,0,0.0,0.0,0.0,0,0,15,18,83.3,2,10,1,1,1
+6,Nampalys Mendy,24.0,sn SEN,"DM,CM",26-154,90,0,0,0,0,0,0,0,0,48,0,2,2,0.0,0.0,0.0,0,0,34,37,91.9,6,20,0,1,0
+7,Vicente Iborra,21.0,es ESP,DM,30-312,31,0,0,0,0,0,0,0,0,23,0,1,0,0.0,0.0,0.0,0,0,14,19,73.7,2,5,0,0,0
+8,Wilfred Ndidi,25.0,ng NGA,"CM,DM",21-343,59,0,0,0,0,2,0,1,0,46,5,3,1,0.1,0.1,0.0,1,0,22,31,71.0,8,9,0,1,0
+9,Ben Chilwell,3.0,eng ENG,LB,21-338,90,0,0,0,0,0,0,0,0,61,2,1,3,0.0,0.0,0.1,2,0,31,45,68.9,4,21,1,1,1
+10,Jonny Evans,6.0,nir NIR,CB,30-325,90,0,0,0,0,1,0,0,0,55,1,3,2,0.1,0.1,0.0,1,1,35,45,77.8,3,19,0,0,0
+11,Wes Morgan,5.0,jm JAM,CB,34-307,90,0,0,0,0,1,0,0,0,57,1,1,1,0.1,0.1,0.1,0,0,35,44,79.5,2,14,0,0,0
+12,Ricardo Pereira,14.0,pt POR,RB,25-049,90,0,0,0,0,0,0,0,0,79,4,1,1,0.0,0.0,0.1,3,0,43,62,69.4,6,20,0,5,1
+13,Kasper Schmeichel,1.0,dk DEN,GK,32-019,90,0,0,0,0,0,0,0,0,37,0,0,0,0.0,0.0,0.0,0,0,28,36,77.8,0,18,0,0,0
+14,14 Players,,,,,927,1,0,1,1,7,2,3,1,548,17,15,17,1.2,0.4,0.4,14,2,307,417,73.6,39,197,4,17,6

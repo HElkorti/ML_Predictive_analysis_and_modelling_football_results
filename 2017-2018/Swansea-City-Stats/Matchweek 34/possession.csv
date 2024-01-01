@@ -1,0 +1,16 @@
+,Unnamed: 0_level_0,Unnamed: 1_level_0,Unnamed: 2_level_0,Unnamed: 3_level_0,Unnamed: 4_level_0,Unnamed: 5_level_0,Touches,Touches,Touches,Touches,Touches,Touches,Touches,Take-Ons,Take-Ons,Take-Ons,Take-Ons,Take-Ons,Carries,Carries,Carries,Carries,Carries,Carries,Carries,Carries,Receiving,Receiving
+,Player,#,Nation,Pos,Age,Min,Touches,Def Pen,Def 3rd,Mid 3rd,Att 3rd,Att Pen,Live,Att,Succ,Succ%,Tkld,Tkld%,Carries,TotDist,PrgDist,PrgC,1/3,CPA,Mis,Dis,Rec,PrgR
+0,Jordan Ayew,18.0,gh GHA,"FW,LM",26-215,90,55,0,5,18,32,10,55,2,1,50.0,1,50.0,34,191,91,2,1,0,1,6,38,10
+1,André Ayew,19.0,gh GHA,FW,28-118,90,38,1,2,18,18,4,38,0,0,,0,,23,153,88,4,3,2,1,3,27,5
+2,Tom Carroll,14.0,eng ENG,"LM,CM",25-321,90,59,0,6,21,32,7,59,0,0,,0,,34,120,65,3,2,1,1,0,34,6
+3,Andy King,24.0,wls WAL,CM,29-167,90,72,2,13,44,15,1,72,0,0,,0,,38,178,68,1,1,0,0,1,43,0
+4,Ki Sung-yueng,4.0,kr KOR,CM,29-080,64,44,0,7,25,12,3,44,0,0,,0,,26,74,40,1,1,0,3,0,29,3
+5,Tammy Abraham,10.0,eng ENG,FW,20-194,26,13,0,0,3,10,3,13,0,0,,0,,7,25,12,0,0,0,2,1,10,3
+6,Luciano Narsingh,11.0,nl NED,RM,27-213,45,22,1,2,14,7,2,22,2,2,100.0,0,0.0,13,191,155,4,3,2,1,0,17,3
+7,Nathan Dyer,12.0,eng ENG,"RM,FW",30-136,45,28,1,5,12,11,0,28,0,0,,0,,16,36,16,0,0,0,2,1,15,2
+8,Martin Olsson,16.0,se SWE,LB,29-332,90,49,1,14,17,20,1,49,2,0,0.0,2,100.0,29,227,150,5,2,0,1,1,27,5
+9,Alfie Mawson,6.0,eng ENG,CB,24-085,90,45,4,24,21,1,1,45,0,0,,0,,25,184,131,0,0,0,0,0,27,0
+10,Federico Fernández,33.0,ar ARG,CB,29-052,90,68,10,30,31,7,2,68,0,0,,0,,30,201,124,1,0,0,0,0,31,1
+11,Kyle Naughton,26.0,eng ENG,RB,29-148,90,97,5,25,57,16,1,97,0,0,,0,,37,158,82,2,0,1,0,1,49,2
+12,Łukasz Fabiański,1.0,pl POL,GK,32-361,90,31,27,31,0,0,0,31,0,0,,0,,10,91,48,0,0,0,0,0,8,0
+13,13 Players,,,,,990,621,52,164,281,181,35,621,6,3,50.0,3,50.0,322,1829,1070,23,13,6,12,14,355,40

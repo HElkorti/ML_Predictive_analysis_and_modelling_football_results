@@ -1,0 +1,17 @@
+,Unnamed: 0_level_0,Unnamed: 1_level_0,Unnamed: 2_level_0,Unnamed: 3_level_0,Unnamed: 4_level_0,Unnamed: 5_level_0,Unnamed: 6_level_0,Pass Types,Pass Types,Pass Types,Pass Types,Pass Types,Pass Types,Pass Types,Pass Types,Corner Kicks,Corner Kicks,Corner Kicks,Outcomes,Outcomes,Outcomes
+,Player,#,Nation,Pos,Age,Min,Att,Live,Dead,FK,TB,Sw,Crs,TI,CK,In,Out,Str,Cmp,Off,Blocks
+0,Alexis Sánchez,7.0,cl CHI,FW,30-046,66,31,31,0,0,0,0,0,0,0,0,0,0,24,0,2
+1,Anthony Martial,11.0,fr FRA,"LW,FW",23-060,24,14,14,0,0,0,0,1,0,0,0,0,0,9,0,0
+2,Marcus Rashford,10.0,eng ENG,FW,21-095,77,20,20,0,0,0,0,1,0,0,0,0,0,16,0,0
+3,Romelu Lukaku,9.0,be BEL,FW,25-266,13,8,8,0,0,0,0,0,0,0,0,0,0,4,0,0
+4,Paul Pogba,6.0,fr FRA,"AM,LM",25-325,90,72,70,2,1,1,1,0,1,0,0,0,0,61,0,0
+5,Jesse Lingard,14.0,eng ENG,"AM,RW",26-050,89,38,37,1,0,0,1,0,0,0,0,0,0,33,0,2
+6,Phil Jones,4.0,eng ENG,RW,26-347,1,1,0,1,0,0,0,0,1,0,0,0,0,0,0,0
+7,Nemanja Matić,31.0,rs SRB,"DM,CM",30-186,90,61,61,0,0,0,3,1,0,0,0,0,0,46,0,0
+8,Ander Herrera,21.0,es ESP,"DM,RM",29-173,90,62,61,1,0,0,0,0,0,1,0,0,0,53,0,0
+9,Luke Shaw,23.0,eng ENG,LB,23-206,90,77,61,16,6,0,3,1,10,0,0,0,0,64,0,2
+10,Victor Lindelöf,2.0,se SWE,CB,24-201,90,48,47,0,0,0,0,1,0,0,0,0,0,45,1,0
+11,Eric Bailly,3.0,ci CIV,CB,24-297,90,39,39,0,0,0,0,0,0,0,0,0,0,31,0,1
+12,Ashley Young,18.0,eng ENG,RB,33-209,90,82,58,24,5,0,3,5,18,1,0,0,0,59,0,2
+13,David de Gea,1.0,es ESP,GK,28-088,90,26,14,12,2,0,0,0,0,0,0,0,0,20,0,0
+14,14 Players,,,,,990,579,521,57,14,1,11,10,30,2,0,0,0,465,1,9

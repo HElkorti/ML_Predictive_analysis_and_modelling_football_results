@@ -1,0 +1,16 @@
+,Unnamed: 0_level_0,Unnamed: 1_level_0,Unnamed: 2_level_0,Unnamed: 3_level_0,Unnamed: 4_level_0,Unnamed: 5_level_0,Touches,Touches,Touches,Touches,Touches,Touches,Touches,Take-Ons,Take-Ons,Take-Ons,Take-Ons,Take-Ons,Carries,Carries,Carries,Carries,Carries,Carries,Carries,Carries,Receiving,Receiving
+,Player,#,Nation,Pos,Age,Min,Touches,Def Pen,Def 3rd,Mid 3rd,Att 3rd,Att Pen,Live,Att,Succ,Succ%,Tkld,Tkld%,Carries,TotDist,PrgDist,PrgC,1/3,CPA,Mis,Dis,Rec,PrgR
+0,Wilfried Zaha,11.0,ci CIV,"FW,LM",24-352,90,39,1,3,6,31,9,39,6,3,50.0,3,50.0,29,240,131,5,4,2,6,5,27,13
+1,Andros Townsend,10.0,eng ENG,FW,26-104,90,41,0,2,17,23,0,41,4,4,100.0,0,0.0,37,308,119,7,2,0,1,2,36,11
+2,Jeffrey Schlupp,15.0,gh GHA,"LM,LB",24-309,90,41,4,11,23,7,2,41,0,0,,0,,22,73,25,0,1,0,0,4,20,3
+3,Luka Milivojević,4.0,rs SRB,CM,26-204,90,68,3,19,39,11,1,67,1,1,100.0,0,0.0,33,131,70,0,0,0,0,2,35,0
+4,Yohan Cabaye,7.0,fr FRA,CM,31-287,90,73,0,9,40,24,1,73,1,1,100.0,0,0.0,30,109,50,1,0,0,1,1,33,3
+5,Ruben Loftus-Cheek,8.0,eng ENG,RM,21-278,90,44,1,4,21,19,4,44,5,3,60.0,2,40.0,35,174,98,3,2,1,2,2,38,14
+6,Patrick van Aanholt,3.0,nl NED,LB,27-060,10,8,0,2,3,3,0,8,0,0,,0,,4,17,10,1,0,0,1,0,3,2
+7,Timothy Fosu-Mensah,24.0,nl NED,"LB,RB",19-299,80,59,3,13,39,9,0,59,2,2,100.0,0,0.0,35,227,159,5,0,0,1,0,36,0
+8,James Tomkins,5.0,eng ENG,CB,28-213,90,59,5,35,19,5,4,59,0,0,,0,,27,123,40,0,0,0,0,0,30,2
+9,Scott Dann,6.0,eng ENG,CB,30-256,90,52,4,28,19,5,3,52,0,0,,0,,32,107,39,0,0,0,0,0,35,0
+10,Joel Ward,2.0,eng ENG,RB,27-364,59,50,0,14,27,9,1,50,1,0,0.0,1,100.0,29,144,73,1,0,0,1,0,27,3
+11,Bakary Sako,26.0,ml MLI,"FW,RB",29-185,31,9,0,0,0,9,3,9,1,0,0.0,1,100.0,6,44,21,2,0,1,0,0,7,3
+12,Julián Speroni,1.0,ar ARG,GK,38-163,90,28,21,28,0,0,0,28,0,0,,0,,10,59,28,0,0,0,0,0,13,0
+13,13 Players,,,,,990,571,42,168,253,155,28,570,21,14,66.7,7,33.3,329,1756,863,25,9,4,13,16,340,54

@@ -1,0 +1,17 @@
+,Unnamed: 0_level_0,Unnamed: 1_level_0,Unnamed: 2_level_0,Unnamed: 3_level_0,Unnamed: 4_level_0,Unnamed: 5_level_0,Unnamed: 6_level_0,Pass Types,Pass Types,Pass Types,Pass Types,Pass Types,Pass Types,Pass Types,Pass Types,Corner Kicks,Corner Kicks,Corner Kicks,Outcomes,Outcomes,Outcomes
+,Player,#,Nation,Pos,Age,Min,Att,Live,Dead,FK,TB,Sw,Crs,TI,CK,In,Out,Str,Cmp,Off,Blocks
+0,Salomón Rondón,9.0,ve VEN,FW,28-108,90,37,35,2,0,0,0,0,0,0,0,0,0,24,0,1
+1,James McClean,14.0,ie IRL,LW,28-255,90,41,38,3,1,0,0,10,0,2,2,0,0,25,0,3
+2,Jay Rodriguez,19.0,eng ENG,RW,28-157,70,35,30,5,2,0,1,5,0,2,2,0,0,27,0,0
+3,Oliver Burke,17.0,sct SCO,"RW,AM",20-270,20,14,14,0,0,0,0,1,0,0,0,0,0,10,0,0
+4,Jake Livermore,8.0,eng ENG,AM,28-049,63,21,21,0,0,0,0,0,0,0,0,0,0,18,0,0
+5,Hal Robson-Kanu,4.0,wls WAL,"AM,RW",28-226,27,8,8,0,0,0,0,1,0,0,0,0,0,5,0,0
+6,Grzegorz Krychowiak,20.0,pl POL,DM,27-338,90,51,51,0,0,0,2,0,0,0,0,0,0,44,0,0
+7,Claudio Yacob,5.0,ar ARG,DM,30-168,82,38,38,0,0,0,0,0,0,0,0,0,0,34,0,0
+8,Gareth Barry,18.0,eng ENG,DM,36-313,8,12,12,0,0,0,0,1,0,0,0,0,0,10,0,0
+9,Kieran Gibbs,3.0,eng ENG,LB,28-098,90,59,50,8,0,0,0,1,8,0,0,0,0,48,1,1
+10,Jonny Evans,6.0,nir NIR,CB,29-364,90,41,38,3,3,0,0,0,0,0,0,0,0,34,0,0
+11,Ahmed Hegazi,26.0,eg EGY,CB,26-342,90,24,23,1,1,0,0,1,0,0,0,0,0,20,0,0
+12,Craig Dawson,25.0,eng ENG,RB,27-241,90,46,38,8,0,0,0,3,8,0,0,0,0,30,0,3
+13,Ben Foster,1.0,eng ENG,GK,34-274,90,27,14,13,6,0,0,0,0,0,0,0,0,17,0,0
+14,14 Players,,,,,990,454,410,43,13,0,3,23,16,4,4,0,0,346,1,8

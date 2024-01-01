@@ -1,0 +1,17 @@
+,Unnamed: 0_level_0,Unnamed: 1_level_0,Unnamed: 2_level_0,Unnamed: 3_level_0,Unnamed: 4_level_0,Unnamed: 5_level_0,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Aerial Duels,Aerial Duels,Aerial Duels
+,Player,#,Nation,Pos,Age,Min,CrdY,CrdR,2CrdY,Fls,Fld,Off,Crs,Int,TklW,PKwon,PKcon,OG,Recov,Won,Lost,Won%
+0,Anthony Martial,11.0,fr FRA,"FW,LW",23-115,76,0,0,0,0,1,0,0,0,1,0,0,0,0,1,1,50.0
+1,Marcos Rojo,16.0,ar ARG,CB,29-010,14,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,
+2,Marcus Rashford,10.0,eng ENG,FW,21-150,90,0,0,0,1,1,2,2,0,0,0,0,0,2,0,3,0.0
+3,Juan Mata,8.0,es ESP,AM,30-336,62,0,0,0,1,1,1,2,0,1,0,0,0,4,0,0,
+4,Jesse Lingard,14.0,eng ENG,AM,26-105,28,0,0,0,2,1,0,0,0,0,0,0,0,0,0,1,0.0
+5,Paul Pogba,6.0,fr FRA,"LM,CM,DM",26-015,90,0,0,0,5,1,0,0,2,1,0,0,0,3,1,0,100.0
+6,Nemanja Matić,31.0,rs SRB,"CM,DM",30-241,90,0,0,0,0,0,0,0,1,1,0,0,0,7,2,4,33.3
+7,Ander Herrera,21.0,es ESP,RM,29-228,62,0,0,0,0,1,0,0,1,2,0,0,0,4,0,1,0.0
+8,Andreas Pereira,15.0,br BRA,"AM,RW",23-088,28,1,0,0,1,0,1,0,0,0,0,0,0,0,0,1,0.0
+9,Luke Shaw,23.0,eng ENG,"LB,WB",23-261,90,0,0,0,1,0,0,0,1,0,0,0,0,10,1,0,100.0
+10,Phil Jones,4.0,eng ENG,CB,27-037,90,0,0,0,0,1,0,0,3,0,0,0,0,9,3,1,75.0
+11,Chris Smalling,12.0,eng ENG,CB,29-128,90,0,0,0,3,0,0,0,1,1,0,0,0,2,7,11,38.9
+12,Ashley Young,18.0,eng ENG,"RB,WB",33-264,90,0,0,0,0,2,0,4,1,1,0,0,0,9,0,0,
+13,David de Gea,1.0,es ESP,GK,28-143,90,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,
+14,14 Players,,,,,990,1,0,0,14,9,4,8,10,8,0,0,0,52,15,23,39.5

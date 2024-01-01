@@ -1,0 +1,17 @@
+,Unnamed: 0_level_0,Unnamed: 1_level_0,Unnamed: 2_level_0,Unnamed: 3_level_0,Unnamed: 4_level_0,Unnamed: 5_level_0,Unnamed: 6_level_0,Pass Types,Pass Types,Pass Types,Pass Types,Pass Types,Pass Types,Pass Types,Pass Types,Corner Kicks,Corner Kicks,Corner Kicks,Outcomes,Outcomes,Outcomes
+,Player,#,Nation,Pos,Age,Min,Att,Live,Dead,FK,TB,Sw,Crs,TI,CK,In,Out,Str,Cmp,Off,Blocks
+0,Andre Gray,18.0,jm JAM,FW,27-054,67,7,7,0,0,0,0,0,0,0,0,0,0,6,0,0
+1,Ken Sema,12.0,se SWE,LW,24-323,23,9,9,0,0,0,0,0,0,0,0,0,0,4,0,0
+2,Troy Deeney,9.0,eng ENG,FW,30-051,88,37,36,0,0,0,0,2,0,0,0,0,0,21,1,0
+3,Isaac Success,10.0,ng NGA,FW,22-224,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+4,Roberto Pereyra,37.0,ar ARG,AM,27-224,90,37,35,2,0,0,0,2,0,0,0,0,0,28,0,0
+5,Will Hughes,19.0,eng ENG,"AM,RW",23-124,82,35,35,0,0,0,0,0,0,0,0,0,0,27,0,1
+6,Kiko Femenía,21.0,es ESP,RW,27-198,8,5,5,0,0,0,0,0,0,0,0,0,0,5,0,0
+7,Étienne Capoue,29.0,fr FRA,DM,30-039,90,39,39,0,0,0,2,0,0,0,0,0,0,29,0,1
+8,Abdoulaye Doucouré,16.0,ml MLI,DM,25-230,90,45,44,1,1,1,0,0,0,0,0,0,0,37,0,0
+9,José Holebas,25.0,gr GRE,LB,34-053,90,46,25,20,2,0,0,1,16,2,0,0,0,31,1,0
+10,Christian Kabasele,27.0,be BEL,CB,27-176,90,21,20,1,1,0,0,0,0,0,0,0,0,14,0,0
+11,Craig Cathcart,15.0,nir NIR,CB,29-194,90,26,24,2,2,0,0,0,0,0,0,0,0,16,0,0
+12,Daryl Janmaat,2.0,nl NED,RB,29-028,90,41,32,9,0,0,0,2,9,0,0,0,0,26,0,0
+13,Ben Foster,26.0,eng ENG,GK,35-138,90,35,19,14,3,0,0,0,0,0,0,0,0,11,2,0
+14,14 Players,,,,,990,383,330,49,9,1,2,7,25,2,0,0,0,255,4,2

@@ -1,0 +1,17 @@
+,Unnamed: 0_level_0,Unnamed: 1_level_0,Unnamed: 2_level_0,Unnamed: 3_level_0,Unnamed: 4_level_0,Unnamed: 5_level_0,Unnamed: 6_level_0,Pass Types,Pass Types,Pass Types,Pass Types,Pass Types,Pass Types,Pass Types,Pass Types,Corner Kicks,Corner Kicks,Corner Kicks,Outcomes,Outcomes,Outcomes
+,Player,#,Nation,Pos,Age,Min,Att,Live,Dead,FK,TB,Sw,Crs,TI,CK,In,Out,Str,Cmp,Off,Blocks
+0,Romelu Lukaku,9.0,be BEL,FW,25-272,90,26,25,1,0,0,0,1,0,0,0,0,0,14,0,1
+1,Anthony Martial,11.0,fr FRA,LW,23-066,69,35,32,2,1,0,0,2,0,1,1,0,0,24,1,0
+2,Alexis Sánchez,7.0,cl CHI,"LW,LM",30-052,21,9,9,0,0,0,1,1,0,0,0,0,0,4,0,3
+3,Juan Mata,8.0,es ESP,"RW,RM",30-287,90,51,46,5,2,0,1,6,0,3,3,0,0,43,0,0
+4,Paul Pogba,6.0,fr FRA,LM,25-331,73,47,45,0,0,0,1,2,0,0,0,0,0,36,2,0
+5,Scott McTominay,39.0,sct SCO,"LM,CM",22-063,17,9,8,1,0,0,0,1,1,0,0,0,0,6,0,0
+6,Nemanja Matić,31.0,rs SRB,CM,30-192,90,63,59,4,4,0,0,0,0,0,0,0,0,51,0,2
+7,Ander Herrera,21.0,es ESP,RM,29-179,84,67,66,1,1,1,1,1,0,0,0,0,0,58,0,1
+8,Eric Bailly,3.0,ci CIV,CB,24-303,6,3,3,0,0,0,0,0,0,0,0,0,0,1,0,0
+9,Luke Shaw,23.0,eng ENG,LB,23-212,90,60,52,8,0,0,1,2,8,0,0,0,0,48,0,3
+10,Phil Jones,4.0,eng ENG,CB,26-353,90,37,37,0,0,0,0,0,0,0,0,0,0,31,0,1
+11,Chris Smalling,12.0,eng ENG,CB,29-079,90,27,27,0,0,0,0,0,0,0,0,0,0,23,0,0
+12,Diogo Dalot,20.0,pt POR,RB,19-328,90,57,46,11,0,0,0,3,11,0,0,0,0,40,0,3
+13,David de Gea,1.0,es ESP,GK,28-094,90,38,18,20,7,0,0,0,0,0,0,0,0,23,0,0
+14,14 Players,,,,,990,529,473,53,15,1,5,19,20,4,4,0,0,402,3,14

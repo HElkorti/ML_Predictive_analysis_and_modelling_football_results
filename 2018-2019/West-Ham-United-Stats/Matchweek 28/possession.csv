@@ -1,0 +1,17 @@
+,Unnamed: 0_level_0,Unnamed: 1_level_0,Unnamed: 2_level_0,Unnamed: 3_level_0,Unnamed: 4_level_0,Unnamed: 5_level_0,Touches,Touches,Touches,Touches,Touches,Touches,Touches,Take-Ons,Take-Ons,Take-Ons,Take-Ons,Take-Ons,Carries,Carries,Carries,Carries,Carries,Carries,Carries,Carries,Receiving,Receiving
+,Player,#,Nation,Pos,Age,Min,Touches,Def Pen,Def 3rd,Mid 3rd,Att 3rd,Att Pen,Live,Att,Succ,Succ%,Tkld,Tkld%,Carries,TotDist,PrgDist,PrgC,1/3,CPA,Mis,Dis,Rec,PrgR
+0,Andy Carroll,9.0,eng ENG,FW,30-052,90,24,3,4,16,4,3,24,1,1,100.0,0,0.0,10,21,1,0,0,0,3,1,18,1
+1,Felipe Anderson,8.0,br BRA,LW,25-318,75,32,1,11,13,9,0,32,2,1,50.0,1,50.0,10,69,45,2,2,0,3,1,23,2
+2,Grady Diangana,45.0,cd COD,RW,20-314,15,6,0,1,2,3,0,6,1,1,100.0,0,0.0,4,29,12,0,0,0,0,0,3,1
+3,Michail Antonio,30.0,jm JAM,"RW,LW",28-336,90,41,2,12,22,8,1,41,3,2,66.7,1,33.3,15,104,49,1,2,0,4,3,25,6
+4,Samir Nasri,18.0,fr FRA,AM,31-246,45,15,1,1,5,9,0,15,1,0,0.0,1,100.0,9,21,3,0,0,0,0,0,11,1
+5,Manuel Lanzini,10.0,ar ARG,AM,26-012,45,20,0,2,12,7,1,20,2,1,50.0,1,50.0,10,88,52,2,0,1,1,1,13,2
+6,Declan Rice,41.0,eng ENG,DM,20-044,90,36,5,15,22,0,0,36,1,1,100.0,0,0.0,13,32,17,0,0,0,0,0,17,0
+7,Pedro Obiang,14.0,gq EQG,DM,26-337,90,35,4,13,18,4,0,35,1,1,100.0,0,0.0,10,60,6,1,0,0,1,1,16,0
+8,Ben Johnson,53.0,eng ENG,LB,19-034,62,33,3,18,11,4,0,33,2,0,0.0,2,100.0,10,63,4,0,1,0,1,0,13,1
+9,Pablo Zabaleta,5.0,ar ARG,LB,34-042,28,20,1,6,12,2,0,20,0,0,,0,,3,12,1,0,0,0,1,0,7,1
+10,Angelo Ogbonna,21.0,it ITA,CB,30-280,90,31,13,22,9,0,0,31,0,0,,0,,7,76,13,0,1,1,0,0,11,0
+11,Issa Diop,23.0,fr FRA,CB,22-049,90,28,8,22,7,0,0,28,1,0,0.0,1,100.0,9,71,18,0,0,0,0,0,10,0
+12,Ryan Fredericks,24.0,eng ENG,RB,26-140,90,53,8,28,18,7,1,53,0,0,,0,,12,33,7,0,0,0,1,0,21,3
+13,Łukasz Fabiański,1.0,pl POL,GK,33-315,90,41,38,41,0,0,0,41,0,0,,0,,12,116,99,0,0,0,0,0,6,0
+14,14 Players,,,,,990,415,87,196,167,57,6,415,15,8,53.3,7,46.7,134,795,327,6,6,2,15,7,194,18

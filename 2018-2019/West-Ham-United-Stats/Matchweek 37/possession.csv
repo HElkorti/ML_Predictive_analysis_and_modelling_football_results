@@ -1,0 +1,17 @@
+,Unnamed: 0_level_0,Unnamed: 1_level_0,Unnamed: 2_level_0,Unnamed: 3_level_0,Unnamed: 4_level_0,Unnamed: 5_level_0,Touches,Touches,Touches,Touches,Touches,Touches,Touches,Take-Ons,Take-Ons,Take-Ons,Take-Ons,Take-Ons,Carries,Carries,Carries,Carries,Carries,Carries,Carries,Carries,Receiving,Receiving
+,Player,#,Nation,Pos,Age,Min,Touches,Def Pen,Def 3rd,Mid 3rd,Att 3rd,Att Pen,Live,Att,Succ,Succ%,Tkld,Tkld%,Carries,TotDist,PrgDist,PrgC,1/3,CPA,Mis,Dis,Rec,PrgR
+0,Marko Arnautović,7.0,at AUT,FW,30-015,90,35,0,0,13,22,8,35,1,1,100.0,0,0.0,27,189,34,2,1,2,3,2,28,13
+1,Michail Antonio,30.0,jm JAM,"LM,RW",29-037,90,46,3,7,23,17,4,46,6,4,66.7,2,33.3,33,227,129,6,3,2,3,1,34,13
+2,Manuel Lanzini,10.0,ar ARG,"CM,LW",26-078,82,84,1,10,50,25,3,84,4,4,100.0,0,0.0,64,289,142,2,3,1,1,2,68,5
+3,Lucas Pérez,27.0,es ESP,LW,30-236,8,6,0,2,0,4,0,6,0,0,,0,,6,43,15,0,0,0,0,0,6,0
+4,Mark Noble,16.0,eng ENG,"CM,DM",31-361,77,75,1,13,38,25,0,75,1,1,100.0,0,0.0,52,136,34,0,0,0,1,2,56,1
+5,Carlos Sánchez,15.0,co COL,DM,33-087,13,10,1,2,9,0,0,10,1,1,100.0,0,0.0,6,12,5,0,0,0,0,0,7,0
+6,Grady Diangana,45.0,cd COD,RM,21-015,67,37,0,6,20,13,2,37,4,3,75.0,1,25.0,25,153,72,2,2,1,4,1,22,3
+7,Jack Wilshere,19.0,eng ENG,AM,27-123,23,16,0,0,9,7,0,16,0,0,,0,,13,70,36,0,2,0,0,0,17,0
+8,Pedro Obiang,14.0,gq EQG,DM,27-038,90,73,1,21,42,10,1,73,1,1,100.0,0,0.0,43,158,72,3,1,1,0,0,42,0
+9,Arthur Masuaku,26.0,cd COD,LB,25-178,90,94,4,20,50,24,3,94,6,5,83.3,1,16.7,64,401,250,11,7,1,2,2,66,4
+10,Issa Diop,23.0,fr FRA,CB,22-115,90,49,9,34,16,0,0,49,0,0,,0,,28,124,42,0,0,0,0,0,22,0
+11,Fabián Balbuena,4.0,py PAR,CB,27-254,90,46,10,32,13,1,1,46,0,0,,0,,22,85,48,0,0,0,0,0,21,0
+12,Ryan Fredericks,24.0,eng ENG,RB,26-206,90,74,8,25,31,18,3,74,4,4,100.0,0,0.0,35,219,157,4,1,1,1,0,32,1
+13,Łukasz Fabiański,1.0,pl POL,GK,34-016,90,31,24,31,0,0,0,31,0,0,,0,,15,57,34,0,0,0,0,0,13,0
+14,14 Players,,,,,990,676,62,203,314,166,25,676,28,24,85.7,4,14.3,433,2163,1070,30,20,9,15,10,434,40

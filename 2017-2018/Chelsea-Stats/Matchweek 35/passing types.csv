@@ -1,0 +1,16 @@
+,Unnamed: 0_level_0,Unnamed: 1_level_0,Unnamed: 2_level_0,Unnamed: 3_level_0,Unnamed: 4_level_0,Unnamed: 5_level_0,Unnamed: 6_level_0,Pass Types,Pass Types,Pass Types,Pass Types,Pass Types,Pass Types,Pass Types,Pass Types,Corner Kicks,Corner Kicks,Corner Kicks,Outcomes,Outcomes,Outcomes
+,Player,#,Nation,Pos,Age,Min,Att,Live,Dead,FK,TB,Sw,Crs,TI,CK,In,Out,Str,Cmp,Off,Blocks
+0,Álvaro Morata,9.0,es ESP,FW,25-198,90,22,20,2,0,0,0,0,0,0,0,0,0,12,0,2
+1,Pedro,11.0,es ESP,"AM,LM",30-285,58,30,30,0,0,0,0,1,0,0,0,0,0,24,0,0
+2,Eden Hazard,10.0,be BEL,LM,27-122,32,35,34,1,0,0,1,0,1,0,0,0,0,29,0,3
+3,Willian,22.0,br BRA,"AM,RM",29-273,90,73,67,5,1,0,3,12,0,4,2,2,0,49,1,4
+4,N'Golo Kanté,7.0,fr FRA,CM,27-041,90,61,58,2,1,1,1,1,1,0,0,0,0,51,1,4
+5,Cesc Fàbregas,4.0,es ESP,CM,31-005,90,158,149,9,4,0,0,9,0,5,1,2,0,130,0,3
+6,Marcos Alonso,3.0,es ESP,"WB,LB",27-132,90,56,46,10,0,0,0,2,10,0,0,0,0,46,0,0
+7,Davide Zappacosta,21.0,it ITA,WB,25-332,53,43,35,8,0,0,0,6,8,0,0,0,0,34,0,3
+8,Olivier Giroud,18.0,fr FRA,FW,31-221,37,20,20,0,0,0,0,0,0,0,0,0,0,7,0,0
+9,Antonio Rüdiger,2.0,de GER,CB,25-067,90,124,123,1,1,0,1,0,0,0,0,0,0,117,0,0
+10,Andreas Christensen,27.0,dk DEN,CB,22-029,90,130,128,2,1,0,0,0,1,0,0,0,0,126,0,0
+11,César Azpilicueta,28.0,es ESP,"CB,RB",28-254,90,128,118,10,0,0,0,9,10,0,0,0,0,110,0,1
+12,Willy Caballero,1.0,ar ARG,GK,36-223,90,26,24,2,1,0,0,0,0,0,0,0,0,25,0,0
+13,13 Players,,,,,990,906,852,52,9,1,6,40,31,9,3,4,0,760,2,20

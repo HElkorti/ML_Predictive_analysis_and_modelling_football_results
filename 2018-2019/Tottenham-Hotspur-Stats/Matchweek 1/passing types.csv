@@ -1,0 +1,17 @@
+,Unnamed: 0_level_0,Unnamed: 1_level_0,Unnamed: 2_level_0,Unnamed: 3_level_0,Unnamed: 4_level_0,Unnamed: 5_level_0,Unnamed: 6_level_0,Pass Types,Pass Types,Pass Types,Pass Types,Pass Types,Pass Types,Pass Types,Pass Types,Corner Kicks,Corner Kicks,Corner Kicks,Outcomes,Outcomes,Outcomes
+,Player,#,Nation,Pos,Age,Min,Att,Live,Dead,FK,TB,Sw,Crs,TI,CK,In,Out,Str,Cmp,Off,Blocks
+0,Harry Kane,10.0,eng ENG,FW,25-014,90,33,32,1,0,0,0,0,1,0,0,0,0,23,0,0
+1,Christian Eriksen,23.0,dk DEN,AM,26-178,90,63,53,10,3,1,0,8,0,5,4,1,0,50,0,1
+2,Lucas Moura,27.0,br BRA,AM,25-363,67,21,21,0,0,0,0,0,0,0,0,0,0,14,0,0
+3,Mousa Dembélé,19.0,be BEL,DM,31-026,23,24,24,0,0,0,0,0,0,0,0,0,0,22,0,0
+4,Dele Alli,20.0,eng ENG,"LM,LW",22-122,79,39,38,1,0,0,1,1,1,0,0,0,0,30,0,2
+5,Son Heung-min,7.0,kr KOR,LW,26-034,11,6,6,0,0,0,0,0,0,0,0,0,0,5,0,0
+6,Eric Dier,15.0,eng ENG,"CM,DM",24-208,87,56,54,2,2,1,1,0,0,0,0,0,0,48,0,0
+7,Luke Amos,40.0,eng ENG,DM,21-169,3,3,3,0,0,0,0,0,0,0,0,0,0,1,0,0
+8,Moussa Sissoko,17.0,fr FRA,"RM,RW",28-360,90,55,54,1,1,0,1,2,0,0,0,0,0,44,0,4
+9,Ben Davies,33.0,wls WAL,LB,25-109,90,77,64,13,0,0,0,3,13,0,0,0,0,60,0,3
+10,Jan Vertonghen,5.0,be BEL,CB,31-109,90,77,75,2,2,0,0,0,0,0,0,0,0,68,0,1
+11,Davinson Sánchez,6.0,co COL,CB,22-060,90,72,72,0,0,0,0,0,0,0,0,0,0,67,0,0
+12,Serge Aurier,24.0,ci CIV,RB,25-230,90,60,49,11,2,0,0,3,9,0,0,0,0,43,0,0
+13,Hugo Lloris,1.0,fr FRA,GK,31-228,90,35,24,11,1,0,1,0,0,0,0,0,0,25,0,0
+14,14 Players,,,,,990,621,569,52,11,2,4,17,24,5,4,1,0,500,0,11

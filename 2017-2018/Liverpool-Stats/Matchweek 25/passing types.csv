@@ -1,0 +1,17 @@
+,Unnamed: 0_level_0,Unnamed: 1_level_0,Unnamed: 2_level_0,Unnamed: 3_level_0,Unnamed: 4_level_0,Unnamed: 5_level_0,Unnamed: 6_level_0,Pass Types,Pass Types,Pass Types,Pass Types,Pass Types,Pass Types,Pass Types,Pass Types,Corner Kicks,Corner Kicks,Corner Kicks,Outcomes,Outcomes,Outcomes
+,Player,#,Nation,Pos,Age,Min,Att,Live,Dead,FK,TB,Sw,Crs,TI,CK,In,Out,Str,Cmp,Off,Blocks
+0,Roberto Firmino,9.0,br BRA,FW,26-120,88,42,41,1,0,0,0,1,1,0,0,0,0,32,0,3
+1,Dominic Solanke,29.0,eng ENG,FW,20-138,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2,Sadio Mané,19.0,sn SEN,LW,25-295,90,53,52,1,0,0,0,0,1,0,0,0,0,43,0,3
+3,Mohamed Salah,11.0,eg EGY,RW,25-229,82,42,39,3,0,0,0,4,0,3,3,0,0,30,0,2
+4,Alex Oxlade-Chamberlain,21.0,eng ENG,RW,24-168,8,1,1,0,0,0,0,0,0,0,0,0,0,1,0,0
+5,James Milner,7.0,eng ENG,LM,32-026,90,87,76,9,4,0,0,3,3,1,1,0,0,71,2,1
+6,Jordan Henderson,14.0,eng ENG,CM,27-227,82,90,89,1,1,0,1,2,0,0,0,0,0,76,0,0
+7,Georginio Wijnaldum,5.0,nl NED,CM,27-080,8,2,2,0,0,0,0,0,0,0,0,0,0,1,0,0
+8,Emre Can,23.0,de GER,RM,24-018,90,91,89,2,0,1,2,2,2,0,0,0,0,83,0,0
+9,Andrew Robertson,26.0,sct SCO,LB,23-325,90,106,97,9,0,0,0,7,9,0,0,0,0,85,0,4
+10,Dejan Lovren,6.0,hr CRO,CB,28-209,90,141,138,3,1,0,0,0,2,0,0,0,0,132,0,0
+11,Joël Matip,32.0,cm CMR,CB,26-175,90,161,161,0,0,0,0,0,0,0,0,0,0,154,0,1
+12,Joe Gomez,12.0,eng ENG,RB,20-252,90,110,103,7,1,0,1,1,6,0,0,0,0,99,0,1
+13,Loris Karius,1.0,de GER,GK,24-222,90,38,31,7,3,0,1,0,0,0,0,0,0,33,0,0
+14,14 Players,,,,,990,964,919,43,10,1,5,20,24,4,4,0,0,840,2,15

@@ -1,0 +1,16 @@
+,Unnamed: 0_level_0,Unnamed: 1_level_0,Unnamed: 2_level_0,Unnamed: 3_level_0,Unnamed: 4_level_0,Unnamed: 5_level_0,Total,Total,Total,Total,Total,Short,Short,Short,Medium,Medium,Medium,Long,Long,Long,Unnamed: 20_level_0,Unnamed: 21_level_0,Unnamed: 22_level_0,Unnamed: 23_level_0,Unnamed: 24_level_0,Unnamed: 25_level_0,Unnamed: 26_level_0,Unnamed: 27_level_0
+,Player,#,Nation,Pos,Age,Min,Cmp,Att,Cmp%,TotDist,PrgDist,Cmp,Att,Cmp%,Cmp,Att,Cmp%,Cmp,Att,Cmp%,Ast,xAG,xA,KP,1/3,PPA,CrsPA,PrgP
+0,Alexandre Lacazette,9.0,fr FRA,FW,26-214,74,19,25,76.0,232,16,13,13,100.0,4,6,66.7,0,0,,1,0.0,0.1,1,0,1,0,1
+1,Francis Coquelin,34.0,fr FRA,CM,26-229,16,9,14,64.3,131,61,4,6,66.7,5,7,71.4,0,0,,0,0.0,0.0,0,0,0,0,2
+2,Alexis Sánchez,7.0,cl CHI,"AM,FW",29-009,90,51,64,79.7,762,255,25,31,80.6,16,19,84.2,5,6,83.3,0,0.5,0.7,1,4,5,1,10
+3,Mesut Özil,11.0,de GER,AM,29-074,90,65,77,84.4,919,264,34,39,87.2,19,22,86.4,4,6,66.7,0,0.2,0.2,4,7,2,0,9
+4,Jack Wilshere,10.0,eng ENG,"CM,AM",25-361,90,60,64,93.8,899,258,32,34,94.1,19,20,95.0,5,6,83.3,1,0.6,0.2,1,7,1,0,9
+5,Granit Xhaka,29.0,ch SUI,CM,25-092,86,65,74,87.8,1112,326,35,37,94.6,22,24,91.7,7,9,77.8,0,0.0,0.1,0,8,0,0,10
+6,Ainsley Maitland-Niles,30.0,eng ENG,CM,20-121,4,2,3,66.7,11,7,1,1,100.0,0,0,,0,0,,0,0.0,0.0,0,1,0,0,0
+7,Sead Kolašinac,31.0,ba BIH,WB,24-191,90,65,79,82.3,1017,317,32,37,86.5,25,29,86.2,4,7,57.1,0,0.1,0.1,1,6,0,0,12
+8,Héctor Bellerín,24.0,es ESP,WB,22-284,90,44,61,72.1,639,246,23,27,85.2,16,23,69.6,2,4,50.0,0,0.1,0.1,1,1,3,0,3
+9,Laurent Koscielny,6.0,fr FRA,CB,32-109,90,67,76,88.2,1365,352,16,16,100.0,42,48,87.5,8,10,80.0,0,0.0,0.0,0,5,0,0,5
+10,Shkodran Mustafi,20.0,de GER,CB,25-255,90,68,75,90.7,1615,760,7,9,77.8,50,54,92.6,11,11,100.0,0,0.0,0.0,1,6,1,0,4
+11,Calum Chambers,21.0,eng ENG,CB,22-342,90,47,57,82.5,757,166,22,26,84.6,21,25,84.0,3,4,75.0,0,0.0,0.0,1,3,1,0,1
+12,Petr Čech,33.0,cz CZE,GK,35-222,90,18,29,62.1,454,328,5,5,100.0,9,9,100.0,4,15,26.7,0,0.0,0.0,0,0,0,0,0
+13,13 Players,,,,,990,580,698,83.1,9913,3356,249,281,88.6,248,286,86.7,53,78,67.9,2,1.5,1.5,11,48,14,1,66

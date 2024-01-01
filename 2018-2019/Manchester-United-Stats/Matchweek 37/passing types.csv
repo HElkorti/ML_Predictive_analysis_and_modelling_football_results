@@ -1,0 +1,17 @@
+,Unnamed: 0_level_0,Unnamed: 1_level_0,Unnamed: 2_level_0,Unnamed: 3_level_0,Unnamed: 4_level_0,Unnamed: 5_level_0,Unnamed: 6_level_0,Pass Types,Pass Types,Pass Types,Pass Types,Pass Types,Pass Types,Pass Types,Pass Types,Corner Kicks,Corner Kicks,Corner Kicks,Outcomes,Outcomes,Outcomes
+,Player,#,Nation,Pos,Age,Min,Att,Live,Dead,FK,TB,Sw,Crs,TI,CK,In,Out,Str,Cmp,Off,Blocks
+0,Alexis Sánchez,7.0,cl CHI,FW,30-137,53,26,26,0,0,1,0,1,0,0,0,0,0,20,0,0
+1,Tahith Chong,44.0,nl NED,FW,19-152,37,15,15,0,0,0,0,0,0,0,0,0,0,12,0,1
+2,Marcus Rashford,10.0,eng ENG,FW,21-186,90,35,34,1,0,0,2,1,1,0,0,0,0,24,0,0
+3,Juan Mata,8.0,es ESP,AM,31-007,90,52,47,5,0,1,0,6,0,3,0,2,1,44,0,0
+4,Paul Pogba,6.0,fr FRA,LM,26-051,90,55,53,1,0,2,2,1,1,0,0,0,0,41,1,2
+5,Nemanja Matić,31.0,rs SRB,CM,30-277,52,54,52,2,2,0,1,0,0,0,0,0,0,47,0,2
+6,Ander Herrera,21.0,es ESP,CM,29-264,38,48,47,1,1,0,0,0,0,0,0,0,0,44,0,1
+7,Scott McTominay,39.0,sct SCO,RM,22-148,90,29,29,0,0,0,0,0,0,0,0,0,0,26,0,0
+8,Luke Shaw,23.0,eng ENG,LB,23-297,90,80,69,11,1,0,0,1,10,0,0,0,0,63,0,4
+9,Phil Jones,4.0,eng ENG,CB,27-073,90,82,81,1,1,0,0,0,0,0,0,0,0,74,0,1
+10,Victor Lindelöf,2.0,se SWE,CB,24-292,82,58,56,2,1,0,0,0,1,0,0,0,0,52,0,0
+11,Diogo Dalot,20.0,pt POR,RB,20-048,8,15,13,2,0,0,0,3,2,0,0,0,0,10,0,1
+12,Ashley Young,18.0,eng ENG,"RB,CB",33-300,90,77,57,20,3,0,0,5,13,4,0,3,0,66,0,1
+13,David de Gea,1.0,es ESP,GK,28-179,90,24,19,5,1,0,0,0,0,0,0,0,0,22,0,0
+14,14 Players,,,,,990,650,598,51,10,4,5,18,28,7,0,5,1,545,1,13

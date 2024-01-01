@@ -1,0 +1,17 @@
+,Unnamed: 0_level_0,Unnamed: 1_level_0,Unnamed: 2_level_0,Unnamed: 3_level_0,Unnamed: 4_level_0,Unnamed: 5_level_0,Unnamed: 6_level_0,Pass Types,Pass Types,Pass Types,Pass Types,Pass Types,Pass Types,Pass Types,Pass Types,Corner Kicks,Corner Kicks,Corner Kicks,Outcomes,Outcomes,Outcomes
+,Player,#,Nation,Pos,Age,Min,Att,Live,Dead,FK,TB,Sw,Crs,TI,CK,In,Out,Str,Cmp,Off,Blocks
+0,Bernardo Silva,20.0,pt POR,FW,23-240,71,22,22,0,0,0,0,0,0,0,0,0,0,17,0,0
+1,Gabriel Jesus,33.0,br BRA,FW,21-004,19,5,5,0,0,0,0,0,0,0,0,0,0,5,0,0
+2,Leroy Sané,19.0,de GER,"LW,LM",22-086,90,39,36,3,0,0,0,5,1,2,0,2,0,32,0,0
+3,Raheem Sterling,7.0,eng ENG,"RW,RM",23-120,90,28,25,3,0,2,0,0,0,0,0,0,0,24,0,2
+4,David Silva,21.0,es ESP,LM,32-089,71,61,61,0,0,2,0,0,0,0,0,0,0,49,0,3
+5,Kevin De Bruyne,17.0,be BEL,"AM,RM",26-283,19,23,18,5,0,0,2,7,0,5,0,5,0,17,0,0
+6,Fernandinho,25.0,br BRA,"CM,DM",32-338,90,82,80,2,2,2,0,0,0,0,0,0,0,73,0,0
+7,İlkay Gündoğan,8.0,de GER,"RM,LM",27-165,75,40,37,3,1,0,0,1,0,1,0,1,0,38,0,0
+8,Sergio Agüero,10.0,ar ARG,FW,29-309,15,4,4,0,0,0,0,0,0,0,0,0,0,3,0,1
+9,Fabian Delph,18.0,eng ENG,LB,28-137,90,86,75,11,0,0,0,1,11,0,0,0,0,76,0,0
+10,Nicolás Otamendi,30.0,ar ARG,CB,30-054,90,89,87,2,2,0,1,0,0,0,0,0,0,79,0,0
+11,Vincent Kompany,4.0,be BEL,CB,31-362,90,70,69,1,1,0,1,0,0,0,0,0,0,62,0,0
+12,Danilo,3.0,br BRA,RB,26-266,90,58,45,13,2,0,0,2,11,0,0,0,0,45,0,2
+13,Ederson,31.0,br BRA,GK,24-233,90,35,28,7,2,0,1,0,0,0,0,0,0,29,0,0
+14,14 Players,,,,,990,642,592,50,10,6,5,16,23,8,0,8,0,549,0,8

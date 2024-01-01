@@ -1,0 +1,17 @@
+,Unnamed: 0_level_0,Unnamed: 1_level_0,Unnamed: 2_level_0,Unnamed: 3_level_0,Unnamed: 4_level_0,Unnamed: 5_level_0,Unnamed: 6_level_0,Pass Types,Pass Types,Pass Types,Pass Types,Pass Types,Pass Types,Pass Types,Pass Types,Corner Kicks,Corner Kicks,Corner Kicks,Outcomes,Outcomes,Outcomes
+,Player,#,Nation,Pos,Age,Min,Att,Live,Dead,FK,TB,Sw,Crs,TI,CK,In,Out,Str,Cmp,Off,Blocks
+0,Marcus Rashford,10.0,eng ENG,FW,21-052,78,23,22,1,0,0,0,0,0,0,0,0,0,21,0,1
+1,Fred,17.0,br BRA,DM,25-292,12,24,23,1,1,0,0,0,0,0,0,0,0,22,0,1
+2,Anthony Martial,11.0,fr FRA,"LW,FW",23-017,86,51,51,0,0,0,0,1,0,0,0,0,0,45,0,3
+3,Andreas Pereira,15.0,br BRA,LW,22-355,4,3,3,0,0,0,0,0,0,0,0,0,0,3,0,0
+4,Jesse Lingard,14.0,eng ENG,"RW,LW,FW",26-007,90,61,60,1,0,0,0,0,0,0,0,0,0,53,0,2
+5,Paul Pogba,6.0,fr FRA,"LM,AM",25-282,90,100,100,0,0,1,2,0,0,0,0,0,0,84,0,1
+6,Nemanja Matić,31.0,rs SRB,"CM,DM",30-143,86,77,74,3,3,0,2,0,0,0,0,0,0,70,0,0
+7,Marouane Fellaini,27.0,be BEL,DM,31-030,4,3,3,0,0,0,0,0,0,0,0,0,0,3,0,0
+8,Ander Herrera,21.0,es ESP,"RM,RW",29-130,90,76,76,0,0,0,0,0,0,0,0,0,0,68,0,0
+9,Luke Shaw,23.0,eng ENG,LB,23-163,90,71,56,15,2,0,0,0,13,0,0,0,0,62,0,2
+10,Phil Jones,4.0,eng ENG,CB,26-304,90,58,57,1,1,0,0,0,0,0,0,0,0,55,0,0
+11,Victor Lindelöf,2.0,se SWE,CB,24-158,90,47,47,0,0,1,0,0,0,0,0,0,0,36,0,0
+12,Ashley Young,18.0,eng ENG,RB,33-166,90,48,30,18,3,0,1,8,8,7,2,4,0,33,0,3
+13,David de Gea,1.0,es ESP,GK,28-045,90,29,15,14,4,0,0,0,0,0,0,0,0,18,0,0
+14,14 Players,,,,,990,671,617,54,14,2,5,9,21,7,2,4,0,573,0,13

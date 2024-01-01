@@ -1,0 +1,17 @@
+,Unnamed: 0_level_0,Unnamed: 1_level_0,Unnamed: 2_level_0,Unnamed: 3_level_0,Unnamed: 4_level_0,Unnamed: 5_level_0,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Aerial Duels,Aerial Duels,Aerial Duels
+,Player,#,Nation,Pos,Age,Min,CrdY,CrdR,2CrdY,Fls,Fld,Off,Crs,Int,TklW,PKwon,PKcon,OG,Recov,Won,Lost,Won%
+0,Marcus Rashford,10.0,eng ENG,FW,21-193,90,0,0,0,0,1,1,1,0,0,0,0,0,2,2,0,100.0
+1,Mason Greenwood,54.0,eng ENG,FW,17-223,90,0,0,0,0,0,2,1,0,3,0,0,0,4,0,1,0.0
+2,Jesse Lingard,14.0,eng ENG,AM,26-148,90,1,0,0,2,2,0,0,0,1,0,0,0,5,0,0,
+3,Paul Pogba,6.0,fr FRA,"LM,CM",26-058,90,1,0,0,0,0,0,0,1,0,0,0,0,11,2,4,33.3
+4,Scott McTominay,39.0,sct SCO,"CM,CB",22-155,90,0,0,0,1,2,0,0,5,0,0,0,0,14,1,5,16.7
+5,Andreas Pereira,15.0,br BRA,RM,23-131,73,1,0,0,1,0,0,0,1,0,0,0,0,7,0,1,0.0
+6,Angel Gomes,47.0,eng ENG,RM,18-254,17,0,0,0,0,0,0,1,0,0,0,0,0,1,0,0,
+7,Ashley Young,18.0,eng ENG,LB,33-307,90,0,0,0,1,0,0,12,4,2,0,0,0,5,1,0,100.0
+8,Phil Jones,4.0,eng ENG,CB,27-080,45,0,0,0,0,0,0,0,1,0,0,0,0,4,2,1,66.7
+9,Anthony Martial,11.0,fr FRA,"LM,CB",23-158,45,0,0,0,0,0,0,0,0,0,0,0,0,2,0,2,0.0
+10,Chris Smalling,12.0,eng ENG,CB,29-171,90,0,0,0,2,0,0,0,3,2,0,0,0,4,9,0,100.0
+11,Diogo Dalot,20.0,pt POR,RB,20-055,73,0,0,0,2,0,0,2,0,2,0,1,0,3,1,0,100.0
+12,Antonio Valencia,25.0,ec ECU,RB,33-281,17,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,
+13,David de Gea,1.0,es ESP,GK,28-186,90,0,0,0,0,0,0,0,0,0,0,0,0,2,1,0,100.0
+14,14 Players,,,,,990,3,0,0,9,5,3,17,15,10,0,1,0,65,19,14,57.6

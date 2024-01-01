@@ -1,0 +1,17 @@
+,Unnamed: 0_level_0,Unnamed: 1_level_0,Unnamed: 2_level_0,Unnamed: 3_level_0,Unnamed: 4_level_0,Unnamed: 5_level_0,Unnamed: 6_level_0,Pass Types,Pass Types,Pass Types,Pass Types,Pass Types,Pass Types,Pass Types,Pass Types,Corner Kicks,Corner Kicks,Corner Kicks,Outcomes,Outcomes,Outcomes
+,Player,#,Nation,Pos,Age,Min,Att,Live,Dead,FK,TB,Sw,Crs,TI,CK,In,Out,Str,Cmp,Off,Blocks
+0,Marko Arnautović,7.0,at AUT,"FW,RM",29-003,90,18,18,0,0,0,0,1,0,0,0,0,0,11,0,1
+1,João Mário,18.0,pt POR,AM,25-093,59,23,19,4,0,1,0,4,0,4,4,0,0,17,0,1
+2,Javier Hernández,17.0,mx MEX,FW,29-325,31,6,6,0,0,0,0,0,0,0,0,0,0,4,0,0
+3,Edimilson Fernandes,31.0,ch SUI,AM,22-007,59,10,10,0,0,0,0,0,0,0,0,0,0,6,0,1
+4,Manuel Lanzini,10.0,ar ARG,"AM,LM",25-066,31,17,14,3,1,0,0,3,0,2,2,0,0,13,0,0
+5,Mark Noble,16.0,eng ENG,CM,30-349,90,38,32,6,1,0,1,0,0,0,0,0,0,31,0,1
+6,Cheikhou Kouyaté,8.0,sn SEN,CM,28-122,90,28,28,0,0,0,0,0,0,0,0,0,0,19,0,0
+7,Arthur Masuaku,26.0,cd COD,WB,24-166,85,30,30,0,0,0,1,3,0,0,0,0,0,17,0,3
+8,Andy Carroll,9.0,eng ENG,"FW,WB",29-106,5,2,2,0,0,0,0,0,0,0,0,0,0,1,0,0
+9,Pablo Zabaleta,5.0,ar ARG,"WB,RB",33-096,90,33,22,11,0,0,0,2,11,0,0,0,0,20,0,1
+10,Aaron Cresswell,3.0,eng ENG,"CB,LB",28-128,90,48,38,10,2,0,1,3,8,0,0,0,0,33,0,0
+11,Angelo Ogbonna,21.0,it ITA,CB,29-334,90,25,25,0,0,0,0,0,0,0,0,0,0,20,0,3
+12,Declan Rice,41.0,eng ENG,CB,19-098,90,25,22,2,2,0,0,0,0,0,0,0,0,17,1,1
+13,Joe Hart,25.0,eng ENG,GK,31-003,90,33,17,16,5,0,0,0,0,0,0,0,0,10,0,0
+14,14 Players,,,,,990,336,283,52,11,1,3,16,19,6,6,0,0,219,1,12

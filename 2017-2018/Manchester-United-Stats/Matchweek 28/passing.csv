@@ -1,0 +1,16 @@
+,Unnamed: 0_level_0,Unnamed: 1_level_0,Unnamed: 2_level_0,Unnamed: 3_level_0,Unnamed: 4_level_0,Unnamed: 5_level_0,Total,Total,Total,Total,Total,Short,Short,Short,Medium,Medium,Medium,Long,Long,Long,Unnamed: 20_level_0,Unnamed: 21_level_0,Unnamed: 22_level_0,Unnamed: 23_level_0,Unnamed: 24_level_0,Unnamed: 25_level_0,Unnamed: 26_level_0,Unnamed: 27_level_0
+,Player,#,Nation,Pos,Age,Min,Cmp,Att,Cmp%,TotDist,PrgDist,Cmp,Att,Cmp%,Cmp,Att,Cmp%,Cmp,Att,Cmp%,Ast,xAG,xA,KP,1/3,PPA,CrsPA,PrgP
+0,Anthony Martial,11.0,fr FRA,FW,22-082,63,23,33,69.7,240,33,14,18,77.8,6,8,75.0,0,0,,1,0.5,0.3,2,1,1,0,1
+1,Jesse Lingard,14.0,eng ENG,"LM,RM",25-072,27,6,8,75.0,76,16,4,4,100.0,2,3,66.7,0,1,0.0,0,0.0,0.0,1,0,0,0,0
+2,Romelu Lukaku,9.0,be BEL,FW,24-288,90,18,23,78.3,211,39,6,7,85.7,8,9,88.9,0,0,,1,0.2,0.2,1,0,2,1,1
+3,Alexis Sánchez,7.0,cl CHI,AM,29-068,80,30,42,71.4,502,171,14,16,87.5,13,17,76.5,3,5,60.0,0,0.1,0.2,1,3,3,1,7
+4,Eric Bailly,3.0,ci CIV,CB,23-319,10,0,0,,0,0,0,0,,0,0,,0,0,,0,0.0,0.0,0,0,0,0,0
+5,Paul Pogba,6.0,fr FRA,LM,24-347,90,56,68,82.4,808,266,32,36,88.9,14,15,93.3,6,9,66.7,0,0.0,0.0,0,13,0,0,9
+6,Scott McTominay,39.0,sct SCO,"RM,CM",21-079,90,35,43,81.4,522,165,20,21,95.2,13,15,86.7,1,4,25.0,0,0.0,0.0,0,3,0,0,6
+7,Nemanja Matić,31.0,rs SRB,"DM,CM",29-208,90,70,77,90.9,1244,323,26,27,96.3,31,34,91.2,9,12,75.0,0,0.0,0.1,1,7,1,0,6
+8,Ashley Young,18.0,eng ENG,LB,32-231,90,40,56,71.4,491,179,20,25,80.0,8,11,72.7,4,9,44.4,0,0.1,0.1,1,4,0,0,2
+9,Victor Lindelöf,2.0,se SWE,CB,23-223,90,32,39,82.1,577,196,11,13,84.6,16,19,84.2,4,5,80.0,0,0.0,0.0,0,1,0,0,2
+10,Chris Smalling,12.0,eng ENG,CB,28-095,90,19,23,82.6,363,153,6,6,100.0,9,13,69.2,3,3,100.0,0,0.0,0.0,0,1,0,0,1
+11,Antonio Valencia,25.0,ec ECU,RB,32-205,90,26,32,81.3,402,136,11,14,78.6,8,8,100.0,4,7,57.1,0,0.0,0.0,2,3,1,1,1
+12,David de Gea,1.0,es ESP,GK,27-110,90,18,26,69.2,546,408,5,5,100.0,4,4,100.0,8,16,50.0,0,0.0,0.0,0,0,0,0,0
+13,13 Players,,,,,990,373,470,79.4,5982,2085,169,192,88.0,132,156,84.6,42,71,59.2,2,1.1,0.9,9,36,8,3,36

@@ -1,0 +1,17 @@
+,Unnamed: 0_level_0,Unnamed: 1_level_0,Unnamed: 2_level_0,Unnamed: 3_level_0,Unnamed: 4_level_0,Unnamed: 5_level_0,Touches,Touches,Touches,Touches,Touches,Touches,Touches,Take-Ons,Take-Ons,Take-Ons,Take-Ons,Take-Ons,Carries,Carries,Carries,Carries,Carries,Carries,Carries,Carries,Receiving,Receiving
+,Player,#,Nation,Pos,Age,Min,Touches,Def Pen,Def 3rd,Mid 3rd,Att 3rd,Att Pen,Live,Att,Succ,Succ%,Tkld,Tkld%,Carries,TotDist,PrgDist,PrgC,1/3,CPA,Mis,Dis,Rec,PrgR
+0,Son Heung-min,7.0,kr KOR,"FW,RW",25-161,76,23,0,2,6,15,0,23,2,1,50.0,1,50.0,13,89,21,0,1,0,2,1,20,7
+1,Érik Lamela,11.0,ar ARG,RW,25-287,14,6,1,1,4,1,1,6,1,1,100.0,0,0.0,5,29,24,1,0,0,1,1,5,0
+2,Harry Kane,10.0,eng ENG,FW,24-141,90,36,2,2,17,17,3,36,4,2,50.0,2,50.0,21,130,34,1,2,0,2,1,26,6
+3,Dele Alli,20.0,eng ENG,AM,21-249,83,33,0,6,14,13,0,33,1,0,0.0,1,100.0,19,148,11,0,0,0,2,2,23,1
+4,Moussa Sissoko,17.0,fr FRA,AM,28-122,7,2,0,0,2,0,0,2,0,0,,0,,3,43,25,1,1,0,0,0,4,0
+5,Harry Winks,29.0,eng ENG,"LM,DM",21-317,90,50,0,9,33,8,1,50,2,2,100.0,0,0.0,29,136,13,0,2,0,5,1,33,3
+6,Christian Eriksen,23.0,dk DEN,"RM,LW",25-305,90,46,1,3,26,17,1,46,0,0,,0,,25,145,64,3,1,1,2,2,32,5
+7,Mousa Dembélé,19.0,be BEL,DM,30-153,90,46,1,13,29,5,0,46,2,2,100.0,0,0.0,25,189,101,0,0,0,3,2,24,0
+8,Danny Rose,3.0,eng ENG,LB,27-167,88,70,4,25,35,10,0,70,3,2,66.7,1,33.3,24,103,59,1,1,0,3,2,36,3
+9,Ben Davies,33.0,wls WAL,LB,24-236,2,0,0,0,0,0,0,0,0,0,,0,,0,0,0,0,0,0,0,0,0,0
+10,Jan Vertonghen,5.0,be BEL,CB,30-236,90,69,7,49,19,1,0,69,4,3,75.0,1,25.0,26,111,16,0,1,1,0,0,47,0
+11,Eric Dier,15.0,eng ENG,CB,23-335,90,61,9,46,16,0,0,61,0,0,,0,,26,88,36,0,0,0,2,0,38,0
+12,Kieran Trippier,2.0,eng ENG,RB,27-088,90,66,0,21,30,15,0,66,0,0,,0,,19,54,13,0,1,0,3,0,35,5
+13,Hugo Lloris,1.0,fr FRA,GK,30-355,90,55,49,55,0,0,0,55,0,0,,0,,17,73,33,0,0,0,0,0,28,0
+14,14 Players,,,,,990,563,74,232,231,102,6,563,19,13,68.4,6,31.6,252,1338,450,7,10,2,25,12,351,30

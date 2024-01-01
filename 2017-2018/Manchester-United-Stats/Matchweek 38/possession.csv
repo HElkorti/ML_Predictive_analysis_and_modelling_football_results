@@ -1,0 +1,17 @@
+,Unnamed: 0_level_0,Unnamed: 1_level_0,Unnamed: 2_level_0,Unnamed: 3_level_0,Unnamed: 4_level_0,Unnamed: 5_level_0,Touches,Touches,Touches,Touches,Touches,Touches,Touches,Take-Ons,Take-Ons,Take-Ons,Take-Ons,Take-Ons,Carries,Carries,Carries,Carries,Carries,Carries,Carries,Carries,Receiving,Receiving
+,Player,#,Nation,Pos,Age,Min,Touches,Def Pen,Def 3rd,Mid 3rd,Att 3rd,Att Pen,Live,Att,Succ,Succ%,Tkld,Tkld%,Carries,TotDist,PrgDist,PrgC,1/3,CPA,Mis,Dis,Rec,PrgR
+0,Marcus Rashford,19.0,eng ENG,FW,20-194,90,52,2,3,17,32,3,52,3,1,33.3,2,66.7,31,183,64,2,1,0,4,3,45,11
+1,Alexis Sánchez,7.0,cl CHI,LW,29-145,90,60,0,8,23,30,4,60,3,3,100.0,0,0.0,36,288,156,5,7,1,5,3,48,8
+2,Juan Mata,8.0,es ESP,RW,30-015,90,57,0,9,25,23,3,57,0,0,,0,,34,180,101,4,0,1,3,0,48,6
+3,Daley Blind,17.0,nl NED,LM,28-065,76,61,2,8,46,8,0,61,0,0,,0,,41,187,126,2,0,0,2,1,46,0
+4,Ander Herrera,21.0,es ESP,"CM,LM",28-272,14,10,2,5,1,4,1,10,0,0,,0,,2,2,1,0,0,0,0,0,7,2
+5,Michael Carrick,16.0,eng ENG,CM,36-289,84,77,6,17,56,5,0,77,2,2,100.0,0,0.0,50,169,99,0,0,0,0,1,57,1
+6,Paul Pogba,6.0,fr FRA,RM,25-059,6,3,0,2,1,0,0,3,0,0,,0,,1,0,0,0,0,0,1,0,2,0
+7,Scott McTominay,39.0,sct SCO,"RM,LM",21-156,90,41,1,9,25,7,0,41,2,2,100.0,0,0.0,22,116,44,1,1,0,0,3,26,1
+8,Ashley Young,18.0,eng ENG,LB,32-308,59,46,4,15,18,13,0,46,3,1,33.3,2,66.7,28,217,135,4,5,1,1,3,27,4
+9,Luke Shaw,23.0,eng ENG,LB,22-305,31,20,1,5,11,4,0,20,0,0,,0,,7,56,53,2,0,0,0,0,9,0
+10,Marcos Rojo,5.0,ar ARG,CB,28-054,90,44,10,27,15,2,1,44,0,0,,0,,18,73,31,0,0,0,1,0,20,0
+11,Eric Bailly,3.0,ci CIV,CB,24-031,90,46,4,28,17,1,0,46,1,1,100.0,0,0.0,19,93,61,0,0,0,0,0,24,0
+12,Matteo Darmian,36.0,it ITA,RB,28-162,90,68,7,25,31,13,0,68,1,1,100.0,0,0.0,27,144,95,3,0,0,1,2,27,3
+13,Sergio Romero,20.0,ar ARG,GK,31-080,90,26,22,26,0,0,0,26,0,0,,0,,12,86,67,0,0,0,0,0,8,0
+14,14 Players,,,,,990,611,61,187,286,142,12,611,15,11,73.3,4,26.7,328,1794,1033,23,14,3,18,16,394,36

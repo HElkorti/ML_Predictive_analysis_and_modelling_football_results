@@ -1,0 +1,17 @@
+,Unnamed: 0_level_0,Unnamed: 1_level_0,Unnamed: 2_level_0,Unnamed: 3_level_0,Unnamed: 4_level_0,Unnamed: 5_level_0,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Aerial Duels,Aerial Duels,Aerial Duels
+,Player,#,Nation,Pos,Age,Min,CrdY,CrdR,2CrdY,Fls,Fld,Off,Crs,Int,TklW,PKwon,PKcon,OG,Recov,Won,Lost,Won%
+0,Mohamed Salah,11.0,eg EGY,FW,26-194,90,0,0,0,1,1,0,3,0,0,1,0,0,1,0,1,0.0
+1,Sadio Mané,10.0,sn SEN,LW,26-260,90,0,0,0,0,1,1,0,0,2,0,0,0,3,0,1,0.0
+2,Xherdan Shaqiri,23.0,ch SUI,RW,27-077,90,0,0,0,0,1,0,4,1,0,0,0,0,6,1,0,100.0
+3,Roberto Firmino,9.0,br BRA,AM,27-085,68,0,0,0,2,0,0,0,0,0,0,0,0,4,0,3,0.0
+4,Daniel Sturridge,15.0,eng ENG,AM,29-116,22,0,0,0,0,0,0,0,0,1,0,0,0,1,0,0,
+5,Jordan Henderson,14.0,eng ENG,DM,28-192,90,0,0,0,2,2,0,0,1,1,0,0,0,7,0,2,0.0
+6,Georginio Wijnaldum,5.0,nl NED,DM,28-045,61,0,0,0,0,2,0,0,0,0,0,0,0,3,1,1,50.0
+7,Fabinho,3.0,br BRA,DM,25-064,29,0,0,0,0,0,0,0,1,0,0,0,0,1,2,2,50.0
+8,Andrew Robertson,26.0,sct SCO,LB,24-290,81,0,0,0,0,1,0,5,0,0,0,0,0,9,2,0,100.0
+9,Nathaniel Clyne,2.0,eng ENG,LB,27-265,9,0,0,0,0,0,0,0,1,0,0,0,0,1,0,0,
+10,Virgil van Dijk,4.0,nl NED,CB,27-171,90,0,0,0,2,0,0,0,3,0,0,0,0,8,5,0,100.0
+11,Dejan Lovren,6.0,hr CRO,CB,29-174,90,0,0,0,0,1,0,0,1,0,0,0,0,3,5,4,55.6
+12,Trent Alexander-Arnold,66.0,eng ENG,RB,20-080,90,0,0,0,0,1,0,14,1,0,0,0,0,4,0,2,0.0
+13,Alisson,13.0,br BRA,GK,26-085,90,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,
+14,14 Players,,,,,990,0,0,0,7,10,1,26,9,4,1,0,0,53,16,16,50.0

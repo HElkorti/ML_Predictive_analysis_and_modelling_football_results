@@ -1,0 +1,17 @@
+,Unnamed: 0_level_0,Unnamed: 1_level_0,Unnamed: 2_level_0,Unnamed: 3_level_0,Unnamed: 4_level_0,Unnamed: 5_level_0,Tackles,Tackles,Tackles,Tackles,Tackles,Challenges,Challenges,Challenges,Challenges,Blocks,Blocks,Blocks,Unnamed: 18_level_0,Unnamed: 19_level_0,Unnamed: 20_level_0,Unnamed: 21_level_0
+,Player,#,Nation,Pos,Age,Min,Tkl,TklW,Def 3rd,Mid 3rd,Att 3rd,Tkl,Att,Tkl%,Lost,Blocks,Sh,Pass,Int,Tkl+Int,Clr,Err
+0,Roberto Firmino,9.0,br BRA,FW,26-194,89,4,4,0,2,2,0,0,,0,1,0,1,0,4,0,0
+1,Dominic Solanke,29.0,eng ENG,FW,20-212,1,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,0
+2,Sadio Mané,19.0,sn SEN,LW,26-004,76,1,0,0,1,0,0,1,0.0,1,0,0,0,0,1,0,0
+3,James Milner,7.0,eng ENG,LM,32-100,14,0,0,0,0,0,0,1,0.0,1,1,1,0,0,0,0,0
+4,Mohamed Salah,11.0,eg EGY,RW,25-303,90,0,0,0,0,0,0,1,0.0,1,0,0,0,0,0,0,0
+5,Georginio Wijnaldum,5.0,nl NED,"LM,RM",27-154,90,4,4,0,3,1,1,1,100.0,0,0,0,0,0,4,1,0
+6,Jordan Henderson,14.0,eng ENG,CM,27-301,90,5,2,0,5,0,3,4,75.0,1,0,0,0,3,8,2,0
+7,Alex Oxlade-Chamberlain,21.0,eng ENG,"RM,LW",24-242,90,5,4,1,4,0,1,1,100.0,0,4,0,4,0,5,0,0
+8,Andrew Robertson,26.0,sct SCO,LB,24-034,90,1,1,0,0,1,0,0,,0,1,0,1,1,2,3,0
+9,Virgil van Dijk,4.0,nl NED,CB,26-280,90,1,0,1,0,0,1,1,100.0,0,2,0,2,1,2,8,0
+10,Dejan Lovren,6.0,hr CRO,CB,28-283,82,3,2,2,1,0,2,2,100.0,0,0,0,0,2,5,6,0
+11,Ragnar Klavan,17.0,ee EST,CB,32-166,8,0,0,0,0,0,0,0,,0,0,0,0,0,0,2,0
+12,Trent Alexander-Arnold,66.0,eng ENG,RB,19-189,90,2,1,1,1,0,2,3,66.7,1,3,2,1,3,5,1,0
+13,Loris Karius,1.0,de GER,GK,24-296,90,0,0,0,0,0,0,0,,0,0,0,0,0,0,1,0
+14,14 Players,,,,,990,26,18,5,17,4,10,15,66.7,5,12,3,9,10,36,24,0

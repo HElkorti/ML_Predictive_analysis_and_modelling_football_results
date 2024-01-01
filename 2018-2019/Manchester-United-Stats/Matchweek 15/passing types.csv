@@ -1,0 +1,17 @@
+,Unnamed: 0_level_0,Unnamed: 1_level_0,Unnamed: 2_level_0,Unnamed: 3_level_0,Unnamed: 4_level_0,Unnamed: 5_level_0,Unnamed: 6_level_0,Pass Types,Pass Types,Pass Types,Pass Types,Pass Types,Pass Types,Pass Types,Pass Types,Corner Kicks,Corner Kicks,Corner Kicks,Outcomes,Outcomes,Outcomes
+,Player,#,Nation,Pos,Age,Min,Att,Live,Dead,FK,TB,Sw,Crs,TI,CK,In,Out,Str,Cmp,Off,Blocks
+0,Anthony Martial,11.0,fr FRA,FW,23-000,62,20,20,0,0,0,0,0,0,0,0,0,0,17,0,0
+1,Romelu Lukaku,9.0,be BEL,FW,25-206,28,3,3,0,0,0,0,0,0,0,0,0,0,1,0,0
+2,Marcus Rashford,10.0,eng ENG,"FW,LW",21-035,90,25,17,8,2,0,0,4,1,4,3,1,0,18,0,0
+3,Jesse Lingard,14.0,eng ENG,"AM,RW",25-355,74,27,25,2,0,0,0,0,0,0,0,0,0,21,0,0
+4,Paul Pogba,6.0,fr FRA,AM,25-265,16,11,11,0,0,0,0,1,0,0,0,0,0,8,0,0
+5,Nemanja Matić,31.0,rs SRB,CM,30-126,90,80,77,2,2,0,0,1,0,0,0,0,0,67,1,1
+6,Ander Herrera,21.0,es ESP,"CM,RM",29-113,90,48,48,0,0,0,0,0,0,0,0,0,0,44,0,0
+7,Matteo Darmian,36.0,it ITA,"WB,LB",29-003,90,36,27,9,0,0,0,0,9,0,0,0,0,30,0,0
+8,Diogo Dalot,20.0,pt POR,"WB,RB",19-262,90,54,42,12,0,0,0,4,12,0,0,0,0,41,0,3
+9,Marcos Rojo,16.0,ar ARG,CB,28-260,71,56,55,1,1,0,1,1,0,0,0,0,0,38,0,0
+10,Marouane Fellaini,27.0,be BEL,LM,31-013,19,8,8,0,0,0,0,0,0,0,0,0,0,6,0,0
+11,Chris Smalling,12.0,eng ENG,CB,29-013,90,34,32,2,2,0,1,0,0,0,0,0,0,33,0,0
+12,Eric Bailly,3.0,ci CIV,CB,24-237,90,47,47,0,0,0,1,0,0,0,0,0,0,39,0,0
+13,David de Gea,1.0,es ESP,GK,28-028,90,34,24,9,4,0,0,0,0,0,0,0,0,17,1,0
+14,14 Players,,,,,990,483,436,45,11,0,3,11,22,4,3,1,0,380,2,4

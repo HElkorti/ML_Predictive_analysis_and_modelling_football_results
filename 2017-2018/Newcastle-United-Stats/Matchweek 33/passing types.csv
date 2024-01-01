@@ -1,0 +1,17 @@
+,Unnamed: 0_level_0,Unnamed: 1_level_0,Unnamed: 2_level_0,Unnamed: 3_level_0,Unnamed: 4_level_0,Unnamed: 5_level_0,Unnamed: 6_level_0,Pass Types,Pass Types,Pass Types,Pass Types,Pass Types,Pass Types,Pass Types,Pass Types,Corner Kicks,Corner Kicks,Corner Kicks,Outcomes,Outcomes,Outcomes
+,Player,#,Nation,Pos,Age,Min,Att,Live,Dead,FK,TB,Sw,Crs,TI,CK,In,Out,Str,Cmp,Off,Blocks
+0,Dwight Gayle,9.0,eng ENG,FW,27-172,69,15,15,0,0,0,0,0,0,0,0,0,0,12,0,0
+1,Joselu,21.0,es ESP,FW,28-011,21,7,6,1,0,0,0,0,0,0,0,0,0,7,0,0
+2,Ayoze Pérez,17.0,es ESP,FW,24-252,90,32,30,1,0,2,0,0,0,0,0,0,0,17,1,0
+3,Kenedy,15.0,br BRA,LM,22-058,63,20,16,4,1,0,1,4,0,3,3,0,0,14,0,1
+4,Christian Atsu,30.0,gh GHA,LM,26-087,27,9,9,0,0,0,0,0,0,0,0,0,0,3,0,3
+5,Jonjo Shelvey,8.0,eng ENG,CM,26-039,90,37,32,4,2,0,0,2,0,2,1,1,0,20,1,0
+6,Mohamed Diamé,10.0,sn SEN,CM,30-297,80,27,27,0,0,0,0,0,0,0,0,0,0,17,0,1
+7,Isaac Hayden,14.0,eng ENG,CM,23-016,10,2,2,0,0,0,0,0,0,0,0,0,0,0,0,0
+8,Matt Ritchie,11.0,sct SCO,RM,28-209,90,33,31,2,2,0,0,2,0,0,0,0,0,22,0,2
+9,Paul Dummett,3.0,wls WAL,LB,26-193,90,50,35,15,0,0,0,3,15,0,0,0,0,22,0,3
+10,Florian Lejeune,20.0,fr FRA,CB,26-322,90,20,19,1,1,0,0,0,0,0,0,0,0,14,0,0
+11,Jamaal Lascelles,6.0,eng ENG,CB,24-147,90,14,13,0,0,0,0,0,0,0,0,0,0,9,1,1
+12,DeAndre Yedlin,22.0,us USA,RB,24-272,90,25,13,12,0,0,1,0,12,0,0,0,0,17,0,1
+13,Martin Dúbravka,12.0,sk SVK,GK,29-082,90,22,8,14,3,0,0,0,0,0,0,0,0,9,0,0
+14,14 Players,,,,,990,313,256,54,9,2,2,11,27,5,4,1,0,183,3,12

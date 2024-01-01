@@ -1,0 +1,17 @@
+,Unnamed: 0_level_0,Unnamed: 1_level_0,Unnamed: 2_level_0,Unnamed: 3_level_0,Unnamed: 4_level_0,Unnamed: 5_level_0,Touches,Touches,Touches,Touches,Touches,Touches,Touches,Take-Ons,Take-Ons,Take-Ons,Take-Ons,Take-Ons,Carries,Carries,Carries,Carries,Carries,Carries,Carries,Carries,Receiving,Receiving
+,Player,#,Nation,Pos,Age,Min,Touches,Def Pen,Def 3rd,Mid 3rd,Att 3rd,Att Pen,Live,Att,Succ,Succ%,Tkld,Tkld%,Carries,TotDist,PrgDist,PrgC,1/3,CPA,Mis,Dis,Rec,PrgR
+0,Andre Gray,18.0,jm JAM,FW,26-082,73,17,0,0,7,10,1,17,0,0,,0,,11,27,7,0,0,0,3,0,12,6
+1,Troy Deeney,9.0,eng ENG,FW,29-079,17,9,0,1,7,1,0,9,1,0,0.0,1,100.0,5,16,5,0,0,0,0,0,7,0
+2,Richarlison,11.0,br BRA,LW,20-129,90,40,2,10,14,16,4,40,6,3,50.0,3,50.0,26,135,27,0,3,0,3,4,30,7
+3,André Carrillo,28.0,pe PER,RW,26-094,90,44,5,18,16,10,2,44,7,4,57.1,3,42.9,30,196,120,3,4,1,0,1,26,2
+4,Tom Cleverley,8.0,eng ENG,AM,28-035,63,28,0,4,21,3,0,28,0,0,,0,,14,39,15,0,0,0,1,0,16,2
+5,Roberto Pereyra,37.0,ar ARG,AM,26-252,27,14,0,3,10,1,0,14,0,0,,0,,8,30,13,0,0,0,0,1,8,0
+6,Nathaniel Chalobah,14.0,eng ENG,DM,22-278,69,32,3,8,20,5,1,32,4,2,50.0,2,50.0,19,74,23,1,0,0,3,0,16,0
+7,Étienne Capoue,29.0,fr FRA,DM,29-067,21,16,1,4,10,2,1,16,0,0,,0,,13,32,13,0,0,0,0,1,14,0
+8,Abdoulaye Doucouré,16.0,ml MLI,DM,24-258,90,48,5,21,23,4,0,48,1,1,100.0,0,0.0,28,133,49,1,0,0,1,1,28,0
+9,José Holebas,25.0,gr GRE,LB,33-081,90,52,2,13,27,14,0,52,2,1,50.0,1,50.0,25,152,102,3,2,0,1,0,20,0
+10,Christian Kabasele,27.0,be BEL,CB,26-204,90,40,11,27,12,1,1,40,0,0,,0,,20,86,41,0,1,1,0,0,22,0
+11,Adrian Mariappa,6.0,jm JAM,CB,30-348,90,36,7,27,9,0,0,36,0,0,,0,,20,50,28,0,0,0,0,0,23,0
+12,Daryl Janmaat,2.0,nl NED,RB,28-056,90,41,4,18,19,4,0,41,1,0,0.0,1,100.0,22,49,22,0,0,0,0,0,21,2
+13,Heurelho Gomes,1.0,br BRA,GK,36-213,90,31,31,31,0,0,0,31,0,0,,0,,9,48,39,0,0,0,0,0,6,0
+14,14 Players,,,,,990,448,71,185,195,71,10,448,22,11,50.0,11,50.0,250,1067,504,8,10,2,12,8,249,19

@@ -1,0 +1,17 @@
+,Unnamed: 0_level_0,Unnamed: 1_level_0,Unnamed: 2_level_0,Unnamed: 3_level_0,Unnamed: 4_level_0,Unnamed: 5_level_0,Touches,Touches,Touches,Touches,Touches,Touches,Touches,Take-Ons,Take-Ons,Take-Ons,Take-Ons,Take-Ons,Carries,Carries,Carries,Carries,Carries,Carries,Carries,Carries,Receiving,Receiving
+,Player,#,Nation,Pos,Age,Min,Touches,Def Pen,Def 3rd,Mid 3rd,Att 3rd,Att Pen,Live,Att,Succ,Succ%,Tkld,Tkld%,Carries,TotDist,PrgDist,PrgC,1/3,CPA,Mis,Dis,Rec,PrgR
+0,Marcus Rashford,19.0,eng ENG,FW,20-185,90,39,0,0,15,24,3,39,3,1,33.3,2,66.7,18,79,38,1,0,1,6,1,30,7
+1,Anthony Martial,11.0,fr FRA,LW,22-150,90,67,1,3,23,42,6,67,7,4,57.1,3,42.9,45,245,119,2,2,1,3,4,61,12
+2,Juan Mata,8.0,es ESP,RW,30-006,90,78,0,4,43,31,1,78,0,0,,0,,48,281,122,1,2,0,0,0,65,10
+3,Paul Pogba,6.0,fr FRA,"LM,DM",25-050,90,108,1,14,56,38,2,108,6,4,66.7,2,33.3,73,408,240,5,4,1,4,2,92,2
+4,Nemanja Matić,31.0,rs SRB,"CM,CB,DM",29-276,90,116,3,24,68,24,1,116,5,4,80.0,1,20.0,78,456,207,2,4,0,0,1,92,0
+5,Marouane Fellaini,27.0,be BEL,RM,30-163,67,74,3,9,54,11,3,74,1,1,100.0,0,0.0,52,200,94,1,1,0,1,0,64,2
+6,Jesse Lingard,14.0,eng ENG,AM,25-140,23,21,0,3,2,16,1,21,0,0,,0,,15,87,52,1,4,0,0,0,18,3
+7,Ashley Young,18.0,eng ENG,"LB,RB",32-299,90,74,0,23,30,21,0,74,0,0,,0,,35,102,59,1,2,0,1,1,42,3
+8,Marcos Rojo,5.0,ar ARG,CB,28-045,75,71,8,45,25,1,0,71,0,0,,0,,44,226,169,2,0,0,0,0,55,0
+9,Scott McTominay,39.0,sct SCO,DM,21-147,15,6,0,0,4,2,0,6,0,0,,0,,4,56,36,1,1,0,0,0,4,0
+10,Chris Smalling,12.0,eng ENG,CB,28-163,90,64,8,33,30,2,0,64,0,0,,0,,30,51,30,0,0,0,0,0,36,0
+11,Matteo Darmian,36.0,it ITA,RB,28-153,67,56,1,12,36,8,0,56,1,0,0.0,1,100.0,30,72,29,0,0,0,1,0,37,3
+12,Luke Shaw,23.0,eng ENG,LB,22-296,23,25,1,3,8,15,1,25,3,3,100.0,0,0.0,16,107,78,2,3,0,1,1,17,1
+13,David de Gea,1.0,es ESP,GK,27-178,90,29,28,29,0,0,0,29,0,0,,0,,11,65,38,0,0,0,0,0,12,0
+14,14 Players,,,,,990,828,54,202,394,235,18,828,26,17,65.4,9,34.6,499,2435,1311,19,23,3,17,10,625,43

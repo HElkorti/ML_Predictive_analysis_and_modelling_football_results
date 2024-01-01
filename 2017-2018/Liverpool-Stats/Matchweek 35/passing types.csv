@@ -1,0 +1,17 @@
+,Unnamed: 0_level_0,Unnamed: 1_level_0,Unnamed: 2_level_0,Unnamed: 3_level_0,Unnamed: 4_level_0,Unnamed: 5_level_0,Unnamed: 6_level_0,Pass Types,Pass Types,Pass Types,Pass Types,Pass Types,Pass Types,Pass Types,Pass Types,Corner Kicks,Corner Kicks,Corner Kicks,Outcomes,Outcomes,Outcomes
+,Player,#,Nation,Pos,Age,Min,Att,Live,Dead,FK,TB,Sw,Crs,TI,CK,In,Out,Str,Cmp,Off,Blocks
+0,Danny Ings,28.0,eng ENG,FW,25-272,65,11,11,0,0,0,1,0,0,0,0,0,0,7,0,0
+1,Roberto Firmino,9.0,br BRA,"FW,LW",26-201,25,11,10,1,0,1,0,0,0,0,0,0,0,9,0,0
+2,Sadio Mané,19.0,sn SEN,LW,26-011,65,31,30,1,0,0,0,0,0,1,0,0,0,24,0,0
+3,Alex Oxlade-Chamberlain,21.0,eng ENG,"LW,RM,RW",24-249,25,10,10,0,0,0,0,3,0,0,0,0,0,8,0,0
+4,Mohamed Salah,11.0,eg EGY,"RW,FW",25-310,83,29,27,2,0,0,1,2,0,2,2,0,0,18,0,1
+5,Dejan Lovren,6.0,hr CRO,CB,28-290,7,2,2,0,0,0,0,0,0,0,0,0,0,1,0,0
+6,James Milner,7.0,eng ENG,LM,32-107,90,80,73,6,3,0,2,6,0,1,1,0,0,64,1,1
+7,Jordan Henderson,14.0,eng ENG,CM,27-308,90,72,69,3,3,0,1,0,0,0,0,0,0,63,0,1
+8,Georginio Wijnaldum,5.0,nl NED,"RM,CM",27-161,90,43,43,0,0,0,0,0,0,0,0,0,0,40,0,0
+9,Alberto Moreno,18.0,es ESP,LB,25-290,90,54,44,10,1,0,1,1,9,0,0,0,0,43,0,2
+10,Ragnar Klavan,17.0,ee EST,CB,32-173,90,86,84,2,2,0,2,0,0,0,0,0,0,77,0,2
+11,Virgil van Dijk,4.0,nl NED,CB,26-287,90,84,84,0,0,0,0,0,0,0,0,0,0,75,0,1
+12,Joe Gomez,12.0,eng ENG,RB,20-333,90,68,62,6,1,0,1,1,5,0,0,0,0,56,0,1
+13,Loris Karius,1.0,de GER,GK,24-303,90,39,28,10,2,0,0,0,0,0,0,0,0,32,1,0
+14,14 Players,,,,,990,620,577,41,12,1,9,13,14,4,3,0,0,517,2,9

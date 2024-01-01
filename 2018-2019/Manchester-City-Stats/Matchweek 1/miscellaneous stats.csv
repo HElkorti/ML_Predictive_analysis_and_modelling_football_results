@@ -1,0 +1,17 @@
+,Unnamed: 0_level_0,Unnamed: 1_level_0,Unnamed: 2_level_0,Unnamed: 3_level_0,Unnamed: 4_level_0,Unnamed: 5_level_0,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Aerial Duels,Aerial Duels,Aerial Duels
+,Player,#,Nation,Pos,Age,Min,CrdY,CrdR,2CrdY,Fls,Fld,Off,Crs,Int,TklW,PKwon,PKcon,OG,Recov,Won,Lost,Won%
+0,Sergio Agüero,10.0,ar ARG,FW,30-071,78,0,0,0,0,2,1,0,1,1,0,0,0,2,0,1,0.0
+1,Gabriel Jesus,33.0,br BRA,FW,21-131,12,0,0,0,0,1,0,0,0,0,0,0,0,1,0,1,0.0
+2,Raheem Sterling,7.0,eng ENG,LW,23-247,86,1,0,0,3,1,0,0,1,0,0,0,0,2,0,2,0.0
+3,Leroy Sané,19.0,de GER,LW,22-213,4,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,
+4,Riyad Mahrez,26.0,dz ALG,RW,27-172,59,0,0,0,3,1,1,6,0,0,0,0,0,4,0,0,
+5,Kevin De Bruyne,17.0,be BEL,AM,27-045,31,1,0,0,2,1,0,1,0,0,0,0,0,2,0,0,
+6,Bernardo Silva,20.0,pt POR,"AM,RW",24-002,90,0,0,0,1,0,0,0,0,0,0,0,0,2,0,2,0.0
+7,Fernandinho,25.0,br BRA,DM,33-100,90,0,0,0,1,1,0,0,0,0,0,0,0,9,0,2,0.0
+8,İlkay Gündoğan,8.0,de GER,DM,27-292,90,0,0,0,0,2,0,2,2,0,0,0,0,6,1,1,50.0
+9,Benjamin Mendy,22.0,fr FRA,LB,24-026,90,0,0,0,0,0,0,4,1,2,0,0,0,6,0,3,0.0
+10,Aymeric Laporte,14.0,es ESP,CB,24-077,90,0,0,0,2,1,0,1,2,0,0,0,0,2,0,1,0.0
+11,John Stones,5.0,eng ENG,CB,24-076,90,0,0,0,1,0,0,0,1,2,0,0,0,6,3,0,100.0
+12,Kyle Walker,2.0,eng ENG,RB,28-076,90,0,0,0,1,0,0,1,4,0,0,0,0,4,3,1,75.0
+13,Ederson,31.0,br BRA,GK,24-360,90,0,0,0,0,0,0,0,0,0,0,0,0,2,1,0,100.0
+14,14 Players,,,,,990,2,0,0,14,11,2,15,12,5,0,0,0,48,8,14,36.4

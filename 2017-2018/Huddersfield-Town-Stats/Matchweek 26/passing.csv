@@ -1,0 +1,17 @@
+,Unnamed: 0_level_0,Unnamed: 1_level_0,Unnamed: 2_level_0,Unnamed: 3_level_0,Unnamed: 4_level_0,Unnamed: 5_level_0,Total,Total,Total,Total,Total,Short,Short,Short,Medium,Medium,Medium,Long,Long,Long,Unnamed: 20_level_0,Unnamed: 21_level_0,Unnamed: 22_level_0,Unnamed: 23_level_0,Unnamed: 24_level_0,Unnamed: 25_level_0,Unnamed: 26_level_0,Unnamed: 27_level_0
+,Player,#,Nation,Pos,Age,Min,Cmp,Att,Cmp%,TotDist,PrgDist,Cmp,Att,Cmp%,Cmp,Att,Cmp%,Cmp,Att,Cmp%,Ast,xAG,xA,KP,1/3,PPA,CrsPA,PrgP
+0,Laurent Depoitre,20.0,be BEL,FW,29-058,90,7,20,35.0,93,10,4,8,50.0,3,10,30.0,0,0,,0,0.0,0.0,0,0,0,0,0
+1,Rajiv van La Parra,17.0,nl NED,LM,26-244,68,11,16,68.8,140,21,9,13,69.2,2,3,66.7,0,0,,0,0.0,0.0,0,0,0,0,1
+2,Tom Ince,22.0,eng ENG,LM,26-004,22,7,7,100.0,71,23,6,6,100.0,1,1,100.0,0,0,,0,0.0,0.0,0,1,0,0,0
+3,Philip Billing,8.0,dk DEN,CM,21-237,32,4,6,66.7,85,0,1,2,50.0,3,3,100.0,0,1,0.0,0,0.0,0.0,0,0,0,0,0
+4,Aaron Mooy,10.0,au AUS,CM,27-141,58,19,26,73.1,266,78,12,13,92.3,5,8,62.5,1,3,33.3,0,0.0,0.0,0,1,0,0,2
+5,Florent Hadergjonaj,33.0,xk KVX,CM,23-187,90,23,33,69.7,387,151,13,14,92.9,5,10,50.0,4,8,50.0,0,0.1,0.1,1,2,0,0,3
+6,Collin Quaner,23.0,de GER,RM,26-230,90,12,20,60.0,136,80,10,12,83.3,2,5,40.0,0,2,0.0,0,0.1,0.2,1,1,1,0,2
+7,Jonathan Hogg,6.0,eng ENG,DM,29-059,90,38,45,84.4,588,199,19,20,95.0,14,14,100.0,3,8,37.5,0,0.0,0.0,0,1,1,0,3
+8,Terence Kongolo,5.0,nl NED,LB,23-354,90,13,21,61.9,224,62,4,5,80.0,8,13,61.5,1,1,100.0,0,0.0,0.0,0,0,0,0,0
+9,Christopher Schindler,26.0,de GER,CB,27-280,58,6,10,60.0,135,93,2,2,100.0,3,6,50.0,1,2,50.0,0,0.0,0.0,0,1,0,0,0
+10,Michael Hefele,44.0,de GER,CB,27-155,32,8,9,88.9,116,30,6,6,100.0,2,3,66.7,0,0,,0,0.0,0.0,0,1,0,0,1
+11,Mathias Jørgensen,25.0,dk DEN,CB,27-286,90,14,16,87.5,263,147,7,8,87.5,3,4,75.0,3,3,100.0,0,0.0,0.0,0,1,0,0,0
+12,Tommy Smith,2.0,eng ENG,RB,25-295,90,22,26,84.6,449,229,7,7,100.0,10,11,90.9,5,7,71.4,0,0.0,0.0,0,4,2,1,3
+13,Jonas Lössl,1.0,dk DEN,GK,29-002,90,17,31,54.8,842,812,1,1,100.0,3,3,100.0,13,27,48.1,0,0.0,0.0,0,1,0,0,0
+14,14 Players,,,,,990,201,286,70.3,3795,1935,101,117,86.3,64,94,68.1,31,62,50.0,0,0.1,0.3,2,14,4,1,15

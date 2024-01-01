@@ -1,0 +1,17 @@
+,Unnamed: 0_level_0,Unnamed: 1_level_0,Unnamed: 2_level_0,Unnamed: 3_level_0,Unnamed: 4_level_0,Unnamed: 5_level_0,Unnamed: 6_level_0,Pass Types,Pass Types,Pass Types,Pass Types,Pass Types,Pass Types,Pass Types,Pass Types,Corner Kicks,Corner Kicks,Corner Kicks,Outcomes,Outcomes,Outcomes
+,Player,#,Nation,Pos,Age,Min,Att,Live,Dead,FK,TB,Sw,Crs,TI,CK,In,Out,Str,Cmp,Off,Blocks
+0,Marko Arnautović,7.0,at AUT,FW,29-226,70,26,25,1,0,3,0,1,0,0,0,0,0,13,0,3
+1,Pedro Obiang,14.0,gq EQG,CM,26-249,20,11,11,0,0,0,0,0,0,0,0,0,0,6,0,2
+2,Javier Hernández,17.0,mx MEX,FW,30-183,90,27,26,0,0,1,0,0,0,0,0,0,0,17,1,1
+3,Felipe Anderson,8.0,br BRA,LM,25-230,90,36,36,0,0,2,0,1,0,0,0,0,0,31,0,0
+4,Declan Rice,41.0,eng ENG,CM,19-321,90,31,31,0,0,0,0,0,0,0,0,0,0,24,0,0
+5,Mark Noble,16.0,eng ENG,"CM,FW",31-207,84,44,43,1,1,1,2,0,0,0,0,0,0,36,0,0
+6,Jack Wilshere,19.0,eng ENG,FW,26-334,6,2,2,0,0,0,0,0,0,0,0,0,0,2,0,0
+7,Robert Snodgrass,11.0,sct SCO,RM,31-085,90,53,42,10,4,0,0,7,3,3,0,2,1,32,1,0
+8,Aaron Cresswell,3.0,eng ENG,LB,28-351,55,25,21,4,2,0,0,2,2,0,0,0,0,20,0,0
+9,Arthur Masuaku,26.0,cd COD,LB,25-024,35,12,10,2,0,0,0,0,2,0,0,0,0,8,0,1
+10,Issa Diop,23.0,fr FRA,CB,21-326,90,23,23,0,0,0,0,0,0,0,0,0,0,18,0,1
+11,Fabián Balbuena,4.0,py PAR,CB,27-100,90,25,24,1,1,0,0,0,0,0,0,0,0,16,0,1
+12,Pablo Zabaleta,5.0,ar ARG,RB,33-319,90,40,32,7,1,0,0,1,6,0,0,0,0,28,1,2
+13,Łukasz Fabiański,1.0,pl POL,GK,33-227,90,34,15,19,4,0,0,0,0,0,0,0,0,16,0,0
+14,14 Players,,,,,990,389,341,45,13,7,2,12,13,3,0,2,1,267,3,11

@@ -1,0 +1,17 @@
+,Unnamed: 0_level_0,Unnamed: 1_level_0,Unnamed: 2_level_0,Unnamed: 3_level_0,Unnamed: 4_level_0,Unnamed: 5_level_0,Touches,Touches,Touches,Touches,Touches,Touches,Touches,Take-Ons,Take-Ons,Take-Ons,Take-Ons,Take-Ons,Carries,Carries,Carries,Carries,Carries,Carries,Carries,Carries,Receiving,Receiving
+,Player,#,Nation,Pos,Age,Min,Touches,Def Pen,Def 3rd,Mid 3rd,Att 3rd,Att Pen,Live,Att,Succ,Succ%,Tkld,Tkld%,Carries,TotDist,PrgDist,PrgC,1/3,CPA,Mis,Dis,Rec,PrgR
+0,Fernando Llorente,18.0,es ESP,FW,34-056,90,23,0,0,9,14,5,23,0,0,,0,,10,13,3,0,0,0,2,0,17,8
+1,Son Heung-min,7.0,kr KOR,"LW,RW,AM",26-289,89,60,1,4,11,45,8,60,5,1,20.0,4,80.0,44,266,94,4,2,5,1,3,46,12
+2,Juan Foyth,21.0,ar ARG,CB,21-101,1,1,0,1,0,0,0,1,0,0,,0,,0,0,0,0,0,0,0,0,0,0
+3,Lucas Moura,27.0,br BRA,"RW,LW",26-253,79,61,0,1,10,50,4,61,1,0,0.0,1,100.0,50,350,238,7,4,1,3,0,51,14
+4,Vincent Janssen,9.0,nl NED,FW,24-312,11,5,0,0,2,3,1,5,0,0,,0,,1,16,3,1,0,0,0,0,4,2
+5,Dele Alli,20.0,eng ENG,"LM,CM",23-012,90,78,1,3,30,45,8,78,3,2,66.7,1,33.3,56,330,194,6,3,1,3,2,62,14
+6,Victor Wanyama,12.0,ke KEN,CM,27-302,81,97,3,12,57,28,2,97,2,1,50.0,1,50.0,55,277,146,4,3,0,1,0,66,1
+7,Ben Davies,33.0,wls WAL,"CB,LB",25-364,9,8,0,2,3,3,0,8,0,0,,0,,7,27,19,0,0,0,1,0,7,0
+8,Christian Eriksen,23.0,dk DEN,"RM,CM",27-068,90,118,0,5,44,70,0,118,2,1,50.0,1,50.0,82,450,299,6,10,1,0,2,95,5
+9,Danny Rose,3.0,eng ENG,"LB,WB,CM",28-295,90,89,1,7,38,44,5,89,3,2,66.7,1,33.3,56,287,196,2,4,1,2,2,64,14
+10,Jan Vertonghen,5.0,be BEL,CB,31-364,90,111,2,19,64,28,2,111,0,0,,0,,81,414,297,3,7,0,0,0,82,0
+11,Toby Alderweireld,4.0,be BEL,CB,30-052,90,103,4,20,53,32,1,103,1,1,100.0,0,0.0,78,297,194,2,6,0,1,0,79,2
+12,Kieran Trippier,2.0,eng ENG,"RB,WB",28-216,90,89,2,14,26,49,0,89,0,0,,0,,49,100,49,0,1,0,1,0,55,14
+13,Hugo Lloris,1.0,fr FRA,GK,32-118,90,26,17,20,6,0,0,26,0,0,,0,,15,76,44,0,0,0,0,0,8,0
+14,14 Players,,,,,990,869,31,108,353,411,36,869,17,8,47.1,9,52.9,584,2903,1776,35,40,9,15,9,636,86

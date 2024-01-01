@@ -1,0 +1,17 @@
+,Unnamed: 0_level_0,Unnamed: 1_level_0,Unnamed: 2_level_0,Unnamed: 3_level_0,Unnamed: 4_level_0,Unnamed: 5_level_0,Unnamed: 6_level_0,Pass Types,Pass Types,Pass Types,Pass Types,Pass Types,Pass Types,Pass Types,Pass Types,Corner Kicks,Corner Kicks,Corner Kicks,Outcomes,Outcomes,Outcomes
+,Player,#,Nation,Pos,Age,Min,Att,Live,Dead,FK,TB,Sw,Crs,TI,CK,In,Out,Str,Cmp,Off,Blocks
+0,Daniel Sturridge,15.0,eng ENG,FW,28-085,65,21,21,0,0,0,0,1,0,0,0,0,0,17,0,0
+1,Georginio Wijnaldum,5.0,nl NED,LM,27-014,25,14,14,0,0,0,0,0,0,0,0,0,0,12,0,0
+2,Alex Oxlade-Chamberlain,21.0,eng ENG,"LW,RW",24-102,88,34,32,2,1,0,1,1,1,0,0,0,0,25,0,0
+3,Sadio Mané,19.0,sn SEN,RW,25-229,2,1,1,0,0,0,0,0,0,0,0,0,0,1,0,0
+4,Mohamed Salah,11.0,eg EGY,"RW,FW",25-163,90,44,43,1,0,0,0,1,0,0,0,0,0,32,0,2
+5,Philippe Coutinho,10.0,br BRA,"LM,LW",25-166,88,56,48,8,1,1,0,7,0,6,4,1,0,43,0,1
+6,Adam Lallana,20.0,eng ENG,LW,29-199,2,5,5,0,0,0,0,0,0,0,0,0,0,3,0,0
+7,Jordan Henderson,14.0,eng ENG,CM,27-161,90,67,66,1,1,0,0,0,0,0,0,0,0,58,0,0
+8,James Milner,7.0,eng ENG,RM,31-325,90,66,63,3,0,0,0,5,2,1,0,1,0,56,0,0
+9,Alberto Moreno,18.0,es ESP,LB,25-143,90,72,60,12,2,0,0,1,10,0,0,0,0,60,0,1
+10,Ragnar Klavan,17.0,ee EST,CB,32-026,90,62,62,0,0,0,0,0,0,0,0,0,0,60,0,0
+11,Joël Matip,32.0,cm CMR,CB,26-109,90,66,62,4,4,0,1,0,0,0,0,0,0,63,0,0
+12,Joe Gomez,12.0,eng ENG,RB,20-186,90,90,81,9,0,0,0,2,9,0,0,0,0,76,0,1
+13,Simon Mignolet,22.0,be BEL,GK,29-264,90,34,23,11,1,0,0,0,0,0,0,0,0,30,0,0
+14,14 Players,,,,,990,632,581,51,10,1,2,18,22,7,4,2,0,536,0,5

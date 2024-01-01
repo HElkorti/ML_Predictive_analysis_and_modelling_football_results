@@ -1,0 +1,17 @@
+,Unnamed: 0_level_0,Unnamed: 1_level_0,Unnamed: 2_level_0,Unnamed: 3_level_0,Unnamed: 4_level_0,Unnamed: 5_level_0,Touches,Touches,Touches,Touches,Touches,Touches,Touches,Take-Ons,Take-Ons,Take-Ons,Take-Ons,Take-Ons,Carries,Carries,Carries,Carries,Carries,Carries,Carries,Carries,Receiving,Receiving
+,Player,#,Nation,Pos,Age,Min,Touches,Def Pen,Def 3rd,Mid 3rd,Att 3rd,Att Pen,Live,Att,Succ,Succ%,Tkld,Tkld%,Carries,TotDist,PrgDist,PrgC,1/3,CPA,Mis,Dis,Rec,PrgR
+0,Salomón Rondón,9.0,ve VEN,FW,29-238,90,36,2,2,18,16,6,36,0,0,,0,,17,109,47,2,0,2,3,2,31,7
+1,Christian Atsu,30.0,gh GHA,LM,27-122,65,16,1,3,8,5,3,16,0,0,,0,,8,55,41,2,1,0,1,1,12,0
+2,Yoshinori Mutō,13.0,jp JPN,"RM,LM",26-301,25,14,0,6,6,2,0,14,1,0,0.0,1,100.0,6,69,4,0,0,0,1,0,6,1
+3,Mohamed Diamé,10.0,sn SEN,CM,31-332,90,44,3,18,22,4,0,44,3,2,66.7,1,33.3,18,63,31,1,2,0,0,1,28,1
+4,Jonjo Shelvey,8.0,eng ENG,CM,27-074,90,57,2,14,37,6,1,57,1,1,100.0,0,0.0,27,157,98,2,1,0,1,1,44,2
+5,Ayoze Pérez,17.0,es ESP,"RM,LM",25-287,90,34,0,10,16,9,2,34,1,0,0.0,1,100.0,18,140,111,3,2,0,4,2,20,6
+6,Matt Ritchie,11.0,sct SCO,"LB,RB",29-244,90,44,3,15,16,13,1,44,0,0,,0,,15,130,97,2,2,0,1,0,23,4
+7,Paul Dummett,3.0,wls WAL,"CB,RB",27-228,80,51,5,28,18,5,2,51,0,0,,0,,23,128,86,1,0,1,0,0,30,2
+8,Kenedy,15.0,br BRA,"LB,RB",23-093,10,11,0,1,5,5,1,11,2,1,50.0,1,50.0,7,79,46,2,3,0,0,0,8,2
+9,Jamaal Lascelles,6.0,eng ENG,CB,25-182,90,43,13,31,11,2,1,43,0,0,,0,,14,86,46,0,0,0,1,0,14,0
+10,Fabian Schär,5.0,ch SUI,CB,27-143,90,68,11,42,23,3,1,68,0,0,,0,,37,209,123,0,2,1,1,1,46,0
+11,Isaac Hayden,14.0,eng ENG,RB,24-051,68,35,3,15,12,8,0,35,0,0,,0,,12,26,1,0,0,0,1,0,14,0
+12,Federico Fernández,18.0,ar ARG,CB,30-080,22,18,0,12,6,0,0,18,0,0,,0,,10,30,10,0,0,0,0,0,15,0
+13,Martin Dúbravka,12.0,sk SVK,GK,30-117,90,38,34,38,0,0,0,38,0,0,,0,,17,138,101,0,0,0,0,0,12,0
+14,14 Players,,,,,990,509,77,235,198,78,18,509,8,4,50.0,4,50.0,229,1419,842,15,13,4,14,8,303,25

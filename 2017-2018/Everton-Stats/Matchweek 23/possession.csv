@@ -1,0 +1,17 @@
+,Unnamed: 0_level_0,Unnamed: 1_level_0,Unnamed: 2_level_0,Unnamed: 3_level_0,Unnamed: 4_level_0,Unnamed: 5_level_0,Touches,Touches,Touches,Touches,Touches,Touches,Touches,Take-Ons,Take-Ons,Take-Ons,Take-Ons,Take-Ons,Carries,Carries,Carries,Carries,Carries,Carries,Carries,Carries,Receiving,Receiving
+,Player,#,Nation,Pos,Age,Min,Touches,Def Pen,Def 3rd,Mid 3rd,Att 3rd,Att Pen,Live,Att,Succ,Succ%,Tkld,Tkld%,Carries,TotDist,PrgDist,PrgC,1/3,CPA,Mis,Dis,Rec,PrgR
+0,Cenk Tosun,14.0,tr TUR,FW,26-220,61,30,0,3,10,17,2,30,0,0,,0,,20,50,15,0,2,0,3,1,26,4
+1,Dominic Calvert-Lewin,29.0,eng ENG,FW,20-303,29,10,0,0,3,7,2,10,1,1,100.0,0,0.0,7,34,0,0,0,0,1,3,11,3
+2,Gylfi Sigurðsson,18.0,is ISL,LW,28-127,90,33,2,6,13,14,2,33,1,1,100.0,0,0.0,17,72,43,2,1,1,3,2,21,3
+3,Yannick Bolasie,7.0,cd COD,RW,28-234,56,21,0,4,9,8,0,21,4,1,25.0,3,75.0,10,48,19,1,1,0,2,3,11,3
+4,Aaron Lennon,12.0,eng ENG,RW,30-272,34,13,0,3,6,4,0,13,0,0,,0,,7,21,9,0,0,0,1,0,12,2
+5,Wayne Rooney,10.0,eng ENG,AM,32-081,90,47,1,5,30,12,3,47,2,2,100.0,0,0.0,25,109,44,2,0,0,2,3,35,8
+6,Idrissa Gana Gueye,17.0,sn SEN,DM,28-109,90,67,1,11,48,9,0,67,0,0,,0,,33,99,52,0,0,0,2,0,39,1
+7,James McCarthy,16.0,ie IRL,DM,27-062,71,38,1,11,20,8,1,38,1,1,100.0,0,0.0,15,43,14,0,0,0,0,1,15,2
+8,Morgan Schneiderlin,2.0,fr FRA,DM,28-066,19,14,1,4,10,1,0,14,0,0,,0,,7,16,15,0,0,0,0,0,9,0
+9,Cuco Martina,15.0,cw CUW,LB,28-110,90,62,7,27,29,6,0,62,0,0,,0,,23,85,52,1,0,0,0,1,28,0
+10,Phil Jagielka,6.0,eng ENG,CB,35-149,90,49,7,34,15,0,0,49,1,0,0.0,1,100.0,15,70,15,0,0,0,1,0,16,0
+11,Mason Holgate,30.0,eng ENG,CB,21-083,90,42,5,28,15,0,0,42,1,1,100.0,0,0.0,21,112,57,0,0,0,0,0,20,0
+12,Jonjoe Kenny,43.0,eng ENG,RB,20-304,90,56,3,15,23,19,1,56,0,0,,0,,22,65,33,0,1,0,1,0,26,3
+13,Jordan Pickford,1.0,eng ENG,GK,23-312,90,38,34,38,0,0,0,38,0,0,,0,,20,147,111,0,0,0,0,0,14,0
+14,14 Players,,,,,990,520,62,189,231,105,11,520,11,7,63.6,4,36.4,242,971,479,6,5,1,16,14,283,29

@@ -1,0 +1,17 @@
+,Unnamed: 0_level_0,Unnamed: 1_level_0,Unnamed: 2_level_0,Unnamed: 3_level_0,Unnamed: 4_level_0,Unnamed: 5_level_0,Tackles,Tackles,Tackles,Tackles,Tackles,Challenges,Challenges,Challenges,Challenges,Blocks,Blocks,Blocks,Unnamed: 18_level_0,Unnamed: 19_level_0,Unnamed: 20_level_0,Unnamed: 21_level_0
+,Player,#,Nation,Pos,Age,Min,Tkl,TklW,Def 3rd,Mid 3rd,Att 3rd,Tkl,Att,Tkl%,Lost,Blocks,Sh,Pass,Int,Tkl+Int,Clr,Err
+0,Daniel Sturridge,15.0,eng ENG,FW,29-049,90,0,0,0,0,0,0,0,,0,1,0,1,0,0,0,0
+1,Adam Lallana,20.0,eng ENG,LW,30-163,68,2,1,1,0,1,1,1,100.0,0,1,0,1,2,4,1,0
+2,Fabinho,3.0,br BRA,CM,24-362,22,2,1,1,1,0,2,3,66.7,1,0,0,0,1,3,0,0
+3,Mohamed Salah,11.0,eg EGY,RW,26-127,90,1,0,0,0,1,0,0,,0,2,0,2,1,2,0,0
+4,James Milner,7.0,eng ENG,LM,32-289,76,2,1,0,2,0,0,0,,0,3,0,3,2,4,4,0
+5,Roberto Firmino,9.0,br BRA,LM,27-018,14,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,0
+6,Jordan Henderson,14.0,eng ENG,CM,28-125,45,1,1,1,0,0,1,1,100.0,0,1,0,1,0,1,1,0
+7,Georginio Wijnaldum,5.0,nl NED,"RM,CM",27-343,45,0,0,0,0,0,0,1,0.0,1,2,2,0,0,0,0,0
+8,Xherdan Shaqiri,23.0,ch SUI,"RM,LW",27-010,90,1,0,0,1,0,1,1,100.0,0,0,0,0,0,1,2,0
+9,Andrew Robertson,26.0,sct SCO,LB,24-223,90,2,1,0,1,1,0,0,,0,0,0,0,1,3,4,0
+10,Virgil van Dijk,4.0,nl NED,CB,27-104,90,0,0,0,0,0,0,0,,0,1,1,0,1,1,10,0
+11,Dejan Lovren,6.0,hr CRO,CB,29-107,90,2,2,1,1,0,0,2,0.0,2,2,2,0,0,2,10,1
+12,Joe Gomez,12.0,eng ENG,RB,21-150,90,1,1,1,0,0,1,1,100.0,0,1,1,0,1,2,2,0
+13,Alisson,13.0,br BRA,GK,26-018,90,0,0,0,0,0,0,0,,0,0,0,0,0,0,1,0
+14,14 Players,,,,,990,14,8,5,6,3,6,10,60.0,4,14,6,8,9,23,35,1

@@ -1,0 +1,17 @@
+,Unnamed: 0_level_0,Unnamed: 1_level_0,Unnamed: 2_level_0,Unnamed: 3_level_0,Unnamed: 4_level_0,Unnamed: 5_level_0,Unnamed: 6_level_0,Pass Types,Pass Types,Pass Types,Pass Types,Pass Types,Pass Types,Pass Types,Pass Types,Corner Kicks,Corner Kicks,Corner Kicks,Outcomes,Outcomes,Outcomes
+,Player,#,Nation,Pos,Age,Min,Att,Live,Dead,FK,TB,Sw,Crs,TI,CK,In,Out,Str,Cmp,Off,Blocks
+0,Mame Biram Diouf,18.0,sn SEN,FW,30-035,76,20,20,0,0,0,0,0,0,0,0,0,0,8,0,1
+1,Peter Crouch,25.0,eng ENG,FW,36-355,14,8,7,0,0,0,0,0,0,0,0,0,0,4,1,0
+2,Eric Maxim Choupo-Moting,10.0,cm CMR,LW,28-303,89,29,26,1,0,0,0,1,1,0,0,0,0,19,2,2
+3,Ramadan Sobhi,32.0,eg EGY,LW,20-362,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+4,Xherdan Shaqiri,22.0,ch SUI,RW,26-102,90,19,15,3,1,0,0,5,0,2,2,0,0,11,1,0
+5,Joe Allen,4.0,wls WAL,AM,27-312,90,34,31,2,1,0,0,3,0,0,0,0,0,22,1,1
+6,Charlie Adam,16.0,sct SCO,DM,32-041,70,43,38,2,1,0,3,3,0,1,0,0,1,18,3,1
+7,Geoff Cameron,20.0,us USA,DM,32-193,20,8,8,0,0,0,0,0,0,0,0,0,0,4,0,0
+8,Darren Fletcher,24.0,sct SCO,DM,33-353,90,24,24,0,0,0,0,0,0,0,0,0,0,12,0,0
+9,Erik Pieters,3.0,nl NED,LB,29-166,90,41,30,10,0,0,0,0,10,0,0,0,0,31,1,0
+10,Kurt Zouma,6.0,fr FRA,CB,23-085,90,48,47,1,1,0,0,0,0,0,0,0,0,34,0,0
+11,Ryan Shawcross,17.0,eng ENG,CB,30-108,90,34,32,1,1,0,0,0,0,0,0,0,0,22,1,0
+12,Moritz Bauer,2.0,at AUT,RB,25-360,90,45,26,19,1,0,0,3,18,0,0,0,0,22,0,2
+13,Jack Butland,1.0,eng ENG,GK,24-316,90,38,27,11,4,0,0,0,0,0,0,0,0,24,0,0
+14,14 Players,,,,,990,391,331,50,10,0,3,15,29,3,2,0,1,231,10,7

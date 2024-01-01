@@ -1,0 +1,17 @@
+,Unnamed: 0_level_0,Unnamed: 1_level_0,Unnamed: 2_level_0,Unnamed: 3_level_0,Unnamed: 4_level_0,Unnamed: 5_level_0,Total,Total,Total,Total,Total,Short,Short,Short,Medium,Medium,Medium,Long,Long,Long,Unnamed: 20_level_0,Unnamed: 21_level_0,Unnamed: 22_level_0,Unnamed: 23_level_0,Unnamed: 24_level_0,Unnamed: 25_level_0,Unnamed: 26_level_0,Unnamed: 27_level_0
+,Player,#,Nation,Pos,Age,Min,Cmp,Att,Cmp%,TotDist,PrgDist,Cmp,Att,Cmp%,Cmp,Att,Cmp%,Cmp,Att,Cmp%,Ast,xAG,xA,KP,1/3,PPA,CrsPA,PrgP
+0,Anthony Martial,11.0,fr FRA,FW,21-362,66,19,21,90.5,253,108,8,8,100.0,6,8,75.0,1,1,100.0,1,0.7,0.4,2,3,2,0,4
+1,Ander Herrera,21.0,es ESP,RM,28-110,24,4,9,44.4,87,54,0,1,0.0,2,3,66.7,1,3,33.3,0,0.0,0.0,0,0,0,0,0
+2,Romelu Lukaku,9.0,be BEL,FW,24-203,90,14,25,56.0,200,51,10,13,76.9,3,8,37.5,1,1,100.0,0,0.0,0.1,0,1,2,0,2
+3,Jesse Lingard,14.0,eng ENG,"AM,LM",24-352,75,15,18,83.3,169,32,10,12,83.3,4,4,100.0,0,0,,0,0.0,0.0,0,1,0,0,1
+4,Matteo Darmian,36.0,it ITA,LB,28-000,15,0,0,,0,0,0,0,,0,0,,0,0,,0,0.0,0.0,0,0,0,0,0
+5,Nemanja Matić,31.0,rs SRB,CM,29-123,90,18,26,69.2,281,143,7,9,77.8,11,13,84.6,0,4,0.0,0,0.0,0.0,0,1,0,0,1
+6,Paul Pogba,6.0,fr FRA,CM,24-262,73,18,22,81.8,352,124,4,6,66.7,7,8,87.5,4,4,100.0,2,0.9,0.6,2,3,1,0,4
+7,Ashley Young,18.0,eng ENG,"WB,LM,LB",32-146,89,16,25,64.0,265,132,8,9,88.9,6,9,66.7,2,3,66.7,0,0.1,0.1,1,0,0,0,0
+8,Marcus Rashford,19.0,eng ENG,LM,20-032,1,0,0,,0,0,0,0,,0,0,,0,0,,0,0.0,0.0,0,0,0,0,0
+9,Antonio Valencia,25.0,ec ECU,"WB,RB",32-120,90,21,26,80.8,293,147,11,12,91.7,6,7,85.7,2,5,40.0,0,0.0,0.0,1,0,1,1,0
+10,Marcos Rojo,5.0,ar ARG,CB,27-257,90,9,17,52.9,222,142,2,2,100.0,5,7,71.4,2,8,25.0,0,0.0,0.0,0,1,0,0,0
+11,Chris Smalling,12.0,eng ENG,CB,28-010,90,7,11,63.6,156,76,0,0,,6,6,100.0,1,5,20.0,0,0.0,0.0,0,0,0,0,0
+12,Victor Lindelöf,2.0,se SWE,CB,23-138,90,9,11,81.8,124,34,5,6,83.3,3,4,75.0,0,0,,0,0.0,0.0,0,1,0,0,0
+13,David de Gea,1.0,es ESP,GK,27-025,90,10,29,34.5,580,549,0,0,,1,1,100.0,9,28,32.1,0,0.0,0.0,0,0,0,0,0
+14,14 Players,,,,,973,160,240,66.7,2982,1592,65,78,83.3,60,78,76.9,23,62,37.1,3,1.7,1.2,6,11,6,1,12

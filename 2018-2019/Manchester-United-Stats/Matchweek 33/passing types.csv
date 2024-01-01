@@ -1,0 +1,17 @@
+,Unnamed: 0_level_0,Unnamed: 1_level_0,Unnamed: 2_level_0,Unnamed: 3_level_0,Unnamed: 4_level_0,Unnamed: 5_level_0,Unnamed: 6_level_0,Pass Types,Pass Types,Pass Types,Pass Types,Pass Types,Pass Types,Pass Types,Pass Types,Corner Kicks,Corner Kicks,Corner Kicks,Outcomes,Outcomes,Outcomes
+,Player,#,Nation,Pos,Age,Min,Att,Live,Dead,FK,TB,Sw,Crs,TI,CK,In,Out,Str,Cmp,Off,Blocks
+0,Romelu Lukaku,9.0,be BEL,FW,25-324,72,22,22,0,0,0,0,2,0,0,0,0,0,17,0,1
+1,Anthony Martial,11.0,fr FRA,FW,23-118,18,10,9,1,0,0,0,1,0,0,0,0,0,6,0,2
+2,Jesse Lingard,14.0,eng ENG,"FW,CM,AM",26-108,90,42,40,1,0,0,0,1,0,1,1,0,0,35,1,0
+3,Paul Pogba,6.0,fr FRA,"DM,LM,CM",26-018,90,48,47,0,0,0,0,0,0,0,0,0,0,33,1,1
+4,Fred,17.0,br BRA,"DM,CM",26-028,64,61,58,3,1,0,0,0,0,0,0,0,0,56,0,1
+5,Phil Jones,4.0,eng ENG,"CB,RB",27-040,26,21,19,2,0,0,0,0,2,0,0,0,0,21,0,0
+6,Scott McTominay,39.0,sct SCO,"DM,RM",22-115,90,45,45,0,0,0,1,0,0,0,0,0,0,35,0,1
+7,Luke Shaw,23.0,eng ENG,"WB,LB,LW",23-264,90,68,58,10,0,0,1,0,10,0,0,0,0,58,0,2
+8,Diogo Dalot,20.0,pt POR,"WB,RW,RB",20-015,83,38,31,7,0,0,0,6,5,2,0,2,0,24,0,1
+9,Andreas Pereira,15.0,br BRA,CM,23-091,7,4,2,2,1,0,0,0,0,1,0,0,0,3,0,0
+10,Victor Lindelöf,2.0,se SWE,CB,24-259,90,70,67,3,2,0,1,0,1,0,0,0,0,64,0,0
+11,Chris Smalling,12.0,eng ENG,CB,29-131,90,52,51,0,0,0,0,0,0,0,0,0,0,43,1,1
+12,Ashley Young,18.0,eng ENG,CB,33-267,56,50,44,5,2,0,0,2,2,1,0,0,0,32,1,2
+13,David de Gea,1.0,es ESP,GK,28-146,90,22,10,11,2,0,0,0,0,0,0,0,0,13,1,0
+14,14 Players,,,,,956,553,503,45,8,0,3,12,20,5,1,2,0,440,5,12

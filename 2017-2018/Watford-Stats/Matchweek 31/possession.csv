@@ -1,0 +1,17 @@
+,Unnamed: 0_level_0,Unnamed: 1_level_0,Unnamed: 2_level_0,Unnamed: 3_level_0,Unnamed: 4_level_0,Unnamed: 5_level_0,Touches,Touches,Touches,Touches,Touches,Touches,Touches,Take-Ons,Take-Ons,Take-Ons,Take-Ons,Take-Ons,Carries,Carries,Carries,Carries,Carries,Carries,Carries,Carries,Receiving,Receiving
+,Player,#,Nation,Pos,Age,Min,Touches,Def Pen,Def 3rd,Mid 3rd,Att 3rd,Att Pen,Live,Att,Succ,Succ%,Tkld,Tkld%,Carries,TotDist,PrgDist,PrgC,1/3,CPA,Mis,Dis,Rec,PrgR
+0,Troy Deeney,9.0,eng ENG,FW,29-261,69,16,1,1,12,3,1,16,1,1,100.0,0,0.0,10,62,12,0,0,0,0,0,10,2
+1,Stefano Okaka,33.0,it ITA,FW,28-220,21,11,0,0,6,5,1,11,1,1,100.0,0,0.0,6,33,6,0,0,0,1,0,8,2
+2,Richarlison,11.0,br BRA,LW,20-311,64,27,1,4,13,10,2,27,1,1,100.0,0,0.0,12,40,4,0,0,0,3,2,15,3
+3,Will Hughes,19.0,eng ENG,"RW,LW",22-334,26,10,1,2,4,4,0,10,0,0,,0,,6,30,11,0,0,0,0,0,5,0
+4,Roberto Pereyra,37.0,ar ARG,"RW,LW",27-069,90,43,0,7,30,10,2,43,4,2,50.0,2,50.0,31,243,112,4,2,1,1,3,29,4
+5,José Holebas,25.0,gr GRE,LM,33-263,90,66,2,16,29,21,0,66,1,0,0.0,1,100.0,32,227,82,2,2,0,2,1,31,4
+6,Étienne Capoue,29.0,fr FRA,CM,29-249,90,64,9,13,48,3,0,64,0,0,,0,,40,151,38,0,0,0,1,1,43,0
+7,Abdoulaye Doucouré,16.0,ml MLI,CM,25-075,90,79,2,17,48,16,0,79,2,1,50.0,1,50.0,50,252,72,1,1,0,1,3,48,3
+8,Kiko Femenía,21.0,es ESP,RM,27-043,90,64,5,19,28,17,1,64,4,2,50.0,2,50.0,39,197,129,4,3,0,0,2,43,6
+9,Miguel Britos,3.0,uy URU,CB,32-243,80,35,3,15,20,0,0,35,0,0,,0,,14,46,21,0,0,0,1,0,12,0
+10,Daryl Janmaat,2.0,nl NED,CB,28-238,10,9,3,3,6,0,0,9,0,0,,0,,5,23,16,0,0,0,0,0,5,0
+11,Sebastian Prödl,5.0,at AUT,CB,30-269,90,45,4,27,18,0,0,45,0,0,,0,,20,76,15,0,0,0,0,0,22,0
+12,Adrian Mariappa,6.0,jm JAM,CB,31-165,90,56,6,35,21,0,0,56,0,0,,0,,39,120,48,0,0,0,0,0,37,0
+13,Orestis Karnezis,30.0,gr GRE,GK,32-249,90,38,30,38,0,0,0,38,0,0,,0,,18,129,75,0,0,0,0,0,12,0
+14,14 Players,,,,,990,563,67,197,283,89,7,563,14,8,57.1,6,42.9,322,1629,641,11,8,1,10,12,320,24

@@ -1,0 +1,16 @@
+,Unnamed: 0_level_0,Unnamed: 1_level_0,Unnamed: 2_level_0,Unnamed: 3_level_0,Unnamed: 4_level_0,Unnamed: 5_level_0,Unnamed: 6_level_0,Pass Types,Pass Types,Pass Types,Pass Types,Pass Types,Pass Types,Pass Types,Pass Types,Corner Kicks,Corner Kicks,Corner Kicks,Outcomes,Outcomes,Outcomes
+,Player,#,Nation,Pos,Age,Min,Att,Live,Dead,FK,TB,Sw,Crs,TI,CK,In,Out,Str,Cmp,Off,Blocks
+0,Alexandre Lacazette,9.0,fr FRA,FW,26-174,72,21,20,1,0,0,0,0,0,0,0,0,0,16,0,2
+1,Francis Coquelin,34.0,fr FRA,CM,26-189,18,7,7,0,0,0,0,0,0,0,0,0,0,6,0,0
+2,Alexis Sánchez,7.0,cl CHI,"AM,FW",28-334,90,40,35,5,1,2,1,4,0,4,3,0,0,25,0,0
+3,Mesut Özil,11.0,de GER,AM,29-034,83,40,35,5,2,0,1,7,1,2,2,0,0,28,0,3
+4,Alex Iwobi,17.0,ng NGA,AM,21-199,7,5,5,0,0,1,0,0,0,0,0,0,0,4,0,0
+5,Granit Xhaka,29.0,ch SUI,CM,25-052,90,49,43,4,2,0,0,3,1,1,1,0,0,35,2,0
+6,Aaron Ramsey,8.0,wls WAL,"CM,AM",26-327,90,38,36,1,1,1,0,0,0,0,0,0,0,27,1,1
+7,Sead Kolašinac,31.0,ba BIH,WB,24-151,90,48,38,10,0,0,0,0,10,0,0,0,0,31,0,5
+8,Héctor Bellerín,24.0,es ESP,WB,22-244,90,51,42,9,0,2,0,1,9,0,0,0,0,34,0,2
+9,Nacho Monreal,18.0,es ESP,CB,31-265,90,38,38,0,0,0,0,0,0,0,0,0,0,33,0,1
+10,Shkodran Mustafi,20.0,de GER,CB,25-215,90,35,33,2,2,0,0,1,0,0,0,0,0,24,0,1
+11,Laurent Koscielny,6.0,fr FRA,CB,32-069,90,41,38,2,2,1,2,0,0,0,0,0,0,28,1,0
+12,Petr Čech,33.0,cz CZE,GK,35-182,90,34,17,13,6,0,0,0,0,0,0,0,0,13,4,0
+13,13 Players,,,,,990,447,387,52,16,7,4,16,21,7,6,0,0,304,8,15

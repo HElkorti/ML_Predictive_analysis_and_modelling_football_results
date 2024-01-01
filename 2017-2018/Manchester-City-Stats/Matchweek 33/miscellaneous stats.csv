@@ -1,0 +1,17 @@
+,Unnamed: 0_level_0,Unnamed: 1_level_0,Unnamed: 2_level_0,Unnamed: 3_level_0,Unnamed: 4_level_0,Unnamed: 5_level_0,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Aerial Duels,Aerial Duels,Aerial Duels
+,Player,#,Nation,Pos,Age,Min,CrdY,CrdR,2CrdY,Fls,Fld,Off,Crs,Int,TklW,PKwon,PKcon,OG,Recov,Won,Lost,Won%
+0,Bernardo Silva,20.0,pt POR,FW,23-240,71,0,0,0,1,1,0,0,0,1,0,0,0,1,0,0,
+1,Gabriel Jesus,33.0,br BRA,FW,21-004,19,1,0,0,3,0,0,0,0,0,0,0,0,1,0,0,
+2,Leroy Sané,19.0,de GER,"LW,LM",22-086,90,0,0,0,2,1,0,5,1,0,0,0,0,4,0,1,0.0
+3,Raheem Sterling,7.0,eng ENG,"RW,RM",23-120,90,1,0,0,3,0,0,0,1,1,0,0,0,3,1,0,100.0
+4,David Silva,21.0,es ESP,LM,32-089,71,0,0,0,0,1,0,0,1,0,0,0,0,2,1,1,50.0
+5,Kevin De Bruyne,17.0,be BEL,"AM,RM",26-283,19,0,0,0,1,0,0,7,0,0,0,0,0,0,0,1,0.0
+6,Fernandinho,25.0,br BRA,"CM,DM",32-338,90,1,0,0,2,1,0,0,1,1,0,0,0,4,2,2,50.0
+7,İlkay Gündoğan,8.0,de GER,"RM,LM",27-165,75,0,0,0,0,1,0,1,0,1,0,0,0,7,0,0,
+8,Sergio Agüero,10.0,ar ARG,FW,29-309,15,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,100.0
+9,Fabian Delph,18.0,eng ENG,LB,28-137,90,0,0,0,1,0,0,1,1,0,0,0,0,7,1,0,100.0
+10,Nicolás Otamendi,30.0,ar ARG,CB,30-054,90,0,0,0,0,1,0,0,0,0,0,0,0,5,0,4,0.0
+11,Vincent Kompany,4.0,be BEL,CB,31-362,90,1,0,0,0,1,0,0,2,0,0,0,0,9,4,1,80.0
+12,Danilo,3.0,br BRA,RB,26-266,90,1,0,0,4,1,0,2,0,2,0,0,0,2,0,0,
+13,Ederson,31.0,br BRA,GK,24-233,90,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,
+14,14 Players,,,,,990,6,0,0,17,8,0,16,7,6,0,0,0,46,10,10,50.0

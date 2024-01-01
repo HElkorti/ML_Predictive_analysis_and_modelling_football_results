@@ -1,0 +1,17 @@
+,Unnamed: 0_level_0,Unnamed: 1_level_0,Unnamed: 2_level_0,Unnamed: 3_level_0,Unnamed: 4_level_0,Unnamed: 5_level_0,Touches,Touches,Touches,Touches,Touches,Touches,Touches,Take-Ons,Take-Ons,Take-Ons,Take-Ons,Take-Ons,Carries,Carries,Carries,Carries,Carries,Carries,Carries,Carries,Receiving,Receiving
+,Player,#,Nation,Pos,Age,Min,Touches,Def Pen,Def 3rd,Mid 3rd,Att 3rd,Att Pen,Live,Att,Succ,Succ%,Tkld,Tkld%,Carries,TotDist,PrgDist,PrgC,1/3,CPA,Mis,Dis,Rec,PrgR
+0,Diogo Jota,18.0,pt POR,"CM,FW",22-041,58,19,0,5,9,5,0,19,0,0,,0,,11,77,44,2,1,0,1,1,13,3
+1,Romain Saïss,27.0,ma MAR,CM,28-294,32,19,3,10,8,1,0,19,0,0,,0,,6,31,7,0,0,0,0,0,11,0
+2,Raúl Jiménez,9.0,mx MEX,FW,27-254,45,17,3,5,8,4,0,17,1,0,0.0,1,100.0,9,51,30,1,1,0,0,1,14,0
+3,Adama Traoré,37.0,es ESP,FW,22-354,45,21,0,7,10,5,3,21,5,5,100.0,0,0.0,11,119,67,2,1,2,2,3,10,2
+4,Leander Dendoncker,32.0,be BEL,"CB,CM",23-274,90,42,8,28,11,3,0,42,0,0,,0,,18,60,20,0,0,0,0,0,25,0
+5,Rúben Neves,8.0,pt POR,CM,21-307,90,51,5,21,27,4,0,51,0,0,,0,,19,59,29,0,0,0,0,0,27,0
+6,João Moutinho,28.0,pt POR,CM,32-128,71,28,4,16,13,0,0,28,2,2,100.0,0,0.0,9,34,16,0,1,0,0,0,9,0
+7,Morgan Gibbs-White,17.0,eng ENG,CM,18-352,19,12,0,4,6,2,0,12,3,1,33.3,2,66.7,7,30,14,0,0,0,2,0,8,0
+8,Jonny Castro,19.0,es ESP,WB,24-317,90,38,6,18,19,2,1,38,1,0,0.0,1,100.0,16,70,24,0,0,0,0,1,19,5
+9,Matt Doherty,2.0,ie IRL,WB,26-363,90,47,15,27,18,2,1,47,0,0,,0,,12,46,15,0,0,0,1,0,18,1
+10,Willy Boly,15.0,ci CIV,CB,27-345,18,3,0,0,2,1,1,3,0,0,,0,,2,23,14,0,0,0,0,0,3,0
+11,Conor Coady,16.0,eng ENG,CB,25-323,90,45,12,38,7,0,0,45,1,1,100.0,0,0.0,24,88,36,0,0,0,1,0,23,0
+12,Ryan Bennett,5.0,eng ENG,CB,28-314,90,22,9,16,4,2,0,22,0,0,,0,,3,9,5,0,0,0,0,0,7,0
+13,Rui Patrício,11.0,pt POR,GK,30-333,90,44,44,44,0,0,0,44,0,0,,0,,17,120,95,0,0,0,0,0,11,0
+14,14 Players,,,,,918,408,109,239,142,31,6,408,13,9,69.2,4,30.8,164,817,416,5,4,2,7,6,198,11

@@ -1,0 +1,17 @@
+,Unnamed: 0_level_0,Unnamed: 1_level_0,Unnamed: 2_level_0,Unnamed: 3_level_0,Unnamed: 4_level_0,Unnamed: 5_level_0,Touches,Touches,Touches,Touches,Touches,Touches,Touches,Take-Ons,Take-Ons,Take-Ons,Take-Ons,Take-Ons,Carries,Carries,Carries,Carries,Carries,Carries,Carries,Carries,Receiving,Receiving
+,Player,#,Nation,Pos,Age,Min,Touches,Def Pen,Def 3rd,Mid 3rd,Att 3rd,Att Pen,Live,Att,Succ,Succ%,Tkld,Tkld%,Carries,TotDist,PrgDist,PrgC,1/3,CPA,Mis,Dis,Rec,PrgR
+0,Marko Arnautović,7.0,at AUT,FW,29-128,58,30,1,1,10,19,8,30,0,0,,0,,15,39,22,1,1,0,4,1,22,3
+1,Javier Hernández,17.0,mx MEX,FW,30-085,32,16,1,1,7,8,2,16,0,0,,0,,9,20,3,0,0,0,1,1,12,3
+2,Felipe Anderson,8.0,br BRA,"FW,LM",25-132,90,63,1,10,29,26,5,63,3,1,33.3,2,66.7,37,419,289,5,6,1,1,1,42,4
+3,Michail Antonio,30.0,jm JAM,LM,28-150,62,20,1,3,7,12,2,20,2,2,100.0,0,0.0,11,110,58,2,1,1,2,0,16,5
+4,Lucas Pérez,27.0,es ESP,"LM,FW",29-349,28,15,1,3,4,8,1,15,0,0,,0,,7,29,11,1,1,0,1,1,10,3
+5,Jack Wilshere,19.0,eng ENG,CM,26-236,90,43,2,10,29,4,0,43,5,5,100.0,0,0.0,22,147,41,1,0,0,0,1,30,1
+6,Carlos Sánchez,15.0,co COL,CM,32-200,90,46,3,7,36,4,0,46,3,1,33.3,2,66.7,16,42,8,0,0,0,1,1,23,1
+7,Robert Snodgrass,11.0,sct SCO,RM,30-352,74,42,0,3,19,20,3,42,1,1,100.0,0,0.0,25,117,59,2,0,1,0,2,30,3
+8,Andriy Yarmolenko,20.0,ua UKR,RM,28-306,16,8,0,1,2,5,0,8,0,0,,0,,4,10,7,0,0,0,0,0,7,0
+9,Arthur Masuaku,26.0,cd COD,LB,24-291,90,62,7,27,27,12,1,62,4,4,100.0,0,0.0,31,301,220,5,0,1,0,0,24,1
+10,Issa Diop,23.0,fr FRA,CB,21-228,90,34,13,27,6,1,1,34,0,0,,0,,7,23,11,0,0,0,1,0,11,1
+11,Fabián Balbuena,4.0,py PAR,CB,27-002,90,33,8,20,13,0,0,33,0,0,,0,,12,44,10,0,0,0,0,0,14,0
+12,Ryan Fredericks,24.0,eng ENG,RB,25-319,90,52,3,14,24,14,3,52,6,3,50.0,3,50.0,22,161,99,4,4,2,0,0,28,3
+13,Łukasz Fabiański,1.0,pl POL,GK,33-129,90,35,30,35,0,0,0,35,0,0,,0,,12,115,86,0,0,0,0,0,11,0
+14,14 Players,,,,,990,499,71,162,213,133,26,499,24,17,70.8,7,29.2,230,1577,924,21,13,6,11,8,280,28

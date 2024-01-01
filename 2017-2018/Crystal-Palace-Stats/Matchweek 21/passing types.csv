@@ -1,0 +1,17 @@
+,Unnamed: 0_level_0,Unnamed: 1_level_0,Unnamed: 2_level_0,Unnamed: 3_level_0,Unnamed: 4_level_0,Unnamed: 5_level_0,Unnamed: 6_level_0,Pass Types,Pass Types,Pass Types,Pass Types,Pass Types,Pass Types,Pass Types,Pass Types,Corner Kicks,Corner Kicks,Corner Kicks,Outcomes,Outcomes,Outcomes
+,Player,#,Nation,Pos,Age,Min,Att,Live,Dead,FK,TB,Sw,Crs,TI,CK,In,Out,Str,Cmp,Off,Blocks
+0,Christian Benteke,17.0,be BEL,FW,27-028,90,25,25,0,0,0,0,0,0,0,0,0,0,13,0,1
+1,Wilfried Zaha,11.0,ci CIV,LW,25-051,90,21,21,0,0,1,0,5,0,0,0,0,0,11,0,3
+2,Andros Townsend,10.0,eng ENG,RW,26-168,90,17,13,4,1,0,0,5,0,3,2,0,1,10,0,0
+3,Jaïro Riedewald,44.0,nl NED,LM,21-113,90,17,16,0,0,0,0,0,0,0,0,0,0,10,1,2
+4,Luka Milivojević,4.0,rs SRB,CM,26-268,90,23,23,0,0,0,0,0,0,0,0,0,0,14,0,2
+5,Yohan Cabaye,7.0,fr FRA,RM,31-351,74,25,18,7,2,0,1,5,0,4,2,1,0,16,0,1
+6,Jason Puncheon,42.0,eng ENG,RM,31-196,15,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+7,Lee Chung-yong,14.0,kr KOR,RM,29-182,1,1,1,0,0,0,0,0,0,0,0,0,0,1,0,0
+8,Patrick van Aanholt,3.0,nl NED,LB,27-124,90,26,16,10,1,0,0,1,9,0,0,0,0,12,0,1
+9,Scott Dann,6.0,eng ENG,CB,30-320,19,3,3,0,0,0,0,0,0,0,0,0,0,3,0,0
+10,Martin Kelly,34.0,eng ENG,CB,27-248,71,8,8,0,0,0,0,0,0,0,0,0,0,4,0,0
+11,James Tomkins,5.0,eng ENG,CB,28-277,90,19,18,0,0,0,0,0,0,0,0,0,0,14,1,0
+12,Timothy Fosu-Mensah,24.0,nl NED,RB,19-363,90,20,15,4,0,0,1,1,4,0,0,0,0,13,1,0
+13,Wayne Hennessey,13.0,wls WAL,GK,30-341,90,35,15,19,7,0,0,0,0,0,0,0,0,16,1,0
+14,14 Players,,,,,990,240,192,44,11,1,2,17,13,7,4,1,1,137,4,10

@@ -1,0 +1,17 @@
+,Unnamed: 0_level_0,Unnamed: 1_level_0,Unnamed: 2_level_0,Unnamed: 3_level_0,Unnamed: 4_level_0,Unnamed: 5_level_0,Touches,Touches,Touches,Touches,Touches,Touches,Touches,Take-Ons,Take-Ons,Take-Ons,Take-Ons,Take-Ons,Carries,Carries,Carries,Carries,Carries,Carries,Carries,Carries,Receiving,Receiving
+,Player,#,Nation,Pos,Age,Min,Touches,Def Pen,Def 3rd,Mid 3rd,Att 3rd,Att Pen,Live,Att,Succ,Succ%,Tkld,Tkld%,Carries,TotDist,PrgDist,PrgC,1/3,CPA,Mis,Dis,Rec,PrgR
+0,Oumar Niasse,19.0,sn SEN,FW,27-291,77,29,2,3,7,19,5,29,2,1,50.0,1,50.0,16,50,13,0,0,0,4,2,23,9
+1,Cenk Tosun,14.0,tr TUR,FW,26-241,13,5,0,0,1,4,0,5,0,0,,0,,4,7,5,0,1,0,1,0,5,1
+2,Yannick Bolasie,7.0,cd COD,LW,28-255,90,37,0,1,8,28,1,37,9,3,33.3,6,66.7,21,141,59,5,1,0,2,2,27,7
+3,Theo Walcott,11.0,eng ENG,RW,28-324,60,32,2,3,11,19,4,32,2,1,50.0,1,50.0,15,104,74,1,1,1,4,0,16,4
+4,Dominic Calvert-Lewin,29.0,eng ENG,RW,20-324,30,17,0,2,7,8,4,17,1,1,100.0,0,0.0,8,67,32,1,0,1,2,1,14,2
+5,Cuco Martina,15.0,cw CUW,"LB,LM",28-131,90,59,3,15,21,23,1,59,0,0,,0,,16,99,62,2,1,0,0,1,26,4
+6,Idrissa Gana Gueye,17.0,sn SEN,"DM,CM",28-130,90,52,1,10,30,12,0,52,0,0,,0,,24,85,18,0,0,0,0,2,35,2
+7,Morgan Schneiderlin,2.0,fr FRA,"DM,CM",28-087,90,65,4,13,39,15,1,65,0,0,,0,,33,178,69,1,0,0,0,0,37,0
+8,Jonjoe Kenny,43.0,eng ENG,"RB,RM",20-325,90,67,1,6,40,21,0,67,1,0,0.0,1,100.0,27,120,55,2,0,0,2,0,41,7
+9,Eliaquim Mangala,13.0,fr FRA,CB,26-355,90,57,4,28,23,7,2,57,2,2,100.0,0,0.0,37,226,131,2,1,0,0,2,34,0
+10,Ashley Williams,5.0,wls WAL,CB,33-164,90,52,8,26,21,5,1,52,0,0,,0,,18,77,32,0,0,0,0,0,33,0
+11,Michael Keane,4.0,eng ENG,CB,25-023,45,24,3,10,13,1,1,24,1,1,100.0,0,0.0,9,41,24,0,0,0,0,0,13,1
+12,Tom Davies,26.0,eng ENG,AM,19-218,45,21,0,0,8,13,1,21,5,4,80.0,1,20.0,18,118,45,2,1,0,0,2,19,6
+13,Jordan Pickford,1.0,eng ENG,GK,23-333,90,25,19,25,0,0,0,25,0,0,,0,,14,83,63,0,0,0,0,0,11,0
+14,14 Players,,,,,990,542,47,142,229,175,21,542,23,13,56.5,10,43.5,260,1396,682,16,6,2,15,12,334,43

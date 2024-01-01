@@ -1,0 +1,17 @@
+,Unnamed: 0_level_0,Unnamed: 1_level_0,Unnamed: 2_level_0,Unnamed: 3_level_0,Unnamed: 4_level_0,Unnamed: 5_level_0,Unnamed: 6_level_0,Pass Types,Pass Types,Pass Types,Pass Types,Pass Types,Pass Types,Pass Types,Pass Types,Corner Kicks,Corner Kicks,Corner Kicks,Outcomes,Outcomes,Outcomes
+,Player,#,Nation,Pos,Age,Min,Att,Live,Dead,FK,TB,Sw,Crs,TI,CK,In,Out,Str,Cmp,Off,Blocks
+0,Lucas Pérez,27.0,es ESP,FW,30-111,45,9,8,1,0,0,0,0,0,0,0,0,0,7,0,1
+1,Andy Carroll,9.0,eng ENG,FW,29-358,45,11,11,0,0,0,0,0,0,0,0,0,0,6,0,1
+2,Marko Arnautović,7.0,at AUT,FW,29-255,72,30,28,2,0,0,0,0,0,0,0,0,0,21,0,3
+3,Xande Silva,32.0,pt POR,FW,21-289,18,4,4,0,0,0,0,0,0,0,0,0,0,3,0,0
+4,Felipe Anderson,8.0,br BRA,LM,25-259,90,50,47,3,0,1,1,4,1,2,0,1,0,29,0,1
+5,Declan Rice,41.0,eng ENG,CM,19-350,90,45,44,1,1,1,2,0,0,0,0,0,0,42,0,1
+6,Mark Noble,16.0,eng ENG,CM,31-236,90,51,47,4,4,0,0,0,0,0,0,0,0,43,0,0
+7,Robert Snodgrass,11.0,sct SCO,RM,31-114,45,18,16,2,0,0,0,2,0,2,2,0,0,15,0,0
+8,Grady Diangana,45.0,cd COD,RM,20-255,45,22,21,1,0,0,0,2,0,1,1,0,0,14,0,1
+9,Aaron Cresswell,3.0,eng ENG,LB,29-015,90,75,53,22,1,0,0,2,21,0,0,0,0,63,0,2
+10,Angelo Ogbonna,21.0,it ITA,CB,30-221,90,43,41,2,2,0,0,0,0,0,0,0,0,34,0,0
+11,Issa Diop,23.0,fr FRA,CB,21-355,90,41,38,3,3,0,0,0,0,0,0,0,0,33,0,0
+12,Michail Antonio,30.0,jm JAM,RB,28-277,90,66,53,13,1,0,1,7,12,0,0,0,0,40,0,6
+13,Łukasz Fabiański,1.0,pl POL,GK,33-256,90,44,26,17,7,0,0,0,0,0,0,0,0,24,1,0
+14,14 Players,,,,,990,509,437,71,19,2,4,17,34,5,3,1,0,374,1,16

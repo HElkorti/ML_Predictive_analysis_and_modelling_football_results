@@ -1,0 +1,16 @@
+,Unnamed: 0_level_0,Unnamed: 1_level_0,Unnamed: 2_level_0,Unnamed: 3_level_0,Unnamed: 4_level_0,Unnamed: 5_level_0,Touches,Touches,Touches,Touches,Touches,Touches,Touches,Take-Ons,Take-Ons,Take-Ons,Take-Ons,Take-Ons,Carries,Carries,Carries,Carries,Carries,Carries,Carries,Carries,Receiving,Receiving
+,Player,#,Nation,Pos,Age,Min,Touches,Def Pen,Def 3rd,Mid 3rd,Att 3rd,Att Pen,Live,Att,Succ,Succ%,Tkld,Tkld%,Carries,TotDist,PrgDist,PrgC,1/3,CPA,Mis,Dis,Rec,PrgR
+0,Alexandre Lacazette,9.0,fr FRA,FW,26-147,76,34,0,3,11,20,7,34,2,1,50.0,1,50.0,25,122,37,3,1,2,2,0,28,12
+1,Jack Wilshere,10.0,eng ENG,AM,25-294,14,17,0,1,9,7,1,17,0,0,,0,,14,96,40,1,0,0,0,0,15,2
+2,Alexis Sánchez,7.0,cl CHI,"AM,FW",28-307,90,69,0,1,27,41,10,69,5,5,100.0,0,0.0,54,462,196,7,7,4,5,1,57,7
+3,Mesut Özil,11.0,de GER,AM,29-007,81,64,1,6,30,29,7,64,0,0,,0,,44,283,142,3,4,2,2,2,51,10
+4,Francis Coquelin,34.0,fr FRA,CM,26-162,9,11,0,2,9,0,0,11,0,0,,0,,8,28,19,0,0,0,0,0,9,0
+5,Granit Xhaka,29.0,ch SUI,CM,25-025,90,111,0,23,73,16,0,111,2,2,100.0,0,0.0,71,309,161,2,0,0,2,0,82,0
+6,Aaron Ramsey,8.0,wls WAL,"CM,AM",26-300,90,65,0,5,37,23,9,65,0,0,,0,,47,251,149,6,2,2,2,2,56,8
+7,Sead Kolašinac,31.0,ba BIH,WB,24-124,90,91,0,31,31,29,6,91,0,0,,0,,49,223,143,2,3,0,2,1,55,13
+8,Héctor Bellerín,24.0,es ESP,WB,22-217,90,56,4,12,19,25,5,56,2,2,100.0,0,0.0,25,127,76,0,1,1,1,0,32,9
+9,Nacho Monreal,18.0,es ESP,CB,31-238,90,96,3,40,44,12,1,96,0,0,,0,,63,330,187,3,5,0,1,0,67,2
+10,Per Mertesacker,4.0,de GER,CB,33-023,90,55,6,38,17,1,0,55,0,0,,0,,26,79,30,0,0,0,0,0,29,0
+11,Laurent Koscielny,6.0,fr FRA,CB,32-042,90,72,8,34,35,3,0,72,1,1,100.0,0,0.0,42,173,109,2,1,0,0,0,46,1
+12,Petr Čech,33.0,cz CZE,GK,35-155,90,30,27,30,0,0,0,30,1,0,0.0,1,100.0,16,82,53,0,0,0,0,0,19,0
+13,13 Players,,,,,990,771,49,226,342,206,46,771,13,11,84.6,2,15.4,484,2565,1342,29,24,11,17,6,546,64

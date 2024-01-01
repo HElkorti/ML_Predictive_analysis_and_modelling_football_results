@@ -1,0 +1,16 @@
+,Unnamed: 0_level_0,Unnamed: 1_level_0,Unnamed: 2_level_0,Unnamed: 3_level_0,Unnamed: 4_level_0,Unnamed: 5_level_0,Unnamed: 6_level_0,Pass Types,Pass Types,Pass Types,Pass Types,Pass Types,Pass Types,Pass Types,Pass Types,Corner Kicks,Corner Kicks,Corner Kicks,Outcomes,Outcomes,Outcomes
+,Player,#,Nation,Pos,Age,Min,Att,Live,Dead,FK,TB,Sw,Crs,TI,CK,In,Out,Str,Cmp,Off,Blocks
+0,Sergio Agüero,10.0,ar ARG,FW,29-243,90,29,28,1,0,1,0,0,0,1,0,0,0,24,0,0
+1,Raheem Sterling,7.0,eng ENG,"LW,RW",23-054,90,55,54,1,0,1,0,2,1,0,0,0,0,41,0,5
+2,Bernardo Silva,20.0,pt POR,"RW,RM",23-174,90,66,62,4,1,0,0,4,2,1,0,0,0,58,0,2
+3,David Silva,21.0,es ESP,LM,32-023,38,30,29,1,0,0,0,1,0,1,0,0,0,23,0,1
+4,İlkay Gündoğan,8.0,de GER,LM,27-099,52,41,39,2,1,0,0,1,0,1,0,0,0,36,0,0
+5,Fernandinho,25.0,br BRA,CM,32-272,90,66,65,1,1,0,0,0,0,0,0,0,0,59,0,0
+6,Kevin De Bruyne,17.0,be BEL,RM,26-217,77,74,67,7,1,2,0,6,0,5,2,0,0,59,0,3
+7,Brahim Díaz,55.0,es ESP,LW,18-181,13,8,8,0,0,0,0,1,0,0,0,0,0,7,0,0
+8,Oleksandr Zinchenko,35.0,ua UKR,LB,21-047,90,95,90,5,1,0,2,1,4,0,0,0,0,79,0,2
+9,Aymeric Laporte,14.0,es ESP,CB,23-249,90,76,76,0,0,0,4,0,0,0,0,0,0,72,0,1
+10,Nicolás Otamendi,30.0,ar ARG,CB,29-353,90,68,67,1,1,0,2,0,0,0,0,0,0,59,0,0
+11,Kyle Walker,2.0,eng ENG,RB,27-248,90,104,91,13,2,0,1,4,11,0,0,0,0,91,0,4
+12,Ederson,31.0,br BRA,GK,24-167,90,24,22,2,0,0,0,0,0,0,0,0,0,23,0,0
+13,13 Players,,,,,990,736,698,38,8,4,9,20,18,9,2,0,0,631,0,18

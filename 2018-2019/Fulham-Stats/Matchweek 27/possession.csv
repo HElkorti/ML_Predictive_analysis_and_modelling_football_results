@@ -1,0 +1,16 @@
+,Unnamed: 0_level_0,Unnamed: 1_level_0,Unnamed: 2_level_0,Unnamed: 3_level_0,Unnamed: 4_level_0,Unnamed: 5_level_0,Touches,Touches,Touches,Touches,Touches,Touches,Touches,Take-Ons,Take-Ons,Take-Ons,Take-Ons,Take-Ons,Carries,Carries,Carries,Carries,Carries,Carries,Carries,Carries,Receiving,Receiving
+,Player,#,Nation,Pos,Age,Min,Touches,Def Pen,Def 3rd,Mid 3rd,Att 3rd,Att Pen,Live,Att,Succ,Succ%,Tkld,Tkld%,Carries,TotDist,PrgDist,PrgC,1/3,CPA,Mis,Dis,Rec,PrgR
+0,Aleksandar Mitrović,9.0,rs SRB,FW,24-159,90,51,0,0,35,16,2,51,1,1,100.0,0,0.0,26,106,24,0,0,1,4,6,41,11
+1,Ryan Babel,12.0,nl NED,FW,32-065,90,46,3,4,31,12,2,46,0,0,,0,,24,124,40,2,2,1,3,1,36,11
+2,Ryan Sessegnon,3.0,eng ENG,LM,18-280,45,25,1,4,14,7,1,25,0,0,,0,,15,56,32,1,2,0,1,2,14,0
+3,Lazar Marković,30.0,rs SRB,LM,24-357,45,37,1,4,22,11,1,37,1,1,100.0,0,0.0,17,108,30,1,2,0,2,2,32,7
+4,Jean Seri,24.0,ci CIV,CM,27-218,45,25,2,5,16,4,1,25,3,1,33.3,2,66.7,12,130,54,2,1,0,0,0,15,1
+5,Andre-Frank Zambo Anguissa,29.0,cm CMR,CM,23-098,45,47,3,10,35,2,0,47,2,2,100.0,0,0.0,25,114,55,0,0,0,2,1,37,0
+6,Calum Chambers,5.0,eng ENG,CM,24-033,90,75,10,25,49,1,1,75,0,0,,0,,23,79,22,0,1,0,0,1,43,1
+7,Tom Cairney,10.0,sct SCO,RM,28-033,90,68,3,11,47,13,1,68,8,5,62.5,3,37.5,39,327,177,4,5,1,2,2,48,6
+8,Joe Bryan,23.0,eng ENG,LB,25-158,90,55,8,18,26,12,1,55,0,0,,0,,21,170,116,3,1,0,1,1,24,5
+9,Tim Ream,13.0,us USA,CB,31-140,90,41,5,20,21,0,0,41,0,0,,0,,14,44,30,0,0,0,0,0,22,0
+10,Håvard Nordtveit,16.0,no NOR,CB,28-246,90,67,11,40,29,0,0,67,1,1,100.0,0,0.0,30,114,60,0,0,0,0,0,42,0
+11,Denis Odoi,4.0,gh GHA,RB,30-271,90,58,5,20,36,4,0,58,1,1,100.0,0,0.0,20,134,53,0,0,0,2,2,31,1
+12,Sergio Rico,25.0,es ESP,GK,25-174,90,32,25,32,0,0,0,32,0,0,,0,,9,36,29,0,0,0,0,0,11,0
+13,13 Players,,,,,990,627,77,193,361,82,10,627,17,12,70.6,5,29.4,275,1542,722,13,14,3,17,18,396,43

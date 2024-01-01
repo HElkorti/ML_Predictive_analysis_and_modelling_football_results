@@ -1,0 +1,17 @@
+,Unnamed: 0_level_0,Unnamed: 1_level_0,Unnamed: 2_level_0,Unnamed: 3_level_0,Unnamed: 4_level_0,Unnamed: 5_level_0,Unnamed: 6_level_0,Pass Types,Pass Types,Pass Types,Pass Types,Pass Types,Pass Types,Pass Types,Pass Types,Corner Kicks,Corner Kicks,Corner Kicks,Outcomes,Outcomes,Outcomes
+,Player,#,Nation,Pos,Age,Min,Att,Live,Dead,FK,TB,Sw,Crs,TI,CK,In,Out,Str,Cmp,Off,Blocks
+0,Jamie Vardy,9.0,eng ENG,FW,30-353,73,7,7,0,0,0,0,1,0,0,0,0,0,4,0,0
+1,Islam Slimani,19.0,dz ALG,FW,29-195,17,10,10,0,0,0,0,1,0,0,0,0,0,5,0,2
+2,Demarai Gray,7.0,jm JAM,"FW,LM",21-185,90,32,30,2,0,0,0,3,0,0,0,0,0,26,0,2
+3,Marc Albrighton,11.0,eng ENG,"LM,RM",28-042,82,30,30,0,0,0,2,2,0,0,0,0,0,19,0,1
+4,Matty James,22.0,eng ENG,RM,26-161,8,1,1,0,0,0,0,0,0,0,0,0,0,1,0,0
+5,Vicente Iborra,21.0,es ESP,CM,29-348,90,39,39,0,0,1,0,0,0,0,0,0,0,29,0,1
+6,Wilfred Ndidi,25.0,ng NGA,CM,21-014,90,50,47,2,2,0,0,0,0,0,0,0,0,43,1,1
+7,Riyad Mahrez,26.0,dz ALG,RM,26-312,72,25,22,3,2,0,1,1,0,1,1,0,0,17,0,2
+8,Shinji Okazaki,20.0,jp JPN,FW,31-258,18,5,4,1,0,0,0,0,0,0,0,0,0,3,0,1
+9,Christian Fuchs,28.0,at AUT,LB,31-267,90,57,41,16,0,0,0,3,16,0,0,0,0,34,0,3
+10,Harry Maguire,15.0,eng ENG,CB,24-300,90,44,43,0,0,0,0,1,0,0,0,0,0,27,1,0
+11,Wes Morgan,5.0,jm JAM,CB,33-343,90,23,22,0,0,0,0,0,0,0,0,0,0,17,1,0
+12,Daniel Amartey,18.0,gh GHA,RB,23-009,90,47,38,9,0,0,0,0,9,0,0,0,0,33,0,0
+13,Kasper Schmeichel,1.0,dk DEN,GK,31-055,90,43,23,20,7,0,2,0,0,0,0,0,0,15,0,0
+14,14 Players,,,,,990,413,357,53,11,1,5,12,25,1,1,0,0,273,3,13

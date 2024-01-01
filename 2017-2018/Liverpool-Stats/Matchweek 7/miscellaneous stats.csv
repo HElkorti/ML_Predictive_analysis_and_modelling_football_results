@@ -1,0 +1,17 @@
+,Unnamed: 0_level_0,Unnamed: 1_level_0,Unnamed: 2_level_0,Unnamed: 3_level_0,Unnamed: 4_level_0,Unnamed: 5_level_0,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Aerial Duels,Aerial Duels,Aerial Duels
+,Player,#,Nation,Pos,Age,Min,CrdY,CrdR,2CrdY,Fls,Fld,Off,Crs,Int,TklW,PKwon,PKcon,OG,Recov,Won,Lost,Won%
+0,Daniel Sturridge,15.0,eng ENG,FW,28-030,73,0,0,0,0,1,2,0,0,0,0,0,0,0,0,0,
+1,Roberto Firmino,9.0,br BRA,FW,25-364,17,0,0,0,1,0,0,0,0,1,0,0,0,0,0,1,0.0
+2,Sadio Mané,19.0,sn SEN,LW,25-174,73,0,0,0,0,3,0,2,0,3,0,0,0,5,0,4,0.0
+3,Dominic Solanke,29.0,eng ENG,LW,20-017,17,0,0,0,1,0,0,0,0,0,0,0,0,0,2,1,66.7
+4,Mohamed Salah,11.0,eg EGY,RW,25-108,83,0,0,0,0,1,0,4,1,0,0,0,0,7,1,0,100.0
+5,Alex Oxlade-Chamberlain,21.0,eng ENG,RW,24-047,7,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
+6,Philippe Coutinho,10.0,br BRA,LM,25-111,90,0,0,0,1,2,0,6,3,3,0,0,0,3,0,1,0.0
+7,Jordan Henderson,14.0,eng ENG,CM,27-106,90,0,0,0,0,0,0,0,0,1,0,0,0,10,3,1,75.0
+8,Georginio Wijnaldum,5.0,nl NED,RM,26-324,90,0,0,0,0,1,0,0,2,0,0,0,0,5,0,1,0.0
+9,Alberto Moreno,18.0,es ESP,LB,25-088,90,0,0,0,1,2,0,9,0,0,0,0,0,3,1,1,50.0
+10,Dejan Lovren,6.0,hr CRO,CB,28-088,90,0,0,0,1,1,0,0,1,1,0,0,0,7,5,1,83.3
+11,Joël Matip,32.0,cm CMR,CB,26-054,90,0,0,0,0,0,0,0,3,1,0,0,0,3,3,1,75.0
+12,Joe Gomez,12.0,eng ENG,RB,20-131,90,1,0,0,1,0,0,6,3,0,0,0,0,4,5,4,55.6
+13,Simon Mignolet,22.0,be BEL,GK,29-209,90,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
+14,14 Players,,,,,990,1,0,0,6,11,2,27,13,10,0,0,0,47,20,16,55.6

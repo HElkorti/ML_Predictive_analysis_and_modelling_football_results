@@ -1,0 +1,17 @@
+,Unnamed: 0_level_0,Unnamed: 1_level_0,Unnamed: 2_level_0,Unnamed: 3_level_0,Unnamed: 4_level_0,Unnamed: 5_level_0,Touches,Touches,Touches,Touches,Touches,Touches,Touches,Take-Ons,Take-Ons,Take-Ons,Take-Ons,Take-Ons,Carries,Carries,Carries,Carries,Carries,Carries,Carries,Carries,Receiving,Receiving
+,Player,#,Nation,Pos,Age,Min,Touches,Def Pen,Def 3rd,Mid 3rd,Att 3rd,Att Pen,Live,Att,Succ,Succ%,Tkld,Tkld%,Carries,TotDist,PrgDist,PrgC,1/3,CPA,Mis,Dis,Rec,PrgR
+0,Jamie Vardy,9.0,eng ENG,FW,32-046,89,26,1,2,10,14,5,26,0,0,,0,,16,86,51,2,0,0,3,0,21,5
+1,Kelechi Iheanacho,8.0,ng NGA,FW,22-146,1,2,0,0,1,1,0,2,1,0,0.0,1,100.0,1,0,0,0,0,0,0,0,1,0
+2,Harvey Barnes,19.0,eng ENG,LW,21-079,90,40,2,6,11,25,11,40,4,4,100.0,0,0.0,27,246,191,7,4,4,5,0,29,9
+3,Demarai Gray,7.0,jm JAM,RW,22-243,90,42,0,8,19,16,4,42,3,2,66.7,1,33.3,31,194,97,5,3,1,2,1,31,8
+4,James Maddison,10.0,eng ENG,"LM,AM",22-095,89,62,0,5,32,26,3,62,3,3,100.0,0,0.0,45,240,125,5,5,2,1,1,48,5
+5,Shinji Okazaki,20.0,jp JPN,AM,32-316,1,2,0,0,2,0,0,2,0,0,,0,,2,3,0,0,0,0,1,0,2,0
+6,Wilfred Ndidi,25.0,ng NGA,"CM,DM",22-072,90,68,5,22,41,5,0,68,0,0,,0,,37,219,120,3,1,0,0,0,30,0
+7,Youri Tielemans,21.0,be BEL,RM,21-295,68,40,1,7,21,12,1,40,1,1,100.0,0,0.0,30,132,103,2,1,0,2,0,33,4
+8,Nampalys Mendy,24.0,sn SEN,"DM,RM",26-248,22,22,0,1,16,5,0,22,0,0,,0,,19,93,56,1,2,0,0,0,20,0
+9,Ben Chilwell,3.0,eng ENG,LB,22-067,90,54,4,16,21,18,2,54,0,0,,0,,33,166,119,2,1,1,3,0,31,4
+10,Harry Maguire,15.0,eng ENG,CB,25-358,90,73,9,33,37,3,2,73,1,1,100.0,0,0.0,52,362,262,3,2,1,0,0,50,0
+11,Jonny Evans,6.0,nir NIR,CB,31-054,90,66,9,45,19,2,1,66,0,0,,0,,44,178,119,1,0,0,0,2,43,1
+12,Ricardo Pereira,14.0,pt POR,RB,25-143,90,77,7,30,33,16,1,77,0,0,,0,,32,169,97,1,2,0,2,0,38,3
+13,Kasper Schmeichel,1.0,dk DEN,GK,32-113,90,30,23,29,1,0,0,30,0,0,,0,,12,53,31,0,0,0,0,0,8,0
+14,14 Players,,,,,990,604,61,204,264,143,30,604,13,11,84.6,2,15.4,381,2141,1371,32,21,9,19,4,385,39

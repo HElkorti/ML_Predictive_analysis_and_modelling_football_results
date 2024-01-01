@@ -1,0 +1,17 @@
+,Unnamed: 0_level_0,Unnamed: 1_level_0,Unnamed: 2_level_0,Unnamed: 3_level_0,Unnamed: 4_level_0,Unnamed: 5_level_0,Tackles,Tackles,Tackles,Tackles,Tackles,Challenges,Challenges,Challenges,Challenges,Blocks,Blocks,Blocks,Unnamed: 18_level_0,Unnamed: 19_level_0,Unnamed: 20_level_0,Unnamed: 21_level_0
+,Player,#,Nation,Pos,Age,Min,Tkl,TklW,Def 3rd,Mid 3rd,Att 3rd,Tkl,Att,Tkl%,Lost,Blocks,Sh,Pass,Int,Tkl+Int,Clr,Err
+0,Marko Arnautović,7.0,at AUT,FW,30-015,90,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,0
+1,Michail Antonio,30.0,jm JAM,"LM,RW",29-037,90,0,0,0,0,0,0,0,,0,2,0,2,1,1,2,0
+2,Manuel Lanzini,10.0,ar ARG,"CM,LW",26-078,82,3,3,1,2,0,3,5,60.0,2,0,0,0,0,3,1,0
+3,Lucas Pérez,27.0,es ESP,LW,30-236,8,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,0
+4,Mark Noble,16.0,eng ENG,"CM,DM",31-361,77,3,2,1,1,1,1,2,50.0,1,1,0,1,0,3,1,0
+5,Carlos Sánchez,15.0,co COL,DM,33-087,13,0,0,0,0,0,0,0,,0,0,0,0,0,0,1,0
+6,Grady Diangana,45.0,cd COD,RM,21-015,67,0,0,0,0,0,0,0,,0,2,0,2,1,1,0,0
+7,Jack Wilshere,19.0,eng ENG,AM,27-123,23,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,0
+8,Pedro Obiang,14.0,gq EQG,DM,27-038,90,4,2,2,1,1,0,2,0.0,2,4,3,1,2,6,2,0
+9,Arthur Masuaku,26.0,cd COD,LB,25-178,90,0,0,0,0,0,0,1,0.0,1,0,0,0,1,1,5,0
+10,Issa Diop,23.0,fr FRA,CB,22-115,90,2,1,0,2,0,2,3,66.7,1,2,2,0,6,8,4,0
+11,Fabián Balbuena,4.0,py PAR,CB,27-254,90,2,0,1,1,0,1,2,50.0,1,2,2,0,2,4,7,0
+12,Ryan Fredericks,24.0,eng ENG,RB,26-206,90,4,4,3,1,0,2,2,100.0,0,2,0,2,2,6,4,0
+13,Łukasz Fabiański,1.0,pl POL,GK,34-016,90,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,0
+14,14 Players,,,,,990,18,12,8,8,2,9,17,52.9,8,15,7,8,15,33,27,0

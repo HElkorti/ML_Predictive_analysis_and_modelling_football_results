@@ -1,0 +1,17 @@
+,Unnamed: 0_level_0,Unnamed: 1_level_0,Unnamed: 2_level_0,Unnamed: 3_level_0,Unnamed: 4_level_0,Unnamed: 5_level_0,Tackles,Tackles,Tackles,Tackles,Tackles,Challenges,Challenges,Challenges,Challenges,Blocks,Blocks,Blocks,Unnamed: 18_level_0,Unnamed: 19_level_0,Unnamed: 20_level_0,Unnamed: 21_level_0
+,Player,#,Nation,Pos,Age,Min,Tkl,TklW,Def 3rd,Mid 3rd,Att 3rd,Tkl,Att,Tkl%,Lost,Blocks,Sh,Pass,Int,Tkl+Int,Clr,Err
+0,Romelu Lukaku,9.0,be BEL,FW,25-293,90,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,0
+1,Marcus Rashford,10.0,eng ENG,FW,21-122,89,0,0,0,0,0,0,1,0.0,1,1,0,1,0,0,0,0
+2,Tahith Chong,44.0,nl NED,FW,19-088,1,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,0
+3,Alexis Sánchez,7.0,cl CHI,AM,30-073,51,1,1,0,1,0,0,0,,0,0,0,0,0,1,0,0
+4,Diogo Dalot,20.0,pt POR,WB,19-349,39,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,0
+5,Paul Pogba,6.0,fr FRA,"LM,CM,AM",25-352,90,2,1,2,0,0,0,1,0.0,1,2,0,2,0,2,2,0
+6,Scott McTominay,39.0,sct SCO,CM,22-084,90,1,1,1,0,0,1,2,50.0,1,0,0,0,3,4,3,0
+7,Andreas Pereira,15.0,br BRA,"RM,AM",23-060,81,0,0,0,0,0,0,3,0.0,3,1,0,1,0,0,0,0
+8,Fred,17.0,br BRA,CM,25-362,9,0,0,0,0,0,0,0,,0,0,0,0,0,0,1,0
+9,Luke Shaw,23.0,eng ENG,"LB,WB",23-233,90,2,1,1,1,0,1,1,100.0,0,1,1,0,1,3,4,0
+10,Victor Lindelöf,2.0,se SWE,CB,24-228,90,0,0,0,0,0,0,0,,0,0,0,0,0,0,1,0
+11,Chris Smalling,12.0,eng ENG,CB,29-100,90,3,1,2,1,0,0,0,,0,1,1,0,1,4,4,0
+12,Ashley Young,18.0,eng ENG,"RB,CB",33-236,90,0,0,0,0,0,0,0,,0,2,0,2,2,2,4,0
+13,David de Gea,1.0,es ESP,GK,28-115,90,0,0,0,0,0,0,0,,0,1,0,1,0,0,0,0
+14,14 Players,,,,,990,9,5,6,3,0,2,8,25.0,6,9,2,7,7,16,19,0

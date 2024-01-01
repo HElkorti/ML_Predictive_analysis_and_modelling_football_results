@@ -1,0 +1,17 @@
+,Unnamed: 0_level_0,Unnamed: 1_level_0,Unnamed: 2_level_0,Unnamed: 3_level_0,Unnamed: 4_level_0,Unnamed: 5_level_0,Unnamed: 6_level_0,Pass Types,Pass Types,Pass Types,Pass Types,Pass Types,Pass Types,Pass Types,Pass Types,Corner Kicks,Corner Kicks,Corner Kicks,Outcomes,Outcomes,Outcomes
+,Player,#,Nation,Pos,Age,Min,Att,Live,Dead,FK,TB,Sw,Crs,TI,CK,In,Out,Str,Cmp,Off,Blocks
+0,Romelu Lukaku,9.0,be BEL,FW,24-154,90,12,12,0,0,0,0,1,0,0,0,0,0,7,0,0
+1,Anthony Martial,11.0,fr FRA,LW,21-313,64,20,19,1,0,0,0,3,1,0,0,0,0,13,0,1
+2,Marcus Rashford,19.0,eng ENG,LW,19-348,26,2,2,0,0,0,0,0,0,0,0,0,0,0,0,0
+3,Ashley Young,18.0,eng ENG,RW,32-097,89,25,23,2,1,0,0,5,0,1,0,1,0,15,0,1
+4,Victor Lindelöf,2.0,se SWE,RW,23-089,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+5,Henrikh Mkhitaryan,22.0,am ARM,AM,28-266,62,32,28,4,1,0,0,3,0,2,0,2,0,23,0,1
+6,Jesse Lingard,14.0,eng ENG,AM,24-303,28,7,7,0,0,0,0,0,0,0,0,0,0,6,0,0
+7,Nemanja Matić,31.0,rs SRB,DM,29-074,90,58,56,2,2,0,2,1,0,0,0,0,0,49,0,3
+8,Ander Herrera,21.0,es ESP,DM,28-061,90,54,51,3,3,0,0,0,0,0,0,0,0,42,0,0
+9,Matteo Darmian,36.0,it ITA,LB,27-316,90,32,22,9,0,0,0,0,9,0,0,0,0,23,1,1
+10,Phil Jones,4.0,eng ENG,CB,25-235,90,44,43,1,1,0,0,0,0,0,0,0,0,38,0,0
+11,Chris Smalling,12.0,eng ENG,CB,27-326,90,23,23,0,0,0,0,0,0,0,0,0,0,23,0,0
+12,Antonio Valencia,25.0,ec ECU,RB,32-071,90,44,31,13,0,0,0,1,13,0,0,0,0,32,0,3
+13,David de Gea,1.0,es ESP,GK,26-341,90,41,29,12,2,0,0,0,0,0,0,0,0,16,0,0
+14,14 Players,,,,,990,394,346,47,10,0,2,14,23,3,0,3,0,287,1,10

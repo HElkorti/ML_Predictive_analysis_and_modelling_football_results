@@ -1,0 +1,17 @@
+,Unnamed: 0_level_0,Unnamed: 1_level_0,Unnamed: 2_level_0,Unnamed: 3_level_0,Unnamed: 4_level_0,Unnamed: 5_level_0,Unnamed: 6_level_0,Pass Types,Pass Types,Pass Types,Pass Types,Pass Types,Pass Types,Pass Types,Pass Types,Corner Kicks,Corner Kicks,Corner Kicks,Outcomes,Outcomes,Outcomes
+,Player,#,Nation,Pos,Age,Min,Att,Live,Dead,FK,TB,Sw,Crs,TI,CK,In,Out,Str,Cmp,Off,Blocks
+0,Laurent Depoitre,20.0,be BEL,FW,28-290,90,20,20,0,0,0,0,0,0,0,0,0,0,9,0,1
+1,Tom Ince,22.0,eng ENG,"LW,AM",25-236,90,18,16,2,1,0,0,1,0,1,0,0,0,16,0,0
+2,Elias Kachunga,9.0,cd COD,RW,25-154,88,25,25,0,0,0,0,5,0,0,0,0,0,13,0,4
+3,Florent Hadergjonaj,33.0,xk KVX,RW,23-054,2,3,3,0,0,0,0,0,0,0,0,0,0,2,0,0
+4,Abdelhamid Sabiri,11.0,ma MAR,AM,20-299,62,25,23,1,0,0,0,0,0,0,0,0,0,17,1,0
+5,Rajiv van La Parra,17.0,nl NED,LW,26-111,28,13,12,0,0,0,0,2,0,0,0,0,0,8,1,1
+6,Jonathan Hogg,6.0,eng ENG,DM,28-291,79,58,57,0,0,0,0,0,0,0,0,0,0,52,1,0
+7,Philip Billing,8.0,dk DEN,DM,21-104,11,10,10,0,0,0,0,0,0,0,0,0,0,9,0,0
+8,Aaron Mooy,10.0,au AUS,DM,27-008,90,60,56,4,1,0,2,4,0,3,1,1,0,47,0,2
+9,Chris Löwe,15.0,de GER,LB,28-160,90,48,32,16,1,0,0,2,15,0,0,0,0,39,0,1
+10,Christopher Schindler,26.0,de GER,CB,27-147,90,43,43,0,0,0,0,0,0,0,0,0,0,35,0,0
+11,Mathias Jørgensen,25.0,dk DEN,CB,27-153,90,42,41,1,1,0,0,0,0,0,0,0,0,31,0,0
+12,Tommy Smith,2.0,eng ENG,RB,25-162,90,61,44,17,1,0,0,4,16,0,0,0,0,45,0,2
+13,Jonas Lössl,1.0,dk DEN,GK,28-234,90,46,33,13,8,0,0,0,0,0,0,0,0,25,0,0
+14,14 Players,,,,,990,472,415,54,13,0,2,18,31,4,1,1,0,348,3,11

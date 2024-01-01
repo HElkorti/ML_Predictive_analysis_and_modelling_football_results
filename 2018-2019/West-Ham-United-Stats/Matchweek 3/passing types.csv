@@ -1,0 +1,17 @@
+,Unnamed: 0_level_0,Unnamed: 1_level_0,Unnamed: 2_level_0,Unnamed: 3_level_0,Unnamed: 4_level_0,Unnamed: 5_level_0,Unnamed: 6_level_0,Pass Types,Pass Types,Pass Types,Pass Types,Pass Types,Pass Types,Pass Types,Pass Types,Corner Kicks,Corner Kicks,Corner Kicks,Outcomes,Outcomes,Outcomes
+,Player,#,Nation,Pos,Age,Min,Att,Live,Dead,FK,TB,Sw,Crs,TI,CK,In,Out,Str,Cmp,Off,Blocks
+0,Marko Arnautović,7.0,at AUT,FW,29-128,58,17,14,3,0,0,0,0,1,0,0,0,0,14,0,0
+1,Javier Hernández,17.0,mx MEX,FW,30-085,32,11,10,1,0,0,0,1,0,0,0,0,0,8,0,0
+2,Felipe Anderson,8.0,br BRA,"FW,LM",25-132,90,51,44,6,3,1,2,3,1,1,1,0,0,32,1,5
+3,Michail Antonio,30.0,jm JAM,LM,28-150,62,13,13,0,0,1,0,1,0,0,0,0,0,9,0,0
+4,Lucas Pérez,27.0,es ESP,"LM,FW",29-349,28,13,13,0,0,0,0,0,0,0,0,0,0,7,0,0
+5,Jack Wilshere,19.0,eng ENG,CM,26-236,90,37,35,2,2,0,2,0,0,0,0,0,0,33,0,0
+6,Carlos Sánchez,15.0,co COL,CM,32-200,90,39,35,4,4,0,2,0,0,0,0,0,0,34,0,0
+7,Robert Snodgrass,11.0,sct SCO,RM,30-352,74,36,31,4,2,1,0,3,1,1,0,0,0,27,1,0
+8,Andriy Yarmolenko,20.0,ua UKR,RM,28-306,16,8,7,0,0,0,0,2,0,0,0,0,0,5,1,0
+9,Arthur Masuaku,26.0,cd COD,LB,24-291,90,49,34,15,2,0,1,3,13,0,0,0,0,37,0,5
+10,Issa Diop,23.0,fr FRA,CB,21-228,90,17,16,1,1,0,0,0,0,0,0,0,0,12,0,0
+11,Fabián Balbuena,4.0,py PAR,CB,27-002,90,22,21,1,1,0,0,0,0,0,0,0,0,16,0,0
+12,Ryan Fredericks,24.0,eng ENG,RB,25-319,90,42,36,6,0,0,0,2,6,0,0,0,0,32,0,1
+13,Łukasz Fabiański,1.0,pl POL,GK,33-129,90,29,18,11,4,0,1,0,0,0,0,0,0,15,0,0
+14,14 Players,,,,,990,384,327,54,19,3,8,15,22,2,1,0,0,281,3,11

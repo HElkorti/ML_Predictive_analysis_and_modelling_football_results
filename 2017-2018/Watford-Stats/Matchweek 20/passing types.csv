@@ -1,0 +1,17 @@
+,Unnamed: 0_level_0,Unnamed: 1_level_0,Unnamed: 2_level_0,Unnamed: 3_level_0,Unnamed: 4_level_0,Unnamed: 5_level_0,Unnamed: 6_level_0,Pass Types,Pass Types,Pass Types,Pass Types,Pass Types,Pass Types,Pass Types,Pass Types,Corner Kicks,Corner Kicks,Corner Kicks,Outcomes,Outcomes,Outcomes
+,Player,#,Nation,Pos,Age,Min,Att,Live,Dead,FK,TB,Sw,Crs,TI,CK,In,Out,Str,Cmp,Off,Blocks
+0,Richarlison,11.0,br BRA,"FW,LW,LM",20-230,90,28,28,0,0,0,0,1,0,0,0,0,0,16,0,2
+1,Roberto Pereyra,37.0,ar ARG,LW,26-353,43,14,14,0,0,0,0,2,0,0,0,0,0,8,0,3
+2,Stefano Okaka,33.0,it ITA,FW,28-139,47,18,18,0,0,0,0,0,0,0,0,0,0,9,0,0
+3,André Carrillo,28.0,pe PER,RW,26-195,89,44,44,0,0,1,1,1,0,0,0,0,0,30,0,2
+4,Jerome Sinclair,17.0,eng ENG,"RM,RW",21-097,1,2,2,0,0,0,0,0,0,0,0,0,0,2,0,0
+5,Abdoulaye Doucouré,16.0,ml MLI,"LM,CM",24-359,90,50,46,3,1,0,1,1,0,0,0,0,0,32,1,1
+6,Ben Watson,23.0,eng ENG,CM,32-170,86,35,32,3,3,0,1,0,0,0,0,0,0,27,0,1
+7,Sebastian Prödl,5.0,at AUT,CB,30-188,4,2,2,0,0,0,0,0,0,0,0,0,0,0,0,0
+8,Tom Cleverley,8.0,eng ENG,"RM,CM",28-136,90,54,40,13,4,0,0,10,1,8,5,2,0,38,1,1
+9,Marvin Zeegelaar,22.0,nl NED,LB,27-136,90,45,31,14,1,0,0,4,13,0,0,0,0,29,0,3
+10,Christian Kabasele,27.0,be BEL,CB,26-305,90,15,15,0,0,0,0,0,0,0,0,0,0,9,0,1
+11,Molla Wagué,13.0,ml MLI,CB,26-308,90,20,20,0,0,0,0,1,0,0,0,0,0,10,0,0
+12,Daryl Janmaat,2.0,nl NED,RB,28-157,90,55,41,14,0,0,1,0,14,0,0,0,0,39,0,1
+13,Heurelho Gomes,1.0,br BRA,GK,36-314,90,30,14,14,9,0,0,0,0,0,0,0,0,13,2,0
+14,14 Players,,,,,990,412,347,61,18,1,4,20,28,8,5,2,0,262,4,15

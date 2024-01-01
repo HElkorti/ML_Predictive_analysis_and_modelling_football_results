@@ -1,0 +1,17 @@
+,Unnamed: 0_level_0,Unnamed: 1_level_0,Unnamed: 2_level_0,Unnamed: 3_level_0,Unnamed: 4_level_0,Unnamed: 5_level_0,Touches,Touches,Touches,Touches,Touches,Touches,Touches,Take-Ons,Take-Ons,Take-Ons,Take-Ons,Take-Ons,Carries,Carries,Carries,Carries,Carries,Carries,Carries,Carries,Receiving,Receiving
+,Player,#,Nation,Pos,Age,Min,Touches,Def Pen,Def 3rd,Mid 3rd,Att 3rd,Att Pen,Live,Att,Succ,Succ%,Tkld,Tkld%,Carries,TotDist,PrgDist,PrgC,1/3,CPA,Mis,Dis,Rec,PrgR
+0,Daniel Sturridge,15.0,eng ENG,FW,28-057,73,26,0,0,10,16,6,26,0,0,,0,,12,46,25,0,0,0,2,1,20,9
+1,Emre Can,23.0,de GER,"LM,FW",23-289,17,19,0,1,13,6,0,19,0,0,,0,,14,100,62,2,2,0,0,1,14,2
+2,Roberto Firmino,9.0,br BRA,LW,26-026,65,39,0,2,20,17,4,39,3,3,100.0,0,0.0,27,161,77,1,0,0,1,1,34,11
+3,Alex Oxlade-Chamberlain,21.0,eng ENG,"LW,RW",24-074,25,21,1,1,10,12,1,21,2,2,100.0,0,0.0,12,197,143,5,3,1,2,0,15,7
+4,Mohamed Salah,11.0,eg EGY,RW,25-135,80,45,0,1,17,27,6,44,3,2,66.7,1,33.3,30,196,87,3,3,0,2,4,41,17
+5,Dominic Solanke,29.0,eng ENG,FW,20-044,10,10,0,0,1,9,3,10,0,0,,0,,6,26,14,1,0,1,2,1,10,4
+6,Georginio Wijnaldum,5.0,nl NED,"LM,LW",26-351,90,56,1,5,34,18,1,56,0,0,,0,,27,123,58,1,3,0,2,1,42,4
+7,Jordan Henderson,14.0,eng ENG,CM,27-133,90,132,1,13,100,20,2,132,0,0,,0,,67,281,177,1,1,0,0,0,103,3
+8,James Milner,7.0,eng ENG,RM,31-297,90,104,0,12,54,38,3,104,1,0,0.0,1,100.0,46,198,112,3,3,0,3,0,77,12
+9,Alberto Moreno,18.0,es ESP,LB,25-115,90,96,1,27,46,23,1,96,0,0,,0,,42,166,98,3,3,0,1,1,71,8
+10,Ragnar Klavan,17.0,ee EST,CB,31-363,90,111,3,28,80,3,0,111,0,0,,0,,62,269,158,0,2,0,2,0,82,1
+11,Joël Matip,32.0,cm CMR,CB,26-081,90,97,3,28,63,6,2,97,0,0,,0,,51,198,130,0,3,0,1,0,84,0
+12,Joe Gomez,12.0,eng ENG,RB,20-158,90,121,1,24,91,6,0,121,1,1,100.0,0,0.0,55,291,221,1,1,0,0,1,83,3
+13,Simon Mignolet,22.0,be BEL,GK,29-236,90,26,19,24,2,0,0,26,0,0,,0,,12,51,19,0,0,0,0,0,15,0
+14,14 Players,,,,,990,903,30,166,541,201,29,902,10,8,80.0,2,20.0,463,2303,1381,21,24,2,18,11,691,81

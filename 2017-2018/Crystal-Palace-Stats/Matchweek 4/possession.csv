@@ -1,0 +1,16 @@
+,Unnamed: 0_level_0,Unnamed: 1_level_0,Unnamed: 2_level_0,Unnamed: 3_level_0,Unnamed: 4_level_0,Unnamed: 5_level_0,Touches,Touches,Touches,Touches,Touches,Touches,Touches,Take-Ons,Take-Ons,Take-Ons,Take-Ons,Take-Ons,Carries,Carries,Carries,Carries,Carries,Carries,Carries,Carries,Receiving,Receiving
+,Player,#,Nation,Pos,Age,Min,Touches,Def Pen,Def 3rd,Mid 3rd,Att 3rd,Att Pen,Live,Att,Succ,Succ%,Tkld,Tkld%,Carries,TotDist,PrgDist,PrgC,1/3,CPA,Mis,Dis,Rec,PrgR
+0,Christian Benteke,17.0,be BEL,FW,26-281,90,33,0,0,15,19,3,33,2,2,100.0,0,0.0,20,93,28,0,1,1,4,1,27,7
+1,Lee Chung-yong,14.0,kr KOR,LW,29-070,64,35,0,1,15,19,2,35,1,1,100.0,0,0.0,27,141,25,2,1,1,1,1,27,5
+2,Levi Lumeka,32.0,eng ENG,LW,19-005,26,15,0,2,7,6,1,15,3,1,33.3,2,66.7,14,87,24,2,1,0,1,1,13,3
+3,Andros Townsend,10.0,eng ENG,RW,26-056,90,49,0,4,22,27,1,49,10,8,80.0,2,20.0,36,400,241,8,7,0,3,3,37,8
+4,Jason Puncheon,42.0,eng ENG,LM,31-084,90,59,0,4,28,28,2,59,1,1,100.0,0,0.0,35,190,60,2,2,0,1,3,37,4
+5,Yohan Cabaye,7.0,fr FRA,CM,31-239,90,83,3,19,40,25,2,83,2,2,100.0,0,0.0,37,130,58,0,1,0,4,0,40,2
+6,James McArthur,18.0,sct SCO,RM,29-338,80,46,1,7,24,15,4,46,3,3,100.0,0,0.0,37,188,66,3,2,1,1,1,37,5
+7,Jaïro Riedewald,44.0,nl NED,RM,21-001,10,11,0,1,3,7,1,11,0,0,,0,,6,36,11,1,1,0,0,0,8,0
+8,Jeffrey Schlupp,15.0,gh GHA,LB,24-261,90,69,1,16,31,23,2,69,4,2,50.0,2,50.0,31,223,122,4,1,0,0,1,33,5
+9,Scott Dann,6.0,eng ENG,CB,30-208,90,65,2,29,27,9,8,65,2,2,100.0,0,0.0,32,205,114,0,0,0,2,0,34,0
+10,Timothy Fosu-Mensah,24.0,nl NED,CB,19-251,90,58,5,32,26,1,0,58,0,0,,0,,31,153,75,2,0,0,1,0,31,0
+11,Joel Ward,2.0,eng ENG,RB,27-316,90,75,2,20,42,15,1,75,3,2,66.7,1,33.3,43,155,62,0,1,0,0,0,34,0
+12,Wayne Hennessey,13.0,wls WAL,GK,30-229,90,34,26,34,0,0,0,34,0,0,,0,,13,43,34,0,0,0,0,0,16,0
+13,13 Players,,,,,990,632,40,169,280,194,27,632,31,24,77.4,7,22.6,362,2044,920,24,18,3,18,11,374,39

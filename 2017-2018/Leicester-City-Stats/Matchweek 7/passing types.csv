@@ -1,0 +1,17 @@
+,Unnamed: 0_level_0,Unnamed: 1_level_0,Unnamed: 2_level_0,Unnamed: 3_level_0,Unnamed: 4_level_0,Unnamed: 5_level_0,Unnamed: 6_level_0,Pass Types,Pass Types,Pass Types,Pass Types,Pass Types,Pass Types,Pass Types,Pass Types,Corner Kicks,Corner Kicks,Corner Kicks,Outcomes,Outcomes,Outcomes
+,Player,#,Nation,Pos,Age,Min,Att,Live,Dead,FK,TB,Sw,Crs,TI,CK,In,Out,Str,Cmp,Off,Blocks
+0,Jamie Vardy,9.0,eng ENG,FW,30-262,90,15,15,0,0,0,0,1,0,0,0,0,0,7,0,0
+1,Shinji Okazaki,20.0,jp JPN,FW,31-167,68,28,27,1,0,0,0,0,0,0,0,0,0,18,0,4
+2,Kelechi Iheanacho,8.0,ng NGA,FW,20-362,22,9,8,0,0,0,0,0,0,0,0,0,0,7,1,0
+3,Demarai Gray,7.0,jm JAM,LM,21-094,90,31,29,2,0,0,1,4,0,2,2,0,0,18,0,0
+4,Wilfred Ndidi,25.0,ng NGA,CM,20-288,90,45,44,0,0,0,2,0,0,0,0,0,0,36,1,0
+5,Andy King,10.0,wls WAL,CM,28-336,45,18,16,1,1,0,0,0,0,0,0,0,0,11,1,1
+6,Vicente Iborra,21.0,es ESP,CM,29-257,45,20,20,0,0,0,0,0,0,0,0,0,0,15,0,0
+7,Marc Albrighton,11.0,eng ENG,RM,27-316,74,27,24,3,0,0,0,6,1,2,1,1,0,14,0,1
+8,Riyad Mahrez,26.0,dz ALG,RM,26-221,16,9,8,1,0,0,0,1,0,1,1,0,0,4,0,1
+9,Christian Fuchs,28.0,at AUT,LB,31-176,90,51,44,7,0,0,0,3,7,0,0,0,0,33,0,3
+10,Harry Maguire,15.0,eng ENG,CB,24-209,90,32,31,1,1,0,0,0,0,0,0,0,0,20,0,1
+11,Wes Morgan,5.0,jm JAM,CB,33-252,90,17,17,0,0,0,0,0,0,0,0,0,0,12,0,0
+12,Danny Simpson,2.0,eng ENG,RB,30-269,90,42,32,10,0,0,1,0,10,0,0,0,0,28,0,1
+13,Kasper Schmeichel,1.0,dk DEN,GK,30-329,90,43,26,17,5,0,0,0,0,0,0,0,0,16,0,0
+14,14 Players,,,,,990,387,341,43,7,0,4,15,18,5,4,1,0,239,3,12

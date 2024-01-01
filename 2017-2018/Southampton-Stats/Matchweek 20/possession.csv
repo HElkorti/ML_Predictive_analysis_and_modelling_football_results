@@ -1,0 +1,17 @@
+,Unnamed: 0_level_0,Unnamed: 1_level_0,Unnamed: 2_level_0,Unnamed: 3_level_0,Unnamed: 4_level_0,Unnamed: 5_level_0,Touches,Touches,Touches,Touches,Touches,Touches,Touches,Take-Ons,Take-Ons,Take-Ons,Take-Ons,Take-Ons,Carries,Carries,Carries,Carries,Carries,Carries,Carries,Carries,Receiving,Receiving
+,Player,#,Nation,Pos,Age,Min,Touches,Def Pen,Def 3rd,Mid 3rd,Att 3rd,Att Pen,Live,Att,Succ,Succ%,Tkld,Tkld%,Carries,TotDist,PrgDist,PrgC,1/3,CPA,Mis,Dis,Rec,PrgR
+0,Shane Long,7.0,ie IRL,"FW,RW",30-338,90,28,0,0,14,16,6,28,2,2,100.0,0,0.0,13,89,34,2,3,1,0,2,14,5
+1,Nathan Redmond,22.0,eng ENG,LM,23-295,62,35,0,11,12,12,2,35,1,1,100.0,0,0.0,22,117,70,2,1,1,2,0,22,5
+2,Dušan Tadić,11.0,rs SRB,AM,29-036,28,22,0,2,9,12,1,22,1,1,100.0,0,0.0,13,138,89,4,2,0,0,0,13,4
+3,Mario Lemina,18.0,ga GAB,CM,24-116,62,17,0,1,14,3,0,17,2,1,50.0,1,50.0,14,90,38,0,1,0,0,0,13,1
+4,Manolo Gabbiadini,20.0,it ITA,FW,26-030,28,7,0,0,3,4,2,7,0,0,,0,,4,38,18,1,0,1,0,0,5,3
+5,Pierre Højbjerg,23.0,dk DEN,"CM,DM",22-143,90,60,1,7,36,18,1,60,4,3,75.0,1,25.0,35,163,44,2,1,1,1,2,36,4
+6,Sofiane Boufal,19.0,ma MAR,"RM,LW",24-100,90,52,0,4,18,30,9,52,6,5,83.3,1,16.7,35,333,165,7,4,5,4,4,36,8
+7,Oriol Romeu,14.0,es ESP,DM,26-093,90,51,5,15,32,5,1,51,1,1,100.0,0,0.0,27,87,21,0,0,0,1,0,27,0
+8,Matt Targett,33.0,eng ENG,LB,22-099,76,56,5,19,25,14,0,56,2,2,100.0,0,0.0,33,109,70,1,2,0,1,1,32,5
+9,Sam McQueen,38.0,eng ENG,LB,22-323,14,9,0,3,4,2,1,9,0,0,,0,,5,37,25,1,0,1,0,0,4,0
+10,Wesley Hoedt,6.0,nl NED,CB,23-295,90,50,5,26,25,0,0,50,3,3,100.0,0,0.0,31,162,71,0,1,0,0,0,22,0
+11,Maya Yoshida,3.0,jp JPN,CB,29-124,90,51,6,29,20,2,1,51,0,0,,0,,20,64,15,0,0,0,0,0,20,0
+12,Jack Stephens,5.0,eng ENG,RB,23-333,90,50,0,15,22,13,2,50,1,1,100.0,0,0.0,29,119,70,1,1,0,0,0,32,4
+13,Fraser Forster,44.0,eng ENG,GK,29-284,90,22,21,22,0,0,0,22,0,0,,0,,4,30,16,0,0,0,0,0,3,0
+14,14 Players,,,,,990,510,43,154,234,131,26,510,23,20,87.0,3,13.0,285,1576,746,21,16,10,9,9,279,39

@@ -1,0 +1,16 @@
+,Unnamed: 0_level_0,Unnamed: 1_level_0,Unnamed: 2_level_0,Unnamed: 3_level_0,Unnamed: 4_level_0,Unnamed: 5_level_0,Touches,Touches,Touches,Touches,Touches,Touches,Touches,Take-Ons,Take-Ons,Take-Ons,Take-Ons,Take-Ons,Carries,Carries,Carries,Carries,Carries,Carries,Carries,Carries,Receiving,Receiving
+,Player,#,Nation,Pos,Age,Min,Touches,Def Pen,Def 3rd,Mid 3rd,Att 3rd,Att Pen,Live,Att,Succ,Succ%,Tkld,Tkld%,Carries,TotDist,PrgDist,PrgC,1/3,CPA,Mis,Dis,Rec,PrgR
+0,Jordan Ayew,18.0,gh GHA,"FW,AM",25-364,90,38,0,2,14,23,3,38,2,2,100.0,0,0.0,20,160,106,3,4,0,1,1,25,7
+1,Tammy Abraham,10.0,eng ENG,FW,19-343,90,26,1,2,7,17,5,26,5,2,40.0,3,60.0,14,47,10,0,1,0,2,3,21,9
+2,Leroy Fer,8.0,nl NED,"AM,RM",27-248,90,51,1,8,31,13,1,51,5,5,100.0,0,0.0,28,141,79,1,3,0,2,1,40,2
+3,Tom Carroll,14.0,eng ENG,LM,25-105,85,76,0,4,48,25,3,76,1,1,100.0,0,0.0,38,201,128,4,4,0,0,1,59,2
+4,Luciano Narsingh,11.0,nl NED,LM,26-362,5,5,0,0,2,3,1,5,0,0,,0,,2,2,0,0,0,0,1,0,4,2
+5,Sam Clucas,17.0,eng ENG,CM,26-350,90,69,3,20,44,6,0,69,0,0,,0,,26,148,100,2,0,0,0,1,35,0
+6,Renato Sanches,35.0,pt POR,RM,20-023,68,62,0,6,35,21,0,62,2,1,50.0,1,50.0,44,172,65,2,1,0,4,6,50,3
+7,Wilfried Bony,2.0,ci CIV,"FW,RM",28-274,22,12,2,2,3,7,1,12,1,1,100.0,0,0.0,4,19,7,0,1,0,0,0,8,4
+8,Martin Olsson,16.0,se SWE,LB,29-116,90,59,2,18,24,17,0,59,1,0,0.0,1,100.0,33,274,180,6,3,0,1,0,40,8
+9,Alfie Mawson,6.0,eng ENG,CB,23-234,90,72,4,37,32,3,3,72,1,1,100.0,0,0.0,36,127,69,1,0,0,0,1,47,0
+10,Federico Fernández,33.0,ar ARG,CB,28-201,90,73,8,40,31,2,1,73,0,0,,0,,40,128,98,0,1,0,0,1,49,0
+11,Kyle Naughton,26.0,eng ENG,RB,28-297,90,104,4,21,50,33,1,104,0,0,,0,,54,162,38,1,1,0,2,1,69,11
+12,Łukasz Fabiański,1.0,pl POL,GK,32-145,90,36,29,36,0,0,0,36,0,0,,0,,15,92,68,0,0,0,0,0,13,0
+13,13 Players,,,,,990,683,54,196,321,170,19,683,18,13,72.2,5,27.8,354,1673,948,20,19,0,13,16,460,48

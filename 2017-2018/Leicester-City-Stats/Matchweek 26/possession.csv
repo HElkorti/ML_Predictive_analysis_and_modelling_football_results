@@ -1,0 +1,17 @@
+,Unnamed: 0_level_0,Unnamed: 1_level_0,Unnamed: 2_level_0,Unnamed: 3_level_0,Unnamed: 4_level_0,Unnamed: 5_level_0,Touches,Touches,Touches,Touches,Touches,Touches,Touches,Take-Ons,Take-Ons,Take-Ons,Take-Ons,Take-Ons,Carries,Carries,Carries,Carries,Carries,Carries,Carries,Carries,Receiving,Receiving
+,Player,#,Nation,Pos,Age,Min,Touches,Def Pen,Def 3rd,Mid 3rd,Att 3rd,Att Pen,Live,Att,Succ,Succ%,Tkld,Tkld%,Carries,TotDist,PrgDist,PrgC,1/3,CPA,Mis,Dis,Rec,PrgR
+0,Jamie Vardy,9.0,eng ENG,FW,31-023,90,26,1,1,9,16,7,26,1,0,0.0,1,100.0,12,68,39,2,1,1,5,0,15,9
+1,Kelechi Iheanacho,8.0,ng NGA,FW,21-123,67,35,0,1,13,21,1,35,0,0,,0,,18,138,60,1,0,0,2,1,25,3
+2,Demarai Gray,7.0,jm JAM,"LM,FW",21-220,23,16,0,2,9,5,2,16,2,1,50.0,1,50.0,10,92,35,0,1,0,0,0,13,1
+3,Marc Albrighton,11.0,eng ENG,"LM,RB,RM",28-077,90,64,0,9,25,31,2,64,2,2,100.0,0,0.0,37,224,95,2,3,0,1,0,50,10
+4,Adrien Silva,14.0,pt POR,CM,28-325,67,48,0,7,35,6,0,48,1,1,100.0,0,0.0,21,145,84,2,0,0,1,1,35,1
+5,Matty James,22.0,eng ENG,CM,26-196,23,27,0,3,17,7,2,27,0,0,,0,,9,75,39,1,0,0,0,0,18,2
+6,Wilfred Ndidi,25.0,ng NGA,CM,21-049,90,89,7,16,63,12,1,89,0,0,,0,,47,165,60,1,1,0,3,1,60,5
+7,Fousseni Diabaté,33.0,ml MLI,"RM,FW",22-108,90,49,1,11,20,20,2,49,5,2,40.0,3,60.0,29,196,70,1,1,0,1,3,33,7
+8,Christian Fuchs,28.0,at AUT,LB,31-302,90,98,4,22,46,30,0,98,0,0,,0,,41,183,101,1,1,0,0,0,56,11
+9,Harry Maguire,15.0,eng ENG,CB,24-335,90,80,3,24,50,7,3,80,2,1,50.0,1,50.0,41,421,257,2,0,0,0,1,53,1
+10,Aleksandar Dragović,16.0,at AUT,CB,26-334,90,64,1,24,38,2,0,64,0,0,,0,,35,236,198,1,1,0,0,0,42,0
+11,Danny Simpson,2.0,eng ENG,RB,31-030,79,62,0,10,42,10,0,62,0,0,,0,,29,124,62,0,0,0,0,0,38,2
+12,Shinji Okazaki,20.0,jp JPN,FW,31-293,11,2,0,0,1,1,0,2,0,0,,0,,3,15,2,0,1,0,0,1,3,3
+13,Kasper Schmeichel,1.0,dk DEN,GK,31-090,90,26,15,23,4,0,0,26,0,0,,0,,14,82,68,0,0,0,0,0,13,0
+14,14 Players,,,,,990,686,32,153,372,168,20,686,13,7,53.8,6,46.2,346,2164,1170,14,10,1,13,8,454,55

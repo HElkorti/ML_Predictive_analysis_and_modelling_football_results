@@ -1,0 +1,17 @@
+,Unnamed: 0_level_0,Unnamed: 1_level_0,Unnamed: 2_level_0,Unnamed: 3_level_0,Unnamed: 4_level_0,Unnamed: 5_level_0,Unnamed: 6_level_0,Pass Types,Pass Types,Pass Types,Pass Types,Pass Types,Pass Types,Pass Types,Pass Types,Corner Kicks,Corner Kicks,Corner Kicks,Outcomes,Outcomes,Outcomes
+,Player,#,Nation,Pos,Age,Min,Att,Live,Dead,FK,TB,Sw,Crs,TI,CK,In,Out,Str,Cmp,Off,Blocks
+0,Diogo Jota,18.0,pt POR,FW,22-011,45,10,10,0,0,0,0,0,0,0,0,0,0,2,0,1
+1,Hélder Costa,10.0,ao ANG,FW,24-337,45,24,24,0,0,1,0,1,0,0,0,0,0,18,0,0
+2,Raúl Jiménez,9.0,mx MEX,FW,27-224,88,43,42,1,0,0,0,0,1,0,0,0,0,34,0,0
+3,Ivan Cavaleiro,7.0,pt POR,FW,25-058,2,2,2,0,0,0,0,0,0,0,0,0,0,2,0,0
+4,Morgan Gibbs-White,17.0,eng ENG,AM,18-322,74,28,27,1,0,2,0,1,0,0,0,0,0,21,0,1
+5,Romain Saïss,27.0,ma MAR,CM,28-264,16,12,12,0,0,0,0,1,0,0,0,0,0,8,0,2
+6,Rúben Neves,8.0,pt POR,CM,21-277,90,53,50,3,3,0,1,1,0,0,0,0,0,37,0,1
+7,João Moutinho,28.0,pt POR,"CM,AM",32-098,90,48,39,7,2,1,0,4,0,5,1,2,0,35,2,0
+8,Jonny Castro,19.0,es ESP,WB,24-287,90,43,34,9,0,0,0,0,9,0,0,0,0,31,0,1
+9,Matt Doherty,2.0,ie IRL,WB,26-333,90,39,31,8,0,0,0,1,8,0,0,0,0,27,0,2
+10,Willy Boly,15.0,ci CIV,CB,27-315,90,32,30,1,1,0,0,0,0,0,0,0,0,23,1,0
+11,Conor Coady,16.0,eng ENG,CB,25-293,90,36,36,0,0,0,1,0,0,0,0,0,0,29,0,0
+12,Ryan Bennett,5.0,eng ENG,CB,28-284,90,25,24,0,0,0,0,0,0,0,0,0,0,21,1,0
+13,Rui Patrício,11.0,pt POR,GK,30-303,90,25,18,7,0,0,0,0,0,0,0,0,0,9,0,0
+14,14 Players,,,,,990,420,379,37,6,4,2,9,18,5,1,2,0,297,4,8

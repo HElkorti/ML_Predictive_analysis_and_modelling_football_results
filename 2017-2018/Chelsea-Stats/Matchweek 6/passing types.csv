@@ -1,0 +1,17 @@
+,Unnamed: 0_level_0,Unnamed: 1_level_0,Unnamed: 2_level_0,Unnamed: 3_level_0,Unnamed: 4_level_0,Unnamed: 5_level_0,Unnamed: 6_level_0,Pass Types,Pass Types,Pass Types,Pass Types,Pass Types,Pass Types,Pass Types,Pass Types,Corner Kicks,Corner Kicks,Corner Kicks,Outcomes,Outcomes,Outcomes
+,Player,#,Nation,Pos,Age,Min,Att,Live,Dead,FK,TB,Sw,Crs,TI,CK,In,Out,Str,Cmp,Off,Blocks
+0,Álvaro Morata,9.0,es ESP,FW,24-335,90,27,26,1,0,0,0,2,0,0,0,0,0,15,0,1
+1,Pedro,11.0,es ESP,AM,30-057,67,17,16,1,1,0,0,0,0,0,0,0,0,15,0,0
+2,Cesc Fàbregas,4.0,es ESP,"DM,AM",30-142,23,34,33,1,1,2,0,0,0,0,0,0,0,31,0,0
+3,Willian,22.0,br BRA,AM,29-045,71,27,27,0,0,1,0,2,0,0,0,0,0,17,0,1
+4,Eden Hazard,10.0,be BEL,FW,26-259,19,21,21,0,0,0,0,0,0,0,0,0,0,21,0,0
+5,Tiemoué Bakayoko,14.0,fr FRA,"CM,DM",23-037,90,50,50,0,0,0,0,0,0,0,0,0,0,44,0,0
+6,N'Golo Kanté,7.0,fr FRA,"CM,DM",26-178,90,78,78,0,0,1,0,0,0,0,0,0,0,65,0,2
+7,Marcos Alonso,3.0,es ESP,WB,26-269,58,27,20,7,0,0,0,0,7,0,0,0,0,20,0,1
+8,Gary Cahill,24.0,eng ENG,"CB,WB",31-278,32,22,22,0,0,0,0,0,0,0,0,0,0,19,0,0
+9,Victor Moses,15.0,ng NGA,WB,26-285,90,38,29,9,0,0,0,0,9,0,0,0,0,27,0,0
+10,Antonio Rüdiger,2.0,de GER,CB,24-204,90,56,55,1,1,0,1,0,0,0,0,0,0,52,0,0
+11,Andreas Christensen,27.0,dk DEN,CB,21-166,90,80,79,1,1,0,0,0,0,0,0,0,0,75,0,0
+12,César Azpilicueta,28.0,es ESP,"CB,WB",28-026,90,69,68,1,0,1,0,1,1,0,0,0,0,59,0,1
+13,Thibaut Courtois,13.0,be BEL,GK,25-135,90,32,22,9,1,0,0,0,0,0,0,0,0,27,1,0
+14,14 Players,,,,,990,578,546,31,5,5,1,5,17,0,0,0,0,487,1,6

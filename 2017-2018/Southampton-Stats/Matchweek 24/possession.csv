@@ -1,0 +1,17 @@
+,Unnamed: 0_level_0,Unnamed: 1_level_0,Unnamed: 2_level_0,Unnamed: 3_level_0,Unnamed: 4_level_0,Unnamed: 5_level_0,Touches,Touches,Touches,Touches,Touches,Touches,Touches,Take-Ons,Take-Ons,Take-Ons,Take-Ons,Take-Ons,Carries,Carries,Carries,Carries,Carries,Carries,Carries,Carries,Receiving,Receiving
+,Player,#,Nation,Pos,Age,Min,Touches,Def Pen,Def 3rd,Mid 3rd,Att 3rd,Att Pen,Live,Att,Succ,Succ%,Tkld,Tkld%,Carries,TotDist,PrgDist,PrgC,1/3,CPA,Mis,Dis,Rec,PrgR
+0,Manolo Gabbiadini,20.0,it ITA,FW,26-056,81,23,0,1,11,11,2,23,0,0,,0,,12,36,23,1,1,1,0,0,14,5
+1,Michael Obafemi,61.0,ie IRL,FW,17-199,9,2,0,0,0,2,1,2,0,0,,0,,2,2,0,0,0,0,0,0,2,1
+2,Dušan Tadić,11.0,rs SRB,"LW,AM",29-062,90,51,2,7,18,27,4,51,6,5,83.3,1,16.7,37,223,139,4,2,1,2,5,38,7
+3,James Ward-Prowse,16.0,eng ENG,RW,23-081,90,52,4,18,20,16,0,52,0,0,,0,,25,98,37,0,2,0,0,1,29,3
+4,Pierre Højbjerg,23.0,dk DEN,AM,22-169,64,37,0,1,28,8,0,37,1,1,100.0,0,0.0,30,108,46,2,0,0,1,2,31,5
+5,Sofiane Boufal,19.0,ma MAR,"LW,AM",24-126,26,12,0,3,4,5,1,12,1,1,100.0,0,0.0,9,62,27,1,2,0,1,3,10,3
+6,Mario Lemina,18.0,ga GAB,DM,24-142,79,41,0,7,27,7,0,41,1,1,100.0,0,0.0,23,127,64,1,0,0,0,1,22,1
+7,Steven Davis,8.0,nir NIR,DM,33-020,11,6,0,1,5,0,0,6,1,1,100.0,0,0.0,4,8,2,0,0,0,0,0,2,1
+8,Oriol Romeu,14.0,es ESP,DM,26-119,90,59,5,17,41,2,0,59,2,1,50.0,1,50.0,24,105,58,1,0,0,0,0,27,0
+9,Ryan Bertrand,21.0,eng ENG,LB,28-169,90,53,5,11,24,18,0,53,1,0,0.0,1,100.0,20,141,61,1,3,0,1,1,29,4
+10,Wesley Hoedt,6.0,nl NED,CB,23-321,90,45,13,24,24,0,0,45,0,0,,0,,23,112,67,0,0,0,0,0,20,0
+11,Jack Stephens,5.0,eng ENG,CB,23-359,90,44,14,29,15,1,1,44,0,0,,0,,13,83,59,0,0,0,0,0,12,0
+12,Cédric Soares,2.0,pt POR,RB,26-143,90,43,5,14,19,10,0,43,0,0,,0,,22,141,92,3,1,0,1,0,20,0
+13,Alex McCarthy,13.0,eng ENG,GK,28-049,90,23,19,23,0,0,0,23,0,0,,0,,6,48,39,0,0,0,0,0,4,0
+14,14 Players,,,,,990,491,67,156,236,107,9,491,13,10,76.9,3,23.1,250,1294,714,14,11,2,6,13,260,30

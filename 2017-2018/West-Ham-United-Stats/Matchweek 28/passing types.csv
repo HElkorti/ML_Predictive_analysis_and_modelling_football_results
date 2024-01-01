@@ -1,0 +1,17 @@
+,Unnamed: 0_level_0,Unnamed: 1_level_0,Unnamed: 2_level_0,Unnamed: 3_level_0,Unnamed: 4_level_0,Unnamed: 5_level_0,Unnamed: 6_level_0,Pass Types,Pass Types,Pass Types,Pass Types,Pass Types,Pass Types,Pass Types,Pass Types,Corner Kicks,Corner Kicks,Corner Kicks,Outcomes,Outcomes,Outcomes
+,Player,#,Nation,Pos,Age,Min,Att,Live,Dead,FK,TB,Sw,Crs,TI,CK,In,Out,Str,Cmp,Off,Blocks
+0,Marko Arnautović,7.0,at AUT,FW,28-311,82,26,25,1,1,0,0,0,0,0,0,0,0,20,0,0
+1,Javier Hernández,17.0,mx MEX,FW,29-268,8,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2,Manuel Lanzini,10.0,ar ARG,AM,25-009,57,22,21,0,0,0,0,0,0,0,0,0,0,19,1,0
+3,Michail Antonio,30.0,jm JAM,"RM,AM",27-333,33,11,11,0,0,0,1,0,0,0,0,0,0,8,0,0
+4,João Mário,18.0,pt POR,"AM,LM",25-036,82,40,33,6,0,0,0,1,0,1,1,0,0,31,1,2
+5,Declan Rice,41.0,eng ENG,LM,19-041,8,1,1,0,0,0,0,0,0,0,0,0,0,1,0,0
+6,Mark Noble,16.0,eng ENG,CM,30-292,90,45,44,1,1,0,1,0,0,0,0,0,0,36,0,1
+7,Cheikhou Kouyaté,8.0,sn SEN,CM,28-065,90,25,25,0,0,1,0,0,0,0,0,0,0,16,0,1
+8,Patrice Evra,27.0,fr FRA,"WB,LB",36-285,90,51,39,12,0,0,0,0,12,0,0,0,0,34,0,2
+9,Pablo Zabaleta,5.0,ar ARG,"WB,RB",33-039,90,36,27,9,0,1,0,1,9,0,0,0,0,27,0,1
+10,Aaron Cresswell,3.0,eng ENG,CB,28-071,90,24,21,3,2,0,0,2,0,1,1,0,0,16,0,0
+11,Angelo Ogbonna,21.0,it ITA,CB,29-277,90,19,19,0,0,0,0,0,0,0,0,0,0,15,0,0
+12,James Collins,19.0,wls WAL,CB,34-185,90,29,27,2,2,0,0,0,0,0,0,0,0,17,0,0
+13,Adrián,13.0,es ESP,GK,31-052,90,38,23,15,2,0,0,0,0,0,0,0,0,16,0,0
+14,14 Players,,,,,990,367,316,49,8,2,2,4,21,2,2,0,0,256,2,7

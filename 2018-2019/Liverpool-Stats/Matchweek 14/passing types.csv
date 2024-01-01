@@ -1,0 +1,17 @@
+,Unnamed: 0_level_0,Unnamed: 1_level_0,Unnamed: 2_level_0,Unnamed: 3_level_0,Unnamed: 4_level_0,Unnamed: 5_level_0,Unnamed: 6_level_0,Pass Types,Pass Types,Pass Types,Pass Types,Pass Types,Pass Types,Pass Types,Pass Types,Corner Kicks,Corner Kicks,Corner Kicks,Outcomes,Outcomes,Outcomes
+,Player,#,Nation,Pos,Age,Min,Att,Live,Dead,FK,TB,Sw,Crs,TI,CK,In,Out,Str,Cmp,Off,Blocks
+0,Mohamed Salah,11.0,eg EGY,"FW,RW",26-170,74,17,16,1,0,2,0,0,0,0,0,0,0,13,0,1
+1,Daniel Sturridge,15.0,eng ENG,FW,29-092,16,4,4,0,0,0,0,1,0,0,0,0,0,4,0,0
+2,Sadio Mané,10.0,sn SEN,LW,26-236,90,40,39,0,0,0,0,0,0,0,0,0,0,28,1,2
+3,Xherdan Shaqiri,23.0,ch SUI,RW,27-053,70,37,32,5,0,0,0,6,2,3,2,1,0,23,0,1
+4,Naby Keïta,8.0,gn GUI,"LM,RM",23-295,20,7,7,0,0,0,0,0,0,0,0,0,0,6,0,0
+5,Roberto Firmino,9.0,br BRA,"AM,RW,FW",27-061,83,28,27,1,0,0,0,0,1,0,0,0,0,25,0,0
+6,Divock Origi,27.0,be BEL,RW,23-228,7,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+7,Fabinho,3.0,br BRA,"DM,RM,CM",25-040,90,58,56,2,1,0,0,0,1,0,0,0,0,50,0,0
+8,Georginio Wijnaldum,5.0,nl NED,"DM,CM,LM",28-021,90,45,44,1,0,0,1,0,1,0,0,0,0,42,0,0
+9,Andrew Robertson,26.0,sct SCO,LB,24-266,90,75,64,11,0,0,0,2,11,0,0,0,0,58,0,2
+10,Virgil van Dijk,4.0,nl NED,CB,27-147,90,87,85,2,2,0,1,0,0,0,0,0,0,74,0,0
+11,Joe Gomez,12.0,eng ENG,CB,21-193,90,66,66,0,0,0,0,0,0,0,0,0,0,57,0,0
+12,Trent Alexander-Arnold,66.0,eng ENG,RB,20-056,90,76,57,19,3,0,2,12,11,5,0,4,0,42,0,1
+13,Alisson,13.0,br BRA,GK,26-061,90,35,26,9,4,0,0,0,0,0,0,0,0,26,0,0
+14,14 Players,,,,,990,576,524,51,10,2,4,21,27,8,2,5,0,448,1,7

@@ -1,0 +1,17 @@
+,Unnamed: 0_level_0,Unnamed: 1_level_0,Unnamed: 2_level_0,Unnamed: 3_level_0,Unnamed: 4_level_0,Unnamed: 5_level_0,Unnamed: 6_level_0,Pass Types,Pass Types,Pass Types,Pass Types,Pass Types,Pass Types,Pass Types,Pass Types,Corner Kicks,Corner Kicks,Corner Kicks,Outcomes,Outcomes,Outcomes
+,Player,#,Nation,Pos,Age,Min,Att,Live,Dead,FK,TB,Sw,Crs,TI,CK,In,Out,Str,Cmp,Off,Blocks
+0,Javier Hernández,17.0,mx MEX,FW,29-135,74,21,20,1,0,0,0,1,0,0,0,0,0,17,0,1
+1,Diafra Sakho,15.0,sn SEN,FW,27-294,16,6,5,1,0,0,0,1,0,0,0,0,0,3,0,0
+2,Andy Carroll,9.0,eng ENG,FW,28-281,26,6,6,0,0,0,0,0,0,0,0,0,0,2,0,0
+3,Marko Arnautović,7.0,at AUT,LM,28-178,45,10,10,0,0,0,0,0,0,0,0,0,0,6,0,1
+4,Pedro Obiang,14.0,gq EQG,"CM,LM",25-201,45,22,22,0,0,0,0,0,0,0,0,0,0,15,0,0
+5,Cheikhou Kouyaté,8.0,sn SEN,CM,27-297,90,26,26,0,0,0,0,0,0,0,0,0,0,19,0,0
+6,Manuel Lanzini,10.0,ar ARG,"CM,LM",24-241,87,35,31,4,0,0,0,3,0,4,1,2,0,29,0,0
+7,Arthur Masuaku,26.0,cd COD,LM,23-341,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+8,Michail Antonio,30.0,jm JAM,RM,27-200,90,25,25,0,0,0,0,3,0,0,0,0,0,15,0,1
+9,Aaron Cresswell,3.0,eng ENG,LB,27-303,90,33,26,6,0,0,0,1,6,0,0,0,0,19,1,1
+10,Winston Reid,2.0,nz NZL,CB,29-103,90,28,26,2,2,0,0,0,0,0,0,0,0,23,0,0
+11,José Fonte,4.0,pt POR,CB,33-296,90,23,21,2,2,0,0,0,0,0,0,0,0,16,0,0
+12,Pablo Zabaleta,5.0,ar ARG,RB,32-271,90,32,20,12,0,0,0,1,12,0,0,0,0,21,0,1
+13,Joe Hart,25.0,eng ENG,GK,30-178,90,48,22,26,9,0,0,0,0,0,0,0,0,18,0,0
+14,14 Players,,,,,926,315,260,54,13,0,0,10,18,4,1,2,0,203,1,5

@@ -1,0 +1,17 @@
+,Unnamed: 0_level_0,Unnamed: 1_level_0,Unnamed: 2_level_0,Unnamed: 3_level_0,Unnamed: 4_level_0,Unnamed: 5_level_0,Touches,Touches,Touches,Touches,Touches,Touches,Touches,Take-Ons,Take-Ons,Take-Ons,Take-Ons,Take-Ons,Carries,Carries,Carries,Carries,Carries,Carries,Carries,Carries,Receiving,Receiving
+,Player,#,Nation,Pos,Age,Min,Touches,Def Pen,Def 3rd,Mid 3rd,Att 3rd,Att Pen,Live,Att,Succ,Succ%,Tkld,Tkld%,Carries,TotDist,PrgDist,PrgC,1/3,CPA,Mis,Dis,Rec,PrgR
+0,Danny Ings,9.0,eng ENG,FW,26-096,90,53,0,4,20,30,9,53,1,0,0.0,1,100.0,31,163,43,1,2,1,3,2,41,11
+1,Charlie Austin,10.0,eng ENG,FW,29-114,62,18,1,2,5,11,4,18,0,0,,0,,6,48,10,1,1,0,1,0,12,3
+2,Manolo Gabbiadini,20.0,it ITA,FW,26-335,28,16,1,1,4,11,1,16,3,1,33.3,2,66.7,7,47,27,2,2,0,0,0,11,2
+3,Mohamed Elyounoussi,11.0,no NOR,LM,24-084,77,48,0,7,25,18,2,48,3,2,66.7,1,33.3,23,221,106,4,3,0,1,0,26,7
+4,Shane Long,7.0,ie IRL,RM,31-278,13,7,0,1,3,3,1,7,0,0,,0,,3,2,0,0,0,0,0,0,6,1
+5,Mario Lemina,18.0,ga GAB,CM,25-056,90,64,6,12,38,15,1,64,1,0,0.0,1,100.0,29,185,78,0,1,0,1,1,30,2
+6,Oriol Romeu,14.0,es ESP,CM,27-033,77,43,0,6,34,3,0,43,1,1,100.0,0,0.0,19,103,55,1,0,0,0,2,25,0
+7,James Ward-Prowse,16.0,eng ENG,CM,23-360,13,15,0,1,10,4,0,15,0,0,,0,,4,7,1,0,0,0,0,0,6,0
+8,Nathan Redmond,22.0,eng ENG,"RM,LM",24-235,90,53,1,4,19,31,3,53,3,2,66.7,1,33.3,25,197,127,5,3,1,2,1,40,12
+9,Ryan Bertrand,21.0,eng ENG,LB,29-083,90,90,2,10,39,41,0,90,2,0,0.0,2,100.0,27,171,103,4,2,0,1,2,36,7
+10,Wesley Hoedt,6.0,nl NED,CB,24-235,90,58,7,28,31,0,0,58,1,1,100.0,0,0.0,20,146,101,0,0,0,0,0,28,0
+11,Jack Stephens,5.0,eng ENG,CB,24-273,90,53,4,18,29,7,4,53,2,2,100.0,0,0.0,15,65,40,0,0,0,0,0,28,0
+12,Cédric Soares,2.0,pt POR,RB,27-057,90,56,4,14,22,20,2,56,0,0,,0,,18,48,13,1,0,0,1,0,25,3
+13,Alex McCarthy,1.0,eng ENG,GK,28-328,90,26,19,26,0,0,0,26,0,0,,0,,8,83,70,0,0,0,0,0,9,0
+14,14 Players,,,,,990,600,45,134,279,194,27,600,17,9,52.9,8,47.1,235,1486,774,19,14,2,10,8,323,48

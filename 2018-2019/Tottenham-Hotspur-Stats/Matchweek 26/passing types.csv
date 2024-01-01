@@ -1,0 +1,17 @@
+,Unnamed: 0_level_0,Unnamed: 1_level_0,Unnamed: 2_level_0,Unnamed: 3_level_0,Unnamed: 4_level_0,Unnamed: 5_level_0,Unnamed: 6_level_0,Pass Types,Pass Types,Pass Types,Pass Types,Pass Types,Pass Types,Pass Types,Pass Types,Corner Kicks,Corner Kicks,Corner Kicks,Outcomes,Outcomes,Outcomes
+,Player,#,Nation,Pos,Age,Min,Att,Live,Dead,FK,TB,Sw,Crs,TI,CK,In,Out,Str,Cmp,Off,Blocks
+0,Fernando Llorente,18.0,es ESP,FW,33-349,79,22,22,0,0,0,0,0,0,0,0,0,0,18,0,0
+1,Victor Wanyama,12.0,ke KEN,CM,27-230,11,3,3,0,0,0,0,0,0,0,0,0,0,2,0,0
+2,Son Heung-min,7.0,kr KOR,FW,26-217,90,25,25,0,0,0,0,0,0,0,0,0,0,20,0,1
+3,Christian Eriksen,23.0,dk DEN,"AM,FW,CM",26-361,90,44,42,1,0,0,1,2,0,1,0,1,0,32,1,1
+4,Oliver Skipp,52.0,eng ENG,LM,18-147,70,35,34,1,0,0,0,0,1,0,0,0,0,26,0,2
+5,Toby Alderweireld,4.0,be BEL,CB,29-345,20,9,6,3,3,0,3,0,0,0,0,0,0,7,0,0
+6,Moussa Sissoko,17.0,fr FRA,"RM,CM",29-178,90,52,50,1,0,0,0,0,1,0,0,0,0,46,1,0
+7,Harry Winks,8.0,eng ENG,"DM,CM",23-008,90,86,84,2,0,0,1,0,0,0,0,0,0,79,0,0
+8,Danny Rose,3.0,eng ENG,"LB,WB",28-223,87,43,31,9,1,0,1,7,8,0,0,0,0,25,3,2
+9,Kyle Walker-Peters,16.0,eng ENG,LB,21-303,3,2,1,0,0,0,0,0,0,0,0,0,0,1,1,0
+10,Jan Vertonghen,5.0,be BEL,CB,31-292,90,58,57,1,1,0,1,0,0,0,0,0,0,51,0,2
+11,Davinson Sánchez,6.0,co COL,CB,22-243,90,62,62,0,0,0,0,0,0,0,0,0,0,56,0,0
+12,Kieran Trippier,2.0,eng ENG,"RB,WB",28-144,90,57,44,12,3,0,0,7,8,1,0,0,0,44,1,0
+13,Hugo Lloris,1.0,fr FRA,GK,32-046,90,47,33,14,1,0,0,0,0,0,0,0,0,33,0,0
+14,14 Players,,,,,990,545,494,44,9,0,7,16,18,2,0,1,0,440,7,8

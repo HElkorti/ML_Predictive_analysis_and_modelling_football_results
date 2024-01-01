@@ -1,0 +1,17 @@
+,Unnamed: 0_level_0,Unnamed: 1_level_0,Unnamed: 2_level_0,Unnamed: 3_level_0,Unnamed: 4_level_0,Unnamed: 5_level_0,Tackles,Tackles,Tackles,Tackles,Tackles,Challenges,Challenges,Challenges,Challenges,Blocks,Blocks,Blocks,Unnamed: 18_level_0,Unnamed: 19_level_0,Unnamed: 20_level_0,Unnamed: 21_level_0
+,Player,#,Nation,Pos,Age,Min,Tkl,TklW,Def 3rd,Mid 3rd,Att 3rd,Tkl,Att,Tkl%,Lost,Blocks,Sh,Pass,Int,Tkl+Int,Clr,Err
+0,Harry Kane,10.0,eng ENG,FW,24-160,90,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,0
+1,Son Heung-min,7.0,kr KOR,"LW,WB",25-180,90,1,0,0,0,1,0,3,0.0,3,1,0,1,1,2,0,0
+2,Christian Eriksen,23.0,dk DEN,"RW,CM",25-324,90,0,0,0,0,0,0,0,,0,0,0,0,3,3,0,0
+3,Dele Alli,20.0,eng ENG,AM,21-268,90,0,0,0,0,0,0,2,0.0,2,0,0,0,1,1,2,0
+4,Eric Dier,15.0,eng ENG,DM,23-354,73,4,3,0,3,1,1,1,100.0,0,0,0,0,1,5,0,0
+5,Victor Wanyama,12.0,ke KEN,"CM,DM",26-193,17,0,0,0,0,0,0,1,0.0,1,0,0,0,0,0,0,0
+6,Moussa Sissoko,17.0,fr FRA,DM,28-141,73,1,1,0,0,1,0,0,,0,0,0,0,0,1,0,0
+7,Érik Lamela,11.0,ar ARG,"WB,DM,RW",25-306,17,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,0
+8,Ben Davies,33.0,wls WAL,LB,24-255,81,1,1,0,1,0,0,0,,0,1,0,1,2,3,2,0
+9,Fernando Llorente,18.0,es ESP,FW,32-312,9,0,0,0,0,0,0,0,,0,0,0,0,0,0,1,0
+10,Jan Vertonghen,5.0,be BEL,CB,30-255,90,3,3,3,0,0,0,1,0.0,1,0,0,0,2,5,2,0
+11,Davinson Sánchez,6.0,co COL,CB,21-206,90,1,1,0,1,0,0,1,0.0,1,2,0,2,1,2,5,0
+12,Serge Aurier,24.0,ci CIV,"RB,CB",25-011,90,8,6,4,2,2,2,3,66.7,1,0,0,0,2,10,3,0
+13,Hugo Lloris,1.0,fr FRA,GK,31-009,90,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,0
+14,14 Players,,,,,990,19,15,7,7,5,3,12,25.0,9,4,0,4,13,32,15,0

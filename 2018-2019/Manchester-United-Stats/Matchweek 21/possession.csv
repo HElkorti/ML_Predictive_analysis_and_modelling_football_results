@@ -1,0 +1,17 @@
+,Unnamed: 0_level_0,Unnamed: 1_level_0,Unnamed: 2_level_0,Unnamed: 3_level_0,Unnamed: 4_level_0,Unnamed: 5_level_0,Touches,Touches,Touches,Touches,Touches,Touches,Touches,Take-Ons,Take-Ons,Take-Ons,Take-Ons,Take-Ons,Carries,Carries,Carries,Carries,Carries,Carries,Carries,Carries,Receiving,Receiving
+,Player,#,Nation,Pos,Age,Min,Touches,Def Pen,Def 3rd,Mid 3rd,Att 3rd,Att Pen,Live,Att,Succ,Succ%,Tkld,Tkld%,Carries,TotDist,PrgDist,PrgC,1/3,CPA,Mis,Dis,Rec,PrgR
+0,Marcus Rashford,10.0,eng ENG,"FW,RW",21-063,86,41,0,1,16,24,6,41,2,2,100.0,0,0.0,18,85,19,0,1,0,4,2,29,8
+1,Jesse Lingard,14.0,eng ENG,RW,26-018,4,2,0,1,1,0,0,2,0,0,,0,,2,37,17,1,0,0,0,1,2,1
+2,Anthony Martial,11.0,fr FRA,LW,23-028,62,55,0,0,25,31,4,55,3,1,33.3,2,66.7,37,207,152,5,4,2,3,4,52,11
+3,Romelu Lukaku,9.0,be BEL,FW,25-234,28,19,2,4,12,3,2,19,0,0,,0,,11,50,30,2,0,1,0,2,17,5
+4,Juan Mata,8.0,es ESP,RW,30-249,62,50,0,1,34,15,6,50,2,1,50.0,1,50.0,32,118,27,0,0,0,0,2,42,5
+5,Alexis Sánchez,7.0,cl CHI,LW,30-014,28,17,0,3,7,7,0,17,1,1,100.0,0,0.0,12,90,30,2,1,0,1,3,12,3
+6,Paul Pogba,6.0,fr FRA,AM,25-293,90,75,2,9,42,25,6,75,2,2,100.0,0,0.0,47,166,86,5,4,4,2,5,66,13
+7,Nemanja Matić,31.0,rs SRB,DM,30-154,90,125,4,12,104,10,0,125,1,1,100.0,0,0.0,64,327,214,2,2,0,0,3,97,1
+8,Ander Herrera,21.0,es ESP,DM,29-141,90,101,3,21,79,2,0,101,0,0,,0,,54,226,136,2,0,0,0,0,78,2
+9,Luke Shaw,23.0,eng ENG,LB,23-174,90,119,6,23,79,18,2,119,1,1,100.0,0,0.0,54,249,187,7,3,0,1,2,82,3
+10,Phil Jones,4.0,eng ENG,CB,26-315,90,73,4,26,45,2,2,73,0,0,,0,,39,122,73,0,0,0,2,0,53,0
+11,Victor Lindelöf,2.0,se SWE,CB,24-169,90,62,8,28,33,2,0,62,0,0,,0,,32,113,50,0,2,0,1,0,38,0
+12,Antonio Valencia,25.0,ec ECU,RB,33-151,90,66,2,18,41,7,0,66,1,0,0.0,1,100.0,31,132,73,0,1,0,0,0,44,0
+13,David de Gea,1.0,es ESP,GK,28-056,90,29,26,29,0,0,0,29,0,0,,0,,13,114,103,0,0,0,0,0,8,0
+14,14 Players,,,,,990,834,57,176,518,146,28,834,13,9,69.2,4,30.8,446,2036,1197,26,18,7,14,24,620,52

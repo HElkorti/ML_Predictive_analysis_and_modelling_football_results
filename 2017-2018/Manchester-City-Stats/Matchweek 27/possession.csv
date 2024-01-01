@@ -1,0 +1,17 @@
+,Unnamed: 0_level_0,Unnamed: 1_level_0,Unnamed: 2_level_0,Unnamed: 3_level_0,Unnamed: 4_level_0,Unnamed: 5_level_0,Touches,Touches,Touches,Touches,Touches,Touches,Touches,Take-Ons,Take-Ons,Take-Ons,Take-Ons,Take-Ons,Carries,Carries,Carries,Carries,Carries,Carries,Carries,Carries,Receiving,Receiving
+,Player,#,Nation,Pos,Age,Min,Touches,Def Pen,Def 3rd,Mid 3rd,Att 3rd,Att Pen,Live,Att,Succ,Succ%,Tkld,Tkld%,Carries,TotDist,PrgDist,PrgC,1/3,CPA,Mis,Dis,Rec,PrgR
+0,Sergio Agüero,10.0,ar ARG,FW,29-253,90,39,0,0,8,32,8,39,7,4,57.1,3,42.9,36,199,73,4,3,1,3,3,36,9
+1,Raheem Sterling,7.0,eng ENG,LW,23-064,90,59,0,1,19,39,8,59,4,2,50.0,2,50.0,42,248,158,5,4,2,1,0,51,18
+2,Bernardo Silva,20.0,pt POR,RW,23-184,90,71,1,2,22,49,5,71,3,2,66.7,1,33.3,47,336,223,9,2,3,2,1,57,16
+3,İlkay Gündoğan,8.0,de GER,LM,27-109,90,72,1,2,31,39,3,72,2,2,100.0,0,0.0,44,305,145,5,4,1,2,3,58,12
+4,Fernandinho,25.0,br BRA,CM,32-282,79,78,2,11,51,17,1,78,2,2,100.0,0,0.0,43,194,105,1,1,1,3,0,47,1
+5,Phil Foden,47.0,eng ENG,CM,17-258,11,7,0,0,4,3,1,7,1,1,100.0,0,0.0,3,36,20,1,1,0,0,0,6,0
+6,Kevin De Bruyne,17.0,be BEL,RM,26-227,90,104,0,6,43,56,4,104,3,2,66.7,0,0.0,63,388,209,5,3,2,2,3,74,11
+7,Oleksandr Zinchenko,35.0,ua UKR,LB,21-057,64,80,1,4,56,21,0,80,0,0,,0,,50,208,138,1,1,0,0,0,59,3
+8,Danilo,3.0,br BRA,LB,26-210,26,28,0,9,13,6,0,28,0,0,,0,,15,72,44,1,1,0,0,0,17,0
+9,Aymeric Laporte,14.0,es ESP,CB,23-259,90,72,1,25,47,0,0,72,0,0,,0,,56,241,175,2,0,0,1,0,53,0
+10,Nicolás Otamendi,30.0,ar ARG,CB,29-363,80,84,1,28,53,3,2,84,0,0,,0,,62,405,271,2,1,0,0,0,64,1
+11,John Stones,5.0,eng ENG,CB,23-258,10,13,0,9,4,0,0,13,0,0,,0,,7,22,0,0,0,0,0,0,10,0
+12,Kyle Walker,2.0,eng ENG,RB,27-258,90,120,0,15,78,29,2,120,3,3,100.0,0,0.0,83,427,258,5,5,2,0,1,96,3
+13,Ederson,31.0,br BRA,GK,24-177,90,22,14,22,0,0,0,22,0,0,,0,,15,94,74,0,0,0,0,0,10,0
+14,14 Players,,,,,990,849,21,134,429,294,34,849,25,18,72.0,6,24.0,566,3175,1893,41,26,12,14,11,638,74

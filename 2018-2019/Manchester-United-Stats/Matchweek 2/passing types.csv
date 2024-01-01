@@ -1,0 +1,17 @@
+,Unnamed: 0_level_0,Unnamed: 1_level_0,Unnamed: 2_level_0,Unnamed: 3_level_0,Unnamed: 4_level_0,Unnamed: 5_level_0,Unnamed: 6_level_0,Pass Types,Pass Types,Pass Types,Pass Types,Pass Types,Pass Types,Pass Types,Pass Types,Corner Kicks,Corner Kicks,Corner Kicks,Outcomes,Outcomes,Outcomes
+,Player,#,Nation,Pos,Age,Min,Att,Live,Dead,FK,TB,Sw,Crs,TI,CK,In,Out,Str,Cmp,Off,Blocks
+0,Romelu Lukaku,9.0,be BEL,FW,25-098,90,19,15,4,0,0,0,1,0,0,0,0,0,10,0,2
+1,Anthony Martial,11.0,fr FRA,LW,22-257,59,23,21,2,1,0,0,2,1,0,0,0,0,19,0,0
+2,Marouane Fellaini,27.0,be BEL,AM,30-270,31,16,16,0,0,0,0,0,0,0,0,0,0,12,0,0
+3,Juan Mata,8.0,es ESP,RW,30-113,45,17,17,0,0,0,1,0,0,0,0,0,0,15,0,0
+4,Marcus Rashford,10.0,eng ENG,"LW,RW",20-292,45,18,15,3,1,0,0,2,1,1,1,0,0,12,0,0
+5,Paul Pogba,6.0,fr FRA,"DM,LM",25-157,90,78,77,1,1,0,2,1,0,0,0,0,0,63,0,1
+6,Andreas Pereira,15.0,br BRA,CM,22-230,45,36,33,3,2,0,0,1,0,1,1,0,0,32,0,0
+7,Jesse Lingard,14.0,eng ENG,"RW,AM",25-247,45,22,21,1,0,0,0,0,1,0,0,0,0,20,0,0
+8,Fred,17.0,br BRA,"DM,RM",25-167,90,81,78,2,1,0,1,0,1,0,0,0,0,74,1,0
+9,Luke Shaw,23.0,eng ENG,LB,23-038,90,64,50,13,1,0,0,2,12,0,0,0,0,52,1,4
+10,Victor Lindelöf,2.0,se SWE,CB,24-033,90,70,67,3,2,0,0,0,1,0,0,0,0,66,0,1
+11,Eric Bailly,3.0,ci CIV,CB,24-129,90,67,65,2,2,0,0,0,0,0,0,0,0,60,0,0
+12,Ashley Young,18.0,eng ENG,RB,33-041,90,77,62,15,2,0,0,8,10,3,0,0,3,57,0,4
+13,David de Gea,1.0,es ESP,GK,27-285,90,33,25,8,4,0,0,0,0,0,0,0,0,23,0,0
+14,14 Players,,,,,990,621,562,57,17,0,4,17,27,5,2,0,3,515,2,12

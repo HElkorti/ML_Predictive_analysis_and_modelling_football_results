@@ -1,0 +1,17 @@
+,Unnamed: 0_level_0,Unnamed: 1_level_0,Unnamed: 2_level_0,Unnamed: 3_level_0,Unnamed: 4_level_0,Unnamed: 5_level_0,Touches,Touches,Touches,Touches,Touches,Touches,Touches,Take-Ons,Take-Ons,Take-Ons,Take-Ons,Take-Ons,Carries,Carries,Carries,Carries,Carries,Carries,Carries,Carries,Receiving,Receiving
+,Player,#,Nation,Pos,Age,Min,Touches,Def Pen,Def 3rd,Mid 3rd,Att 3rd,Att Pen,Live,Att,Succ,Succ%,Tkld,Tkld%,Carries,TotDist,PrgDist,PrgC,1/3,CPA,Mis,Dis,Rec,PrgR
+0,Yoshinori Mutō,13.0,jp JPN,FW,26-104,79,30,1,2,11,17,4,30,4,2,50.0,2,50.0,18,141,58,3,0,0,3,1,23,6
+1,Christian Atsu,30.0,gh GHA,FW,26-290,11,5,0,0,1,4,0,5,0,0,,0,,5,52,23,2,1,0,0,1,6,1
+2,Ayoze Pérez,17.0,es ESP,FW,25-090,68,25,0,2,12,11,1,25,1,0,0.0,1,100.0,6,41,20,1,1,0,0,0,16,3
+3,Salomón Rondón,9.0,ve VEN,FW,29-041,22,8,0,0,6,2,1,8,2,0,0.0,2,100.0,2,16,3,0,0,0,1,0,4,1
+4,Kenedy,15.0,br BRA,LM,22-261,90,47,0,9,23,15,1,47,0,0,,0,,24,150,41,1,0,0,2,2,24,3
+5,Mohamed Diamé,10.0,sn SEN,CM,31-135,75,49,1,12,26,11,0,49,1,0,0.0,1,100.0,20,64,13,0,0,0,0,1,31,2
+6,Ki Sung-yueng,4.0,kr KOR,CM,29-276,15,9,0,2,3,4,1,9,0,0,,0,,4,35,31,2,2,0,0,0,5,1
+7,Jonjo Shelvey,8.0,eng ENG,CM,26-242,90,68,1,15,40,14,1,68,0,0,,0,,33,110,41,0,1,0,1,0,43,1
+8,Matt Ritchie,11.0,sct SCO,RM,29-047,90,45,2,14,19,12,0,45,1,0,0.0,1,100.0,20,90,17,0,0,0,1,0,24,4
+9,Paul Dummett,3.0,wls WAL,LB,27-031,90,54,8,22,28,5,0,54,0,0,,0,,20,36,22,0,0,0,0,0,27,0
+10,Federico Fernández,18.0,ar ARG,CB,29-248,90,62,14,39,22,2,2,62,0,0,,0,,31,140,65,0,0,0,0,0,34,0
+11,Jamaal Lascelles,6.0,eng ENG,CB,24-350,90,77,7,44,33,0,0,77,0,0,,0,,30,144,87,1,0,0,0,0,42,0
+12,DeAndre Yedlin,22.0,us USA,RB,25-110,90,72,4,24,31,18,0,72,2,1,50.0,1,50.0,20,105,26,1,1,0,0,0,29,3
+13,Martin Dúbravka,12.0,sk SVK,GK,29-285,90,51,42,51,0,0,0,51,0,0,,0,,24,128,102,0,0,0,0,0,21,0
+14,14 Players,,,,,990,602,80,236,255,115,11,602,11,3,27.3,8,72.7,257,1252,549,11,6,0,8,5,329,25

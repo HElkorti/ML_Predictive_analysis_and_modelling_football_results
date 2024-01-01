@@ -1,0 +1,16 @@
+,Unnamed: 0_level_0,Unnamed: 1_level_0,Unnamed: 2_level_0,Unnamed: 3_level_0,Unnamed: 4_level_0,Unnamed: 5_level_0,Touches,Touches,Touches,Touches,Touches,Touches,Touches,Take-Ons,Take-Ons,Take-Ons,Take-Ons,Take-Ons,Carries,Carries,Carries,Carries,Carries,Carries,Carries,Carries,Receiving,Receiving
+,Player,#,Nation,Pos,Age,Min,Touches,Def Pen,Def 3rd,Mid 3rd,Att 3rd,Att Pen,Live,Att,Succ,Succ%,Tkld,Tkld%,Carries,TotDist,PrgDist,PrgC,1/3,CPA,Mis,Dis,Rec,PrgR
+0,Sergio Agüero,10.0,ar ARG,FW,29-232,90,55,0,2,17,36,9,54,6,5,83.3,1,16.7,41,275,93,4,2,2,2,0,47,6
+1,Leroy Sané,19.0,de GER,LW,22-009,86,57,0,1,6,50,8,57,6,4,66.7,2,33.3,39,206,100,1,1,1,0,3,49,13
+2,Brahim Díaz,55.0,es ESP,LW,18-170,4,4,0,2,2,1,1,4,1,1,100.0,0,0.0,4,44,34,1,0,1,0,1,3,1
+3,Raheem Sterling,7.0,eng ENG,RW,23-043,85,48,2,3,13,33,3,48,5,4,80.0,1,20.0,38,166,81,2,1,1,1,3,42,9
+4,Bernardo Silva,20.0,pt POR,RW,23-163,5,6,0,0,4,2,0,6,1,0,0.0,1,100.0,5,20,0,0,0,0,0,2,4,2
+5,David Silva,21.0,es ESP,LM,32-012,90,124,0,10,45,70,9,124,5,5,100.0,0,0.0,84,509,229,5,5,2,0,2,101,14
+6,Fernandinho,25.0,br BRA,CM,32-261,90,112,4,15,74,25,0,112,0,0,,0,,70,386,277,6,2,0,1,1,84,0
+7,Kevin De Bruyne,17.0,be BEL,RM,26-206,90,111,1,9,37,66,2,111,2,1,50.0,1,50.0,64,377,217,6,3,1,4,0,80,8
+8,Oleksandr Zinchenko,35.0,ua UKR,LB,21-036,90,140,3,22,50,68,2,140,0,0,,0,,80,302,189,4,3,1,1,0,104,18
+9,Nicolás Otamendi,30.0,ar ARG,CB,29-342,90,94,6,32,52,10,1,94,0,0,,0,,69,506,372,4,5,0,1,0,75,0
+10,John Stones,5.0,eng ENG,CB,23-237,90,85,8,24,57,4,2,85,1,1,100.0,0,0.0,54,245,103,0,2,0,1,0,70,0
+11,Kyle Walker,2.0,eng ENG,RB,27-237,90,105,1,11,53,41,2,105,1,1,100.0,0,0.0,68,427,246,5,5,1,1,0,77,8
+12,Ederson,31.0,br BRA,GK,24-156,90,29,24,29,0,0,0,29,0,0,,0,,17,96,74,0,0,0,1,0,17,0
+13,13 Players,,,,,990,970,49,160,410,406,39,969,28,22,78.6,6,21.4,633,3559,2015,38,29,10,13,12,753,79

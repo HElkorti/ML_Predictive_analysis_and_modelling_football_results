@@ -1,0 +1,17 @@
+,Unnamed: 0_level_0,Unnamed: 1_level_0,Unnamed: 2_level_0,Unnamed: 3_level_0,Unnamed: 4_level_0,Unnamed: 5_level_0,Touches,Touches,Touches,Touches,Touches,Touches,Touches,Take-Ons,Take-Ons,Take-Ons,Take-Ons,Take-Ons,Carries,Carries,Carries,Carries,Carries,Carries,Carries,Carries,Receiving,Receiving
+,Player,#,Nation,Pos,Age,Min,Touches,Def Pen,Def 3rd,Mid 3rd,Att 3rd,Att Pen,Live,Att,Succ,Succ%,Tkld,Tkld%,Carries,TotDist,PrgDist,PrgC,1/3,CPA,Mis,Dis,Rec,PrgR
+0,Charlie Austin,10.0,eng ENG,FW,28-304,75,25,1,1,11,13,2,25,1,0,0.0,1,100.0,10,35,2,0,0,0,1,3,17,2
+1,Shane Long,7.0,ie IRL,"FW,RM",31-103,15,6,2,2,3,1,0,6,0,0,,0,,3,18,1,0,0,0,0,0,4,1
+2,Mario Lemina,18.0,ga GAB,AM,24-246,45,25,0,1,14,10,1,25,3,3,100.0,0,0.0,11,111,70,4,1,1,2,0,15,2
+3,Nathan Redmond,22.0,eng ENG,"AM,LM,FW",24-060,45,21,2,7,12,6,2,21,4,4,100.0,0,0.0,12,203,139,4,4,1,1,2,9,1
+4,Dušan Tadić,11.0,rs SRB,AM,29-166,69,39,0,1,21,17,3,39,1,1,100.0,0,0.0,28,173,127,5,1,1,5,1,31,8
+5,James Ward-Prowse,16.0,eng ENG,"AM,RM,CM",23-185,21,14,2,3,3,8,0,14,0,0,,0,,5,27,5,0,0,0,0,1,6,1
+6,Pierre Højbjerg,23.0,dk DEN,"CM,LM",22-273,90,63,2,12,39,13,0,63,1,1,100.0,0,0.0,36,250,83,1,3,0,2,1,39,1
+7,Oriol Romeu,14.0,es ESP,CM,26-223,90,45,1,9,32,4,0,45,0,0,,0,,25,150,110,4,1,0,1,1,25,0
+8,Ryan Bertrand,21.0,eng ENG,"WB,LB",28-273,90,46,0,15,13,18,2,46,0,0,,0,,21,94,47,2,0,0,1,0,25,6
+9,Cédric Soares,2.0,pt POR,"WB,RB",26-247,90,53,1,10,28,15,0,53,0,0,,0,,27,129,76,1,1,0,2,1,31,10
+10,Wesley Hoedt,6.0,nl NED,CB,24-060,90,60,3,32,28,2,0,60,2,2,100.0,0,0.0,31,206,117,0,0,0,1,0,29,0
+11,Maya Yoshida,3.0,jp JPN,CB,29-254,84,31,3,14,16,1,0,31,0,0,,0,,14,26,7,0,0,0,0,0,15,1
+12,Jan Bednarek,35.0,pl POL,CB,22-023,90,51,2,20,31,0,0,51,0,0,,0,,31,133,84,0,0,0,0,0,34,0
+13,Alex McCarthy,13.0,eng ENG,GK,28-153,90,23,20,23,0,0,0,23,0,0,,0,,7,49,35,0,0,0,0,0,4,0
+14,14 Players,,,,,984,502,39,150,251,108,10,502,12,11,91.7,1,8.3,261,1604,903,21,11,3,16,10,284,33

@@ -1,0 +1,17 @@
+,Unnamed: 0_level_0,Unnamed: 1_level_0,Unnamed: 2_level_0,Unnamed: 3_level_0,Unnamed: 4_level_0,Unnamed: 5_level_0,Unnamed: 6_level_0,Pass Types,Pass Types,Pass Types,Pass Types,Pass Types,Pass Types,Pass Types,Pass Types,Corner Kicks,Corner Kicks,Corner Kicks,Outcomes,Outcomes,Outcomes
+,Player,#,Nation,Pos,Age,Min,Att,Live,Dead,FK,TB,Sw,Crs,TI,CK,In,Out,Str,Cmp,Off,Blocks
+0,Salomón Rondón,9.0,ve VEN,FW,28-070,90,32,31,1,0,0,0,0,0,0,0,0,0,22,0,1
+1,Jay Rodriguez,19.0,eng ENG,FW,28-119,66,11,10,1,0,0,0,0,0,0,0,0,0,9,0,0
+2,Hal Robson-Kanu,4.0,wls WAL,FW,28-188,24,4,3,0,0,0,0,0,0,0,0,0,0,3,1,0
+3,Sam Field,28.0,eng ENG,CM,19-201,66,16,16,0,0,0,0,0,0,0,0,0,0,13,0,0
+4,James McClean,14.0,ie IRL,CM,28-217,24,5,5,0,0,0,0,1,0,0,0,0,0,1,0,0
+5,Gareth Barry,18.0,eng ENG,CM,36-275,78,33,33,0,0,0,0,0,0,0,0,0,0,29,0,0
+6,Claudio Yacob,5.0,ar ARG,CM,30-130,12,2,2,0,0,0,0,0,0,0,0,0,0,2,0,0
+7,Jake Livermore,8.0,eng ENG,CM,28-011,90,17,17,0,0,0,0,0,0,0,0,0,0,13,0,0
+8,Kieran Gibbs,3.0,eng ENG,WB,28-060,90,37,24,11,0,0,0,2,11,0,0,0,0,22,2,1
+9,Matt Phillips,10.0,sct SCO,WB,26-257,90,25,23,1,0,0,0,4,1,0,0,0,0,12,1,2
+10,Jonny Evans,6.0,nir NIR,CB,29-326,90,28,23,4,4,0,0,0,0,0,0,0,0,23,1,0
+11,Ahmed Hegazi,26.0,eg EGY,CB,26-304,90,18,16,1,1,0,1,0,0,0,0,0,0,12,1,0
+12,Allan Nyom,2.0,cm CMR,CB,29-199,90,34,27,7,0,0,0,2,7,0,0,0,0,24,0,0
+13,Ben Foster,1.0,eng ENG,GK,34-236,90,38,19,19,6,0,0,0,0,0,0,0,0,18,0,0
+14,14 Players,,,,,990,300,249,45,11,0,1,9,19,0,0,0,0,203,6,4

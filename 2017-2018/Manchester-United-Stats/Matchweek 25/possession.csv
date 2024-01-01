@@ -1,0 +1,17 @@
+,Unnamed: 0_level_0,Unnamed: 1_level_0,Unnamed: 2_level_0,Unnamed: 3_level_0,Unnamed: 4_level_0,Unnamed: 5_level_0,Touches,Touches,Touches,Touches,Touches,Touches,Touches,Take-Ons,Take-Ons,Take-Ons,Take-Ons,Take-Ons,Carries,Carries,Carries,Carries,Carries,Carries,Carries,Carries,Receiving,Receiving
+,Player,#,Nation,Pos,Age,Min,Touches,Def Pen,Def 3rd,Mid 3rd,Att 3rd,Att Pen,Live,Att,Succ,Succ%,Tkld,Tkld%,Carries,TotDist,PrgDist,PrgC,1/3,CPA,Mis,Dis,Rec,PrgR
+0,Romelu Lukaku,9.0,be BEL,FW,24-263,90,27,0,0,20,8,2,27,3,0,0.0,3,100.0,7,62,21,1,0,1,0,0,20,2
+1,Alexis Sánchez,7.0,cl CHI,"AM,LW",29-043,90,65,0,14,22,30,2,65,4,2,50.0,2,50.0,42,192,61,0,0,0,2,5,49,5
+2,Anthony Martial,11.0,fr FRA,"LW,RW",22-057,90,46,1,6,15,25,6,46,4,2,50.0,2,50.0,27,170,77,3,4,5,2,2,38,4
+3,Jesse Lingard,14.0,eng ENG,"AM,RW",25-047,62,49,0,4,32,14,5,49,2,0,0.0,2,100.0,32,237,120,2,3,0,2,0,37,5
+4,Marouane Fellaini,27.0,be BEL,"DM,RW",30-070,7,3,1,1,2,0,0,3,0,0,,0,,0,0,0,0,0,0,0,0,0,0
+5,Ander Herrera,21.0,es ESP,DM,28-170,21,12,0,5,5,2,0,12,0,0,,0,,3,4,0,0,0,0,0,0,6,0
+6,Nemanja Matić,31.0,rs SRB,DM,29-183,90,72,3,30,36,7,1,72,2,1,50.0,1,50.0,32,200,96,0,0,0,1,2,47,0
+7,Paul Pogba,6.0,fr FRA,DM,24-322,62,49,1,13,30,6,1,49,1,1,100.0,0,0.0,28,108,51,0,1,0,3,2,35,1
+8,Juan Mata,8.0,es ESP,RW,29-278,28,11,0,4,4,4,0,11,0,0,,0,,8,34,15,0,0,0,0,1,11,0
+9,Ashley Young,18.0,eng ENG,LB,32-206,90,76,3,24,28,24,0,76,1,0,0.0,1,100.0,37,212,115,5,1,0,1,2,49,2
+10,Phil Jones,4.0,eng ENG,CB,25-344,90,56,10,36,22,0,0,56,0,0,,0,,20,114,70,0,0,0,1,0,23,0
+11,Chris Smalling,12.0,eng ENG,CB,28-070,90,54,12,39,14,1,1,54,0,0,,0,,20,113,69,0,1,0,1,0,21,0
+12,Antonio Valencia,25.0,ec ECU,RB,32-180,90,71,5,32,35,6,0,71,4,3,75.0,1,25.0,36,208,97,1,0,0,1,0,39,1
+13,David de Gea,1.0,es ESP,GK,27-085,90,48,46,48,0,0,0,48,0,0,,0,,15,106,79,0,0,0,0,0,18,0
+14,14 Players,,,,,990,639,82,256,265,127,18,639,21,9,42.9,12,57.1,307,1760,871,12,10,6,14,14,393,20

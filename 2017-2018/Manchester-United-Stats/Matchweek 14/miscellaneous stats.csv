@@ -1,0 +1,17 @@
+,Unnamed: 0_level_0,Unnamed: 1_level_0,Unnamed: 2_level_0,Unnamed: 3_level_0,Unnamed: 4_level_0,Unnamed: 5_level_0,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Aerial Duels,Aerial Duels,Aerial Duels
+,Player,#,Nation,Pos,Age,Min,CrdY,CrdR,2CrdY,Fls,Fld,Off,Crs,Int,TklW,PKwon,PKcon,OG,Recov,Won,Lost,Won%
+0,Romelu Lukaku,9.0,be BEL,"FW,AM",24-199,90,0,0,0,0,2,0,0,0,0,0,0,0,4,2,4,33.3
+1,Anthony Martial,11.0,fr FRA,AM,21-358,64,0,0,0,0,2,0,0,0,0,0,0,0,4,0,3,0.0
+2,Marcus Rashford,19.0,eng ENG,AM,20-028,26,0,0,0,1,0,0,0,0,2,0,0,0,1,1,0,100.0
+3,Jesse Lingard,14.0,eng ENG,AM,24-348,87,0,0,0,0,1,0,7,0,0,0,0,0,2,0,1,0.0
+4,Zlatan Ibrahimović,10.0,se SWE,FW,36-056,3,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,
+5,Nemanja Matić,31.0,rs SRB,CM,29-119,53,0,0,0,0,0,0,0,1,1,0,0,0,5,1,0,100.0
+6,Ander Herrera,21.0,es ESP,CM,28-106,37,0,0,0,0,1,0,0,1,1,0,0,0,3,0,0,
+7,Paul Pogba,6.0,fr FRA,CM,24-258,90,0,0,0,2,3,0,1,1,2,0,0,0,11,5,0,100.0
+8,Ashley Young,18.0,eng ENG,WB,32-142,90,0,0,0,1,0,0,2,3,1,0,0,0,4,0,0,
+9,Antonio Valencia,25.0,ec ECU,WB,32-116,90,0,0,0,1,1,0,0,2,1,0,0,0,7,0,3,0.0
+10,Marcos Rojo,5.0,ar ARG,CB,27-253,90,1,0,0,2,1,0,0,0,1,0,1,0,3,1,0,100.0
+11,Chris Smalling,12.0,eng ENG,CB,28-006,90,0,0,0,0,0,0,0,0,0,0,0,0,1,3,2,60.0
+12,Victor Lindelöf,2.0,se SWE,CB,23-134,90,0,0,0,3,1,0,0,2,1,0,0,0,9,2,3,40.0
+13,David de Gea,1.0,es ESP,GK,27-021,90,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
+14,14 Players,,,,,990,1,0,0,10,12,0,10,10,10,0,1,0,56,15,16,48.4

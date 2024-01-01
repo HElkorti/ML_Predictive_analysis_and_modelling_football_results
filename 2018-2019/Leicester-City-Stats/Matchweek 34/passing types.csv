@@ -1,0 +1,17 @@
+,Unnamed: 0_level_0,Unnamed: 1_level_0,Unnamed: 2_level_0,Unnamed: 3_level_0,Unnamed: 4_level_0,Unnamed: 5_level_0,Unnamed: 6_level_0,Pass Types,Pass Types,Pass Types,Pass Types,Pass Types,Pass Types,Pass Types,Pass Types,Corner Kicks,Corner Kicks,Corner Kicks,Outcomes,Outcomes,Outcomes
+,Player,#,Nation,Pos,Age,Min,Att,Live,Dead,FK,TB,Sw,Crs,TI,CK,In,Out,Str,Cmp,Off,Blocks
+0,Jamie Vardy,9.0,eng ENG,FW,32-091,90,14,12,2,0,1,0,0,0,0,0,0,0,8,0,1
+1,Harvey Barnes,19.0,eng ENG,LM,21-124,79,32,31,1,0,0,0,4,1,0,0,0,0,23,0,3
+2,Marc Albrighton,11.0,eng ENG,WB,29-145,11,17,15,2,0,0,0,6,2,0,0,0,0,10,0,0
+3,James Maddison,10.0,eng ENG,CM,22-140,90,64,59,4,3,1,0,5,0,1,1,0,0,50,1,0
+4,Youri Tielemans,21.0,be BEL,CM,21-340,90,95,92,3,1,1,2,1,2,0,0,0,0,82,0,2
+5,Demarai Gray,7.0,jm JAM,RM,22-288,71,27,27,0,0,1,0,0,0,0,0,0,0,18,0,2
+6,Kelechi Iheanacho,8.0,ng NGA,"FW,RM",22-191,19,2,2,0,0,0,0,0,0,0,0,0,0,1,0,1
+7,Wilfred Ndidi,25.0,ng NGA,DM,22-117,71,97,96,1,1,0,0,0,0,0,0,0,0,88,0,0
+8,Nampalys Mendy,24.0,sn SEN,"CM,DM",26-293,19,23,23,0,0,0,0,0,0,0,0,0,0,22,0,0
+9,Ben Chilwell,3.0,eng ENG,"LB,CB",22-112,90,131,118,12,1,0,0,5,10,1,0,0,0,105,1,2
+10,Harry Maguire,15.0,eng ENG,CB,26-038,90,127,124,3,2,0,1,0,1,0,0,0,0,114,0,1
+11,Wes Morgan,5.0,jm JAM,CB,35-081,90,84,82,2,1,0,0,0,1,0,0,0,0,70,0,1
+12,Ricardo Pereira,14.0,pt POR,"RB,WB",25-188,90,92,82,10,1,0,0,3,9,0,0,0,0,75,0,3
+13,Kasper Schmeichel,1.0,dk DEN,GK,32-158,90,29,24,4,2,0,0,0,0,0,0,0,0,24,1,0
+14,14 Players,,,,,990,834,787,44,12,4,3,24,26,2,1,0,0,690,3,16

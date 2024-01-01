@@ -1,0 +1,17 @@
+,Unnamed: 0_level_0,Unnamed: 1_level_0,Unnamed: 2_level_0,Unnamed: 3_level_0,Unnamed: 4_level_0,Unnamed: 5_level_0,Tackles,Tackles,Tackles,Tackles,Tackles,Challenges,Challenges,Challenges,Challenges,Blocks,Blocks,Blocks,Unnamed: 18_level_0,Unnamed: 19_level_0,Unnamed: 20_level_0,Unnamed: 21_level_0
+,Player,#,Nation,Pos,Age,Min,Tkl,TklW,Def 3rd,Mid 3rd,Att 3rd,Tkl,Att,Tkl%,Lost,Blocks,Sh,Pass,Int,Tkl+Int,Clr,Err
+0,Eden Hazard,10.0,be BEL,"FW,AM",27-056,89,0,0,0,0,0,0,1,0.0,1,1,0,1,0,0,0,0
+1,Álvaro Morata,9.0,es ESP,FW,25-132,1,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,0
+2,Pedro,11.0,es ESP,AM,30-219,81,1,1,0,1,0,0,1,0.0,1,2,0,2,2,3,0,0
+3,Emerson Palmieri,33.0,it ITA,"AM,LM",23-213,9,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,0
+4,Willian,22.0,br BRA,AM,29-207,77,3,2,1,2,0,0,1,0.0,1,1,0,1,1,4,0,0
+5,Olivier Giroud,18.0,fr FRA,"FW,AM",31-155,13,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,0
+6,Danny Drinkwater,6.0,eng ENG,CM,27-364,90,1,0,0,1,0,0,4,0.0,4,1,1,0,1,2,0,0
+7,Cesc Fàbregas,4.0,es ESP,CM,30-304,90,1,0,1,0,0,0,4,0.0,4,1,0,1,1,2,2,1
+8,Marcos Alonso,3.0,es ESP,"WB,LB",27-066,90,1,1,1,0,0,1,4,25.0,3,1,0,1,3,4,1,0
+9,Victor Moses,15.0,ng NGA,"WB,RM",27-082,90,0,0,0,0,0,0,2,0.0,2,0,0,0,0,0,3,0
+10,Antonio Rüdiger,2.0,de GER,CB,25-001,90,0,0,0,0,0,0,0,,0,4,2,2,0,0,3,0
+11,Andreas Christensen,27.0,dk DEN,CB,21-328,90,1,0,1,0,0,0,1,0.0,1,1,0,1,2,3,4,1
+12,César Azpilicueta,28.0,es ESP,"CB,RB",28-188,90,3,3,2,1,0,0,3,0.0,3,4,3,1,1,4,3,0
+13,Thibaut Courtois,13.0,be BEL,GK,25-297,90,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,0
+14,14 Players,,,,,990,11,7,6,5,0,1,21,4.8,20,16,6,10,11,22,16,2

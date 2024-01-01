@@ -1,0 +1,17 @@
+,Unnamed: 0_level_0,Unnamed: 1_level_0,Unnamed: 2_level_0,Unnamed: 3_level_0,Unnamed: 4_level_0,Unnamed: 5_level_0,Touches,Touches,Touches,Touches,Touches,Touches,Touches,Take-Ons,Take-Ons,Take-Ons,Take-Ons,Take-Ons,Carries,Carries,Carries,Carries,Carries,Carries,Carries,Carries,Receiving,Receiving
+,Player,#,Nation,Pos,Age,Min,Touches,Def Pen,Def 3rd,Mid 3rd,Att 3rd,Att Pen,Live,Att,Succ,Succ%,Tkld,Tkld%,Carries,TotDist,PrgDist,PrgC,1/3,CPA,Mis,Dis,Rec,PrgR
+0,Wilfried Bony,2.0,ci CIV,FW,28-287,84,26,0,0,15,11,4,26,0,0,,0,,12,36,18,0,2,0,1,1,19,4
+1,Renato Sanches,35.0,pt POR,AM,20-036,6,7,0,1,5,1,0,7,0,0,,0,,3,23,15,1,0,0,0,0,5,1
+2,Jordan Ayew,18.0,gh GHA,FW,26-012,90,35,0,3,16,16,4,35,1,0,0.0,1,100.0,32,196,69,2,4,0,2,5,31,11
+3,Tom Carroll,14.0,eng ENG,"LM,CM",25-118,90,66,1,7,37,22,0,66,0,0,,0,,20,132,72,2,1,0,1,1,33,1
+4,Sam Clucas,17.0,eng ENG,CM,26-363,45,27,3,8,17,2,0,27,0,0,,0,,13,85,15,0,0,0,0,0,13,0
+5,Roque Mesa,51.0,es ESP,"DM,CM",28-108,45,44,0,10,33,2,0,44,0,0,,0,,26,148,73,2,0,0,0,1,31,0
+6,Leroy Fer,8.0,nl NED,"RM,CM",27-261,90,59,2,6,37,17,3,59,2,2,100.0,0,0.0,24,137,79,2,1,0,3,0,37,1
+7,Martin Olsson,16.0,se SWE,"LB,WB",29-129,90,59,3,12,31,17,2,59,1,1,100.0,0,0.0,32,193,96,3,1,0,2,5,40,5
+8,Kyle Naughton,26.0,eng ENG,"RB,WB",28-310,90,76,3,20,38,18,1,76,3,2,66.7,1,33.3,29,177,80,2,1,0,1,1,39,4
+9,Alfie Mawson,6.0,eng ENG,CB,23-247,90,54,4,29,23,2,1,54,0,0,,0,,21,144,74,0,0,0,1,0,34,1
+10,Federico Fernández,33.0,ar ARG,CB,28-214,90,63,5,37,25,2,2,63,0,0,,0,,20,110,69,0,0,0,1,0,30,0
+11,Mike van der Hoorn,5.0,nl NED,CB,24-343,45,37,5,21,14,2,0,37,0,0,,0,,17,105,72,0,0,0,0,0,25,0
+12,Tammy Abraham,10.0,eng ENG,"FW,CB",19-356,45,12,0,0,6,6,2,12,3,3,100.0,0,0.0,7,66,29,1,0,0,2,1,11,2
+13,Łukasz Fabiański,1.0,pl POL,GK,32-158,90,22,17,22,0,0,0,22,0,0,,0,,5,35,24,0,0,0,0,0,7,0
+14,14 Players,,,,,990,587,43,176,297,118,19,587,10,8,80.0,2,20.0,261,1587,785,15,10,0,14,15,355,30

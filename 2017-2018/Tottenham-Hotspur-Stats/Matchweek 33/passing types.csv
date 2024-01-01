@@ -1,0 +1,17 @@
+,Unnamed: 0_level_0,Unnamed: 1_level_0,Unnamed: 2_level_0,Unnamed: 3_level_0,Unnamed: 4_level_0,Unnamed: 5_level_0,Unnamed: 6_level_0,Pass Types,Pass Types,Pass Types,Pass Types,Pass Types,Pass Types,Pass Types,Pass Types,Corner Kicks,Corner Kicks,Corner Kicks,Outcomes,Outcomes,Outcomes
+,Player,#,Nation,Pos,Age,Min,Att,Live,Dead,FK,TB,Sw,Crs,TI,CK,In,Out,Str,Cmp,Off,Blocks
+0,Harry Kane,10.0,eng ENG,FW,24-253,90,23,22,0,0,0,0,1,0,0,0,0,0,17,1,0
+1,Son Heung-min,7.0,kr KOR,LW,25-273,66,23,23,0,0,0,0,0,0,0,0,0,0,19,0,0
+2,Érik Lamela,11.0,ar ARG,"LW,RW",26-034,24,12,11,1,0,0,0,0,0,1,0,0,0,12,0,0
+3,Christian Eriksen,23.0,dk DEN,"RW,LW",26-052,90,74,68,6,6,0,0,3,0,0,0,0,0,62,0,1
+4,Dele Alli,20.0,eng ENG,AM,21-361,89,35,33,0,0,0,0,1,0,0,0,0,0,24,2,1
+5,Moussa Sissoko,17.0,fr FRA,AM,28-234,1,4,4,0,0,0,0,0,0,0,0,0,0,4,0,0
+6,Mousa Dembélé,19.0,be BEL,DM,30-265,90,68,61,7,5,0,0,0,0,0,0,0,0,64,0,0
+7,Victor Wanyama,12.0,ke KEN,DM,26-286,81,68,66,2,2,0,1,0,0,0,0,0,0,54,0,0
+8,Eric Dier,15.0,eng ENG,DM,24-082,9,7,7,0,0,0,0,0,0,0,0,0,0,4,0,1
+9,Danny Rose,3.0,eng ENG,LB,27-279,90,44,28,16,2,0,0,3,12,2,1,1,0,34,0,0
+10,Jan Vertonghen,5.0,be BEL,CB,30-348,90,54,52,2,1,0,0,0,1,0,0,0,0,47,0,1
+11,Davinson Sánchez,6.0,co COL,CB,21-299,90,75,75,0,0,0,0,1,0,0,0,0,0,65,0,0
+12,Serge Aurier,24.0,ci CIV,RB,25-104,90,60,53,7,1,0,0,4,6,0,0,0,0,40,0,2
+13,Hugo Lloris,1.0,fr FRA,GK,31-102,90,41,30,11,1,0,0,0,0,0,0,0,0,30,0,0
+14,14 Players,,,,,990,588,533,52,18,0,1,13,19,3,1,1,0,476,3,6

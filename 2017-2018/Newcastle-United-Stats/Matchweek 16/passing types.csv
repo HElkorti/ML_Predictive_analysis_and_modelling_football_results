@@ -1,0 +1,17 @@
+,Unnamed: 0_level_0,Unnamed: 1_level_0,Unnamed: 2_level_0,Unnamed: 3_level_0,Unnamed: 4_level_0,Unnamed: 5_level_0,Unnamed: 6_level_0,Pass Types,Pass Types,Pass Types,Pass Types,Pass Types,Pass Types,Pass Types,Pass Types,Corner Kicks,Corner Kicks,Corner Kicks,Outcomes,Outcomes,Outcomes
+,Player,#,Nation,Pos,Age,Min,Att,Live,Dead,FK,TB,Sw,Crs,TI,CK,In,Out,Str,Cmp,Off,Blocks
+0,Dwight Gayle,9.0,eng ENG,FW,27-053,90,25,24,1,0,0,0,0,0,0,0,0,0,16,0,0
+1,Joselu,21.0,es ESP,FW,27-257,87,31,31,0,0,0,0,0,0,0,0,0,0,20,0,0
+2,Aleksandar Mitrović,45.0,rs SRB,FW,23-084,3,1,1,0,0,0,0,0,0,0,0,0,0,1,0,0
+3,Jacob Murphy,7.0,eng ENG,LM,22-288,70,23,22,1,0,0,1,2,1,0,0,0,0,14,0,1
+4,Ayoze Pérez,17.0,es ESP,LM,24-133,20,8,8,0,0,0,0,0,0,0,0,0,0,5,0,1
+5,Mikel Merino,23.0,es ESP,CM,21-170,90,47,46,1,0,0,0,0,0,1,0,0,0,40,0,1
+6,Isaac Hayden,14.0,eng ENG,CM,22-262,90,29,24,4,0,0,0,0,1,0,0,0,0,19,1,1
+7,Matt Ritchie,11.0,sct SCO,RM,28-090,63,31,26,5,2,0,0,5,0,3,2,1,0,16,0,4
+8,Christian Atsu,30.0,gh GHA,RM,25-333,27,10,6,4,2,0,0,3,0,2,0,2,0,7,0,0
+9,Javier Manquillo,19.0,es ESP,LB,23-218,90,41,30,11,0,0,0,1,11,0,0,0,0,29,0,1
+10,Ciaran Clark,2.0,ie IRL,CB,28-074,90,35,33,2,1,0,2,0,1,0,0,0,0,25,0,0
+11,Florian Lejeune,20.0,fr FRA,CB,26-203,90,36,33,3,2,0,0,0,1,0,0,0,0,21,0,0
+12,DeAndre Yedlin,22.0,us USA,RB,24-153,90,31,25,6,0,0,0,1,6,0,0,0,0,23,0,0
+13,Karl Darlow,26.0,eng ENG,GK,27-062,90,25,14,11,3,0,0,0,0,0,0,0,0,14,0,0
+14,14 Players,,,,,990,373,323,49,10,0,3,12,21,6,2,3,0,250,1,9

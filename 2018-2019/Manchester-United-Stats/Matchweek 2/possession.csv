@@ -1,0 +1,17 @@
+,Unnamed: 0_level_0,Unnamed: 1_level_0,Unnamed: 2_level_0,Unnamed: 3_level_0,Unnamed: 4_level_0,Unnamed: 5_level_0,Touches,Touches,Touches,Touches,Touches,Touches,Touches,Take-Ons,Take-Ons,Take-Ons,Take-Ons,Take-Ons,Carries,Carries,Carries,Carries,Carries,Carries,Carries,Carries,Receiving,Receiving
+,Player,#,Nation,Pos,Age,Min,Touches,Def Pen,Def 3rd,Mid 3rd,Att 3rd,Att Pen,Live,Att,Succ,Succ%,Tkld,Tkld%,Carries,TotDist,PrgDist,PrgC,1/3,CPA,Mis,Dis,Rec,PrgR
+0,Romelu Lukaku,9.0,be BEL,FW,25-098,90,24,0,0,11,13,3,24,0,0,,0,,10,40,17,2,0,2,2,1,16,6
+1,Anthony Martial,11.0,fr FRA,LW,22-257,59,29,0,3,16,10,1,29,2,1,50.0,1,50.0,19,118,68,2,1,1,2,3,24,6
+2,Marouane Fellaini,27.0,be BEL,AM,30-270,31,21,0,0,16,5,0,21,0,0,,0,,9,18,7,0,0,0,3,0,16,4
+3,Juan Mata,8.0,es ESP,RW,30-113,45,20,0,1,14,5,0,20,0,0,,0,,11,52,26,1,1,0,0,2,13,2
+4,Marcus Rashford,10.0,eng ENG,"LW,RW",20-292,45,28,0,3,11,14,2,28,4,1,25.0,3,75.0,16,89,7,0,1,0,2,0,21,8
+5,Paul Pogba,6.0,fr FRA,"DM,LM",25-157,90,94,3,15,67,13,2,93,5,1,20.0,4,80.0,55,310,166,2,3,0,2,5,76,2
+6,Andreas Pereira,15.0,br BRA,CM,22-230,45,38,0,13,23,2,0,38,1,0,0.0,1,100.0,24,66,17,0,0,0,0,0,31,0
+7,Jesse Lingard,14.0,eng ENG,"RW,AM",25-247,45,31,0,0,18,14,1,31,2,0,0.0,2,100.0,21,114,19,0,3,1,3,0,25,5
+8,Fred,17.0,br BRA,"DM,RM",25-167,90,92,0,11,72,9,0,92,2,1,50.0,1,50.0,63,274,169,3,3,0,3,3,78,1
+9,Luke Shaw,23.0,eng ENG,LB,23-038,90,78,0,22,45,12,1,78,2,2,100.0,0,0.0,36,138,95,2,2,0,2,1,40,3
+10,Victor Lindelöf,2.0,se SWE,CB,24-033,90,77,6,53,23,1,1,77,1,1,100.0,0,0.0,50,274,136,1,0,0,0,0,54,0
+11,Eric Bailly,3.0,ci CIV,CB,24-129,90,73,4,40,33,1,1,73,0,0,,0,,37,143,50,0,0,0,2,0,50,0
+12,Ashley Young,18.0,eng ENG,RB,33-041,90,90,3,20,55,16,0,90,1,1,100.0,0,0.0,47,234,139,3,1,0,1,1,52,6
+13,David de Gea,1.0,es ESP,GK,27-285,90,34,27,34,0,0,0,34,0,0,,0,,19,132,111,0,0,0,0,0,18,0
+14,14 Players,,,,,990,729,43,215,404,115,12,728,20,8,40.0,12,60.0,417,2002,1027,16,15,4,22,16,514,43

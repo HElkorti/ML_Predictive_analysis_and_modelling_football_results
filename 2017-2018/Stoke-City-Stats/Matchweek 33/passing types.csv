@@ -1,0 +1,17 @@
+,Unnamed: 0_level_0,Unnamed: 1_level_0,Unnamed: 2_level_0,Unnamed: 3_level_0,Unnamed: 4_level_0,Unnamed: 5_level_0,Unnamed: 6_level_0,Pass Types,Pass Types,Pass Types,Pass Types,Pass Types,Pass Types,Pass Types,Pass Types,Corner Kicks,Corner Kicks,Corner Kicks,Outcomes,Outcomes,Outcomes
+,Player,#,Nation,Pos,Age,Min,Att,Live,Dead,FK,TB,Sw,Crs,TI,CK,In,Out,Str,Cmp,Off,Blocks
+0,Mame Biram Diouf,18.0,sn SEN,FW,30-112,90,13,13,0,0,0,0,0,0,0,0,0,0,5,0,0
+1,Xherdan Shaqiri,22.0,ch SUI,"FW,LM",26-179,90,31,20,10,3,0,0,10,0,5,5,0,0,18,1,1
+2,Ramadan Sobhi,32.0,eg EGY,LM,21-074,68,21,21,0,0,0,0,1,0,0,0,0,0,16,0,0
+3,Tyrese Campbell,40.0,eng ENG,FW,18-100,22,5,5,0,0,0,0,2,0,0,0,0,0,4,0,0
+4,Badou Ndiaye,27.0,sn SEN,CM,27-162,90,33,31,2,0,0,1,0,2,0,0,0,0,25,0,0
+5,Joe Allen,4.0,wls WAL,CM,28-024,90,45,42,2,0,0,0,4,0,1,1,0,0,29,1,1
+6,Moritz Bauer,2.0,at AUT,RM,26-072,89,25,19,6,1,0,0,2,5,0,0,0,0,19,0,1
+7,Kurt Zouma,6.0,fr FRA,RB,23-162,1,1,0,1,0,0,0,0,1,0,0,0,0,1,0,0
+8,Erik Pieters,3.0,nl NED,LB,29-243,90,41,29,12,0,0,0,1,12,0,0,0,0,31,0,2
+9,Bruno Martins Indi,15.0,nl NED,CB,26-058,90,20,20,0,0,0,0,0,0,0,0,0,0,13,0,0
+10,Ryan Shawcross,17.0,eng ENG,CB,30-185,90,13,12,1,1,0,0,0,0,0,0,0,0,5,0,0
+11,Glen Johnson,8.0,eng ENG,RB,33-227,77,20,14,6,1,0,0,0,5,0,0,0,0,10,0,1
+12,Peter Crouch,25.0,eng ENG,RB,37-067,13,8,8,0,0,0,0,0,0,0,0,0,0,3,0,1
+13,Jack Butland,1.0,eng ENG,GK,25-028,90,34,20,14,4,0,0,0,0,0,0,0,0,9,0,0
+14,14 Players,,,,,990,310,254,54,10,0,1,20,25,6,6,0,0,188,2,7

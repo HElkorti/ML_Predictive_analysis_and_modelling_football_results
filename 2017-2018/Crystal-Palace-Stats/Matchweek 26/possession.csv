@@ -1,0 +1,15 @@
+,Unnamed: 0_level_0,Unnamed: 1_level_0,Unnamed: 2_level_0,Unnamed: 3_level_0,Unnamed: 4_level_0,Unnamed: 5_level_0,Touches,Touches,Touches,Touches,Touches,Touches,Touches,Take-Ons,Take-Ons,Take-Ons,Take-Ons,Take-Ons,Carries,Carries,Carries,Carries,Carries,Carries,Carries,Carries,Receiving,Receiving
+,Player,#,Nation,Pos,Age,Min,Touches,Def Pen,Def 3rd,Mid 3rd,Att 3rd,Att Pen,Live,Att,Succ,Succ%,Tkld,Tkld%,Carries,TotDist,PrgDist,PrgC,1/3,CPA,Mis,Dis,Rec,PrgR
+0,Christian Benteke,17.0,be BEL,FW,27-063,90,50,2,4,19,27,10,50,1,1,100.0,0,0.0,26,82,36,1,2,1,3,1,34,9
+1,Wilfried Zaha,11.0,ci CIV,FW,25-086,90,51,1,4,13,35,5,51,4,3,75.0,1,25.0,47,293,184,8,2,2,2,4,43,15
+2,James McArthur,18.0,sct SCO,LM,30-120,90,66,1,5,33,28,7,66,4,4,100.0,0,0.0,47,254,147,6,0,3,3,1,52,12
+3,Luka Milivojević,4.0,rs SRB,CM,26-303,90,60,1,11,38,12,2,59,0,0,,0,,33,162,73,0,0,0,2,0,29,1
+4,Yohan Cabaye,7.0,fr FRA,CM,32-021,90,66,1,12,35,19,5,66,1,1,100.0,0,0.0,40,109,57,0,2,0,1,0,38,3
+5,Andros Townsend,10.0,eng ENG,RM,26-203,90,46,0,5,16,26,1,46,2,2,100.0,0,0.0,33,162,35,1,4,0,1,3,36,5
+6,Patrick van Aanholt,3.0,nl NED,LB,27-159,90,71,3,17,31,25,0,71,3,3,100.0,0,0.0,45,191,103,1,2,0,2,0,38,1
+7,James Tomkins,5.0,eng ENG,CB,28-312,90,55,5,33,21,1,0,55,0,0,,0,,30,109,38,0,0,0,0,0,30,0
+8,Martin Kelly,34.0,eng ENG,CB,27-283,44,21,2,10,11,0,0,21,1,1,100.0,0,0.0,12,76,36,0,0,0,0,0,13,0
+9,Mamadou Sakho,12.0,fr FRA,CB,27-356,46,26,2,14,12,0,0,26,0,0,,0,,15,62,39,0,0,0,0,0,16,0
+10,Timothy Fosu-Mensah,24.0,nl NED,RB,20-033,90,76,0,15,44,17,0,76,1,0,0.0,1,100.0,38,169,90,1,2,0,4,0,30,7
+11,Wayne Hennessey,13.0,wls WAL,GK,31-011,90,30,24,30,0,0,0,30,0,0,,0,,16,108,94,0,0,0,0,0,7,0
+12,12 Players,,,,,990,618,42,160,273,190,30,617,17,15,88.2,2,11.8,382,1777,932,18,14,6,18,9,366,53

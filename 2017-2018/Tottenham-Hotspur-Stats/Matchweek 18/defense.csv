@@ -1,0 +1,17 @@
+,Unnamed: 0_level_0,Unnamed: 1_level_0,Unnamed: 2_level_0,Unnamed: 3_level_0,Unnamed: 4_level_0,Unnamed: 5_level_0,Tackles,Tackles,Tackles,Tackles,Tackles,Challenges,Challenges,Challenges,Challenges,Blocks,Blocks,Blocks,Unnamed: 18_level_0,Unnamed: 19_level_0,Unnamed: 20_level_0,Unnamed: 21_level_0
+,Player,#,Nation,Pos,Age,Min,Tkl,TklW,Def 3rd,Mid 3rd,Att 3rd,Tkl,Att,Tkl%,Lost,Blocks,Sh,Pass,Int,Tkl+Int,Clr,Err
+0,Son Heung-min,7.0,kr KOR,"FW,RW",25-161,76,1,0,0,1,0,0,0,,0,1,0,1,0,1,0,0
+1,Érik Lamela,11.0,ar ARG,RW,25-287,14,0,0,0,0,0,0,0,,0,0,0,0,0,0,1,0
+2,Harry Kane,10.0,eng ENG,FW,24-141,90,1,0,0,0,1,0,0,,0,1,0,1,0,1,2,0
+3,Dele Alli,20.0,eng ENG,AM,21-249,83,2,1,2,0,0,0,0,,0,0,0,0,0,2,0,0
+4,Moussa Sissoko,17.0,fr FRA,AM,28-122,7,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,0
+5,Harry Winks,29.0,eng ENG,"LM,DM",21-317,90,3,2,2,1,0,2,2,100.0,0,2,0,2,3,6,0,0
+6,Christian Eriksen,23.0,dk DEN,"RM,LW",25-305,90,0,0,0,0,0,0,4,0.0,4,2,0,2,1,1,1,0
+7,Mousa Dembélé,19.0,be BEL,DM,30-153,90,2,0,1,1,0,0,2,0.0,2,3,0,3,3,5,0,0
+8,Danny Rose,3.0,eng ENG,LB,27-167,88,1,1,1,0,0,0,1,0.0,1,3,2,1,2,3,2,0
+9,Ben Davies,33.0,wls WAL,LB,24-236,2,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,0
+10,Jan Vertonghen,5.0,be BEL,CB,30-236,90,1,1,1,0,0,0,0,,0,0,0,0,4,5,3,0
+11,Eric Dier,15.0,eng ENG,CB,23-335,90,3,2,0,3,0,0,0,,0,0,0,0,2,5,3,1
+12,Kieran Trippier,2.0,eng ENG,RB,27-088,90,3,3,1,2,0,2,8,25.0,6,0,0,0,2,5,0,0
+13,Hugo Lloris,1.0,fr FRA,GK,30-355,90,0,0,0,0,0,0,1,0.0,1,0,0,0,0,0,1,0
+14,14 Players,,,,,990,17,10,8,8,1,4,18,22.2,14,12,2,10,17,34,13,1

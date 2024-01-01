@@ -1,0 +1,17 @@
+,Unnamed: 0_level_0,Unnamed: 1_level_0,Unnamed: 2_level_0,Unnamed: 3_level_0,Unnamed: 4_level_0,Unnamed: 5_level_0,Total,Total,Total,Total,Total,Short,Short,Short,Medium,Medium,Medium,Long,Long,Long,Unnamed: 20_level_0,Unnamed: 21_level_0,Unnamed: 22_level_0,Unnamed: 23_level_0,Unnamed: 24_level_0,Unnamed: 25_level_0,Unnamed: 26_level_0,Unnamed: 27_level_0
+,Player,#,Nation,Pos,Age,Min,Cmp,Att,Cmp%,TotDist,PrgDist,Cmp,Att,Cmp%,Cmp,Att,Cmp%,Cmp,Att,Cmp%,Ast,xAG,xA,KP,1/3,PPA,CrsPA,PrgP
+0,Wayne Rooney,10.0,eng ENG,"FW,RW",31-301,89,23,34,67.6,500,167,9,11,81.8,8,10,80.0,6,9,66.7,0,0.1,0.1,2,3,0,0,3
+1,Muhamed Bešić,21.0,ba BIH,CM,24-345,1,0,0,,0,0,0,0,,0,0,,0,0,,0,0.0,0.0,0,0,0,0,0
+2,Dominic Calvert-Lewin,29.0,eng ENG,FW,20-158,90,10,19,52.6,131,19,7,11,63.6,3,4,75.0,0,0,,1,0.4,0.1,3,0,0,0,0
+3,Morgan Schneiderlin,2.0,fr FRA,"CM,DM",27-286,87,20,26,76.9,246,59,14,15,93.3,6,8,75.0,0,3,0.0,0,0.0,0.0,0,0,0,0,0
+4,Idrissa Gana Gueye,17.0,sn SEN,"RM,CM",27-329,90,33,36,91.7,565,191,16,17,94.1,13,13,100.0,3,4,75.0,0,0.0,0.0,0,4,0,0,2
+5,Tom Davies,26.0,eng ENG,CM,19-052,60,11,11,100.0,105,10,7,7,100.0,2,2,100.0,0,0,,0,0.0,0.0,0,0,1,0,1
+6,Gylfi Sigurðsson,18.0,is ISL,LM,27-347,30,6,9,66.7,115,34,2,3,66.7,3,3,100.0,1,2,50.0,0,0.0,0.0,1,0,0,0,0
+7,Leighton Baines,3.0,eng ENG,"LB,WB",32-253,90,18,25,72.0,292,129,8,9,88.9,8,11,72.7,1,2,50.0,0,0.0,0.0,0,1,0,0,2
+8,Mason Holgate,30.0,eng ENG,"RB,WB",20-303,90,28,51,54.9,545,351,14,19,73.7,7,17,41.2,6,12,50.0,0,0.0,0.0,1,3,1,0,3
+9,Phil Jagielka,6.0,eng ENG,CB,35-004,90,18,28,64.3,421,73,5,5,100.0,9,12,75.0,4,10,40.0,0,0.0,0.0,0,0,0,0,1
+10,Ashley Williams,5.0,wls WAL,CB,32-363,60,10,12,83.3,221,46,1,2,50.0,8,8,100.0,1,2,50.0,0,0.0,0.0,0,0,0,0,0
+11,Davy Klaassen,20.0,nl NED,CM,24-181,30,7,13,53.8,69,17,3,4,75.0,2,4,50.0,0,0,,0,0.0,0.0,0,0,0,0,0
+12,Michael Keane,4.0,eng ENG,CB,24-222,90,23,31,74.2,502,107,6,7,85.7,14,18,77.8,3,5,60.0,0,0.0,0.0,0,2,0,0,1
+13,Jordan Pickford,1.0,eng ENG,GK,23-167,90,17,51,33.3,797,661,0,0,,6,7,85.7,11,43,25.6,0,0.0,0.0,0,3,0,0,0
+14,14 Players,,,,,987,224,346,64.7,4509,1864,92,110,83.6,89,117,76.1,36,92,39.1,1,0.6,0.3,7,16,2,0,13

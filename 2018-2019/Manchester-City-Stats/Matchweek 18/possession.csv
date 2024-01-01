@@ -1,0 +1,17 @@
+,Unnamed: 0_level_0,Unnamed: 1_level_0,Unnamed: 2_level_0,Unnamed: 3_level_0,Unnamed: 4_level_0,Unnamed: 5_level_0,Touches,Touches,Touches,Touches,Touches,Touches,Touches,Take-Ons,Take-Ons,Take-Ons,Take-Ons,Take-Ons,Carries,Carries,Carries,Carries,Carries,Carries,Carries,Carries,Receiving,Receiving
+,Player,#,Nation,Pos,Age,Min,Touches,Def Pen,Def 3rd,Mid 3rd,Att 3rd,Att Pen,Live,Att,Succ,Succ%,Tkld,Tkld%,Carries,TotDist,PrgDist,PrgC,1/3,CPA,Mis,Dis,Rec,PrgR
+0,Gabriel Jesus,33.0,br BRA,FW,21-263,90,27,0,1,8,18,6,27,1,0,0.0,1,100.0,18,66,31,2,1,1,0,2,18,7
+1,Leroy Sané,19.0,de GER,"LW,WB,LM",22-345,90,88,0,1,14,75,10,88,8,2,25.0,6,75.0,61,344,81,4,4,0,4,1,64,34
+2,Raheem Sterling,7.0,eng ENG,"RW,RM,WB",24-014,68,48,0,1,12,35,4,48,5,2,40.0,3,60.0,37,221,103,5,2,2,5,2,39,12
+3,Riyad Mahrez,26.0,dz ALG,WB,27-304,22,19,0,0,1,18,1,19,0,0,,0,,12,59,20,0,0,0,0,0,12,5
+4,Bernardo Silva,20.0,pt POR,"LM,AM,CM",24-134,90,76,1,4,26,49,8,76,4,2,50.0,2,50.0,58,338,182,2,4,0,1,0,57,20
+5,John Stones,5.0,eng ENG,"CM,CB",24-208,90,117,2,14,85,19,2,117,2,1,50.0,1,50.0,67,387,234,3,3,0,0,1,84,1
+6,İlkay Gündoğan,8.0,de GER,"RM,CM",28-059,90,82,0,3,36,43,2,82,0,0,,0,,55,290,194,1,1,0,1,2,59,6
+7,Fabian Delph,18.0,eng ENG,LB,29-031,61,81,0,2,47,32,0,81,0,0,,0,,69,307,182,2,6,0,1,0,66,2
+8,Kevin De Bruyne,17.0,be BEL,CM,27-177,29,61,0,2,31,28,0,61,1,1,100.0,0,0.0,52,283,207,3,5,0,0,1,50,2
+9,Aymeric Laporte,14.0,es ESP,CB,24-209,90,113,0,13,78,22,4,113,1,1,100.0,0,0.0,90,701,573,11,9,0,0,0,92,1
+10,Nicolás Otamendi,30.0,ar ARG,CB,30-313,49,63,0,8,48,8,2,63,0,0,,0,,49,308,236,2,3,0,0,0,51,1
+11,Sergio Agüero,10.0,ar ARG,FW,30-203,41,11,0,1,3,8,3,11,0,0,,0,,6,12,9,0,0,0,1,0,7,2
+12,Kyle Walker,2.0,eng ENG,"RB,CB",28-208,90,109,1,9,65,35,0,109,2,1,50.0,1,50.0,77,352,156,1,8,0,0,0,72,2
+13,Ederson,31.0,br BRA,GK,25-127,90,17,12,13,4,0,0,17,0,0,,0,,12,64,55,0,0,0,0,0,11,0
+14,14 Players,,,,,990,912,16,72,458,390,42,912,24,10,41.7,14,58.3,663,3732,2263,36,46,3,13,9,682,95

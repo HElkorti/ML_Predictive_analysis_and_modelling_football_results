@@ -1,0 +1,17 @@
+,Unnamed: 0_level_0,Unnamed: 1_level_0,Unnamed: 2_level_0,Unnamed: 3_level_0,Unnamed: 4_level_0,Unnamed: 5_level_0,Touches,Touches,Touches,Touches,Touches,Touches,Touches,Take-Ons,Take-Ons,Take-Ons,Take-Ons,Take-Ons,Carries,Carries,Carries,Carries,Carries,Carries,Carries,Carries,Receiving,Receiving
+,Player,#,Nation,Pos,Age,Min,Touches,Def Pen,Def 3rd,Mid 3rd,Att 3rd,Att Pen,Live,Att,Succ,Succ%,Tkld,Tkld%,Carries,TotDist,PrgDist,PrgC,1/3,CPA,Mis,Dis,Rec,PrgR
+0,Solly March,20.0,eng ENG,FW,23-184,82,37,0,5,12,21,1,37,4,3,75.0,1,25.0,28,183,82,5,3,1,2,1,26,10
+1,José Izquierdo,19.0,co COL,AM,25-197,8,6,0,0,3,3,1,6,0,0,,0,,5,8,3,0,0,0,1,0,4,1
+2,Tomer Hemed,10.0,il ISR,FW,30-263,67,27,1,2,15,11,4,27,2,1,50.0,1,50.0,11,60,2,0,1,0,1,3,18,5
+3,Glenn Murray,17.0,eng ENG,FW,34-117,23,12,0,0,6,6,2,12,0,0,,0,,9,19,2,0,0,0,2,1,10,3
+4,Davy Pröpper,24.0,nl NED,CM,26-140,90,44,0,6,27,12,1,44,1,1,100.0,0,0.0,32,156,98,1,1,0,2,0,28,0
+5,Dale Stephens,6.0,eng ENG,CM,28-222,90,70,3,16,47,8,1,70,0,0,,0,,46,256,143,2,1,1,1,2,41,0
+6,Pascal Groß,13.0,de GER,CM,26-219,67,41,1,5,15,21,4,41,0,0,,0,,27,117,63,1,2,0,2,0,28,5
+7,Beram Kayal,7.0,il ISR,"CM,AM",29-263,23,10,0,0,4,6,1,10,1,0,0.0,1,100.0,7,25,13,0,1,0,0,0,7,2
+8,Markus Suttner,29.0,at AUT,"LB,WB",30-279,90,40,5,7,14,19,0,40,0,0,,0,,17,112,83,1,1,0,0,0,21,3
+9,Lewis Dunk,5.0,eng ENG,CB,26-060,90,48,4,20,25,3,0,48,1,0,0.0,1,100.0,35,199,78,0,1,0,0,1,35,1
+10,Shane Duffy,22.0,ie IRL,CB,26-019,90,54,5,34,17,3,3,54,0,0,,0,,24,107,65,1,0,0,3,0,28,0
+11,Connor Goldson,18.0,eng ENG,CB,25-033,90,43,2,18,24,1,0,43,0,0,,0,,28,119,80,1,0,0,0,0,26,0
+12,Ezequiel Schelotto,21.0,it ITA,"RB,WB",28-242,90,65,1,10,30,26,7,65,3,3,100.0,0,0.0,38,307,176,9,2,2,2,1,38,6
+13,Mathew Ryan,1.0,au AUS,GK,25-287,90,17,16,17,0,0,0,17,0,0,,0,,8,63,50,0,0,0,0,0,4,0
+14,14 Players,,,,,990,514,38,140,239,140,25,514,12,8,66.7,4,33.3,315,1731,938,21,13,4,16,9,314,36

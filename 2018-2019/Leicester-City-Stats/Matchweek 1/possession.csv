@@ -1,0 +1,17 @@
+,Unnamed: 0_level_0,Unnamed: 1_level_0,Unnamed: 2_level_0,Unnamed: 3_level_0,Unnamed: 4_level_0,Unnamed: 5_level_0,Touches,Touches,Touches,Touches,Touches,Touches,Touches,Take-Ons,Take-Ons,Take-Ons,Take-Ons,Take-Ons,Carries,Carries,Carries,Carries,Carries,Carries,Carries,Carries,Receiving,Receiving
+,Player,#,Nation,Pos,Age,Min,Touches,Def Pen,Def 3rd,Mid 3rd,Att 3rd,Att Pen,Live,Att,Succ,Succ%,Tkld,Tkld%,Carries,TotDist,PrgDist,PrgC,1/3,CPA,Mis,Dis,Rec,PrgR
+0,Kelechi Iheanacho,8.0,ng NGA,"FW,AM",21-311,90,30,0,1,11,18,4,30,1,0,0.0,1,100.0,20,74,8,0,0,1,3,4,22,6
+1,Demarai Gray,7.0,jm JAM,LW,22-043,90,53,0,3,24,27,5,53,6,5,83.3,1,16.7,40,230,94,5,1,3,1,4,40,12
+2,Ricardo Pereira,14.0,pt POR,"RW,RB",24-308,90,73,0,15,33,25,4,73,2,0,0.0,2,100.0,43,211,110,4,2,1,2,3,44,13
+3,James Maddison,10.0,eng ENG,AM,21-260,62,50,0,1,22,28,3,50,2,1,50.0,1,50.0,35,148,43,2,2,0,2,0,34,2
+4,Jamie Vardy,9.0,eng ENG,FW,31-211,28,6,0,0,0,6,4,6,0,0,,0,,3,5,1,0,0,0,0,0,4,3
+5,Wilfred Ndidi,25.0,ng NGA,DM,21-237,90,97,1,10,68,20,0,97,1,1,100.0,0,0.0,69,301,138,0,6,0,0,1,71,1
+6,Adrien Silva,23.0,pt POR,DM,29-148,79,85,1,8,62,15,0,85,0,0,,0,,64,219,100,0,3,0,3,2,66,1
+7,Vicente Iborra,21.0,es ESP,DM,30-206,11,18,0,2,12,4,0,18,0,0,,0,,12,33,17,0,0,0,0,0,12,0
+8,Ben Chilwell,3.0,eng ENG,LB,21-232,90,73,2,6,26,44,1,73,3,1,33.3,2,66.7,50,549,365,8,12,0,1,2,47,9
+9,Harry Maguire,15.0,eng ENG,CB,25-158,90,65,1,17,47,3,1,65,0,0,,0,,48,343,210,1,1,0,1,0,50,1
+10,Wes Morgan,5.0,jm JAM,CB,34-201,90,52,6,20,31,1,0,52,0,0,,0,,31,160,98,1,1,0,0,0,31,0
+11,Daniel Amartey,18.0,gh GHA,RB,23-232,62,48,3,11,26,11,0,48,0,0,,0,,29,133,58,2,1,0,0,1,29,2
+12,Rachid Ghezzal,31.0,dz ALG,RW,26-093,28,21,0,1,13,7,1,21,3,1,33.3,2,66.7,13,89,42,1,1,1,1,0,11,2
+13,Kasper Schmeichel,1.0,dk DEN,GK,31-278,90,31,25,30,0,1,1,31,0,0,,0,,19,121,80,0,0,0,0,0,11,0
+14,14 Players,,,,,990,702,39,125,375,210,24,702,18,9,50.0,9,50.0,476,2616,1364,24,30,6,14,17,472,52

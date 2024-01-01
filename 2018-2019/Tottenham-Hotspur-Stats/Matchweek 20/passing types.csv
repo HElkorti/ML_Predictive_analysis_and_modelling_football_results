@@ -1,0 +1,15 @@
+,Unnamed: 0_level_0,Unnamed: 1_level_0,Unnamed: 2_level_0,Unnamed: 3_level_0,Unnamed: 4_level_0,Unnamed: 5_level_0,Unnamed: 6_level_0,Pass Types,Pass Types,Pass Types,Pass Types,Pass Types,Pass Types,Pass Types,Pass Types,Corner Kicks,Corner Kicks,Corner Kicks,Outcomes,Outcomes,Outcomes
+,Player,#,Nation,Pos,Age,Min,Att,Live,Dead,FK,TB,Sw,Crs,TI,CK,In,Out,Str,Cmp,Off,Blocks
+0,Harry Kane,10.0,eng ENG,FW,25-154,90,22,21,1,1,1,0,1,0,0,0,0,0,13,0,0
+1,Son Heung-min,7.0,kr KOR,"FW,AM",26-174,90,30,30,0,0,0,1,2,0,0,0,0,0,27,0,1
+2,Dele Alli,20.0,eng ENG,AM,22-262,67,38,36,2,1,0,0,0,0,1,0,0,0,31,0,3
+3,Lucas Moura,27.0,br BRA,AM,26-138,23,8,8,0,0,0,0,0,0,0,0,0,0,6,0,0
+4,Christian Eriksen,23.0,dk DEN,"LM,RM",26-318,90,93,88,5,1,2,0,2,0,3,1,0,1,82,0,0
+5,Moussa Sissoko,17.0,fr FRA,"RM,LM",29-135,90,73,72,1,0,0,0,2,1,0,0,0,0,64,0,1
+6,Harry Winks,8.0,eng ENG,"DM,CM",22-330,90,92,88,4,1,0,0,0,0,0,0,0,0,86,0,1
+7,Ben Davies,33.0,wls WAL,LB,25-249,90,79,65,14,0,0,0,2,14,0,0,0,0,67,0,0
+8,Toby Alderweireld,4.0,be BEL,CB,29-302,90,77,77,0,0,0,0,1,0,0,0,0,0,73,0,0
+9,Davinson Sánchez,6.0,co COL,CB,22-200,90,84,81,3,3,0,0,0,0,0,0,0,0,82,0,0
+10,Kieran Trippier,2.0,eng ENG,RB,28-101,90,76,68,8,1,0,0,4,5,2,0,2,0,54,0,1
+11,Hugo Lloris,1.0,fr FRA,GK,32-003,90,32,27,5,2,0,0,0,0,0,0,0,0,24,0,0
+12,12 Players,,,,,990,704,661,43,10,3,1,14,20,6,1,2,1,609,0,7

@@ -1,0 +1,17 @@
+,Unnamed: 0_level_0,Unnamed: 1_level_0,Unnamed: 2_level_0,Unnamed: 3_level_0,Unnamed: 4_level_0,Unnamed: 5_level_0,Touches,Touches,Touches,Touches,Touches,Touches,Touches,Take-Ons,Take-Ons,Take-Ons,Take-Ons,Take-Ons,Carries,Carries,Carries,Carries,Carries,Carries,Carries,Carries,Receiving,Receiving
+,Player,#,Nation,Pos,Age,Min,Touches,Def Pen,Def 3rd,Mid 3rd,Att 3rd,Att Pen,Live,Att,Succ,Succ%,Tkld,Tkld%,Carries,TotDist,PrgDist,PrgC,1/3,CPA,Mis,Dis,Rec,PrgR
+0,Ashley Barnes,10.0,eng ENG,FW,28-180,90,28,1,4,14,10,5,28,1,1,100.0,0,0.0,19,54,15,1,0,1,2,4,20,5
+1,Chris Wood,11.0,nz NZL,FW,26-142,65,18,1,1,9,8,2,18,1,1,100.0,0,0.0,11,98,43,3,2,1,1,0,12,3
+2,Sam Vokes,9.0,wls WAL,FW,28-189,25,9,0,0,6,3,2,9,0,0,,0,,0,0,0,0,0,0,2,0,5,2
+3,Jóhann Berg Guðmundsson,17.0,is ISL,LM,27-183,90,54,0,9,22,24,2,54,0,0,,0,,24,170,106,4,2,1,4,1,27,6
+4,Ashley Westwood,18.0,eng ENG,CM,28-027,80,43,2,5,28,10,3,43,0,0,,0,,22,98,41,1,0,0,1,0,23,0
+5,Jeff Hendrick,13.0,ie IRL,CM,26-087,10,6,0,0,4,2,0,6,0,0,,0,,0,0,0,0,0,0,0,1,3,0
+6,Jack Cork,4.0,eng ENG,CM,28-307,90,47,2,3,34,12,2,47,4,3,75.0,1,25.0,21,198,118,3,3,0,3,0,28,1
+7,Aaron Lennon,25.0,eng ENG,RM,31-012,71,17,1,3,10,4,1,17,0,0,,0,,14,61,19,1,1,0,1,2,14,1
+8,Georges-Kévin N'Koudou,7.0,cm CMR,RM,23-074,19,5,0,1,3,1,0,5,0,0,,0,,4,71,20,2,0,0,0,0,1,0
+9,Stephen Ward,23.0,ie IRL,LB,32-251,90,42,1,13,23,6,0,42,0,0,,0,,14,61,26,1,0,0,0,1,21,3
+10,James Tarkowski,5.0,eng ENG,CB,25-160,90,45,6,23,19,3,3,45,0,0,,0,,20,65,30,0,0,0,1,0,25,0
+11,Kevin Long,28.0,ie IRL,CB,27-253,90,58,6,38,18,3,3,58,0,0,,0,,16,81,39,0,0,0,0,0,24,0
+12,Matthew Lowton,2.0,eng ENG,RB,28-323,90,65,5,22,30,13,0,65,2,1,50.0,1,50.0,18,60,26,0,0,0,2,0,23,1
+13,Nick Pope,29.0,eng ENG,GK,26-009,90,43,34,42,1,0,0,43,0,0,,0,,19,153,117,0,0,0,0,0,17,0
+14,14 Players,,,,,990,480,59,164,221,99,23,480,8,6,75.0,2,25.0,202,1170,600,16,8,3,17,9,243,22

@@ -1,0 +1,17 @@
+,Unnamed: 0_level_0,Unnamed: 1_level_0,Unnamed: 2_level_0,Unnamed: 3_level_0,Unnamed: 4_level_0,Unnamed: 5_level_0,Unnamed: 6_level_0,Pass Types,Pass Types,Pass Types,Pass Types,Pass Types,Pass Types,Pass Types,Pass Types,Corner Kicks,Corner Kicks,Corner Kicks,Outcomes,Outcomes,Outcomes
+,Player,#,Nation,Pos,Age,Min,Att,Live,Dead,FK,TB,Sw,Crs,TI,CK,In,Out,Str,Cmp,Off,Blocks
+0,Michail Antonio,30.0,jm JAM,FW,28-179,64,13,12,1,0,0,0,1,0,0,0,0,0,11,0,0
+1,Lucas Pérez,27.0,es ESP,FW,30-013,26,5,4,0,0,0,0,0,0,0,0,0,0,3,1,0
+2,Felipe Anderson,8.0,br BRA,LW,25-161,73,31,28,2,0,1,1,2,1,1,1,0,0,20,1,2
+3,Robert Snodgrass,11.0,sct SCO,LW,31-016,17,5,5,0,0,0,0,2,0,0,0,0,0,3,0,1
+4,Andriy Yarmolenko,20.0,ua UKR,RW,28-335,90,34,34,0,0,0,1,1,0,0,0,0,0,27,0,0
+5,Pedro Obiang,14.0,gq EQG,LM,26-180,90,23,22,1,0,0,0,0,1,0,0,0,0,15,0,1
+6,Declan Rice,41.0,eng ENG,CM,19-252,90,28,28,0,0,0,1,0,0,0,0,0,0,22,0,0
+7,Mark Noble,16.0,eng ENG,RM,31-138,84,35,31,4,3,0,0,2,1,0,0,0,0,27,0,1
+8,Carlos Sánchez,15.0,co COL,RM,32-229,6,2,2,0,0,0,0,0,0,0,0,0,0,1,0,0
+9,Arthur Masuaku,26.0,cd COD,LB,24-320,90,47,36,11,2,0,1,1,9,0,0,0,0,35,0,1
+10,Issa Diop,23.0,fr FRA,CB,21-257,90,18,17,1,1,0,1,0,0,0,0,0,0,17,0,0
+11,Fabián Balbuena,4.0,py PAR,CB,27-031,90,27,27,0,0,0,0,1,0,0,0,0,0,20,0,0
+12,Pablo Zabaleta,5.0,ar ARG,RB,33-250,90,30,23,7,1,0,0,1,6,0,0,0,0,21,0,2
+13,Łukasz Fabiański,1.0,pl POL,GK,33-158,90,32,21,11,5,0,0,0,0,0,0,0,0,14,0,0
+14,14 Players,,,,,990,330,290,38,12,1,5,11,18,1,1,0,0,236,2,8
