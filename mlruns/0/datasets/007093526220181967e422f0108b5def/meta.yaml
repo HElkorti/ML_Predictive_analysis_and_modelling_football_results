@@ -1,0 +1,11 @@
+digest: af9ec574
+name: dataset
+profile: '{"num_rows": 5320, "num_elements": 42560}'
+schema: '{"mlflow_colspec": [{"type": "long", "name": "team_code"}, {"type": "long",
+  "name": "Opponent_code"}, {"type": "long", "name": "season"}, {"type": "long", "name":
+  "Round_code"}, {"type": "long", "name": "Venue_code"}, {"type": "long", "name":
+  "Referee_code"}, {"type": "long", "name": "Formation_code"}, {"type": "long", "name":
+  "Day_code"}]}'
+source: '{"tags": {"mlflow.user": "PC", "mlflow.source.name": "C:\\Users\\PC\\AppData\\Roaming\\Python\\Python311\\site-packages\\ipykernel_launcher.py",
+  "mlflow.source.type": "LOCAL"}}'
+source_type: code

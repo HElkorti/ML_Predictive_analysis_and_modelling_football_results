@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/PC/Desktop/MLprojet%20h/ML_Predictive_analysis_and_modelling_football_results-Houssam/mlruns/0/b01e3e2610b1461d81e82c25545070e4/artifacts
+end_time: 1704142063595
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: b01e3e2610b1461d81e82c25545070e4
+run_name: adorable-bear-224
+run_uuid: b01e3e2610b1461d81e82c25545070e4
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1704142033628
+status: 3
+tags: []
+user_id: PC

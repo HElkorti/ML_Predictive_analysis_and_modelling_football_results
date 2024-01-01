@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/PC/Desktop/MLprojet%20h/ML_Predictive_analysis_and_modelling_football_results-Houssam/mlruns/0/6e69fbb4849c429eb2f1a5717ab26cb9/artifacts
+end_time: 1704142087073
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 6e69fbb4849c429eb2f1a5717ab26cb9
+run_name: likeable-moose-200
+run_uuid: 6e69fbb4849c429eb2f1a5717ab26cb9
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1704142082639
+status: 3
+tags: []
+user_id: PC
