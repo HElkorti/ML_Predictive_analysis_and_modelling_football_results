@@ -1,0 +1,17 @@
+,Unnamed: 0_level_0,Unnamed: 1_level_0,Unnamed: 2_level_0,Unnamed: 3_level_0,Unnamed: 4_level_0,Unnamed: 5_level_0,Unnamed: 6_level_0,Pass Types,Pass Types,Pass Types,Pass Types,Pass Types,Pass Types,Pass Types,Pass Types,Corner Kicks,Corner Kicks,Corner Kicks,Outcomes,Outcomes,Outcomes
+,Player,#,Nation,Pos,Age,Min,Att,Live,Dead,FK,TB,Sw,Crs,TI,CK,In,Out,Str,Cmp,Off,Blocks
+0,Glenn Murray,17.0,eng ENG,FW,35-109,65,11,11,0,0,0,0,0,0,0,0,0,0,5,0,0
+1,Florin Andone,10.0,ro ROU,FW,25-276,25,5,5,0,0,0,0,0,0,0,0,0,0,4,0,1
+2,Jürgen Locadia,9.0,nl NED,LW,25-066,90,17,17,0,0,0,2,1,0,0,0,0,0,11,0,0
+3,Solly March,20.0,eng ENG,RW,24-176,65,16,15,0,0,0,1,0,0,0,0,0,0,10,1,0
+4,Anthony Knockaert,11.0,fr FRA,RW,27-053,25,11,9,2,1,0,0,1,0,1,1,0,0,8,0,0
+5,Davy Pröpper,24.0,nl NED,"CM,LM",27-132,90,24,22,2,0,0,0,0,0,0,0,0,0,17,0,2
+6,Dale Stephens,6.0,eng ENG,CM,29-214,90,40,37,2,2,0,1,0,0,0,0,0,0,33,1,0
+7,Pascal Groß,13.0,de GER,"CM,RM",27-211,78,34,30,2,1,0,1,6,0,1,1,0,0,19,2,1
+8,Beram Kayal,7.0,il ISR,RM,30-255,12,7,7,0,0,0,0,0,0,0,0,0,0,5,0,1
+9,Gaëtan Bong,3.0,cm CMR,LB,30-262,90,32,24,8,0,0,0,4,8,0,0,0,0,22,0,2
+10,Lewis Dunk,5.0,eng ENG,CB,27-052,90,33,32,0,0,0,1,0,0,0,0,0,0,25,1,0
+11,Shane Duffy,4.0,ie IRL,CB,27-011,90,34,34,0,0,0,0,0,0,0,0,0,0,21,0,0
+12,Martín Montoya,22.0,es ESP,RB,27-273,90,45,36,9,0,0,0,2,9,0,0,0,0,32,0,1
+13,David Button,27.0,eng ENG,GK,29-319,90,30,21,9,1,0,0,0,0,0,0,0,0,11,0,0
+14,14 Players,,,,,990,339,300,34,5,0,6,14,17,2,2,0,0,223,5,8

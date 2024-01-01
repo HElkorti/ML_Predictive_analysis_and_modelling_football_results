@@ -1,0 +1,17 @@
+,Unnamed: 0_level_0,Unnamed: 1_level_0,Unnamed: 2_level_0,Unnamed: 3_level_0,Unnamed: 4_level_0,Unnamed: 5_level_0,Touches,Touches,Touches,Touches,Touches,Touches,Touches,Take-Ons,Take-Ons,Take-Ons,Take-Ons,Take-Ons,Carries,Carries,Carries,Carries,Carries,Carries,Carries,Carries,Receiving,Receiving
+,Player,#,Nation,Pos,Age,Min,Touches,Def Pen,Def 3rd,Mid 3rd,Att 3rd,Att Pen,Live,Att,Succ,Succ%,Tkld,Tkld%,Carries,TotDist,PrgDist,PrgC,1/3,CPA,Mis,Dis,Rec,PrgR
+0,Alexandre Lacazette,9.0,fr FRA,FW,27-124,90,44,3,4,14,27,5,44,4,1,25.0,3,75.0,26,93,26,0,1,0,0,3,28,12
+1,Pierre-Emerick Aubameyang,14.0,ga GAB,"LW,RW",29-103,76,24,3,6,6,13,1,24,3,1,33.3,2,66.7,18,163,89,3,3,0,1,0,18,5
+2,Danny Welbeck,23.0,eng ENG,"LW,RW",27-307,14,8,0,1,5,2,0,8,1,0,0.0,1,100.0,6,18,6,0,0,0,1,0,5,0
+3,Mesut Özil,10.0,de GER,"RW,AM",29-349,90,67,0,5,37,25,2,67,0,0,,0,,61,358,181,4,2,1,0,3,59,5
+4,Aaron Ramsey,8.0,wls WAL,AM,27-277,62,24,1,2,12,10,0,24,1,0,0.0,1,100.0,21,57,14,0,0,0,1,3,23,7
+5,Alex Iwobi,17.0,ng NGA,"RW,LW",22-149,28,24,1,5,9,10,1,24,2,1,50.0,1,50.0,16,101,76,2,1,1,0,0,20,5
+6,Granit Xhaka,34.0,ch SUI,DM,26-002,90,115,3,22,70,23,0,115,1,1,100.0,0,0.0,80,334,164,2,1,0,1,1,83,0
+7,Lucas Torreira,11.0,uy URU,DM,22-230,90,80,5,22,47,12,0,80,0,0,,0,,60,290,123,1,1,0,2,2,62,1
+8,Nacho Monreal,18.0,es ESP,LB,32-215,90,85,5,22,27,36,5,85,1,1,100.0,0,0.0,52,192,108,3,0,0,1,0,55,8
+9,Rob Holding,16.0,eng ENG,CB,23-009,90,54,9,34,19,1,1,54,1,1,100.0,0,0.0,33,135,50,0,0,0,0,0,29,0
+10,Shkodran Mustafi,20.0,de GER,CB,26-165,90,63,8,33,26,5,3,63,0,0,,0,,35,177,101,0,1,0,0,0,36,1
+11,Héctor Bellerín,2.0,es ESP,RB,23-194,90,58,2,19,22,18,2,58,1,1,100.0,0,0.0,39,219,113,6,3,0,3,0,34,8
+12,Petr Čech,1.0,cz CZE,GK,36-132,44,24,22,24,0,0,0,24,0,0,,0,,13,52,23,0,0,0,0,0,8,0
+13,Bernd Leno,19.0,de GER,GK,26-209,46,23,20,23,0,0,0,23,0,0,,0,,10,43,24,0,0,0,0,0,8,0
+14,14 Players,,,,,990,693,82,222,294,182,20,693,15,7,46.7,8,53.3,470,2232,1098,21,13,2,10,12,468,52

@@ -1,0 +1,17 @@
+,Unnamed: 0_level_0,Unnamed: 1_level_0,Unnamed: 2_level_0,Unnamed: 3_level_0,Unnamed: 4_level_0,Unnamed: 5_level_0,Touches,Touches,Touches,Touches,Touches,Touches,Touches,Take-Ons,Take-Ons,Take-Ons,Take-Ons,Take-Ons,Carries,Carries,Carries,Carries,Carries,Carries,Carries,Carries,Receiving,Receiving
+,Player,#,Nation,Pos,Age,Min,Touches,Def Pen,Def 3rd,Mid 3rd,Att 3rd,Att Pen,Live,Att,Succ,Succ%,Tkld,Tkld%,Carries,TotDist,PrgDist,PrgC,1/3,CPA,Mis,Dis,Rec,PrgR
+0,Steve Mounié,24.0,bj BEN,FW,24-150,90,44,0,6,13,25,6,44,0,0,,0,,19,130,64,3,3,1,1,3,36,10
+1,Karlan Grant,16.0,eng ENG,"FW,LW",21-161,90,45,0,3,17,27,5,45,3,2,66.7,1,33.3,26,185,53,1,1,0,3,2,32,9
+2,Alex Pritchard,21.0,eng ENG,AM,25-299,77,45,0,3,20,22,0,45,2,1,50.0,1,50.0,27,186,91,4,4,0,0,1,27,1
+3,Aaron Mooy,10.0,au AUS,"RM,AM",28-164,13,10,0,2,3,5,0,10,0,0,,0,,7,38,20,1,0,0,0,0,8,0
+4,Philip Billing,8.0,dk DEN,LM,22-260,90,59,3,11,36,14,0,59,4,1,25.0,3,75.0,29,148,56,2,2,0,3,0,34,2
+5,Jonathan Hogg,6.0,eng ENG,"RM,CM",30-082,90,45,0,5,27,14,1,45,0,0,,0,,23,96,25,0,2,0,1,1,30,4
+6,Jon Gorenc Stanković,27.0,si SVN,DM,23-043,81,62,0,24,34,5,1,62,1,0,0.0,1,100.0,35,213,102,2,0,0,0,0,41,1
+7,Elias Kachunga,9.0,cd COD,RW,26-310,9,4,0,0,1,3,0,4,1,1,100.0,0,0.0,3,33,28,1,1,0,0,1,3,1
+8,Erik Durm,37.0,de GER,LB,26-290,90,61,2,17,28,17,0,61,2,0,0.0,2,100.0,26,166,79,2,0,0,3,0,26,4
+9,Terence Kongolo,5.0,nl NED,CB,25-012,90,68,3,44,24,2,1,68,0,0,,0,,38,193,141,1,1,0,0,0,44,0
+10,Christopher Schindler,26.0,de GER,CB,28-303,90,69,4,35,34,0,0,69,0,0,,0,,35,199,127,2,0,0,1,0,41,0
+11,Demeaco Duhaney,38.0,eng ENG,RB,20-136,45,38,2,8,20,10,0,38,2,0,0.0,2,100.0,20,63,29,1,1,0,2,0,21,1
+12,Juninho Bacuna,7.0,cw CUW,RB,21-203,45,43,1,9,20,15,0,43,0,0,,0,,17,81,57,2,2,0,1,2,15,1
+13,Jonas Lössl,1.0,dk DEN,GK,30-025,90,31,26,31,0,0,0,31,0,0,,0,,17,90,78,0,0,0,0,0,14,0
+14,14 Players,,,,,990,624,41,198,277,159,14,624,15,5,33.3,10,66.7,322,1821,950,22,17,1,15,10,372,34

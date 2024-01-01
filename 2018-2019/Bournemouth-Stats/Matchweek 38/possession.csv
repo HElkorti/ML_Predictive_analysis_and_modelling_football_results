@@ -1,0 +1,17 @@
+,Unnamed: 0_level_0,Unnamed: 1_level_0,Unnamed: 2_level_0,Unnamed: 3_level_0,Unnamed: 4_level_0,Unnamed: 5_level_0,Touches,Touches,Touches,Touches,Touches,Touches,Touches,Take-Ons,Take-Ons,Take-Ons,Take-Ons,Take-Ons,Carries,Carries,Carries,Carries,Carries,Carries,Carries,Carries,Receiving,Receiving
+,Player,#,Nation,Pos,Age,Min,Touches,Def Pen,Def 3rd,Mid 3rd,Att 3rd,Att Pen,Live,Att,Succ,Succ%,Tkld,Tkld%,Carries,TotDist,PrgDist,PrgC,1/3,CPA,Mis,Dis,Rec,PrgR
+0,Callum Wilson,13.0,eng ENG,FW,27-074,90,25,0,0,15,11,2,25,3,2,66.7,1,33.3,19,120,53,4,1,0,4,0,20,7
+1,Joshua King,17.0,no NOR,"FW,RM,LM",27-117,90,38,0,3,15,20,3,38,2,0,0.0,2,100.0,31,142,61,2,4,0,1,3,29,11
+2,Ryan Fraser,24.0,sct SCO,"LM,CM",25-077,90,72,0,5,29,39,4,72,2,1,50.0,1,50.0,53,318,153,5,2,1,1,2,51,13
+3,Nathan Aké,5.0,nl NED,"CM,LB",24-083,90,81,4,23,44,14,3,81,0,0,,0,,46,230,117,1,1,0,3,0,51,1
+4,Jefferson Lerma,8.0,co COL,CM,24-199,90,77,4,17,44,17,1,77,0,0,,0,,54,246,164,3,3,0,3,0,52,1
+5,Jordon Ibe,10.0,eng ENG,RM,23-155,69,41,1,6,9,27,3,41,8,4,50.0,4,50.0,37,255,164,7,2,2,1,2,35,8
+6,Lys Mousset,9.0,fr FRA,"FW,RM",23-093,21,14,0,0,4,10,4,14,3,3,100.0,0,0.0,13,61,42,3,0,3,2,0,12,4
+7,Nathaniel Clyne,23.0,eng ENG,"LB,RB",28-037,88,61,1,12,31,19,1,61,1,1,100.0,0,0.0,40,235,131,2,3,0,0,1,39,5
+8,Sam Surridge,44.0,eng ENG,FW,20-288,2,3,0,0,1,2,2,3,0,0,,0,,2,2,1,0,0,0,0,0,2,1
+9,Jack Simpson,25.0,eng ENG,CB,22-145,69,62,3,29,33,0,0,62,0,0,,0,,39,212,149,0,0,0,0,0,36,0
+10,Chris Mepham,33.0,wls WAL,CB,21-188,21,21,3,5,15,1,1,21,0,0,,0,,14,89,63,1,0,0,0,0,14,0
+11,Steve Cook,3.0,eng ENG,CB,28-023,90,78,6,44,33,1,0,78,0,0,,0,,50,202,123,2,0,0,0,0,53,0
+12,Adam Smith,15.0,eng ENG,"RB,LB",28-013,90,77,7,25,27,28,1,77,1,1,100.0,0,0.0,46,365,267,8,7,0,0,0,43,8
+13,Mark Travers,42.0,ie IRL,GK,19-359,90,28,27,28,0,0,0,28,0,0,,0,,15,72,51,0,0,0,0,0,10,0
+14,14 Players,,,,,990,678,56,197,300,189,25,678,20,12,60.0,8,40.0,459,2549,1539,38,23,6,15,8,447,59

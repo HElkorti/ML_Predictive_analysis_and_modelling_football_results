@@ -1,0 +1,17 @@
+,Unnamed: 0_level_0,Unnamed: 1_level_0,Unnamed: 2_level_0,Unnamed: 3_level_0,Unnamed: 4_level_0,Unnamed: 5_level_0,Unnamed: 6_level_0,Pass Types,Pass Types,Pass Types,Pass Types,Pass Types,Pass Types,Pass Types,Pass Types,Corner Kicks,Corner Kicks,Corner Kicks,Outcomes,Outcomes,Outcomes
+,Player,#,Nation,Pos,Age,Min,Att,Live,Dead,FK,TB,Sw,Crs,TI,CK,In,Out,Str,Cmp,Off,Blocks
+0,Aleksandar Mitrović,9.0,rs SRB,FW,24-198,90,36,33,3,0,1,0,1,0,0,0,0,0,24,0,2
+1,Ryan Babel,12.0,nl NED,LW,32-104,80,43,41,2,0,0,0,1,1,0,0,0,0,38,0,0
+2,André Schürrle,14.0,de GER,LW,28-147,10,3,3,0,0,0,0,0,0,0,0,0,0,3,0,0
+3,Ryan Sessegnon,3.0,eng ENG,RW,18-319,90,23,22,1,0,2,0,1,0,1,1,0,0,19,0,0
+4,Joe Bryan,23.0,eng ENG,"LM,LB",25-197,90,55,44,11,3,0,0,7,6,2,2,0,0,42,0,1
+5,Tom Cairney,10.0,sct SCO,"CM,RM",28-072,86,62,60,2,2,0,0,1,0,0,0,0,0,59,0,0
+6,Kevin McDonald,6.0,sct SCO,RM,30-149,4,7,6,1,1,0,0,0,0,0,0,0,0,7,0,0
+7,Andre-Frank Zambo Anguissa,29.0,cm CMR,CM,23-137,90,71,70,1,1,0,1,1,0,0,0,0,0,64,0,0
+8,Cyrus Christie,22.0,ie IRL,"RM,RB",26-184,90,62,52,10,0,0,1,8,10,0,0,0,0,46,0,4
+9,Tim Ream,13.0,us USA,CB,31-179,71,54,54,0,0,0,0,0,0,0,0,0,0,49,0,0
+10,Jean Seri,24.0,ci CIV,LM,27-257,19,19,14,5,2,0,2,2,1,1,1,0,0,17,0,0
+11,Maxime Le Marchand,20.0,fr FRA,CB,29-173,90,63,62,1,1,0,0,0,0,0,0,0,0,55,0,1
+12,Calum Chambers,5.0,eng ENG,CB,24-072,90,57,57,0,0,0,1,0,0,0,0,0,0,50,0,0
+13,Sergio Rico,25.0,es ESP,GK,25-213,90,21,16,5,3,0,0,0,0,0,0,0,0,14,0,0
+14,14 Players,,,,,990,576,534,42,13,3,5,22,18,4,4,0,0,487,0,8

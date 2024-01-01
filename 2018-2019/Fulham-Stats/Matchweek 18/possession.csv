@@ -1,0 +1,16 @@
+,Unnamed: 0_level_0,Unnamed: 1_level_0,Unnamed: 2_level_0,Unnamed: 3_level_0,Unnamed: 4_level_0,Unnamed: 5_level_0,Touches,Touches,Touches,Touches,Touches,Touches,Touches,Take-Ons,Take-Ons,Take-Ons,Take-Ons,Take-Ons,Carries,Carries,Carries,Carries,Carries,Carries,Carries,Carries,Receiving,Receiving
+,Player,#,Nation,Pos,Age,Min,Touches,Def Pen,Def 3rd,Mid 3rd,Att 3rd,Att Pen,Live,Att,Succ,Succ%,Tkld,Tkld%,Carries,TotDist,PrgDist,PrgC,1/3,CPA,Mis,Dis,Rec,PrgR
+0,Aleksandar Mitrović,9.0,rs SRB,FW,24-097,90,40,2,2,22,16,4,40,2,2,100.0,0,0.0,24,133,54,2,1,3,3,2,29,9
+1,André Schürrle,14.0,de GER,LW,28-046,75,41,0,11,22,9,0,41,3,2,66.7,1,33.3,24,175,57,1,3,0,3,7,26,3
+2,Aboubakar Kamara,47.0,mr MTN,LW,23-290,15,7,0,0,2,6,1,7,3,2,66.7,1,33.3,5,70,0,0,1,1,1,1,4,2
+3,Tom Cairney,10.0,sct SCO,RW,27-336,81,53,1,4,35,14,0,53,3,3,100.0,0,0.0,30,167,61,1,2,0,3,4,43,2
+4,Floyd Ayité,11.0,tg TOG,RW,30-007,9,2,0,1,0,1,0,2,0,0,,0,,0,0,0,0,0,0,0,0,0,0
+5,Joe Bryan,23.0,eng ENG,LM,25-096,90,63,3,18,38,7,1,63,0,0,,0,,27,197,91,4,3,0,2,0,39,3
+6,Jean Seri,24.0,ci CIV,CM,27-156,90,74,3,13,51,10,1,74,0,0,,0,,29,105,31,0,0,0,1,3,54,1
+7,Calum Chambers,5.0,eng ENG,CM,23-336,90,54,2,13,37,4,0,54,0,0,,0,,16,62,13,0,1,1,2,1,27,0
+8,Cyrus Christie,22.0,ie IRL,RM,26-083,90,61,9,22,23,17,1,61,1,0,0.0,1,100.0,19,136,40,1,0,0,2,1,27,8
+9,Tim Ream,13.0,us USA,CB,31-078,90,62,8,29,32,1,0,62,0,0,,0,,24,78,36,0,0,0,0,0,38,0
+10,Alfie Mawson,26.0,eng ENG,CB,24-337,90,54,10,29,25,0,0,54,0,0,,0,,23,140,104,0,0,0,0,0,35,0
+11,Denis Odoi,4.0,gh GHA,CB,30-209,90,64,8,23,39,3,0,64,0,0,,0,,20,133,61,1,2,0,0,0,35,1
+12,Sergio Rico,25.0,es ESP,GK,25-112,90,39,32,39,0,0,0,39,0,0,,0,,16,110,83,0,0,0,0,0,17,0
+13,13 Players,,,,,990,614,78,204,326,88,8,614,12,9,75.0,3,25.0,257,1506,631,10,13,5,17,19,374,29

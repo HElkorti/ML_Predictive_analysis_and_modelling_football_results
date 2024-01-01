@@ -1,0 +1,17 @@
+,Unnamed: 0_level_0,Unnamed: 1_level_0,Unnamed: 2_level_0,Unnamed: 3_level_0,Unnamed: 4_level_0,Unnamed: 5_level_0,Unnamed: 6_level_0,Pass Types,Pass Types,Pass Types,Pass Types,Pass Types,Pass Types,Pass Types,Pass Types,Corner Kicks,Corner Kicks,Corner Kicks,Outcomes,Outcomes,Outcomes
+,Player,#,Nation,Pos,Age,Min,Att,Live,Dead,FK,TB,Sw,Crs,TI,CK,In,Out,Str,Cmp,Off,Blocks
+0,Aleksandar Mitrović,9.0,rs SRB,FW,24-238,90,21,15,6,0,0,0,0,1,0,0,0,0,16,0,0
+1,Ryan Sessegnon,3.0,eng ENG,"LW,RW",18-359,80,55,53,2,0,0,0,8,2,0,0,0,0,41,0,3
+2,Neeskens Kebano,7.0,cd COD,RW,27-063,10,2,2,0,0,0,0,0,0,0,0,0,0,2,0,0
+3,Floyd Ayité,11.0,tg TOG,"RW,DM",30-148,73,36,34,2,1,0,0,2,0,1,0,1,0,33,0,1
+4,Harvey Elliott,56.0,eng ENG,DM,16-038,17,10,10,0,0,0,0,0,0,0,0,0,0,9,0,0
+5,Tom Cairney,10.0,sct SCO,AM,28-112,90,77,75,2,2,2,0,1,0,0,0,0,0,67,0,0
+6,Andre-Frank Zambo Anguissa,29.0,cm CMR,DM,23-177,90,128,126,1,1,0,1,0,0,0,0,0,0,119,1,0
+7,Calum Chambers,5.0,eng ENG,"DM,RB",24-112,90,119,117,2,1,0,0,3,1,0,0,0,0,103,0,1
+8,Joe Bryan,23.0,eng ENG,LB,25-237,90,109,99,10,1,0,0,10,5,4,0,4,0,91,0,2
+9,Maxime Le Marchand,20.0,fr FRA,CB,29-213,90,95,94,1,1,0,2,0,0,0,0,0,0,92,0,0
+10,Alfie Mawson,26.0,eng ENG,CB,25-113,90,84,83,1,1,0,0,2,0,0,0,0,0,75,0,0
+11,Cyrus Christie,22.0,ie IRL,RB,26-224,64,32,26,6,1,0,0,2,5,0,0,0,0,24,0,0
+12,Ryan Babel,12.0,nl NED,LW,32-144,26,19,18,1,0,0,0,0,1,0,0,0,0,15,0,0
+13,Sergio Rico,25.0,es ESP,GK,25-253,90,25,19,6,0,0,0,0,0,0,0,0,0,24,0,0
+14,14 Players,,,,,990,812,771,40,9,2,3,28,15,5,0,5,0,711,1,7

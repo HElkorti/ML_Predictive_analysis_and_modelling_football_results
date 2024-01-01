@@ -1,0 +1,17 @@
+,Unnamed: 0_level_0,Unnamed: 1_level_0,Unnamed: 2_level_0,Unnamed: 3_level_0,Unnamed: 4_level_0,Unnamed: 5_level_0,Unnamed: 6_level_0,Pass Types,Pass Types,Pass Types,Pass Types,Pass Types,Pass Types,Pass Types,Pass Types,Corner Kicks,Corner Kicks,Corner Kicks,Outcomes,Outcomes,Outcomes
+,Player,#,Nation,Pos,Age,Min,Att,Live,Dead,FK,TB,Sw,Crs,TI,CK,In,Out,Str,Cmp,Off,Blocks
+0,Callum Wilson,13.0,eng ENG,FW,26-302,66,15,12,3,0,0,0,1,0,0,0,0,0,9,0,2
+1,Lys Mousset,9.0,fr FRA,FW,22-321,24,11,10,1,0,0,0,1,0,0,0,0,0,8,0,1
+2,Ryan Fraser,24.0,sct SCO,"RM,LM",24-305,90,47,42,5,0,1,0,6,3,1,0,1,0,36,0,0
+3,Junior Stanislas,19.0,eng ENG,"LW,CM",29-030,90,41,36,5,1,0,1,3,0,3,2,0,0,29,0,1
+4,Andrew Surman,6.0,eng ENG,CM,32-128,90,43,43,0,0,0,0,0,0,0,0,0,0,42,0,0
+5,David Brooks,20.0,wls WAL,"RW,RM",21-171,73,23,22,1,1,1,0,0,0,0,0,0,0,15,0,0
+6,Joshua King,17.0,no NOR,RW,26-345,17,5,5,0,0,0,0,0,0,0,0,0,0,3,0,1
+7,Jefferson Lerma,8.0,co COL,"CM,DM",24-062,90,57,57,0,0,1,2,0,0,0,0,0,0,52,0,0
+8,Charlie Daniels,11.0,eng ENG,"CB,LB,LM",32-110,90,60,52,7,1,0,1,0,6,0,0,0,0,53,1,3
+9,Nathan Aké,5.0,nl NED,CB,23-311,90,45,45,0,0,0,1,0,0,0,0,0,0,43,0,0
+10,Steve Cook,3.0,eng ENG,CB,27-251,90,59,50,9,2,0,0,0,7,0,0,0,0,47,0,2
+11,Simon Francis,2.0,eng ENG,"RB,CB",33-313,44,24,24,0,0,0,0,2,0,0,0,0,0,17,0,0
+12,Diego Rico,21.0,es ESP,LM,25-306,46,41,32,8,0,0,1,2,8,0,0,0,0,28,1,0
+13,Asmir Begović,27.0,ba BIH,GK,31-189,90,28,21,6,1,0,0,0,0,0,0,0,0,20,1,0
+14,14 Players,,,,,990,499,451,45,6,3,6,15,24,4,2,1,0,402,3,10

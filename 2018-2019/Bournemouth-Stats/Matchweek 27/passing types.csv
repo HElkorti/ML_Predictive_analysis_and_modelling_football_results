@@ -1,0 +1,15 @@
+,Unnamed: 0_level_0,Unnamed: 1_level_0,Unnamed: 2_level_0,Unnamed: 3_level_0,Unnamed: 4_level_0,Unnamed: 5_level_0,Unnamed: 6_level_0,Pass Types,Pass Types,Pass Types,Pass Types,Pass Types,Pass Types,Pass Types,Pass Types,Corner Kicks,Corner Kicks,Corner Kicks,Outcomes,Outcomes,Outcomes
+,Player,#,Nation,Pos,Age,Min,Att,Live,Dead,FK,TB,Sw,Crs,TI,CK,In,Out,Str,Cmp,Off,Blocks
+0,Dominic Solanke,29.0,eng ENG,FW,21-162,89,21,20,1,0,0,0,0,0,0,0,0,0,13,0,1
+1,Lys Mousset,9.0,fr FRA,FW,23-015,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2,Joshua King,17.0,no NOR,FW,27-039,90,26,26,0,0,0,1,2,0,0,0,0,0,18,0,3
+3,Ryan Fraser,24.0,sct SCO,LM,24-364,90,49,38,11,2,0,0,15,1,7,4,2,0,32,0,3
+4,Dan Gosling,4.0,eng ENG,CM,29-022,90,54,51,3,2,0,0,1,1,0,0,0,0,39,0,3
+5,Jefferson Lerma,8.0,co COL,CM,24-121,90,35,34,1,1,0,0,0,0,0,0,0,0,29,0,0
+6,Jordon Ibe,10.0,eng ENG,RM,23-077,90,28,26,2,0,1,0,3,0,2,0,1,0,20,0,1
+7,Adam Smith,15.0,eng ENG,LB,27-300,90,60,45,15,1,0,0,0,14,0,0,0,0,51,0,1
+8,Nathan Aké,5.0,nl NED,CB,24-005,90,27,26,1,1,0,0,0,0,0,0,0,0,17,0,1
+9,Chris Mepham,33.0,wls WAL,CB,21-110,90,49,46,3,3,0,0,0,0,0,0,0,0,35,0,1
+10,Nathaniel Clyne,23.0,eng ENG,RB,27-324,90,46,33,12,0,0,0,1,12,0,0,0,0,34,1,0
+11,Artur Boruc,1.0,pl POL,GK,39-003,90,30,17,13,6,0,0,0,0,0,0,0,0,16,0,0
+12,12 Players,,,,,990,425,362,62,16,1,1,22,28,9,4,3,0,304,1,14

@@ -1,0 +1,17 @@
+,Unnamed: 0_level_0,Unnamed: 1_level_0,Unnamed: 2_level_0,Unnamed: 3_level_0,Unnamed: 4_level_0,Unnamed: 5_level_0,Tackles,Tackles,Tackles,Tackles,Tackles,Challenges,Challenges,Challenges,Challenges,Blocks,Blocks,Blocks,Unnamed: 18_level_0,Unnamed: 19_level_0,Unnamed: 20_level_0,Unnamed: 21_level_0
+,Player,#,Nation,Pos,Age,Min,Tkl,TklW,Def 3rd,Mid 3rd,Att 3rd,Tkl,Att,Tkl%,Lost,Blocks,Sh,Pass,Int,Tkl+Int,Clr,Err
+0,Alexandre Lacazette,9.0,fr FRA,FW,27-335,78,1,0,0,1,0,0,2,0.0,2,0,0,0,1,2,3,0
+1,Eddie Nketiah,49.0,eng ENG,FW,19-333,12,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,0
+2,Pierre-Emerick Aubameyang,14.0,ga GAB,FW,29-314,90,2,2,1,0,1,1,1,100.0,0,1,0,1,1,3,0,0
+3,Alex Iwobi,17.0,ng NGA,LM,22-360,45,0,0,0,0,0,0,1,0.0,1,1,0,1,1,1,1,0
+4,Laurent Koscielny,6.0,fr FRA,CB,33-230,45,1,1,1,0,0,1,3,33.3,2,0,0,0,2,3,1,0
+5,Granit Xhaka,34.0,ch SUI,CM,26-213,90,2,1,1,1,0,1,1,100.0,0,1,0,1,2,4,2,0
+6,Lucas Torreira,11.0,uy URU,"RM,CM",23-076,90,3,2,3,0,0,2,3,66.7,1,3,1,2,2,5,2,0
+7,Henrikh Mkhitaryan,7.0,am ARM,"RM,LM,RB",30-097,72,0,0,0,0,0,0,1,0.0,1,1,1,0,1,1,3,0
+8,Mattéo Guendouzi,29.0,fr FRA,LM,20-014,18,0,0,0,0,0,0,2,0.0,2,0,0,0,0,0,0,0
+9,Sead Kolašinac,31.0,ba BIH,LB,25-312,90,4,1,3,1,0,3,5,60.0,2,0,0,0,1,5,2,0
+10,Sokratis Papastathopoulos,5.0,gr GRE,CB,30-323,90,0,0,0,0,0,0,1,0.0,1,4,2,2,1,1,3,0
+11,Shkodran Mustafi,20.0,de GER,"RB,CB",27-011,90,3,1,2,0,1,0,0,,0,2,1,1,1,4,2,0
+12,Ainsley Maitland-Niles,15.0,eng ENG,RB,21-242,35,0,0,0,0,0,0,1,0.0,1,3,1,2,0,0,0,0
+13,Bernd Leno,19.0,de GER,GK,27-055,90,0,0,0,0,0,0,0,,0,0,0,0,0,0,2,0
+14,14 Players,,,,,935,16,8,11,3,2,8,21,38.1,13,16,6,10,13,29,21,0

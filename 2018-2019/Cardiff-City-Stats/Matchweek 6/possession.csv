@@ -1,0 +1,17 @@
+,Unnamed: 0_level_0,Unnamed: 1_level_0,Unnamed: 2_level_0,Unnamed: 3_level_0,Unnamed: 4_level_0,Unnamed: 5_level_0,Touches,Touches,Touches,Touches,Touches,Touches,Touches,Take-Ons,Take-Ons,Take-Ons,Take-Ons,Take-Ons,Carries,Carries,Carries,Carries,Carries,Carries,Carries,Carries,Receiving,Receiving
+,Player,#,Nation,Pos,Age,Min,Touches,Def Pen,Def 3rd,Mid 3rd,Att 3rd,Att Pen,Live,Att,Succ,Succ%,Tkld,Tkld%,Carries,TotDist,PrgDist,PrgC,1/3,CPA,Mis,Dis,Rec,PrgR
+0,Danny Ward,9.0,eng ENG,FW,26-285,62,17,3,3,8,6,1,17,0,0,,0,,6,41,25,2,0,1,2,0,12,3
+1,Kenneth Zohore,10.0,dk DEN,FW,24-234,28,10,1,2,3,5,0,10,0,0,,0,,3,7,0,0,0,0,0,1,8,2
+2,Bobby Reid,14.0,jm JAM,FW,25-232,90,26,1,3,12,11,2,26,0,0,,0,,18,92,27,1,1,0,2,3,20,3
+3,Harry Arter,7.0,ie IRL,LM,28-268,90,30,1,7,18,5,0,30,1,1,100.0,0,0.0,11,50,20,0,0,0,1,0,17,1
+4,Joe Ralls,8.0,eng ENG,CM,24-345,90,40,4,12,24,4,0,40,1,1,100.0,0,0.0,16,86,24,1,0,0,2,3,19,0
+5,Víctor Camarasa,21.0,es ESP,CM,24-117,90,23,2,6,13,5,0,23,0,0,,0,,12,57,35,1,2,0,0,1,14,1
+6,Junior Hoilett,33.0,ca CAN,RM,28-109,74,20,1,8,6,6,0,20,2,0,0.0,2,100.0,13,122,37,2,0,0,2,1,10,1
+7,Josh Murphy,11.0,eng ENG,RM,23-210,16,5,0,0,2,3,1,5,1,0,0.0,1,100.0,5,44,29,2,0,1,1,0,5,0
+8,Greg Cunningham,18.0,ie IRL,LB,27-234,90,36,11,22,12,3,0,36,0,0,,0,,11,48,23,0,0,0,0,0,8,0
+9,Bruno Ecuele Manga,5.0,ga GAB,CB,30-068,90,34,10,27,7,0,0,34,0,0,,0,,15,50,16,0,0,0,1,0,8,0
+10,Sean Morrison,4.0,eng ENG,CB,27-257,90,39,10,30,8,2,0,39,0,0,,0,,11,57,31,0,0,0,0,0,17,0
+11,Lee Peltier,2.0,eng ENG,RB,31-285,50,13,3,7,4,2,0,13,0,0,,0,,3,3,0,0,0,0,0,0,2,0
+12,Jazz Richards,6.0,wls WAL,RB,27-163,40,15,1,3,11,1,0,15,0,0,,0,,4,7,1,0,0,0,1,0,3,0
+13,Neil Etheridge,1.0,ph PHI,GK,28-227,90,34,31,34,0,0,0,34,0,0,,0,,14,145,100,0,0,0,0,0,14,0
+14,14 Players,,,,,990,342,79,164,128,53,4,342,5,2,40.0,3,60.0,142,809,368,9,3,2,12,9,157,11

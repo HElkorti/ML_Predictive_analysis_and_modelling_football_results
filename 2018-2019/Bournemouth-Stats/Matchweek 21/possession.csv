@@ -1,0 +1,16 @@
+,Unnamed: 0_level_0,Unnamed: 1_level_0,Unnamed: 2_level_0,Unnamed: 3_level_0,Unnamed: 4_level_0,Unnamed: 5_level_0,Touches,Touches,Touches,Touches,Touches,Touches,Touches,Take-Ons,Take-Ons,Take-Ons,Take-Ons,Take-Ons,Carries,Carries,Carries,Carries,Carries,Carries,Carries,Carries,Receiving,Receiving
+,Player,#,Nation,Pos,Age,Min,Touches,Def Pen,Def 3rd,Mid 3rd,Att 3rd,Att Pen,Live,Att,Succ,Succ%,Tkld,Tkld%,Carries,TotDist,PrgDist,PrgC,1/3,CPA,Mis,Dis,Rec,PrgR
+0,Joshua King,17.0,no NOR,FW,26-352,90,35,0,3,16,17,8,35,3,2,66.7,1,33.3,33,231,76,6,1,5,3,5,33,9
+1,Callum Wilson,13.0,eng ENG,FW,26-309,80,20,0,1,10,9,5,20,0,0,,0,,14,24,12,1,0,1,2,0,17,5
+2,Jordon Ibe,10.0,eng ENG,LM,23-025,10,5,0,0,1,4,0,5,0,0,,0,,3,57,30,1,1,0,2,1,3,0
+3,Ryan Fraser,24.0,sct SCO,LM,24-312,81,50,0,1,24,25,6,50,2,1,50.0,1,50.0,33,160,108,4,3,1,2,0,33,9
+4,Lys Mousset,9.0,fr FRA,FW,22-328,9,7,0,0,2,5,1,7,2,2,100.0,0,0.0,6,142,0,0,0,0,1,0,5,2
+5,Jefferson Lerma,8.0,co COL,CM,24-069,90,78,1,24,40,15,2,78,3,3,100.0,0,0.0,43,229,147,3,2,1,0,0,48,0
+6,Dan Gosling,4.0,eng ENG,CM,28-335,90,80,3,22,45,13,1,80,1,0,0.0,1,100.0,43,145,73,0,1,0,1,2,48,0
+7,David Brooks,20.0,wls WAL,RM,21-178,90,50,0,7,25,21,4,50,4,1,25.0,3,75.0,39,275,137,3,2,2,0,2,38,5
+8,Charlie Daniels,11.0,eng ENG,LB,32-117,90,66,3,20,32,15,0,66,0,0,,0,,35,154,101,2,0,0,2,0,40,3
+9,Nathan Aké,5.0,nl NED,CB,23-318,90,61,6,43,15,3,2,61,0,0,,0,,31,90,51,0,0,0,0,0,34,0
+10,Steve Cook,3.0,eng ENG,CB,27-258,90,68,9,38,26,5,4,68,0,0,,0,,39,161,115,0,1,1,0,0,39,0
+11,Junior Stanislas,19.0,eng ENG,RB,29-037,90,89,3,21,39,29,3,89,2,1,50.0,1,50.0,47,260,178,7,2,1,0,0,49,7
+12,Asmir Begović,27.0,ba BIH,GK,31-196,90,31,27,31,0,0,0,31,0,0,,0,,14,64,46,0,0,0,0,0,9,0
+13,13 Players,,,,,990,640,52,211,275,161,36,640,17,10,58.8,7,41.2,380,1992,1074,27,13,12,13,10,396,40

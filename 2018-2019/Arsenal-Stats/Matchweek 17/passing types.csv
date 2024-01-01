@@ -1,0 +1,17 @@
+,Unnamed: 0_level_0,Unnamed: 1_level_0,Unnamed: 2_level_0,Unnamed: 3_level_0,Unnamed: 4_level_0,Unnamed: 5_level_0,Unnamed: 6_level_0,Pass Types,Pass Types,Pass Types,Pass Types,Pass Types,Pass Types,Pass Types,Pass Types,Corner Kicks,Corner Kicks,Corner Kicks,Outcomes,Outcomes,Outcomes
+,Player,#,Nation,Pos,Age,Min,Att,Live,Dead,FK,TB,Sw,Crs,TI,CK,In,Out,Str,Cmp,Off,Blocks
+0,Pierre-Emerick Aubameyang,14.0,ga GAB,FW,29-181,90,21,17,4,0,0,0,1,1,0,0,0,0,14,0,0
+1,Alex Iwobi,17.0,ng NGA,"LW,AM",22-227,69,37,36,1,0,0,0,2,1,0,0,0,0,29,0,1
+2,Mesut Özil,10.0,de GER,AM,30-062,21,14,12,2,0,1,0,2,0,2,0,1,0,13,0,0
+3,Henrikh Mkhitaryan,7.0,am ARM,"AM,RW",29-329,90,50,48,1,0,1,0,1,0,1,0,0,0,42,1,1
+4,Nacho Monreal,18.0,es ESP,"LB,LM",32-293,90,64,54,10,1,0,0,3,9,0,0,0,0,58,0,2
+5,Mattéo Guendouzi,29.0,fr FRA,"DM,CM",19-246,90,67,65,2,2,1,1,2,0,0,0,0,0,57,0,2
+6,Lucas Torreira,11.0,uy URU,"DM,CM",22-308,90,66,62,4,3,0,1,0,0,1,0,0,0,56,0,2
+7,Héctor Bellerín,2.0,es ESP,RM,23-272,45,28,21,7,0,0,0,2,7,0,0,0,0,24,0,2
+8,Alexandre Lacazette,9.0,fr FRA,FW,27-202,45,16,15,1,0,0,0,1,0,0,0,0,0,10,0,0
+9,Granit Xhaka,34.0,ch SUI,CB,26-080,90,115,108,6,3,0,2,1,2,1,0,1,0,101,1,0
+10,Laurent Koscielny,6.0,fr FRA,CB,33-097,90,92,90,2,2,0,1,0,0,0,0,0,0,85,0,1
+11,Stephan Lichtsteiner,12.0,ch SUI,"CB,RB",34-334,73,68,61,7,0,0,1,1,7,0,0,0,0,53,0,3
+12,Ainsley Maitland-Niles,15.0,eng ENG,RB,21-109,17,15,10,5,0,0,0,2,5,0,0,0,0,11,0,2
+13,Bernd Leno,19.0,de GER,GK,26-287,90,36,30,6,3,0,0,0,0,0,0,0,0,33,0,0
+14,14 Players,,,,,990,689,629,58,14,3,6,18,32,5,0,2,0,586,2,16

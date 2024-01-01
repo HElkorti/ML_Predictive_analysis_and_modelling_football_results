@@ -1,0 +1,17 @@
+,Unnamed: 0_level_0,Unnamed: 1_level_0,Unnamed: 2_level_0,Unnamed: 3_level_0,Unnamed: 4_level_0,Unnamed: 5_level_0,Touches,Touches,Touches,Touches,Touches,Touches,Touches,Take-Ons,Take-Ons,Take-Ons,Take-Ons,Take-Ons,Carries,Carries,Carries,Carries,Carries,Carries,Carries,Carries,Receiving,Receiving
+,Player,#,Nation,Pos,Age,Min,Touches,Def Pen,Def 3rd,Mid 3rd,Att 3rd,Att Pen,Live,Att,Succ,Succ%,Tkld,Tkld%,Carries,TotDist,PrgDist,PrgC,1/3,CPA,Mis,Dis,Rec,PrgR
+0,Oumar Niasse,29.0,sn SEN,FW,28-276,63,16,0,1,12,4,1,16,3,2,66.7,1,33.3,11,153,92,2,1,1,2,0,11,1
+1,Bobby Reid,14.0,jm JAM,FW,25-351,27,12,0,0,7,5,1,12,0,0,,0,,6,59,38,2,2,0,0,1,12,3
+2,Callum Paterson,13.0,sct SCO,FW,24-098,88,25,1,1,12,12,3,25,1,0,0.0,1,100.0,3,3,0,0,0,0,0,0,19,2
+3,Danny Ward,9.0,eng ENG,FW,27-039,2,3,0,0,2,1,0,3,1,0,0.0,1,100.0,1,17,0,0,0,0,0,0,2,1
+4,Junior Hoilett,33.0,ca CAN,LM,28-228,90,34,0,4,11,20,3,34,2,1,50.0,1,50.0,16,117,57,2,0,1,0,4,23,11
+5,Joe Ralls,8.0,eng ENG,CM,25-099,90,54,0,2,40,12,0,54,0,0,,0,,17,86,29,0,0,0,1,0,26,0
+6,Víctor Camarasa,21.0,es ESP,CM,24-236,90,61,1,8,29,26,0,61,2,2,100.0,0,0.0,24,185,87,1,2,0,3,1,29,1
+7,Nathaniel Mendez-Laing,19.0,gt GUA,RM,26-279,81,47,2,16,11,20,3,47,0,0,,0,,21,128,72,2,1,0,2,2,25,11
+8,Josh Murphy,11.0,eng ENG,RM,23-329,9,7,0,1,2,4,1,7,0,0,,0,,4,25,10,1,0,0,0,2,3,0
+9,Joe Bennett,3.0,eng ENG,LB,28-297,90,63,8,17,36,11,2,63,3,3,100.0,0,0.0,26,238,138,4,0,1,0,1,28,1
+10,Sol Bamba,22.0,ci CIV,CB,34-006,90,50,6,23,25,2,0,50,0,0,,0,,19,109,55,1,1,0,1,1,18,0
+11,Bruno Ecuele Manga,5.0,ga GAB,CB,30-187,90,31,7,14,13,4,3,31,0,0,,0,,11,57,15,0,0,0,0,1,9,0
+12,Lee Peltier,2.0,eng ENG,RB,32-039,90,56,3,14,20,23,1,56,1,1,100.0,0,0.0,15,56,21,0,0,0,1,0,21,1
+13,Neil Etheridge,1.0,ph PHI,GK,28-346,90,46,31,42,4,0,0,46,0,0,,0,,21,200,186,0,0,0,1,0,13,0
+14,14 Players,,,,,990,505,59,143,224,144,18,505,13,9,69.2,4,30.8,195,1433,800,15,7,3,11,13,239,32

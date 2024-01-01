@@ -1,0 +1,16 @@
+,Unnamed: 0_level_0,Unnamed: 1_level_0,Unnamed: 2_level_0,Unnamed: 3_level_0,Unnamed: 4_level_0,Unnamed: 5_level_0,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Aerial Duels,Aerial Duels,Aerial Duels
+,Player,#,Nation,Pos,Age,Min,CrdY,CrdR,2CrdY,Fls,Fld,Off,Crs,Int,TklW,PKwon,PKcon,OG,Recov,Won,Lost,Won%
+0,Steve Mounié,24.0,bj BEN,FW,24-105,86,0,0,0,1,0,0,1,0,0,0,0,0,7,13,9,59.1
+1,Laurent Depoitre,20.0,be BEL,FW,30-036,4,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,50.0
+2,Alex Pritchard,21.0,eng ENG,AM,25-254,72,0,0,0,1,3,0,9,0,0,0,0,0,3,0,1,0.0
+3,Isaac Mbenza,18.0,be BEL,"RM,AM",22-310,18,0,0,0,0,0,0,1,0,0,0,0,0,1,0,1,0.0
+4,Elias Kachunga,9.0,cd COD,AM,26-265,90,0,0,0,2,2,1,0,0,0,0,0,0,5,2,4,33.3
+5,Philip Billing,8.0,dk DEN,LM,22-215,90,0,0,0,0,1,0,2,1,1,0,0,0,5,13,2,86.7
+6,Jonathan Hogg,6.0,eng ENG,CM,30-037,90,0,0,0,1,4,0,1,2,1,0,0,0,9,1,2,33.3
+7,Jason Puncheon,42.0,eng ENG,"RM,AM",32-208,90,0,0,0,1,0,1,4,0,0,0,0,0,9,2,2,50.0
+8,Erik Durm,37.0,de GER,LB,26-245,90,0,0,0,2,0,0,2,4,1,0,0,0,4,1,2,33.3
+9,Christopher Schindler,26.0,de GER,CB,28-258,90,1,0,0,1,0,0,0,1,2,0,0,0,1,4,3,57.1
+10,Mathias Jørgensen,25.0,dk DEN,CB,28-264,90,0,0,0,3,0,0,0,3,1,0,0,0,5,4,3,57.1
+11,Florent Hadergjonaj,33.0,xk KVX,RB,24-165,90,0,0,0,2,2,1,3,2,1,0,0,0,4,2,0,100.0
+12,Jonas Lössl,1.0,dk DEN,GK,29-345,90,0,0,0,0,0,0,0,0,0,0,0,0,2,2,0,100.0
+13,13 Players,,,,,990,1,0,0,14,12,3,23,13,7,0,0,0,55,45,30,60.0

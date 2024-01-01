@@ -1,0 +1,17 @@
+,Unnamed: 0_level_0,Unnamed: 1_level_0,Unnamed: 2_level_0,Unnamed: 3_level_0,Unnamed: 4_level_0,Unnamed: 5_level_0,Touches,Touches,Touches,Touches,Touches,Touches,Touches,Take-Ons,Take-Ons,Take-Ons,Take-Ons,Take-Ons,Carries,Carries,Carries,Carries,Carries,Carries,Carries,Carries,Receiving,Receiving
+,Player,#,Nation,Pos,Age,Min,Touches,Def Pen,Def 3rd,Mid 3rd,Att 3rd,Att Pen,Live,Att,Succ,Succ%,Tkld,Tkld%,Carries,TotDist,PrgDist,PrgC,1/3,CPA,Mis,Dis,Rec,PrgR
+0,Glenn Murray,17.0,eng ENG,FW,34-320,90,29,5,6,13,10,2,29,1,0,0.0,1,100.0,14,31,10,0,0,0,3,0,23,5
+1,Pascal Groß,13.0,de GER,FW,27-057,59,24,1,2,14,8,1,24,0,0,,0,,14,55,18,0,1,0,0,1,18,4
+2,Yves Bissouma,8.0,ml MLI,FW,21-346,31,12,0,4,4,4,1,12,4,4,100.0,0,0.0,10,69,30,1,1,0,0,1,10,0
+3,Solly March,20.0,eng ENG,LM,24-022,70,35,1,6,15,15,1,35,0,0,,0,,19,127,67,4,2,0,1,2,23,8
+4,Alireza Jahanbakhsh,16.0,ir IRN,"RM,LM",25-000,20,5,0,0,3,2,0,5,1,1,100.0,0,0.0,4,11,4,0,0,0,0,2,5,1
+5,Davy Pröpper,24.0,nl NED,CM,26-343,90,55,4,13,36,6,1,55,1,0,0.0,1,100.0,22,129,29,0,0,1,2,4,30,1
+6,Dale Stephens,6.0,eng ENG,CM,29-060,90,60,3,13,46,3,1,60,0,0,,0,,32,181,88,3,2,0,0,2,42,0
+7,Anthony Knockaert,11.0,fr FRA,"RM,LM",26-264,90,48,0,12,19,17,3,48,1,1,100.0,0,0.0,22,108,58,2,1,1,2,4,32,6
+8,Bernardo,30.0,br BRA,"RB,LB",23-089,90,66,5,36,24,6,0,66,0,0,,0,,29,101,39,0,0,0,1,0,29,3
+9,Lewis Dunk,5.0,eng ENG,CB,26-263,90,53,7,39,14,0,0,53,0,0,,0,,19,84,43,1,0,0,0,0,25,0
+10,Shane Duffy,4.0,ie IRL,CB,26-222,90,56,10,37,18,1,0,56,0,0,,0,,21,122,74,0,0,0,1,0,26,0
+11,Bruno,2.0,es ESP,RB,37-314,25,15,1,3,10,2,0,15,0,0,,0,,8,28,18,0,0,0,0,0,10,0
+12,Gaëtan Bong,3.0,cm CMR,LB,30-108,65,41,2,12,22,7,0,41,0,0,,0,,19,64,38,0,0,0,0,0,19,1
+13,Mathew Ryan,1.0,au AUS,GK,26-125,90,38,33,38,0,0,0,38,0,0,,0,,18,144,114,0,0,0,0,0,19,0
+14,14 Players,,,,,990,537,72,221,238,81,10,537,8,6,75.0,2,25.0,251,1254,630,11,7,2,10,16,311,29

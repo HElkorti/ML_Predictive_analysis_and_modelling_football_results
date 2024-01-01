@@ -1,0 +1,17 @@
+,Unnamed: 0_level_0,Unnamed: 1_level_0,Unnamed: 2_level_0,Unnamed: 3_level_0,Unnamed: 4_level_0,Unnamed: 5_level_0,Touches,Touches,Touches,Touches,Touches,Touches,Touches,Take-Ons,Take-Ons,Take-Ons,Take-Ons,Take-Ons,Carries,Carries,Carries,Carries,Carries,Carries,Carries,Carries,Receiving,Receiving
+,Player,#,Nation,Pos,Age,Min,Touches,Def Pen,Def 3rd,Mid 3rd,Att 3rd,Att Pen,Live,Att,Succ,Succ%,Tkld,Tkld%,Carries,TotDist,PrgDist,PrgC,1/3,CPA,Mis,Dis,Rec,PrgR
+0,Richarlison,30.0,br BRA,"FW,LW",21-198,90,49,4,4,14,32,5,49,1,1,100.0,0,0.0,35,197,114,4,4,3,6,2,36,10
+1,Bernard,20.0,br BRA,LW,26-077,76,48,0,6,23,19,2,48,1,0,0.0,1,100.0,36,195,73,2,2,0,1,0,37,10
+2,Cenk Tosun,14.0,tr TUR,FW,27-170,14,7,1,1,2,4,1,7,0,0,,0,,3,6,0,0,0,0,0,0,4,2
+3,Theo Walcott,11.0,eng ENG,RW,29-253,72,37,0,4,15,18,5,37,1,0,0.0,1,100.0,27,83,46,3,2,1,8,1,33,7
+4,Ademola Lookman,31.0,ng NGA,RW,21-035,18,21,0,0,10,12,3,21,2,2,100.0,0,0.0,16,117,73,2,2,1,0,0,19,2
+5,Gylfi Sigurðsson,10.0,is ISL,AM,29-077,89,46,1,2,21,24,3,46,2,2,100.0,0,0.0,27,171,93,4,2,0,4,0,31,7
+6,Kurt Zouma,5.0,fr FRA,"AM,CM",24-028,1,1,0,0,1,0,0,1,0,0,,0,,1,1,0,0,0,0,0,0,1,0
+7,Idrissa Gana Gueye,17.0,sn SEN,DM,29-059,90,75,1,7,49,19,0,75,2,2,100.0,0,0.0,43,213,69,2,1,0,1,1,42,2
+8,André Gomes,8.0,pt POR,DM,25-117,90,77,2,12,46,20,4,77,5,4,80.0,1,20.0,49,389,202,5,1,1,2,4,52,4
+9,Lucas Digne,12.0,fr FRA,LB,25-127,90,62,4,15,18,29,1,62,1,0,0.0,1,100.0,26,71,11,0,0,0,1,1,27,6
+10,Yerry Mina,13.0,co COL,CB,24-062,90,73,5,40,29,5,1,73,0,0,,0,,46,309,248,2,1,0,0,1,45,1
+11,Michael Keane,4.0,eng ENG,CB,25-317,90,93,4,40,50,3,3,93,0,0,,0,,53,370,294,0,1,0,0,0,64,0
+12,Séamus Coleman,23.0,ie IRL,RB,30-044,90,67,4,14,25,29,0,67,1,1,100.0,0,0.0,38,204,120,3,1,0,2,2,39,11
+13,Jordan Pickford,1.0,eng ENG,GK,24-262,90,36,30,36,0,0,0,36,0,0,,0,,23,118,80,0,0,0,0,0,16,0
+14,14 Players,,,,,990,692,56,181,303,214,28,692,16,12,75.0,4,25.0,423,2444,1423,27,17,6,25,12,446,62

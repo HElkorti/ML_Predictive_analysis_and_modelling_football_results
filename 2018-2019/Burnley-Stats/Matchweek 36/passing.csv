@@ -1,0 +1,16 @@
+,Unnamed: 0_level_0,Unnamed: 1_level_0,Unnamed: 2_level_0,Unnamed: 3_level_0,Unnamed: 4_level_0,Unnamed: 5_level_0,Total,Total,Total,Total,Total,Short,Short,Short,Medium,Medium,Medium,Long,Long,Long,Unnamed: 20_level_0,Unnamed: 21_level_0,Unnamed: 22_level_0,Unnamed: 23_level_0,Unnamed: 24_level_0,Unnamed: 25_level_0,Unnamed: 26_level_0,Unnamed: 27_level_0
+,Player,#,Nation,Pos,Age,Min,Cmp,Att,Cmp%,TotDist,PrgDist,Cmp,Att,Cmp%,Cmp,Att,Cmp%,Cmp,Att,Cmp%,Ast,xAG,xA,KP,1/3,PPA,CrsPA,PrgP
+0,Chris Wood,11.0,nz NZL,FW,27-142,71,6,11,54.5,51,19,5,7,71.4,0,1,0.0,0,0,,0,0.0,0.0,0,0,0,0,1
+1,Matěj Vydra,27.0,cz CZE,FW,26-362,19,2,4,50.0,19,0,2,2,100.0,0,1,0.0,0,0,,0,0.0,0.0,0,0,0,0,0
+2,Ashley Barnes,10.0,eng ENG,FW,29-180,90,14,23,60.9,156,7,10,14,71.4,4,5,80.0,0,1,0.0,0,0.0,0.0,0,0,0,0,0
+3,Dwight McNeil,31.0,eng ENG,LM,19-157,90,10,21,47.6,102,27,8,10,80.0,1,2,50.0,0,5,0.0,0,0.0,0.0,0,0,0,0,0
+4,Jack Cork,4.0,eng ENG,CM,29-307,90,18,20,90.0,257,82,10,10,100.0,6,6,100.0,1,1,100.0,0,0.0,0.0,0,2,1,0,2
+5,Ashley Westwood,18.0,eng ENG,CM,29-027,90,28,42,66.7,506,183,9,15,60.0,10,11,90.9,5,9,55.6,0,0.0,0.1,1,4,1,0,6
+6,Jeff Hendrick,13.0,ie IRL,RM,27-087,75,10,16,62.5,149,84,6,7,85.7,4,5,80.0,0,2,0.0,0,0.0,0.0,1,2,1,0,4
+7,Jóhann Berg Guðmundsson,7.0,is ISL,RM,28-183,15,1,1,100.0,9,0,1,1,100.0,0,0,,0,0,,0,0.0,0.0,0,0,0,0,0
+8,Charlie Taylor,3.0,eng ENG,LB,25-222,90,18,34,52.9,273,120,11,16,68.8,6,9,66.7,1,5,20.0,0,0.0,0.0,0,1,0,0,2
+9,Ben Mee,6.0,eng ENG,CB,29-219,90,17,29,58.6,395,176,4,5,80.0,6,7,85.7,6,16,37.5,0,0.0,0.0,0,1,0,0,1
+10,James Tarkowski,5.0,eng ENG,CB,26-160,90,13,22,59.1,264,41,6,8,75.0,6,10,60.0,1,4,25.0,0,0.0,0.0,0,0,0,0,1
+11,Matthew Lowton,2.0,eng ENG,RB,29-323,90,26,43,60.5,455,258,13,17,76.5,6,12,50.0,5,11,45.5,0,0.0,0.0,0,4,1,1,2
+12,Tom Heaton,1.0,eng ENG,GK,33-013,90,15,38,39.5,744,696,0,0,,2,2,100.0,13,36,36.1,0,0.0,0.0,0,2,0,0,0
+13,13 Players,,,,,990,178,304,58.6,3380,1693,85,112,75.9,51,71,71.8,32,90,35.6,0,0.1,0.1,2,16,4,1,19

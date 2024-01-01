@@ -1,0 +1,17 @@
+,Unnamed: 0_level_0,Unnamed: 1_level_0,Unnamed: 2_level_0,Unnamed: 3_level_0,Unnamed: 4_level_0,Unnamed: 5_level_0,Touches,Touches,Touches,Touches,Touches,Touches,Touches,Take-Ons,Take-Ons,Take-Ons,Take-Ons,Take-Ons,Carries,Carries,Carries,Carries,Carries,Carries,Carries,Carries,Receiving,Receiving
+,Player,#,Nation,Pos,Age,Min,Touches,Def Pen,Def 3rd,Mid 3rd,Att 3rd,Att Pen,Live,Att,Succ,Succ%,Tkld,Tkld%,Carries,TotDist,PrgDist,PrgC,1/3,CPA,Mis,Dis,Rec,PrgR
+0,Callum Paterson,13.0,sct SCO,FW,24-056,90,26,1,1,9,16,4,26,1,1,100.0,0,0.0,10,42,10,0,0,0,0,0,19,2
+1,Josh Murphy,11.0,eng ENG,LM,23-287,84,24,1,6,8,10,5,24,7,2,28.6,4,57.1,20,213,123,5,2,5,3,0,16,7
+2,Kadeem Harris,23.0,eng ENG,LM,25-183,6,3,0,0,0,3,1,3,0,0,,0,,2,17,7,1,0,0,0,1,2,1
+3,Harry Arter,7.0,ie IRL,CM,28-345,89,41,1,8,24,10,4,41,0,0,,0,,10,48,32,1,2,0,0,0,15,2
+4,Joe Ralls,8.0,eng ENG,CM,25-057,1,1,0,1,0,0,0,1,0,0,,0,,0,0,0,0,0,0,0,0,0,0
+5,Víctor Camarasa,21.0,es ESP,CM,24-194,90,49,2,6,22,21,0,49,2,1,50.0,1,50.0,21,206,92,2,0,0,3,4,25,5
+6,Nathaniel Mendez-Laing,19.0,gt GUA,RM,26-237,66,26,1,3,11,13,5,26,6,4,66.7,2,33.3,19,136,53,3,2,3,3,1,23,6
+7,Junior Hoilett,33.0,ca CAN,RM,28-186,24,7,0,0,0,7,1,7,3,0,0.0,3,100.0,6,66,6,0,1,0,0,0,6,2
+8,Aron Gunnarsson,17.0,is ISL,DM,29-230,90,35,4,11,17,7,0,35,1,1,100.0,0,0.0,3,13,11,0,1,0,0,0,7,0
+9,Joe Bennett,3.0,eng ENG,LB,28-255,90,32,1,11,17,6,0,32,3,3,100.0,0,0.0,10,46,32,0,1,0,1,0,8,0
+10,Sol Bamba,22.0,ci CIV,CB,33-329,90,31,5,20,11,0,0,31,1,1,100.0,0,0.0,8,43,8,0,0,0,1,0,3,0
+11,Sean Morrison,4.0,eng ENG,CB,27-334,90,49,6,22,19,9,9,49,2,2,100.0,0,0.0,4,12,9,0,0,0,1,0,13,1
+12,Bruno Ecuele Manga,5.0,ga GAB,RB,30-145,90,59,5,19,28,13,0,59,1,0,0.0,1,100.0,14,54,19,1,1,0,0,0,21,0
+13,Neil Etheridge,1.0,ph PHI,GK,28-304,90,37,34,35,2,0,0,37,0,0,,0,,14,108,82,0,0,0,0,0,9,0
+14,14 Players,,,,,990,420,61,143,168,115,29,420,27,15,55.6,11,40.7,141,1004,484,13,10,8,12,6,167,26

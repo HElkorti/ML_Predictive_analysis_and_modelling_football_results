@@ -1,0 +1,17 @@
+,Unnamed: 0_level_0,Unnamed: 1_level_0,Unnamed: 2_level_0,Unnamed: 3_level_0,Unnamed: 4_level_0,Unnamed: 5_level_0,Unnamed: 6_level_0,Pass Types,Pass Types,Pass Types,Pass Types,Pass Types,Pass Types,Pass Types,Pass Types,Corner Kicks,Corner Kicks,Corner Kicks,Outcomes,Outcomes,Outcomes
+,Player,#,Nation,Pos,Age,Min,Att,Live,Dead,FK,TB,Sw,Crs,TI,CK,In,Out,Str,Cmp,Off,Blocks
+0,Ryan Babel,12.0,nl NED,FW,32-101,87,19,17,2,0,0,0,1,0,0,0,0,0,15,0,0
+1,Kevin McDonald,6.0,sct SCO,CM,30-146,3,5,5,0,0,0,0,0,0,0,0,0,0,4,0,0
+2,Ryan Sessegnon,3.0,eng ENG,"LM,CM",18-316,90,18,17,1,0,0,0,0,0,0,0,0,0,14,0,0
+3,Tom Cairney,10.0,sct SCO,CM,28-069,69,36,35,1,1,0,0,0,0,0,0,0,0,28,0,1
+4,André Schürrle,14.0,de GER,FW,28-144,21,11,9,1,1,0,0,1,0,0,0,0,0,7,1,1
+5,Andre-Frank Zambo Anguissa,29.0,cm CMR,CM,23-134,90,48,47,1,1,0,0,0,0,0,0,0,0,45,0,0
+6,Floyd Ayité,11.0,tg TOG,RM,30-105,63,26,26,0,0,0,0,1,0,0,0,0,0,20,0,0
+7,Neeskens Kebano,7.0,cd COD,"CM,RM",27-020,27,7,6,1,1,0,0,0,0,0,0,0,0,7,0,0
+8,Joe Bryan,23.0,eng ENG,LB,25-194,90,42,31,10,3,0,0,3,7,0,0,0,0,31,1,1
+9,Calum Chambers,5.0,eng ENG,CB,24-069,90,42,42,0,0,0,0,0,0,0,0,0,0,33,0,0
+10,Maxime Le Marchand,20.0,fr FRA,CB,29-170,90,39,37,1,1,0,1,0,0,0,0,0,0,32,1,0
+11,Timothy Fosu-Mensah,21.0,nl NED,CB,21-087,90,34,33,0,0,0,1,0,0,0,0,0,0,28,1,0
+12,Cyrus Christie,22.0,ie IRL,RB,26-181,90,34,25,9,1,0,0,2,8,0,0,0,0,27,0,1
+13,Sergio Rico,25.0,es ESP,GK,25-210,90,29,16,13,2,0,0,0,0,0,0,0,0,12,0,0
+14,14 Players,,,,,990,390,346,40,11,0,2,8,15,0,0,0,0,303,4,4

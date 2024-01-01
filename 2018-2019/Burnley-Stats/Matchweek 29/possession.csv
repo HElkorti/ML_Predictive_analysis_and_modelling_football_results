@@ -1,0 +1,17 @@
+,Unnamed: 0_level_0,Unnamed: 1_level_0,Unnamed: 2_level_0,Unnamed: 3_level_0,Unnamed: 4_level_0,Unnamed: 5_level_0,Touches,Touches,Touches,Touches,Touches,Touches,Touches,Take-Ons,Take-Ons,Take-Ons,Take-Ons,Take-Ons,Carries,Carries,Carries,Carries,Carries,Carries,Carries,Carries,Receiving,Receiving
+,Player,#,Nation,Pos,Age,Min,Touches,Def Pen,Def 3rd,Mid 3rd,Att 3rd,Att Pen,Live,Att,Succ,Succ%,Tkld,Tkld%,Carries,TotDist,PrgDist,PrgC,1/3,CPA,Mis,Dis,Rec,PrgR
+0,Chris Wood,11.0,nz NZL,FW,27-085,80,26,2,2,9,15,5,26,0,0,,0,,11,26,6,0,0,0,3,1,23,6
+1,Peter Crouch,15.0,eng ENG,FW,38-031,10,5,0,0,1,4,1,5,0,0,,0,,2,2,2,0,0,0,1,0,5,3
+2,Ashley Barnes,10.0,eng ENG,FW,29-123,90,30,1,1,9,20,5,30,0,0,,0,,14,29,17,0,0,0,4,0,21,4
+3,Dwight McNeil,31.0,eng ENG,LM,19-100,71,47,1,4,28,15,0,47,2,0,0.0,2,100.0,23,140,54,3,1,0,4,2,27,2
+4,Robbie Brady,12.0,ie IRL,LM,27-047,19,10,0,0,5,5,0,10,0,0,,0,,6,40,31,0,0,0,2,1,8,1
+5,Jack Cork,4.0,eng ENG,CM,29-250,90,53,1,2,39,12,3,53,2,0,0.0,2,100.0,25,97,43,0,0,0,3,2,34,2
+6,Ashley Westwood,18.0,eng ENG,CM,28-335,90,88,2,10,48,30,1,88,0,0,,0,,34,152,68,1,0,1,1,0,57,3
+7,Jeff Hendrick,13.0,ie IRL,RM,27-030,45,23,0,3,2,18,3,23,0,0,,0,,11,39,13,0,1,0,2,1,18,10
+8,Jóhann Berg Guðmundsson,7.0,is ISL,RM,28-126,45,34,1,3,11,21,1,34,2,1,50.0,1,50.0,17,127,64,3,2,1,1,0,19,7
+9,Charlie Taylor,3.0,eng ENG,LB,25-165,90,67,4,16,34,18,1,67,2,2,100.0,0,0.0,32,254,123,4,3,0,4,1,30,5
+10,Ben Mee,6.0,eng ENG,CB,29-162,90,72,9,27,36,9,4,72,0,0,,0,,38,197,137,0,0,0,0,0,40,1
+11,James Tarkowski,5.0,eng ENG,CB,26-103,90,55,5,21,30,4,3,55,1,0,0.0,1,100.0,22,113,67,0,0,0,1,0,30,0
+12,Phil Bardsley,26.0,sct SCO,RB,33-247,90,79,2,10,48,21,1,79,0,0,,0,,26,109,55,1,3,0,0,3,41,3
+13,Tom Heaton,1.0,eng ENG,GK,32-321,90,28,21,27,1,0,0,28,0,0,,0,,9,40,37,0,0,0,0,0,8,0
+14,14 Players,,,,,990,617,49,126,301,192,28,617,9,3,33.3,6,66.7,270,1365,717,12,10,2,26,11,361,47

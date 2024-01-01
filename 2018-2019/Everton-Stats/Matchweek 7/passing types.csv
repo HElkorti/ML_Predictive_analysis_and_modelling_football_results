@@ -1,0 +1,17 @@
+,Unnamed: 0_level_0,Unnamed: 1_level_0,Unnamed: 2_level_0,Unnamed: 3_level_0,Unnamed: 4_level_0,Unnamed: 5_level_0,Unnamed: 6_level_0,Pass Types,Pass Types,Pass Types,Pass Types,Pass Types,Pass Types,Pass Types,Pass Types,Corner Kicks,Corner Kicks,Corner Kicks,Outcomes,Outcomes,Outcomes
+,Player,#,Nation,Pos,Age,Min,Att,Live,Dead,FK,TB,Sw,Crs,TI,CK,In,Out,Str,Cmp,Off,Blocks
+0,Dominic Calvert-Lewin,29.0,eng ENG,FW,21-197,54,11,10,0,0,0,0,0,0,0,0,0,0,6,1,0
+1,Cenk Tosun,14.0,tr TUR,FW,27-114,36,6,6,0,0,0,0,0,0,0,0,0,0,5,0,0
+2,Richarlison,30.0,br BRA,LW,21-142,87,32,30,0,0,0,1,1,0,0,0,0,0,22,2,2
+3,Bernard,20.0,br BRA,LW,26-021,3,5,5,0,0,0,0,0,0,0,0,0,0,4,0,0
+4,Theo Walcott,11.0,eng ENG,RW,29-197,90,20,20,0,0,0,0,0,0,0,0,0,0,16,0,2
+5,Gylfi Sigurðsson,10.0,is ISL,AM,29-021,89,40,26,13,1,0,0,15,0,11,6,4,0,22,1,0
+6,Morgan Schneiderlin,18.0,fr FRA,DM,28-325,1,4,4,0,0,0,0,0,0,0,0,0,0,4,0,0
+7,Idrissa Gana Gueye,17.0,sn SEN,DM,29-003,90,58,56,2,2,0,0,0,0,0,0,0,0,51,0,1
+8,Tom Davies,26.0,eng ENG,"DM,AM",20-091,90,44,44,0,0,0,0,0,0,0,0,0,0,39,0,0
+9,Lucas Digne,12.0,fr FRA,LB,25-071,90,67,43,23,5,0,1,11,17,1,1,0,0,48,1,4
+10,Kurt Zouma,5.0,fr FRA,CB,23-337,90,44,44,0,0,0,0,0,0,0,0,0,0,40,0,0
+11,Michael Keane,4.0,eng ENG,CB,25-261,90,45,43,2,2,0,1,1,0,0,0,0,0,37,0,0
+12,Jonjoe Kenny,43.0,eng ENG,RB,21-198,90,48,39,9,0,0,0,2,9,0,0,0,0,35,0,2
+13,Jordan Pickford,1.0,eng ENG,GK,24-206,90,29,23,5,0,0,0,0,0,0,0,0,0,20,1,0
+14,14 Players,,,,,990,453,393,54,10,0,3,30,26,12,7,4,0,349,6,11

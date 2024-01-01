@@ -1,0 +1,17 @@
+,Unnamed: 0_level_0,Unnamed: 1_level_0,Unnamed: 2_level_0,Unnamed: 3_level_0,Unnamed: 4_level_0,Unnamed: 5_level_0,Touches,Touches,Touches,Touches,Touches,Touches,Touches,Take-Ons,Take-Ons,Take-Ons,Take-Ons,Take-Ons,Carries,Carries,Carries,Carries,Carries,Carries,Carries,Carries,Receiving,Receiving
+,Player,#,Nation,Pos,Age,Min,Touches,Def Pen,Def 3rd,Mid 3rd,Att 3rd,Att Pen,Live,Att,Succ,Succ%,Tkld,Tkld%,Carries,TotDist,PrgDist,PrgC,1/3,CPA,Mis,Dis,Rec,PrgR
+0,Elias Kachunga,9.0,cd COD,"LW,FW,LM,RM",26-286,90,35,2,6,19,10,1,35,1,1,100.0,0,0.0,24,153,41,2,2,1,1,4,28,2
+1,Isaac Mbenza,18.0,be BEL,LW,22-331,26,8,1,2,2,4,0,8,0,0,,0,,5,26,13,1,0,0,1,0,7,2
+2,Steve Mounié,24.0,bj BEN,FW,24-126,64,30,1,3,17,10,1,30,1,1,100.0,0,0.0,22,123,31,1,1,0,3,3,25,5
+3,Adama Diakhaby,11.0,fr FRA,"RW,RM",22-212,83,29,0,6,10,13,2,29,5,2,40.0,3,60.0,24,247,134,5,3,3,1,8,25,6
+4,Alex Pritchard,21.0,eng ENG,LM,25-275,7,4,0,1,2,2,0,4,0,0,,0,,3,23,5,0,0,0,1,1,2,0
+5,Aaron Mooy,10.0,au AUS,"LM,CM",28-140,90,55,1,16,30,10,2,55,2,2,100.0,0,0.0,33,146,77,2,0,1,0,2,31,1
+6,Juninho Bacuna,7.0,cw CUW,CM,21-179,90,53,1,18,30,6,0,53,4,3,75.0,1,25.0,35,238,83,1,1,0,3,1,34,0
+7,Philip Billing,8.0,dk DEN,RM,22-236,66,41,4,17,15,10,2,41,2,1,50.0,1,50.0,21,134,75,2,2,1,0,2,22,1
+8,Karlan Grant,16.0,eng ENG,FW,21-137,24,2,0,0,1,1,1,2,0,0,,0,,4,41,20,1,0,1,0,1,3,2
+9,Chris Löwe,15.0,de GER,LB,29-292,90,67,7,30,29,11,0,67,0,0,,0,,37,206,129,6,2,0,2,0,44,5
+10,Terence Kongolo,5.0,nl NED,CB,24-353,90,61,5,50,11,0,0,61,0,0,,0,,41,160,63,0,1,0,1,0,46,0
+11,Christopher Schindler,26.0,de GER,CB,28-279,90,52,9,42,9,1,0,52,0,0,,0,,24,63,18,0,0,0,0,0,24,0
+12,Tommy Smith,2.0,eng ENG,RB,26-294,90,53,6,27,13,14,1,53,0,0,,0,,24,108,37,0,2,0,0,0,26,1
+13,Jonas Lössl,1.0,dk DEN,GK,30-001,90,49,46,49,0,0,0,49,0,0,,0,,25,158,82,0,0,0,0,0,22,0
+14,14 Players,,,,,990,539,83,267,188,92,10,539,15,10,66.7,5,33.3,322,1826,808,21,14,7,13,22,339,25

@@ -1,0 +1,17 @@
+,Unnamed: 0_level_0,Unnamed: 1_level_0,Unnamed: 2_level_0,Unnamed: 3_level_0,Unnamed: 4_level_0,Unnamed: 5_level_0,Unnamed: 6_level_0,Pass Types,Pass Types,Pass Types,Pass Types,Pass Types,Pass Types,Pass Types,Pass Types,Corner Kicks,Corner Kicks,Corner Kicks,Outcomes,Outcomes,Outcomes
+,Player,#,Nation,Pos,Age,Min,Att,Live,Dead,FK,TB,Sw,Crs,TI,CK,In,Out,Str,Cmp,Off,Blocks
+0,Dominic Calvert-Lewin,29.0,eng ENG,FW,22-001,90,21,21,0,0,0,0,1,0,0,0,0,0,12,0,0
+1,Bernard,20.0,br BRA,LW,26-190,77,23,22,1,0,0,0,2,1,0,0,0,0,15,0,1
+2,Theo Walcott,11.0,eng ENG,"LW,RW",30-001,13,2,2,0,0,0,0,0,0,0,0,0,0,2,0,0
+3,Richarlison,30.0,br BRA,"RW,LW",21-311,90,27,26,1,0,1,0,2,1,0,0,0,0,15,0,4
+4,Gylfi Sigurðsson,10.0,is ISL,AM,29-190,85,28,26,2,1,1,0,2,0,1,0,1,0,18,0,2
+5,Tom Davies,26.0,eng ENG,AM,20-260,5,3,3,0,0,0,0,0,0,0,0,0,0,2,0,0
+6,André Gomes,8.0,pt POR,DM,25-230,67,27,25,2,1,0,0,0,0,0,0,0,0,22,0,1
+7,Morgan Schneiderlin,18.0,fr FRA,DM,29-129,23,4,4,0,0,0,0,0,0,0,0,0,0,1,0,0
+8,Idrissa Gana Gueye,17.0,sn SEN,DM,29-172,90,32,32,0,0,0,2,0,0,0,0,0,0,27,0,0
+9,Lucas Digne,12.0,fr FRA,LB,25-240,90,42,29,13,4,0,0,4,7,2,0,2,0,31,0,0
+10,Yerry Mina,13.0,co COL,CB,24-175,90,30,29,1,1,0,0,0,0,0,0,0,0,27,0,0
+11,Michael Keane,4.0,eng ENG,CB,26-065,90,34,34,0,0,0,1,0,0,0,0,0,0,26,0,0
+12,Séamus Coleman,23.0,ie IRL,RB,30-157,90,49,31,17,1,0,0,2,16,0,0,0,0,39,1,0
+13,Jordan Pickford,1.0,eng ENG,GK,25-010,90,35,24,11,3,0,0,0,0,0,0,0,0,20,0,0
+14,14 Players,,,,,990,357,308,48,11,2,3,13,25,3,0,3,0,257,1,8

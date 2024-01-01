@@ -1,0 +1,17 @@
+,Unnamed: 0_level_0,Unnamed: 1_level_0,Unnamed: 2_level_0,Unnamed: 3_level_0,Unnamed: 4_level_0,Unnamed: 5_level_0,Unnamed: 6_level_0,Pass Types,Pass Types,Pass Types,Pass Types,Pass Types,Pass Types,Pass Types,Pass Types,Corner Kicks,Corner Kicks,Corner Kicks,Outcomes,Outcomes,Outcomes
+,Player,#,Nation,Pos,Age,Min,Att,Live,Dead,FK,TB,Sw,Crs,TI,CK,In,Out,Str,Cmp,Off,Blocks
+0,Gonzalo Higuaín,9.0,ar ARG,FW,31-119,75,33,32,0,0,0,0,0,0,0,0,0,0,25,1,0
+1,Olivier Giroud,18.0,fr FRA,FW,32-190,15,3,3,0,0,0,0,0,0,0,0,0,0,2,0,0
+2,Eden Hazard,10.0,be BEL,LW,28-091,90,57,48,9,1,2,0,8,2,6,4,2,0,48,0,0
+3,Callum Hudson-Odoi,20.0,eng ENG,RW,18-152,84,34,33,1,0,0,0,3,0,1,0,0,1,28,0,0
+4,Pedro,11.0,es ESP,RW,31-254,6,7,7,0,0,1,0,0,0,0,0,0,0,4,0,0
+5,Ruben Loftus-Cheek,12.0,eng ENG,LM,23-075,69,41,40,1,0,0,0,0,0,0,0,0,0,35,0,2
+6,Ross Barkley,8.0,eng ENG,LM,25-124,21,17,17,0,0,0,0,0,0,0,0,0,0,13,0,0
+7,Jorginho,5.0,it ITA,CM,27-109,90,62,62,0,0,1,0,0,0,0,0,0,0,50,0,1
+8,N'Golo Kanté,7.0,fr FRA,RM,28-010,90,56,55,0,0,0,0,0,0,0,0,0,0,46,1,4
+9,Emerson Palmieri,33.0,it ITA,LB,24-248,90,43,33,10,1,0,0,2,9,0,0,0,0,37,0,2
+10,David Luiz,30.0,br BRA,CB,31-351,90,19,15,4,3,0,0,0,1,0,0,0,0,15,0,0
+11,Antonio Rüdiger,2.0,de GER,CB,26-036,90,64,64,0,0,0,1,0,0,0,0,0,0,58,0,0
+12,César Azpilicueta,28.0,es ESP,RB,29-223,90,56,51,5,1,0,0,1,4,0,0,0,0,48,0,2
+13,Kepa Arrizabalaga,1.0,es ESP,GK,24-187,90,30,21,8,0,0,0,0,0,0,0,0,0,24,1,0
+14,14 Players,,,,,990,522,481,38,6,4,1,14,16,7,4,2,1,433,3,11

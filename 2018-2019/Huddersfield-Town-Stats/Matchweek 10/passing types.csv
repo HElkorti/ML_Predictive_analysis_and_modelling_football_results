@@ -1,0 +1,17 @@
+,Unnamed: 0_level_0,Unnamed: 1_level_0,Unnamed: 2_level_0,Unnamed: 3_level_0,Unnamed: 4_level_0,Unnamed: 5_level_0,Unnamed: 6_level_0,Pass Types,Pass Types,Pass Types,Pass Types,Pass Types,Pass Types,Pass Types,Pass Types,Corner Kicks,Corner Kicks,Corner Kicks,Outcomes,Outcomes,Outcomes
+,Player,#,Nation,Pos,Age,Min,Att,Live,Dead,FK,TB,Sw,Crs,TI,CK,In,Out,Str,Cmp,Off,Blocks
+0,Laurent Depoitre,20.0,be BEL,FW,29-324,62,13,13,0,0,0,0,0,0,0,0,0,0,9,0,1
+1,Steve Mounié,24.0,bj BEN,FW,24-028,28,7,7,0,0,0,0,0,0,0,0,0,0,6,0,0
+2,Alex Pritchard,21.0,eng ENG,FW,25-177,90,39,34,4,0,0,0,1,0,0,0,0,0,30,1,1
+3,Aaron Mooy,10.0,au AUS,"LM,RM",28-042,90,36,32,3,0,1,1,3,1,2,2,0,0,28,1,0
+4,Jonathan Hogg,6.0,eng ENG,CM,29-325,90,81,78,3,3,0,1,0,0,0,0,0,0,70,0,0
+5,Philip Billing,8.0,dk DEN,CM,22-138,77,52,47,5,0,0,2,1,5,0,0,0,0,45,0,0
+6,Juninho Bacuna,7.0,cw CUW,CM,21-081,13,5,5,0,0,0,0,0,0,0,0,0,0,1,0,1
+7,Isaac Mbenza,18.0,be BEL,"RM,LM",22-233,62,18,18,0,0,0,0,2,0,0,0,0,0,9,0,2
+8,Ramadan Sobhi,14.0,eg EGY,"LM,RM",21-277,28,19,15,4,0,1,0,0,4,0,0,0,0,14,0,0
+9,Chris Löwe,15.0,de GER,LB,29-194,90,57,48,9,1,0,0,5,7,1,1,0,0,46,0,2
+10,Christopher Schindler,26.0,de GER,CB,28-181,90,64,62,2,2,0,1,0,0,0,0,0,0,54,0,0
+11,Mathias Jørgensen,25.0,dk DEN,CB,28-187,90,74,70,3,3,0,0,0,0,0,0,0,0,56,1,0
+12,Erik Durm,37.0,de GER,RB,26-168,90,50,39,11,1,0,0,1,10,0,0,0,0,38,0,3
+13,Jonas Lössl,1.0,dk DEN,GK,29-268,90,28,21,7,2,0,0,0,0,0,0,0,0,19,0,0
+14,14 Players,,,,,990,543,489,51,12,2,5,13,27,3,3,0,0,425,3,10

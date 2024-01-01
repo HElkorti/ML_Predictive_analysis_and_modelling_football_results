@@ -1,0 +1,17 @@
+,Unnamed: 0_level_0,Unnamed: 1_level_0,Unnamed: 2_level_0,Unnamed: 3_level_0,Unnamed: 4_level_0,Unnamed: 5_level_0,Unnamed: 6_level_0,Pass Types,Pass Types,Pass Types,Pass Types,Pass Types,Pass Types,Pass Types,Pass Types,Corner Kicks,Corner Kicks,Corner Kicks,Outcomes,Outcomes,Outcomes
+,Player,#,Nation,Pos,Age,Min,Att,Live,Dead,FK,TB,Sw,Crs,TI,CK,In,Out,Str,Cmp,Off,Blocks
+0,Eden Hazard,10.0,be BEL,"FW,LW",28-097,90,30,29,1,0,0,0,2,0,1,0,0,0,22,0,0
+1,Willian,22.0,br BRA,"LW,RW",30-248,90,45,43,2,0,0,1,2,1,1,0,1,0,37,0,2
+2,Callum Hudson-Odoi,20.0,eng ENG,RW,18-158,55,13,13,0,0,0,0,2,0,0,0,0,0,9,0,0
+3,Gonzalo Higuaín,9.0,ar ARG,FW,31-125,35,12,12,0,0,0,0,0,0,0,0,0,0,9,0,0
+4,Ruben Loftus-Cheek,12.0,eng ENG,LM,23-081,74,35,32,3,0,0,0,0,0,0,0,0,0,33,0,0
+5,Ross Barkley,8.0,eng ENG,LM,25-130,16,3,3,0,0,0,0,0,0,0,0,0,0,1,0,0
+6,Jorginho,5.0,it ITA,CM,27-115,90,52,50,1,1,0,0,0,0,0,0,0,0,42,1,1
+7,N'Golo Kanté,7.0,fr FRA,RM,28-016,90,33,32,0,0,0,0,0,0,0,0,0,0,26,1,1
+8,Emerson Palmieri,33.0,it ITA,LB,24-254,90,49,40,9,0,1,0,1,9,0,0,0,0,39,0,0
+9,David Luiz,30.0,br BRA,CB,31-357,90,46,43,3,3,1,2,0,0,0,0,0,0,36,0,1
+10,Antonio Rüdiger,2.0,de GER,CB,26-042,39,16,16,0,0,0,0,0,0,0,0,0,0,15,0,0
+11,Andreas Christensen,27.0,dk DEN,CB,23-004,51,21,20,1,1,0,0,0,0,0,0,0,0,19,0,0
+12,César Azpilicueta,28.0,es ESP,RB,29-229,90,42,35,7,0,0,0,1,7,0,0,0,0,27,0,1
+13,Kepa Arrizabalaga,1.0,es ESP,GK,24-193,90,39,27,12,2,0,0,0,0,0,0,0,0,28,0,0
+14,14 Players,,,,,990,436,395,39,7,2,3,8,17,2,0,1,0,343,2,6

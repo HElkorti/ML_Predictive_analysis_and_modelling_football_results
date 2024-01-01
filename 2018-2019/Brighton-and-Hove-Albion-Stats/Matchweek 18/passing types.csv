@@ -1,0 +1,17 @@
+,Unnamed: 0_level_0,Unnamed: 1_level_0,Unnamed: 2_level_0,Unnamed: 3_level_0,Unnamed: 4_level_0,Unnamed: 5_level_0,Unnamed: 6_level_0,Pass Types,Pass Types,Pass Types,Pass Types,Pass Types,Pass Types,Pass Types,Pass Types,Corner Kicks,Corner Kicks,Corner Kicks,Outcomes,Outcomes,Outcomes
+,Player,#,Nation,Pos,Age,Min,Att,Live,Dead,FK,TB,Sw,Crs,TI,CK,In,Out,Str,Cmp,Off,Blocks
+0,Florin Andone,10.0,ro ROU,FW,25-255,79,17,17,0,0,0,0,0,0,0,0,0,0,11,0,1
+1,Glenn Murray,17.0,eng ENG,FW,35-088,11,3,3,0,0,0,0,0,0,0,0,0,0,1,0,0
+2,Jürgen Locadia,9.0,nl NED,LM,25-045,69,17,15,2,0,0,3,0,2,0,0,0,0,10,0,0
+3,Anthony Knockaert,11.0,fr FRA,"RM,LM",27-032,21,8,8,0,0,1,0,1,0,0,0,0,0,6,0,0
+4,Yves Bissouma,8.0,ml MLI,CM,22-114,90,25,22,3,0,0,1,0,0,0,0,0,0,21,0,0
+5,Pascal Groß,13.0,de GER,CM,27-190,75,46,41,4,1,0,1,8,0,3,1,0,0,32,1,0
+6,Gaëtan Bong,3.0,cm CMR,LB,30-241,15,10,7,3,0,0,0,0,3,0,0,0,0,4,0,0
+7,Solly March,20.0,eng ENG,"RM,LM",24-155,90,34,29,4,1,0,1,5,1,2,2,0,0,24,1,0
+8,Davy Pröpper,24.0,nl NED,"DM,CM",27-111,90,50,50,0,0,0,1,0,0,0,0,0,0,37,0,0
+9,Bernardo,30.0,br BRA,"LB,CB",23-222,90,52,41,11,2,0,0,2,9,0,0,0,0,39,0,2
+10,Lewis Dunk,5.0,eng ENG,CB,27-031,72,44,42,2,1,0,3,0,1,0,0,0,0,35,0,1
+11,Leon Balogun,14.0,ng NGA,CB,30-177,90,46,44,2,2,0,0,0,0,0,0,0,0,37,0,0
+12,Martín Montoya,22.0,es ESP,RB,27-252,90,54,47,7,0,0,0,3,7,0,0,0,0,42,0,2
+13,Mathew Ryan,1.0,au AUS,GK,26-258,90,36,26,10,2,0,0,0,0,0,0,0,0,20,0,0
+14,14 Players,,,,,972,442,392,48,9,1,10,19,23,5,3,0,0,319,2,6

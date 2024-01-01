@@ -1,0 +1,17 @@
+,Unnamed: 0_level_0,Unnamed: 1_level_0,Unnamed: 2_level_0,Unnamed: 3_level_0,Unnamed: 4_level_0,Unnamed: 5_level_0,Touches,Touches,Touches,Touches,Touches,Touches,Touches,Take-Ons,Take-Ons,Take-Ons,Take-Ons,Take-Ons,Carries,Carries,Carries,Carries,Carries,Carries,Carries,Carries,Receiving,Receiving
+,Player,#,Nation,Pos,Age,Min,Touches,Def Pen,Def 3rd,Mid 3rd,Att 3rd,Att Pen,Live,Att,Succ,Succ%,Tkld,Tkld%,Carries,TotDist,PrgDist,PrgC,1/3,CPA,Mis,Dis,Rec,PrgR
+0,Chris Wood,11.0,nz NZL,FW,26-359,79,24,0,1,13,10,0,24,0,0,,0,,7,41,6,0,1,0,0,1,20,1
+1,Ashley Barnes,10.0,eng ENG,FW,29-032,11,5,0,2,2,2,1,5,0,0,,0,,4,28,14,0,0,0,1,0,4,0
+2,Jeff Hendrick,13.0,ie IRL,"FW,CM",26-304,90,46,1,8,19,19,2,46,0,0,,0,,21,76,27,0,0,0,2,3,33,2
+3,Jóhann Berg Guðmundsson,7.0,is ISL,"RM,LM",28-035,90,45,4,11,9,25,4,45,1,1,100.0,0,0.0,16,120,46,2,0,0,5,0,20,6
+4,Jack Cork,4.0,eng ENG,CM,29-159,90,38,5,9,21,9,0,38,1,1,100.0,0,0.0,15,58,32,0,1,0,0,0,20,0
+5,Steven Defour,16.0,be BEL,CM,30-230,59,42,0,6,32,5,0,42,0,0,,0,,23,137,81,1,2,0,0,1,33,2
+6,Sam Vokes,9.0,wls WAL,FW,29-041,31,11,1,1,5,5,1,11,0,0,,0,,5,8,1,0,0,0,2,0,9,3
+7,Aaron Lennon,25.0,eng ENG,RM,31-229,45,21,1,3,13,5,0,21,0,0,,0,,7,44,16,0,0,0,0,1,12,3
+8,Robbie Brady,12.0,ie IRL,LM,26-321,45,23,4,5,8,10,0,23,0,0,,0,,8,48,31,0,1,0,1,1,10,0
+9,Charlie Taylor,3.0,eng ENG,LB,25-074,90,60,7,18,25,18,0,60,2,1,50.0,1,50.0,26,241,121,5,3,0,3,0,31,2
+10,Ben Mee,6.0,eng ENG,CB,29-071,90,51,7,21,28,2,0,51,0,0,,0,,20,71,33,0,0,0,0,0,28,0
+11,Kevin Long,28.0,ie IRL,CB,28-105,90,61,9,32,27,2,1,61,0,0,,0,,23,79,33,0,0,0,0,0,34,0
+12,Matthew Lowton,2.0,eng ENG,RB,29-175,90,66,7,21,27,19,0,66,0,0,,0,,28,119,58,0,4,0,2,1,32,4
+13,Joe Hart,20.0,eng ENG,GK,31-226,90,40,35,38,2,0,0,40,0,0,,0,,14,143,129,0,0,0,0,0,7,0
+14,14 Players,,,,,990,533,81,176,231,131,9,533,4,3,75.0,1,25.0,217,1213,628,8,12,0,16,8,293,23

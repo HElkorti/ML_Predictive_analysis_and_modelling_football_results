@@ -1,0 +1,17 @@
+,Unnamed: 0_level_0,Unnamed: 1_level_0,Unnamed: 2_level_0,Unnamed: 3_level_0,Unnamed: 4_level_0,Unnamed: 5_level_0,Total,Total,Total,Total,Total,Short,Short,Short,Medium,Medium,Medium,Long,Long,Long,Unnamed: 20_level_0,Unnamed: 21_level_0,Unnamed: 22_level_0,Unnamed: 23_level_0,Unnamed: 24_level_0,Unnamed: 25_level_0,Unnamed: 26_level_0,Unnamed: 27_level_0
+,Player,#,Nation,Pos,Age,Min,Cmp,Att,Cmp%,TotDist,PrgDist,Cmp,Att,Cmp%,Cmp,Att,Cmp%,Cmp,Att,Cmp%,Ast,xAG,xA,KP,1/3,PPA,CrsPA,PrgP
+0,Alexandre Lacazette,9.0,fr FRA,FW,27-194,45,10,12,83.3,132,52,7,7,100.0,1,3,33.3,1,1,100.0,0,0.0,0.0,0,1,1,0,2
+1,Henrikh Mkhitaryan,7.0,am ARM,RW,29-321,45,16,26,61.5,208,53,9,15,60.0,4,5,80.0,2,3,66.7,0,0.1,0.1,1,1,1,0,2
+2,Pierre-Emerick Aubameyang,14.0,ga GAB,FW,29-173,90,14,20,70.0,142,21,10,13,76.9,2,2,100.0,0,0,,1,0.4,0.6,1,1,0,0,1
+3,Sead Kolašinac,31.0,ba BIH,"LB,LW",25-171,90,28,41,68.3,424,172,16,16,100.0,9,13,69.2,2,5,40.0,0,0.0,0.0,1,1,2,1,3
+4,Héctor Bellerín,2.0,es ESP,"RB,RW",23-264,90,43,55,78.2,654,182,20,24,83.3,22,26,84.6,0,1,0.0,0,0.0,0.0,0,2,1,0,5
+5,Mattéo Guendouzi,29.0,fr FRA,"LM,CM",19-238,90,48,52,92.3,766,205,29,30,96.7,16,18,88.9,3,4,75.0,0,0.4,0.2,5,4,2,0,3
+6,Lucas Torreira,11.0,uy URU,"RM,CM",22-300,90,40,47,85.1,582,150,22,23,95.7,13,18,72.2,2,3,66.7,0,0.1,0.0,2,2,0,0,4
+7,Granit Xhaka,34.0,ch SUI,"CM,DM",26-072,90,70,93,75.3,1423,445,21,27,77.8,35,44,79.5,11,16,68.8,0,0.4,0.2,2,10,2,0,12
+8,Sokratis Papastathopoulos,5.0,gr GRE,CB,30-182,90,58,65,89.2,1167,371,20,22,90.9,33,35,94.3,5,8,62.5,0,0.0,0.0,0,4,0,0,6
+9,Shkodran Mustafi,20.0,de GER,CB,26-235,65,45,53,84.9,917,289,12,12,100.0,26,29,89.7,6,9,66.7,0,0.0,0.0,0,2,0,0,3
+10,Nacho Monreal,18.0,es ESP,CB,32-285,25,14,15,93.3,273,80,3,4,75.0,10,10,100.0,1,1,100.0,0,0.0,0.0,0,0,0,0,3
+11,Stephan Lichtsteiner,12.0,ch SUI,CB,34-326,45,23,28,82.1,427,157,10,11,90.9,9,11,81.8,4,6,66.7,0,0.0,0.0,0,1,0,0,1
+12,Alex Iwobi,17.0,ng NGA,LW,22-219,45,13,21,61.9,160,34,10,13,76.9,3,4,75.0,0,1,0.0,0,0.0,0.0,1,0,0,0,2
+13,Bernd Leno,19.0,de GER,GK,26-279,90,30,41,73.2,817,561,6,6,100.0,16,16,100.0,8,18,44.4,0,0.0,0.0,0,0,0,0,0
+14,14 Players,,,,,990,452,569,79.4,8092,2772,195,223,87.4,199,234,85.0,45,76,59.2,1,1.4,1.3,13,29,9,1,47

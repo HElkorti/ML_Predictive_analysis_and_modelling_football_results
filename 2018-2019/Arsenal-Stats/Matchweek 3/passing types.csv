@@ -1,0 +1,17 @@
+,Unnamed: 0_level_0,Unnamed: 1_level_0,Unnamed: 2_level_0,Unnamed: 3_level_0,Unnamed: 4_level_0,Unnamed: 5_level_0,Unnamed: 6_level_0,Pass Types,Pass Types,Pass Types,Pass Types,Pass Types,Pass Types,Pass Types,Pass Types,Corner Kicks,Corner Kicks,Corner Kicks,Outcomes,Outcomes,Outcomes
+,Player,#,Nation,Pos,Age,Min,Att,Live,Dead,FK,TB,Sw,Crs,TI,CK,In,Out,Str,Cmp,Off,Blocks
+0,Pierre-Emerick Aubameyang,14.0,ga GAB,"FW,LW",29-068,74,26,24,2,0,1,0,2,0,0,0,0,0,19,0,1
+1,Danny Welbeck,23.0,eng ENG,LW,27-272,16,4,4,0,0,0,0,0,0,0,0,0,0,2,0,0
+2,Alex Iwobi,17.0,ng NGA,LW,22-114,45,13,12,0,0,0,0,0,0,0,0,0,0,10,1,0
+3,Alexandre Lacazette,9.0,fr FRA,FW,27-089,45,17,17,0,0,0,0,0,0,0,0,0,0,11,0,1
+4,Henrikh Mkhitaryan,7.0,am ARM,RW,29-216,90,60,50,8,2,0,0,8,0,6,1,1,0,41,2,4
+5,Aaron Ramsey,8.0,wls WAL,AM,27-242,90,61,59,2,1,0,0,1,1,0,0,0,0,48,0,2
+6,Granit Xhaka,34.0,ch SUI,DM,25-332,90,83,81,2,2,0,2,1,0,0,0,0,0,73,0,0
+7,Mattéo Guendouzi,29.0,fr FRA,DM,19-133,55,51,49,2,2,0,1,0,0,0,0,0,0,46,0,0
+8,Lucas Torreira,11.0,uy URU,DM,22-195,35,36,32,4,3,0,0,2,0,1,1,0,0,32,0,0
+9,Nacho Monreal,18.0,es ESP,LB,32-180,90,50,42,8,1,0,0,1,7,0,0,0,0,45,0,2
+10,Sokratis Papastathopoulos,5.0,gr GRE,CB,30-077,90,44,42,2,2,0,1,0,0,0,0,0,0,37,0,0
+11,Shkodran Mustafi,20.0,de GER,CB,26-130,90,53,53,0,0,0,0,1,0,0,0,0,0,47,0,0
+12,Héctor Bellerín,2.0,es ESP,RB,23-159,90,59,54,5,0,1,0,5,5,0,0,0,0,45,0,2
+13,Petr Čech,1.0,cz CZE,GK,36-097,90,32,24,8,2,0,0,0,0,0,0,0,0,28,0,0
+14,14 Players,,,,,990,589,543,43,15,2,4,21,13,7,2,1,0,484,3,12

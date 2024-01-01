@@ -1,0 +1,16 @@
+,Unnamed: 0_level_0,Unnamed: 1_level_0,Unnamed: 2_level_0,Unnamed: 3_level_0,Unnamed: 4_level_0,Unnamed: 5_level_0,Touches,Touches,Touches,Touches,Touches,Touches,Touches,Take-Ons,Take-Ons,Take-Ons,Take-Ons,Take-Ons,Carries,Carries,Carries,Carries,Carries,Carries,Carries,Carries,Receiving,Receiving
+,Player,#,Nation,Pos,Age,Min,Touches,Def Pen,Def 3rd,Mid 3rd,Att 3rd,Att Pen,Live,Att,Succ,Succ%,Tkld,Tkld%,Carries,TotDist,PrgDist,PrgC,1/3,CPA,Mis,Dis,Rec,PrgR
+0,Joshua King,17.0,no NOR,FW,26-363,90,36,3,6,9,21,9,36,0,0,,0,,18,89,36,3,1,2,3,2,31,10
+1,David Brooks,20.0,wls WAL,"FW,RM",21-189,82,32,0,3,10,19,4,32,1,1,100.0,0,0.0,22,127,69,3,1,1,2,2,26,6
+2,Jordon Ibe,10.0,eng ENG,RM,23-036,8,12,0,0,6,6,0,12,2,1,50.0,1,50.0,7,59,19,2,2,0,0,0,7,2
+3,Ryan Fraser,24.0,sct SCO,LM,24-323,90,50,1,6,16,28,2,50,1,1,100.0,0,0.0,21,77,41,2,1,0,0,1,26,8
+4,Jefferson Lerma,8.0,co COL,CM,24-080,90,57,8,15,32,11,1,57,2,2,100.0,0,0.0,25,121,30,1,1,0,0,2,29,0
+5,Dan Gosling,4.0,eng ENG,CM,28-346,90,64,4,12,42,10,3,64,2,2,100.0,0,0.0,29,123,45,0,0,0,3,2,34,2
+6,Junior Stanislas,19.0,eng ENG,RM,29-048,67,35,2,9,13,14,0,35,2,2,100.0,0,0.0,13,94,69,2,1,0,1,1,18,1
+7,Lys Mousset,9.0,fr FRA,FW,22-339,23,20,0,0,11,9,4,20,0,0,,0,,11,46,5,0,0,0,1,1,16,6
+8,Adam Smith,15.0,eng ENG,LB,27-259,90,59,3,17,29,13,1,59,1,0,0.0,1,100.0,23,109,66,2,1,0,1,3,21,1
+9,Nathan Aké,5.0,nl NED,CB,23-329,90,48,12,23,22,3,3,48,0,0,,0,,20,154,64,0,0,0,0,0,19,0
+10,Steve Cook,3.0,eng ENG,CB,27-269,90,51,6,22,24,5,3,51,0,0,,0,,22,114,50,0,0,0,0,0,28,0
+11,Nathaniel Clyne,23.0,eng ENG,RB,27-283,90,61,3,17,30,14,0,61,0,0,,0,,27,106,42,1,0,0,0,3,28,3
+12,Asmir Begović,27.0,ba BIH,GK,31-207,90,25,20,25,0,0,0,25,0,0,,0,,7,59,35,0,0,0,0,0,8,0
+13,13 Players,,,,,990,550,62,155,244,153,30,550,11,9,81.8,2,18.2,245,1278,571,16,8,3,11,17,291,39

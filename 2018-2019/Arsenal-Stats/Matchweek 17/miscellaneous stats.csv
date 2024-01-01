@@ -1,0 +1,17 @@
+,Unnamed: 0_level_0,Unnamed: 1_level_0,Unnamed: 2_level_0,Unnamed: 3_level_0,Unnamed: 4_level_0,Unnamed: 5_level_0,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Aerial Duels,Aerial Duels,Aerial Duels
+,Player,#,Nation,Pos,Age,Min,CrdY,CrdR,2CrdY,Fls,Fld,Off,Crs,Int,TklW,PKwon,PKcon,OG,Recov,Won,Lost,Won%
+0,Pierre-Emerick Aubameyang,14.0,ga GAB,FW,29-181,90,0,0,0,0,0,0,1,0,0,0,0,0,3,1,1,50.0
+1,Alex Iwobi,17.0,ng NGA,"LW,AM",22-227,69,0,0,0,0,0,1,2,0,0,0,0,0,5,0,0,
+2,Mesut Özil,10.0,de GER,AM,30-062,21,0,0,0,1,0,0,2,0,0,0,0,0,2,0,0,
+3,Henrikh Mkhitaryan,7.0,am ARM,"AM,RW",29-329,90,0,0,0,4,1,0,1,4,0,0,0,0,7,0,0,
+4,Nacho Monreal,18.0,es ESP,"LB,LM",32-293,90,0,0,0,0,1,0,3,2,1,0,0,0,2,0,1,0.0
+5,Mattéo Guendouzi,29.0,fr FRA,"DM,CM",19-246,90,0,0,0,0,5,0,2,0,2,0,0,0,5,0,2,0.0
+6,Lucas Torreira,11.0,uy URU,"DM,CM",22-308,90,0,0,0,0,1,0,0,2,4,0,0,0,9,2,1,66.7
+7,Héctor Bellerín,2.0,es ESP,RM,23-272,45,0,0,0,1,0,0,2,1,0,0,0,0,1,1,0,100.0
+8,Alexandre Lacazette,9.0,fr FRA,FW,27-202,45,0,0,0,0,1,1,1,0,0,0,0,0,2,1,0,100.0
+9,Granit Xhaka,34.0,ch SUI,CB,26-080,90,0,0,0,1,1,0,1,0,0,0,0,0,3,0,0,
+10,Laurent Koscielny,6.0,fr FRA,CB,33-097,90,1,0,0,2,0,0,0,1,0,0,0,0,8,2,2,50.0
+11,Stephan Lichtsteiner,12.0,ch SUI,"CB,RB",34-334,73,0,0,0,0,1,0,1,1,0,0,0,0,4,1,1,50.0
+12,Ainsley Maitland-Niles,15.0,eng ENG,RB,21-109,17,0,0,0,1,0,0,2,1,1,0,0,0,1,0,0,
+13,Bernd Leno,19.0,de GER,GK,26-287,90,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,
+14,14 Players,,,,,990,1,0,0,10,11,2,18,12,8,0,0,0,53,8,8,50.0

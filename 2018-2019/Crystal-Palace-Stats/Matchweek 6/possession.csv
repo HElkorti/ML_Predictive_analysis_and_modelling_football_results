@@ -1,0 +1,16 @@
+,Unnamed: 0_level_0,Unnamed: 1_level_0,Unnamed: 2_level_0,Unnamed: 3_level_0,Unnamed: 4_level_0,Unnamed: 5_level_0,Touches,Touches,Touches,Touches,Touches,Touches,Touches,Take-Ons,Take-Ons,Take-Ons,Take-Ons,Take-Ons,Carries,Carries,Carries,Carries,Carries,Carries,Carries,Carries,Receiving,Receiving
+,Player,#,Nation,Pos,Age,Min,Touches,Def Pen,Def 3rd,Mid 3rd,Att 3rd,Att Pen,Live,Att,Succ,Succ%,Tkld,Tkld%,Carries,TotDist,PrgDist,PrgC,1/3,CPA,Mis,Dis,Rec,PrgR
+0,Jordan Ayew,14.0,gh GHA,FW,27-011,70,21,1,4,9,8,2,21,0,0,,0,,8,28,8,0,0,0,1,3,17,2
+1,Alexander Sørloth,9.0,no NOR,FW,22-291,20,6,1,1,5,1,0,6,0,0,,0,,2,42,26,1,1,0,1,0,4,0
+2,Wilfried Zaha,11.0,ci CIV,"LW,FW",25-316,90,63,0,3,28,33,4,63,4,3,75.0,1,25.0,38,330,182,8,6,0,5,6,52,11
+3,Andros Townsend,10.0,eng ENG,"RW,LM",27-068,90,51,0,7,16,28,3,51,2,2,100.0,0,0.0,25,204,110,5,2,1,0,3,34,15
+4,James McArthur,18.0,sct SCO,"LM,CM",30-350,90,55,0,5,27,23,1,55,0,0,,0,,25,158,71,4,1,0,5,2,42,6
+5,Luka Milivojević,4.0,rs SRB,CM,27-168,90,87,1,20,47,22,0,87,4,4,100.0,0,0.0,25,112,55,0,1,0,0,1,39,1
+6,Cheikhou Kouyaté,8.0,sn SEN,RM,28-275,62,27,1,4,16,8,1,27,0,0,,0,,12,102,34,1,0,0,1,2,18,2
+7,Max Meyer,7.0,de GER,RM,23-004,28,20,1,5,10,5,0,20,1,0,0.0,1,100.0,12,70,13,0,0,0,0,0,13,1
+8,Patrick van Aanholt,3.0,nl NED,LB,28-024,90,77,3,18,35,24,2,77,4,1,25.0,3,75.0,34,196,103,4,0,0,1,0,50,3
+9,Mamadou Sakho,12.0,fr FRA,CB,28-221,90,72,1,33,36,4,2,72,0,0,,0,,43,225,151,0,1,0,0,0,48,1
+10,James Tomkins,5.0,eng ENG,CB,29-177,90,62,2,35,24,4,2,62,1,1,100.0,0,0.0,19,126,104,0,1,0,1,0,39,0
+11,Aaron Wan-Bissaka,29.0,eng ENG,RB,20-300,90,93,3,26,37,31,2,93,5,4,80.0,1,20.0,34,346,140,4,4,0,3,2,48,3
+12,Wayne Hennessey,13.0,wls WAL,GK,31-241,90,33,28,33,0,0,0,33,0,0,,0,,22,112,73,0,0,0,0,0,13,0
+13,13 Players,,,,,990,667,42,194,290,191,19,667,21,15,71.4,6,28.6,299,2051,1070,27,17,1,18,19,417,45

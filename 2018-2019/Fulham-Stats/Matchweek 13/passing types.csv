@@ -1,0 +1,17 @@
+,Unnamed: 0_level_0,Unnamed: 1_level_0,Unnamed: 2_level_0,Unnamed: 3_level_0,Unnamed: 4_level_0,Unnamed: 5_level_0,Unnamed: 6_level_0,Pass Types,Pass Types,Pass Types,Pass Types,Pass Types,Pass Types,Pass Types,Pass Types,Corner Kicks,Corner Kicks,Corner Kicks,Outcomes,Outcomes,Outcomes
+,Player,#,Nation,Pos,Age,Min,Att,Live,Dead,FK,TB,Sw,Crs,TI,CK,In,Out,Str,Cmp,Off,Blocks
+0,Aleksandar Mitrović,9.0,rs SRB,FW,24-069,85,30,27,3,0,1,0,0,0,0,0,0,0,20,0,0
+1,Floyd Ayité,11.0,tg TOG,RW,29-344,5,3,3,0,0,0,0,0,0,0,0,0,0,2,0,0
+2,Ryan Sessegnon,3.0,eng ENG,LW,18-190,90,19,19,0,0,0,0,2,0,0,0,0,0,13,0,0
+3,André Schürrle,14.0,de GER,RW,28-018,73,16,16,0,0,0,0,0,0,0,0,0,0,13,0,0
+4,Aboubakar Kamara,47.0,mr MTN,"RW,FW",23-262,17,10,10,0,0,0,0,1,0,0,0,0,0,4,0,1
+5,Tom Cairney,10.0,sct SCO,AM,27-308,90,35,34,0,0,0,1,0,0,0,0,0,0,27,1,0
+6,Jean Seri,24.0,ci CIV,DM,27-128,67,35,31,4,2,0,0,2,0,2,2,0,0,29,0,1
+7,Stefan Johansen,8.0,no NOR,DM,27-320,23,10,10,0,0,0,0,0,0,0,0,0,0,7,0,1
+8,Calum Chambers,5.0,eng ENG,DM,23-308,90,44,44,0,0,0,2,0,0,0,0,0,0,25,0,0
+9,Maxime Le Marchand,20.0,fr FRA,LB,29-044,90,42,29,12,1,0,1,4,11,0,0,0,0,26,1,0
+10,Alfie Mawson,26.0,eng ENG,CB,24-309,90,46,44,1,1,0,0,0,0,0,0,0,0,36,1,0
+11,Denis Odoi,4.0,gh GHA,CB,30-181,90,38,37,0,0,0,0,0,0,0,0,0,0,33,1,0
+12,Cyrus Christie,22.0,ie IRL,RB,26-055,90,50,37,13,2,0,0,2,11,0,0,0,0,36,0,1
+13,Sergio Rico,25.0,es ESP,GK,25-084,90,29,18,11,1,0,0,0,0,0,0,0,0,13,0,0
+14,14 Players,,,,,990,407,359,44,7,1,4,11,22,2,2,0,0,284,4,4

@@ -1,0 +1,17 @@
+,Unnamed: 0_level_0,Unnamed: 1_level_0,Unnamed: 2_level_0,Unnamed: 3_level_0,Unnamed: 4_level_0,Unnamed: 5_level_0,Touches,Touches,Touches,Touches,Touches,Touches,Touches,Take-Ons,Take-Ons,Take-Ons,Take-Ons,Take-Ons,Carries,Carries,Carries,Carries,Carries,Carries,Carries,Carries,Receiving,Receiving
+,Player,#,Nation,Pos,Age,Min,Touches,Def Pen,Def 3rd,Mid 3rd,Att 3rd,Att Pen,Live,Att,Succ,Succ%,Tkld,Tkld%,Carries,TotDist,PrgDist,PrgC,1/3,CPA,Mis,Dis,Rec,PrgR
+0,Gonzalo Higuaín,9.0,ar ARG,FW,31-133,76,23,1,1,5,17,6,23,2,1,50.0,1,50.0,16,99,35,2,0,1,1,2,18,6
+1,Olivier Giroud,18.0,fr FRA,FW,32-204,14,4,0,0,1,3,2,4,0,0,,0,,2,6,0,0,0,0,2,0,3,2
+2,Eden Hazard,10.0,be BEL,LW,28-105,90,93,0,0,11,83,16,93,5,4,80.0,1,20.0,58,622,458,22,8,9,3,1,63,12
+3,Callum Hudson-Odoi,20.0,eng ENG,RW,18-166,40,35,1,5,8,22,3,35,2,2,100.0,0,0.0,24,171,105,4,3,2,1,2,28,9
+4,Pedro,11.0,es ESP,RW,31-268,50,39,1,7,8,24,5,39,3,1,33.3,2,66.7,26,151,86,3,0,2,1,0,32,8
+5,Ruben Loftus-Cheek,12.0,eng ENG,LM,23-089,90,70,1,5,30,36,13,70,4,2,50.0,2,50.0,48,253,160,3,2,0,3,2,55,6
+6,Jorginho,5.0,it ITA,CM,27-123,90,91,4,18,54,20,0,91,0,0,,0,,49,207,100,1,0,0,0,0,69,1
+7,N'Golo Kanté,7.0,fr FRA,RM,28-024,45,34,0,5,17,12,3,34,0,0,,0,,17,99,75,3,1,0,1,0,24,5
+8,Mateo Kovačić,17.0,hr CRO,RM,24-351,45,58,0,7,21,31,0,58,2,2,100.0,0,0.0,37,287,156,3,6,0,1,0,43,4
+9,Emerson Palmieri,33.0,it ITA,LB,24-262,90,93,1,8,42,43,5,93,0,0,,0,,69,533,434,11,3,2,0,0,79,13
+10,David Luiz,30.0,br BRA,CB,32-000,90,93,4,32,54,8,1,93,0,0,,0,,65,426,252,3,3,0,0,1,67,0
+11,Andreas Christensen,27.0,dk DEN,CB,23-012,90,96,2,40,55,2,1,96,0,0,,0,,56,319,235,1,1,0,0,0,65,1
+12,César Azpilicueta,28.0,es ESP,RB,29-237,90,108,3,39,20,49,9,108,1,0,0.0,1,100.0,37,64,22,0,0,0,0,0,63,17
+13,Kepa Arrizabalaga,1.0,es ESP,GK,24-201,90,30,24,26,4,0,0,30,0,0,,0,,19,97,59,0,0,0,0,0,15,0
+14,14 Players,,,,,990,867,42,193,330,350,64,867,19,12,63.2,7,36.8,523,3334,2177,56,27,16,13,8,624,84

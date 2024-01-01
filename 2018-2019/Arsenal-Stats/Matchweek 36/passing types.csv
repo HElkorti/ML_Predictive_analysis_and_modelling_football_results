@@ -1,0 +1,17 @@
+,Unnamed: 0_level_0,Unnamed: 1_level_0,Unnamed: 2_level_0,Unnamed: 3_level_0,Unnamed: 4_level_0,Unnamed: 5_level_0,Unnamed: 6_level_0,Pass Types,Pass Types,Pass Types,Pass Types,Pass Types,Pass Types,Pass Types,Pass Types,Corner Kicks,Corner Kicks,Corner Kicks,Outcomes,Outcomes,Outcomes
+,Player,#,Nation,Pos,Age,Min,Att,Live,Dead,FK,TB,Sw,Crs,TI,CK,In,Out,Str,Cmp,Off,Blocks
+0,Alexandre Lacazette,9.0,fr FRA,FW,27-335,78,18,17,1,0,0,0,0,0,0,0,0,0,16,0,0
+1,Eddie Nketiah,49.0,eng ENG,FW,19-333,12,5,3,1,0,0,0,0,0,0,0,0,0,4,1,0
+2,Pierre-Emerick Aubameyang,14.0,ga GAB,FW,29-314,90,29,27,1,0,0,0,2,0,0,0,0,0,16,1,2
+3,Alex Iwobi,17.0,ng NGA,LM,22-360,45,12,12,0,0,0,0,2,0,0,0,0,0,7,0,1
+4,Laurent Koscielny,6.0,fr FRA,CB,33-230,45,24,23,1,1,0,0,0,0,0,0,0,0,19,0,1
+5,Granit Xhaka,34.0,ch SUI,CM,26-213,90,51,37,14,6,0,0,8,2,6,5,1,0,30,0,1
+6,Lucas Torreira,11.0,uy URU,"RM,CM",23-076,90,28,27,1,0,0,0,1,1,0,0,0,0,18,0,1
+7,Henrikh Mkhitaryan,7.0,am ARM,"RM,LM,RB",30-097,72,25,21,4,0,0,0,0,4,0,0,0,0,18,0,2
+8,Mattéo Guendouzi,29.0,fr FRA,LM,20-014,18,12,12,0,0,0,0,0,0,0,0,0,0,11,0,1
+9,Sead Kolašinac,31.0,ba BIH,LB,25-312,90,26,25,1,0,0,0,0,1,0,0,0,0,19,0,2
+10,Sokratis Papastathopoulos,5.0,gr GRE,CB,30-323,90,26,24,2,2,0,1,0,0,0,0,0,0,14,0,0
+11,Shkodran Mustafi,20.0,de GER,"RB,CB",27-011,90,35,30,5,0,0,0,1,5,0,0,0,0,17,0,2
+12,Ainsley Maitland-Niles,15.0,eng ENG,RB,21-242,35,9,5,3,0,0,0,0,3,0,0,0,0,6,1,0
+13,Bernd Leno,19.0,de GER,GK,27-055,90,32,19,13,6,0,0,0,0,0,0,0,0,16,0,0
+14,14 Players,,,,,935,332,282,47,15,0,1,14,16,6,5,1,0,211,3,13

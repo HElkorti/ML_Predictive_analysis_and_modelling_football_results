@@ -1,0 +1,17 @@
+,Unnamed: 0_level_0,Unnamed: 1_level_0,Unnamed: 2_level_0,Unnamed: 3_level_0,Unnamed: 4_level_0,Unnamed: 5_level_0,Unnamed: 6_level_0,Pass Types,Pass Types,Pass Types,Pass Types,Pass Types,Pass Types,Pass Types,Pass Types,Corner Kicks,Corner Kicks,Corner Kicks,Outcomes,Outcomes,Outcomes
+,Player,#,Nation,Pos,Age,Min,Att,Live,Dead,FK,TB,Sw,Crs,TI,CK,In,Out,Str,Cmp,Off,Blocks
+0,Dominic Calvert-Lewin,29.0,eng ENG,FW,21-274,90,16,15,1,0,0,0,0,0,0,0,0,0,10,0,0
+1,Bernard,20.0,br BRA,"LM,RM",26-098,56,9,9,0,0,0,0,1,0,0,0,0,0,6,0,0
+2,Ademola Lookman,31.0,ng NGA,LM,21-056,34,11,11,0,0,0,0,3,0,0,0,0,0,8,0,0
+3,Gylfi Sigurðsson,10.0,is ISL,CM,29-098,80,22,20,1,1,0,0,1,0,0,0,0,0,16,1,0
+4,Tom Davies,26.0,eng ENG,CM,20-168,10,8,8,0,0,0,0,0,0,0,0,0,0,7,0,0
+5,André Gomes,8.0,pt POR,CM,25-138,90,47,43,4,1,0,3,0,0,0,0,0,0,42,0,0
+6,Richarlison,30.0,br BRA,"RM,FW,LM",21-219,90,20,20,0,0,0,0,0,0,0,0,0,0,16,0,0
+7,Lucas Digne,12.0,fr FRA,LB,25-148,90,51,40,11,2,0,0,6,7,2,2,0,0,35,0,3
+8,Yerry Mina,13.0,co COL,CB,24-083,90,45,42,2,2,0,1,0,0,0,0,0,0,35,1,0
+9,Michael Keane,4.0,eng ENG,CB,25-338,90,39,39,0,0,0,1,0,0,0,0,0,0,33,0,0
+10,Kurt Zouma,5.0,fr FRA,"CB,RB",24-049,90,35,32,3,0,0,1,0,3,0,0,0,0,29,0,0
+11,Séamus Coleman,23.0,ie IRL,RB,30-065,56,25,19,6,0,0,0,3,6,0,0,0,0,14,0,1
+12,Theo Walcott,11.0,eng ENG,RM,29-274,34,10,10,0,0,0,0,1,0,0,0,0,0,10,0,0
+13,Jordan Pickford,1.0,eng ENG,GK,24-283,90,37,24,13,4,0,0,0,0,0,0,0,0,23,0,0
+14,14 Players,,,,,990,375,332,41,10,0,6,15,16,2,2,0,0,284,2,4

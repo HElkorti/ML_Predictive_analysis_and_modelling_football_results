@@ -1,0 +1,17 @@
+,Unnamed: 0_level_0,Unnamed: 1_level_0,Unnamed: 2_level_0,Unnamed: 3_level_0,Unnamed: 4_level_0,Unnamed: 5_level_0,Unnamed: 6_level_0,Pass Types,Pass Types,Pass Types,Pass Types,Pass Types,Pass Types,Pass Types,Pass Types,Corner Kicks,Corner Kicks,Corner Kicks,Outcomes,Outcomes,Outcomes
+,Player,#,Nation,Pos,Age,Min,Att,Live,Dead,FK,TB,Sw,Crs,TI,CK,In,Out,Str,Cmp,Off,Blocks
+0,Gonzalo Higuaín,9.0,ar ARG,FW,31-153,83,15,15,0,0,0,0,0,0,0,0,0,0,11,0,0
+1,Olivier Giroud,18.0,fr FRA,FW,32-224,7,2,2,0,0,0,0,0,0,0,0,0,0,2,0,0
+2,Willian,22.0,br BRA,LW,30-276,68,42,34,7,2,1,0,6,1,4,1,2,1,29,1,2
+3,Eden Hazard,10.0,be BEL,LW,28-125,22,12,11,1,0,0,0,0,0,1,0,0,0,11,0,0
+4,Pedro,11.0,es ESP,RW,31-288,90,56,53,3,1,0,1,5,2,0,0,0,0,40,0,3
+5,Ruben Loftus-Cheek,12.0,eng ENG,LM,23-109,90,54,52,2,0,0,0,0,1,0,0,0,0,47,0,1
+6,Jorginho,5.0,it ITA,CM,27-143,90,51,50,1,1,1,1,0,0,0,0,0,0,45,0,1
+7,Ross Barkley,8.0,eng ENG,RM,25-158,75,33,33,0,0,0,0,0,0,0,0,0,0,31,0,0
+8,Mateo Kovačić,17.0,hr CRO,RM,25-006,15,22,22,0,0,0,1,0,0,0,0,0,0,21,0,0
+9,Marcos Alonso,3.0,es ESP,LB,28-135,90,66,59,7,1,0,1,2,6,0,0,0,0,57,0,0
+10,David Luiz,30.0,br BRA,CB,32-020,90,59,57,2,2,0,2,0,0,0,0,0,0,54,0,0
+11,César Azpilicueta,28.0,es ESP,CB,29-257,90,66,63,2,2,0,0,1,0,0,0,0,0,59,1,1
+12,Davide Zappacosta,21.0,it ITA,RB,26-335,90,63,53,10,1,0,0,0,9,0,0,0,0,51,0,3
+13,Willy Caballero,13.0,ar ARG,GK,37-226,90,32,24,8,0,0,0,0,0,0,0,0,0,29,0,0
+14,14 Players,,,,,990,573,528,43,10,2,6,14,19,5,1,2,1,487,2,11
