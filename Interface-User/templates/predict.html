@@ -72,7 +72,8 @@
 <body>
   <div class="login">
     <h1>Prediction du vainqueur des matchs de Premier League</h1>
-    <form action="/page1.html" method="post">
+    <form action="/" method="post">
+      {% csrf_token %}
       <label for="team_code">Team Code:</label>
       <input type="text" id="team_code" name="team_code" required><br>
 
@@ -95,7 +96,9 @@
     </form>
     <br>
     <br>
-    {{ The winner of match is : Man-city }}
+      {% if winner %}
+        The winner of match is : {{ winner  }}
+      {% endif %}
   </div>
 </body>
 </html>
