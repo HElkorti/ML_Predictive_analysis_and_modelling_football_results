@@ -19,25 +19,44 @@ def predict_page(request):
             venue_code = request.POST.get('Venue_code')
             referee_code = request.POST.get('Referee_code')
             formation_code = request.POST.get('Formation_code')
+            season = 2022
+            Day_code = 5
+
 
             # traitement : 
 
-            svm = pickle.load(open("./app/mlModels/svm.pkl", "rb"))
+            svm = pickle.load(open("./app/mlModels/svmm.pkl", "rb"))
 
-            # build a numpy array
+           # build a numpy array (ensure data types match the model's expectations)
+            my_array = np.array([int(team_code), int(opponent_code), season, 
+                                 int(round_code), int(venue_code), int(referee_code), 
+                                 int(formation_code), Day_code, float(4), float(0.67) ,
+                                 float(0.67) ,float(0.33) ,float(0.2)])
+
+            # reshape the array if needed (SVM models usually expect a 2D array)
+            my_array = my_array.reshape(1, -1)
 
 
             # predict :
 
+            # make prediction
+            winner_prediction = svm.predict(my_array)
+
             #svm.predict()
+
+            
+
 
 
 
             context = {
-                "winner" : "pass the winner here"
+                "winner": winner_prediction[0]  # Assuming winner_prediction is a single value
             }
 
+
+
             return render(request, "predict.html", context)
+        
         except json.JSONDecodeError:
             return JsonResponse({'error': 'Invalid JSON format'}, status=400)
     else:
