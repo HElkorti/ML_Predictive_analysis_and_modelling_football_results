@@ -1,0 +1,5 @@
+Django
+numpy
+scikit-learn
+svm
+pickle5
